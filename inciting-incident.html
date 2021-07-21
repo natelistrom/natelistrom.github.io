@@ -15,6 +15,9 @@
   <![endif]-->
 
   <STYLE type="text/css">
+  html {
+    font-size: 20px;    
+  }
    body {
      font-family: Georgia, serif;
      font-size: 20px;
@@ -33,6 +36,9 @@
                "Helvetica Neue", sans-serif;
         font-weight: 600;
    }
+   h1 {
+     line-height: 1.25;
+   }
    sup {
         vertical-align: top; 
         font-size: 0.75em;
@@ -40,27 +46,22 @@
    hr {
      border: none;
      border-bottom: 1px solid rgba(0,2,6,0.15);
-     margin: 2rem 2rem;
+     margin: 3rem 2rem;
    }
    .title {
      padding-bottom: 0;
      margin-bottom: 0;
    }
    .meta {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-               "Helvetica Neue", sans-serif;
-      font-size: 1rem;
+      font-size: 0.8rem;
       color: rgba(0,2,6,0.65);
       padding-top: 0;
-      margin-top: 0;
+      margin-top: 0.5rem;
+      margin-bottom: 2rem;
+
    }
-   .callout {
-     border-radius: 3px;
-     background: rgba(0,102,153,0.05);
-     padding: 1.5rem 2rem;
-     margin-top: 2rem;
-     margin-bottom: 4rem;
+   .callout {  
+
    }
    .callout strong {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -74,32 +75,33 @@
                Roboto, Oxygen-Sans, Ubuntu, Cantarell,
                "Helvetica Neue", sans-serif; 
       font-weight: bold;
-      font-size: 6.75rem;
-      line-height: 4rem;
-      padding: 0.6rem 0 0 0;
+      font-size: 5.25rem;
+      line-height: 2.5rem;
+      padding: 0.85rem 0 0 0;
       margin-right: 0.5rem;
-      border-radius: 3px;
    }
   </STYLE>
 </head>
 
-<body>
+<body><a name="top"></a>
 
 <div class="content">
 
     <a href="index.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-233 325 144 144" height="6em" width="6em"><path d="M-161 328.6c-9.2 0-18.2 1.8-26.6 5.4 -8.1 3.4-15.5 8.4-21.7 14.7 -6.4 6.2-11.3 13.5-14.7 21.7 -3.6 8.4-5.4 17.3-5.4 26.6 0 9.2 1.8 18.2 5.4 26.6 3.4 8.1 8.4 15.5 14.7 21.7 6.3 6.3 13.6 11.2 21.7 14.7 8.4 3.6 17.4 5.4 26.6 5.4s18.2-1.8 26.6-5.4c8.1-3.4 15.5-8.4 21.7-14.7 6.3-6.3 11.2-13.6 14.7-21.7 3.6-8.4 5.4-17.4 5.4-26.6 0-9.2-1.8-18.2-5.4-26.6 -3.4-8.1-8.4-15.5-14.7-21.7 -6.3-6.3-13.6-11.2-21.7-14.7C-142.8 330.4-151.8 328.6-161 328.6L-161 328.6z" fill="#fff"/><path d="M-167.6 398.9c1.2 4.7 2.5 9.2 3.5 13.6 6.5 1.6 13.2 2.6 19.4 3.3 -1.9-6.2-3.8-13.4-5.5-21.3 -5.4-26.6-3.9-46.7-3.9-46.8 -2.3-0.4-4.6-0.5-7-0.5 -5.8 0-11.5 1-16.7 2.8C-177.7 350.1-174.3 372.9-167.6 398.9z" fill="#f36e36"/><path d="M-162.5 418.2c4.6 16.5 8.4 28 8.5 28 6.7-0.9 13-3.2 18.6-6.6 0 0-3.4-6.8-7.2-18 -5.8-0.8-12.5-1.9-19.6-3.4C-162.3 418.3-162.4 418.3-162.5 418.2z" fill="#f36e36"/><path d="M-144.8 397c1.5 7.5 3.5 13.8 5.4 19.1 13.8 0.9 24.5-0.1 24.5-0.1 2.5-5.9 3.8-12.3 3.8-19.1 0-21.6-13.7-39.9-32.9-46.9C-144.2 350.2-150 371.5-144.8 397z" fill="#f36e36"/><path d="M-137 422.4c3.8 8.8 7.1 13.4 7.1 13.5 4.2-3.4 7.8-7.4 10.7-11.9C-119.1 423.8-126.1 423.7-137 422.4z" fill="#f36e36"/><path d="M-188.8 407.4c0.2 0.5 0.3 0.9 0.4 1.4 5.9 0.4 12.5 1.1 19.1 2.5 -0.8-3.1-1.7-6.3-2.6-9.6 -7.3-25.9-15.3-47-15.3-47.1 -7 4.5-12.9 10.5-17 17.7C-204.2 372.2-194.8 387.3-188.8 407.4z" fill="#069"/><path d="M-193.5 408.6c-5.3-13.9-14.6-27.7-14.6-27.8 -1.7 5.1-2.7 10.6-2.7 16.2 0 4 0.5 7.9 1.4 11.7C-209.4 408.6-202.9 408.2-193.5 408.6z" fill="#069"/><path d="M-191.1 415.8c-9.3 0.3-15.4 1.5-15.4 1.5 4.2 9.4 11.2 17.2 19.9 22.5C-186.6 439.7-187.7 427.7-191.1 415.8z" fill="#069"/><path d="M-167.6 417.3c-6.8-1.1-13.2-1.5-18.8-1.5 3.7 14.6 5.5 26.8 5.5 26.8 6.1 2.6 12.8 4.2 19.9 4.2 0.3 0 0.5 0 0.7 0C-160.4 446.6-163 434.9-167.6 417.3z" fill="#069"/><path d="M-161 341.7c30.6 0 55.3 24.8 55.3 55.3s-24.8 55.3-55.3 55.3 -55.3-24.8-55.3-55.3S-191.6 341.7-161 341.7M-161 334.8c-8.4 0-16.6 1.6-24.2 4.9 -7.4 3.1-14.1 7.6-19.7 13.4 -5.8 5.6-10.3 12.3-13.4 19.7 -3.3 7.6-4.9 15.7-4.9 24.2 0 8.4 1.6 16.6 4.9 24.2 3.1 7.4 7.6 14.1 13.4 19.7 5.7 5.7 12.4 10.2 19.7 13.4 7.6 3.3 15.8 4.9 24.2 4.9s16.6-1.6 24.2-4.9c7.4-3.1 14.1-7.6 19.7-13.4 5.7-5.7 10.2-12.4 13.4-19.7 3.3-7.6 4.9-15.8 4.9-24.2s-1.6-16.6-4.9-24.2c-3.1-7.4-7.6-14.1-13.4-19.7 -5.7-5.7-12.4-10.2-19.7-13.4C-144.4 336.4-152.6 334.8-161 334.8L-161 334.8z" fill="#1f1e1d"/></svg></a>
 
-    <h1 class="title">Inciting incidents in three parts</h1>
+    <h1 class="title">The three underlying functions of inciting incidents</h1>
 
-    <p class="meta">January 1, 2021 | 10-minute read | Reasonable certainty</p>
+    <p class="meta">January 1, 2021 &nbsp; | &nbsp; 10-minute read</p>
 
-    <p class="callout"><strong>TL;DR:</strong> After surveying a number of story experts, I've concluded that what people call the inciting incident contains one or more of three distinct story functions. This post explains what they are and how I arrived at this conclusion.</p>
+    <p class="callout"><strong>Summary:</strong> Inciting incidents consist of one or more of three distinct story functions. This essay explains what each function is, how it works, and how I arrived at my current understanding.</p>
+ 
+  <hr />
 
-    <p class="dropCap"><a name="reference1"></a>Bestselling fantasy author Brandon Sanderson talks about the difference between "chef writers" and "cook writers." <sup><a href="#citation1">1</a></sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.
+    <p class="dropCap"><a name="reference1"></a>During his lectures at BYU, bestselling fantasy author Brandon Sanderson talks about the difference between "chef writers" and "cook writers." <sup><a href="#citation1">1</a></sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.
 
     <p>I'm no story expert. I'm still very much a "cook" rather than a "chef." But I <em>am</em> an expert on my own struggles. I can tell you with great authority about what I've gotten wrong . . . and the things I've learned along the way. Today, I'd like to tell you about a framework that has helped me tremendously when approaching what story experts call the inciting incident.
 
-    <h2>Introduction of the mystery</h2>
+    <h2>What are inciting incidents?</h2>
 
     <p><a name="reference2"></a>I first encountered the concept of the inciting incident in Shawn Coyne's <em>Story Grid</em> and the podcast of the same name, which he does with co-host Tim Grahl. Coyne defines the inciting incident as "the big event that scene that kicks off your story."  <sup><a href="#citation2">2</a></sup></p>
 
@@ -115,11 +117,11 @@
 
     <p>In <em>Into the Woods: A Five Act Journey Into Story</em>, John Yorke compares the inciting incident to "an invitation to begin the journey." (7) K. M. Weiland, referring to the tradition of Joseph Campbell and Christopher Vogler, calls the inciting incident the "Call to Adventure&mdash;the moment when your protagonist is first asked to engage with the conflict in a definite way.” (8) In <em>The Anatomy of Story</em>, John Truby calls it "an event from the outside that causes the hero to come up with a goal and take action." (9)</p>
 
-    <h2>Partial answer that creates a bigger mystery</h2>
-
     <p>So far, so good. The inciting incident kicks off the story, it involves the protagonist, it sets her off on her journey toward a goal.</p>
+
+    <h2>Where the experts disagree</h2>
     
-    <p>But here's where it gets interesting. While surveying broadly filled in gaps, creating a more well-rounded picture, it also started to reveal outlier nuances, places where the experts' opinions appeared to diverge.</p>
+    <p>Here's where it gets interesting. While surveying broadly filled in gaps, creating a more well-rounded picture, it also started to reveal outlier nuances, places where the experts' opinions appeared to diverge.</p>
 
     <p>For example, where Coyne claimed that the inciting incident must "arouse a reaction by your protagonist" (10), to Field, it's a different event, the "key incident," that "draws the main character into the storyline." To him, the inciting incident only "sets the story in motion," (11) without implying any protagonist involvement.</p>
 
@@ -151,7 +153,7 @@
 
     <p>I came to the conclusion that people were variously attributing one or more of three distinct functions to the inciting incident.</p>
 
-    <h2>Reveal</h2>
+    <h2>The three functions</h2>
 
     <h3>The tipping of the apple cart</h3>
 
@@ -207,7 +209,7 @@
 
     <p>Thus, a hook is a special type of story beat. It does have a function, but its function is audience-facing rather than protagonist-facing. A hook may be stacked with structural functions, but it doesn't have to be.</p>
 
-    <p>## Bringing it all together</p>
+    <h2>Bringing it all together</h2>
 
     <p>The three-function framework helps us better understand what the experts say about inciting incidents. When Robert McKee talks about at two-part inciting incident in <em>Jaws</em>, we can think of it as a combination of the tipping of the apple cart (the initial shark attack&mdash;which also serves as a hook, incidentally) and the call to adventure (discovery of the body by the protagonist). Field's definitions of the inciting incident and key incident can similarly map up to the tipping of the apple cart and call to adventure, respectively. When Yorke talks about the protagonist being forced to "make a decision propelling them into a whole new universe," (18) he's talking about the decision to cross the threshold.</p>
 
@@ -227,7 +229,7 @@
 
     <p>The protagonist's world must be destabilized at the tipping of the apple cart. She must discover that the destabilization affects her in a way she cannot ignore at the call to adventure. And, she must be driven to make a choice and commit herself at the decision to cross the threshold.</p>
 
-    <h2>Resolution</h2>
+    <h2>Conclusion</h2>
 
     <p>No framework is a silver bullet. You'll find places where this doesn't work for you. Even with the best tools, writing takes work; and I can't guarantee that this is all that great of a tool.</p>
 
@@ -248,10 +250,13 @@
     <li>A. I've found it especially useful in revision, when analyzing what I've written. It's a little less impactful during the outlining and drafting stages. Often, what makes logical sense as I outline won't make emotional sense in the draft. I'll have to iterate.</li>
     </ol>
 
-    <h4>Epistemic maturity</h4>
-    <p>Certainty: I'm firmly convinced that this gives the clearest explanation for the way my brain works. If you think differently than I do, it may not be as helpful for you.
+    <h4>About this post</h4>
+    <ul>
+    <li>Certainty: I'm firmly convinced that this gives the clearest explanation for the way my brain works. If you think differently than I do, it may not be as helpful for you.</li>
 
-    <p>Effort: I've been mulling around this problem for several years and thinking about this solution for at least a year, maybe more. This is the first time I've set it down in writing. I've spent several hours on the draft.
+    <li>Effort: I've been mulling around this problem for several years and thinking about this solution for at least a year, maybe more. This is the first time I've set it down in writing. I've spent several hours on the draft.</li>
+  </ul>
+  <p><a href="#top">Back &nwarhk;</a></p>
 
     <h4>Citations</h4>
     <ol>
