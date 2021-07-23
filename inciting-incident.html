@@ -1,0 +1,403 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The three underlying functions of inciting incidents</title>
+  <meta name="description" content=“Inciting incidents consist of one or more of three distinct story functions. This essay explains what each function is, how it works, and how I arrived at my current understanding.“>
+  <meta name="author" content=“Nate Listrom“>
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap" rel="stylesheet">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+
+  <STYLE type="text/css">
+
+    /* http://meyerweb.com/eric/tools/css/reset/ 
+      v2.0 | 20110126
+      License: none (public domain)
+    */
+
+    html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed, 
+    figure, figcaption, footer, header, hgroup, 
+    menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure, 
+    footer, header, hgroup, menu, nav, section {
+      display: block;
+    }
+    body {
+      line-height: 1;
+    }
+    /*    ol, ul {
+      list-style: none;
+    } */
+    blockquote, q {
+      quotes: none;
+    }
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+      content: '';
+      content: none;
+    }
+    table {
+      border-collapse: collapse;
+      border-spacing: 0;
+    }
+
+    /* Begin custom styles */
+
+    html {
+      font-family: 'Lora', Georgia, serif;
+      font-size: 20px;
+      color: rgba(0,2,6,0.85);
+      border-top: 8px solid #069;  
+    }
+    body {
+      line-height: 1.5; /* Override css reset */
+    }
+    h1, h2, h3, h4, h5, h6 {
+          margin-top: 2.5rem;
+          margin-bottom: 1rem;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+                "Helvetica Neue", sans-serif;
+          font-weight: 600;
+    }
+    h1 {
+      font-size: 2rem;
+      line-height: 1.25;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    h3 {
+      font-size: 1.25rem;
+    }
+    h4 {
+      font-size: 1rem;
+    }
+    h2 + h3 {
+      margin-top: 1.5rem;
+    }
+    p {
+      margin: 1.5rem 0;
+    }
+    sup {
+          vertical-align: top; 
+          font-size: 0.75em;
+    }
+    hr {
+      border: none;
+      border-bottom: 1px solid rgba(0,2,6,0.15);
+      margin: 2.5rem 2rem;
+    }
+    em {
+      font-style: italic;
+    }
+    strong {
+      font-weight: 600;
+    }
+    .content {
+      margin: 5rem auto;
+      max-width: 36rem;
+      padding: 0 1rem;
+    }
+    .content > header {
+      margin-bottom: 2.5rem;
+      height: 6rem;
+    }
+    .content > header a {
+      display: inline-block;
+      height: 6rem;
+    }
+    .title {
+        padding: 0;
+        margin: 0;
+    }
+    .meta {
+        font-size: 0.8rem;
+        color: rgba(0,2,6,0.65);
+        padding-top: 0;
+        margin-top: 0.5rem;
+    }
+    .summary strong {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+                "Helvetica Neue", sans-serif; 
+    }
+    .dropCap:first-letter {
+        color: #069;
+        float: left;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+                "Helvetica Neue", sans-serif; 
+        font-weight: bold;
+        font-size: 5.25rem;
+        line-height: 2.5rem;
+        padding: 0.85rem 0 0 0;
+        margin-right: 0.5rem;
+    }
+  </STYLE>
+</head>
+
+<body><a name="top"></a>
+
+<div class="content">
+  <header role="banner">
+    <a href="index.html" aria-label="Home"><svg alt="" xmlns="http://www.w3.org/2000/svg" viewBox="-233 325 144 144" height="6rem" width="6rem"><path d="M-161 328.6c-9.2 0-18.2 1.8-26.6 5.4 -8.1 3.4-15.5 8.4-21.7 14.7 -6.4 6.2-11.3 13.5-14.7 21.7 -3.6 8.4-5.4 17.3-5.4 26.6 0 9.2 1.8 18.2 5.4 26.6 3.4 8.1 8.4 15.5 14.7 21.7 6.3 6.3 13.6 11.2 21.7 14.7 8.4 3.6 17.4 5.4 26.6 5.4s18.2-1.8 26.6-5.4c8.1-3.4 15.5-8.4 21.7-14.7 6.3-6.3 11.2-13.6 14.7-21.7 3.6-8.4 5.4-17.4 5.4-26.6 0-9.2-1.8-18.2-5.4-26.6 -3.4-8.1-8.4-15.5-14.7-21.7 -6.3-6.3-13.6-11.2-21.7-14.7C-142.8 330.4-151.8 328.6-161 328.6L-161 328.6z" fill="#fff"/><path d="M-167.6 398.9c1.2 4.7 2.5 9.2 3.5 13.6 6.5 1.6 13.2 2.6 19.4 3.3 -1.9-6.2-3.8-13.4-5.5-21.3 -5.4-26.6-3.9-46.7-3.9-46.8 -2.3-0.4-4.6-0.5-7-0.5 -5.8 0-11.5 1-16.7 2.8C-177.7 350.1-174.3 372.9-167.6 398.9z" fill="#f36e36"/><path d="M-162.5 418.2c4.6 16.5 8.4 28 8.5 28 6.7-0.9 13-3.2 18.6-6.6 0 0-3.4-6.8-7.2-18 -5.8-0.8-12.5-1.9-19.6-3.4C-162.3 418.3-162.4 418.3-162.5 418.2z" fill="#f36e36"/><path d="M-144.8 397c1.5 7.5 3.5 13.8 5.4 19.1 13.8 0.9 24.5-0.1 24.5-0.1 2.5-5.9 3.8-12.3 3.8-19.1 0-21.6-13.7-39.9-32.9-46.9C-144.2 350.2-150 371.5-144.8 397z" fill="#f36e36"/><path d="M-137 422.4c3.8 8.8 7.1 13.4 7.1 13.5 4.2-3.4 7.8-7.4 10.7-11.9C-119.1 423.8-126.1 423.7-137 422.4z" fill="#f36e36"/><path d="M-188.8 407.4c0.2 0.5 0.3 0.9 0.4 1.4 5.9 0.4 12.5 1.1 19.1 2.5 -0.8-3.1-1.7-6.3-2.6-9.6 -7.3-25.9-15.3-47-15.3-47.1 -7 4.5-12.9 10.5-17 17.7C-204.2 372.2-194.8 387.3-188.8 407.4z" fill="#069"/><path d="M-193.5 408.6c-5.3-13.9-14.6-27.7-14.6-27.8 -1.7 5.1-2.7 10.6-2.7 16.2 0 4 0.5 7.9 1.4 11.7C-209.4 408.6-202.9 408.2-193.5 408.6z" fill="#069"/><path d="M-191.1 415.8c-9.3 0.3-15.4 1.5-15.4 1.5 4.2 9.4 11.2 17.2 19.9 22.5C-186.6 439.7-187.7 427.7-191.1 415.8z" fill="#069"/><path d="M-167.6 417.3c-6.8-1.1-13.2-1.5-18.8-1.5 3.7 14.6 5.5 26.8 5.5 26.8 6.1 2.6 12.8 4.2 19.9 4.2 0.3 0 0.5 0 0.7 0C-160.4 446.6-163 434.9-167.6 417.3z" fill="#069"/><path d="M-161 341.7c30.6 0 55.3 24.8 55.3 55.3s-24.8 55.3-55.3 55.3 -55.3-24.8-55.3-55.3S-191.6 341.7-161 341.7M-161 334.8c-8.4 0-16.6 1.6-24.2 4.9 -7.4 3.1-14.1 7.6-19.7 13.4 -5.8 5.6-10.3 12.3-13.4 19.7 -3.3 7.6-4.9 15.7-4.9 24.2 0 8.4 1.6 16.6 4.9 24.2 3.1 7.4 7.6 14.1 13.4 19.7 5.7 5.7 12.4 10.2 19.7 13.4 7.6 3.3 15.8 4.9 24.2 4.9s16.6-1.6 24.2-4.9c7.4-3.1 14.1-7.6 19.7-13.4 5.7-5.7 10.2-12.4 13.4-19.7 3.3-7.6 4.9-15.8 4.9-24.2s-1.6-16.6-4.9-24.2c-3.1-7.4-7.6-14.1-13.4-19.7 -5.7-5.7-12.4-10.2-19.7-13.4C-144.4 336.4-152.6 334.8-161 334.8L-161 334.8z" fill="#1f1e1d"/></svg></a>
+  </header>
+<article>
+
+  <header>
+
+    <h1 class="title">The three underlying functions of inciting incidents</h1>
+
+    <p class="meta">July 23, 2021 &nbsp; | &nbsp; 10-minute read</p>
+
+    <p class="summary"><strong>Summary:</strong> Inciting incidents consist of one or more of three distinct story functions. This essay explains what each function is, how it works, and how I arrived at my current understanding.</p>
+ 
+  </header>
+  <hr />
+
+    <p class="dropCap"><a name="reference1"></a>Bestselling fantasy author Brandon Sanderson talks about the difference between “chef writers” and “cook writers.” <sup><a href="#citation1">1</a></sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.
+
+    <p>I'm no story expert. I'm still very much a “cook” rather than a “chef.” But I <em>am</em> an expert on my own struggles. I can tell you with great authority about what I've gotten wrong . . . and the things I've learned along the way. Today, I'd like to tell you about a framework that has helped me tremendously when approaching what story experts call the inciting incident.
+
+    <h2>What are inciting incidents?</h2>
+
+    <p><a name="reference2"></a>I first encountered the concept of the inciting incident in Shawn Coyne's <em>Story Grid</em> and the podcast of the same name, which he does with co-host Tim Grahl. Coyne defines the inciting incident as “the big event that scene that kicks off your story.”  <sup><a href="#citation2">2</a></sup></p>
+
+    <p>Intuitively, that immediately resonated. Yet, when it came time to apply the definition, I found myself floundering.</p> 
+
+    <p><a name="referenceA"></a>As helpful as it was, Coyne's definition left things unsaid. <em>How</em> does the inciting incident kick off the story? What's the underlying mechanism? If your story has several big events that get things moving, how do you know which one is the inciting incident? Or, what if your story doesn't have any big events in the beginning? <sup><a href="#footnoteA">A</a></sup></p>
+
+    <p>As I continued my journey, I kept my eyes peeled for answers. Gradually, a picture began to emerge.</p>
+
+    <p><a name="reference3"></a>In his landmark work, <em>Screenplay</em>, Syd Field describes the inciting incident similarly to Coyne. It's the thing that “sets the story in motion.” <sup><a href="#citation3">3</a></sup></p>
+
+    <p><a name="reference4"></a><a name="reference5"></a><a name="reference6"></a><a name="reference7"></a>Robert McKee contributes a protagonist-centric nuance: the inciting incident “radically upsets the balance of forces in the protagonist's life.” <sup><a href="#citation4">4</a></sup> Screenwriter and producer Craig Mazin agrees. “It makes the continuation of balance and stasis . . . impossible . . . and it <em>forces a choice on the character</em>.” <sup><a href="#citation5">5</a></sup> (emphasis mine) Screenwriting consultant Erik Bork says it “introduces the main story problem.” <sup><a href="#citation6">6</a></sup> It must “really rock [the protagonist's] world, in order to force them to take a leap into some major challenge.” <sup><a href="#citation7">7</a></sup> 
+
+    <p><a name="reference8"></a><a name="reference9"></a><a name="reference10"></a>
+      In <em>Into the Woods: A Five Act Journey Into Story</em>, John Yorke compares the inciting incident to “an invitation to begin the journey.”  <sup><a href="#citation8">8</a></sup> K. M. Weiland, referring to the tradition of Joseph Campbell and Christopher Vogler, calls the inciting incident the “Call to Adventure&mdash;the moment when your protagonist is first asked to engage with the conflict in a definite way.” <sup><a href="#citation9">9</a></sup> In <em>The Anatomy of Story</em>, John Truby calls it “an event from the outside that causes the hero to come up with a goal and take action.” <sup><a href="#citation10">10</a></sup></p>
+
+    <p>So far, so good. The inciting incident kicks off the story, it involves the protagonist, it sets her off on her journey toward a goal.</p>
+
+    <h2>Where the experts disagree</h2>
+    
+    <p>Here's where it gets interesting. While surveying broadly filled in gaps, creating a more well-rounded picture, it also started to reveal outlier nuances, places where the experts' opinions appeared to diverge.</p>
+
+    <p><a name="reference11"></a><a name="reference12"></a>
+      For example, where Coyne claimed that the inciting incident must “arouse a reaction by your protagonist” <sup><a href="#citation11">11</a></sup>, to Field, it's a different event, the “key incident,” that “draws the main character into the storyline.” To him, the inciting incident only “sets the story in motion,” <sup><a href="#citation12">12</a></sup> without implying any protagonist involvement.</p>
+
+    <p><a name="reference13"></a><a name="reference14"></a><a name="referenceB"></a>
+      It gets more complicated. Some experts introduced the possibility of multi-part inciting incidents. McKee points to <em>Jaws</em> as an example in which a swimmer is killed by the shark in the opening scene (setup) but not discovered by the protagonist until the following scene (payoff). <sup><a href="#citation13">13</a></sup> <sup><a href="#footnoteB">B</a></sup> Yorke even talks about a <em>three</em>-part inciting incident in which “the protagonist will be alerted to a world outside their own. They will make a decision on how to react . . . [which] will precipitate a crisis. This will force them to make a decision propelling them into a whole new universe.” <sup><a href="#citation14">14</a></sup></p>
+
+    <p>What's going on here? Can inciting incidents sometimes draw the protagonist into the story and other times not? Can there be multiple events in an inciting incident? How do you know when to use which approach?</p>
+
+    <h2>Epiphany</h2>
+
+    <p><a name="reference15"></a>
+      Author and story expert K. M. Weiland gives us our first clue to unlocking the mystery. “We find a lot of misconceptions floating around about the Inciting Event, many of them resulting from the simple fact that the 'Key Event' is either forgotten altogether <em>or mislabeled as the Inciting Event</em>.” <sup><a href="#citation15">15</a></sup> (emphasis mine)</p>
+
+    <p>Weiland's observation? Story beats can be confused for one another. One man's “key incident” is another man's “inciting incident."</p>
+
+    <p>The question is, why?</p>
+
+    <p>To answer that, we have to go back nearly a century. </p>
+
+    <p><a name="reference16"></a>
+      In 1928, a folklorist named Vladimir Propp published <em>Morphology of the Folktale</em>. He had analyzed a representative set of one hundred Russian folktales and identified what he called the underlying <em>functions</em> in the stories' structures. These functions were each “an act of a character, defined from the point of view of its <em>significance for the course of the action</em>.” <sup><a href="#citation16">16</a></sup> (emphasis mine)</p>
+
+    <p>In other words, there's a difference between story beats and their underlying functions. A story beat is an event that happens in the story. A function is the <em>role</em> that an event plays in the story's structure.</p>
+
+    <p>Let's bring this back to inciting incidents. </p>
+
+    <p>Over time, as I tried to harmonize what the story experts were saying, two things became apparent. </p>
+
+    <p>First, when the experts talked about the inciting incident, what they were aiming to describe was a story function. </p>
+
+    <p>Second, there was more than one function involved. At times, different experts were highlighting different functions. One expert would include multiple functions in his definition. Another would focus on only one. This was the source of the confusion, for example, over the inciting incident and the key incident.</p>
+
+    <p>I came to the conclusion that people were variously attributing one or more of three distinct functions to the inciting incident.</p>
+
+    <h2>The three functions</h2>
+
+    <h3>The tipping of the apple cart</h3>
+
+    <p>The first of these functions is what, for lack of a better term, I'm calling the “tipping of the apple cart.” This is the moment when the protagonist's world is set out of balance; but&mdash;and this is significant&mdash;<em>she isn't yet required to do anything about it</em>. Often, the protagonist doesn't know that change is coming. She may not even be on stage yet. Nevertheless, the events of the tipping of the apple cart set a trajectory, a chain reaction, that will inevitably come to affect her.</p>
+
+    <ul>
+        <li>In <em>Star Wars: A New Hope</em>, the tipping of the apple cart is when Darth Vader captures Princess Leia's ship, forcing her to send the Death Star plans away with the droids.</li>
+        <li>In <em>Casablanca</em>, it's when Ugarte steals the letters of transit, gives them to Rick, and then gets himself killed.</li>
+        <li>In <em>Jurassic Park</em>, it's when a raptor attacks one of the workers at the park, forcing park owner John Hammond to get experts' safety approval before his park can open.</li>
+        <li>In <em>Pride and Prejudice</em>, it's when Bingley decides to purchase Netherfield, bringing Darcy with him into the little Hertfordshire society.</li>
+        <li>In mysteries and police dramas, it's often the discovery of a body.</li>
+    </ul>
+
+    <h3>The call to adventure</h3>
+
+<p>The second function is what we typically think of as the call to adventure. This function brings the destabilization of the world right to the protagonist's doorstep. She can no longer ignore it.</p>
+
+    <p>If the tipping of the apple cart scatters apples all across the market square, the call to adventure is the moment in which the magic golden apple rolls to a stop at the protagonist's feet. All the town's people look to her to see what she will do. Will she pick it up? Will she walk away? Whatever she does, she won't be able to act like nothing happened. She has to make a choice.</p>
+
+    <ul>
+        <li>In <em>Star Wars: A New Hope</em>, this is when Obi Wan invites Luke to come with him to Alderaan and train to be a Jedi.</li>
+        <li>In <em>Casablanca</em>, it's when Ilsa Lund walks into Rick's bar and asks Sam to play “As Time Goes By,” prompting Rick to come storming out of the casino and confront her.</li>
+        <li>In <em>Jurassic Park</em>, it's when Hammond visits Dr. Grant's dig and invites Grant and Sattler to come evaluate his park.</li>
+        <li>In <em>Pride and Prejudice</em>, it's when Darcy snubs Elizabeth at the dance.</li>
+        <li>In mysteries and police dramas, it's often when the case file lands on the investigator's desk.</li>
+    </ul>
+
+    <p>The call to adventure is the function that formally introduces the story problem. At the tipping of the apple cart, a world-ending asteroid could be approaching. But, it doesn't become the problem of <em>this</em> story until it's the protagonist's problem. That happens at the call to adventure.</p>
+
+    <h3>The decision to cross the threshold</h3>
+
+    <p>The call to adventure leads naturally into the last of the three functions: the decision to cross the threshold. Facing the dilemma, the protagonist chooses a course of action. She reaches down and picks up the magic golden apple, agrees to embark on the journey. The most important thing to stress is that this moment is a <em>decision</em>. The protagonist commits herself.</p>
+
+    <ul>
+        <li>In <em>Star Wars: A New Hope</em>, this is when Luke, having learned that the Empire has killed his uncle and aunt and destroyed his home, decides to go with Obi Wan and train to be a Jedi.</li>
+        <li>In <em>Casablanca</em>, it's when&mdash;breaking a personal rule never to drink with his patrons&mdash;Rick sits down with Laszlo and Ilsa and picks up the tab.</li>
+        <li>In <em>Jurassic Park</em>, it's when Grant and Sattler agree to go with Hammond to his park.</li>
+        <li>In <em>Pride and Prejudice</em>, it's when Elizabeth vows never to dance with Darcy.</li>
+        <li>In mysteries and police dramas, it's when the investigator reluctantly accepts the case.</li>
+    </ul>
+
+    <p>The decision to cross the threshold is the function that solidifies the story goal and story question. At the call to adventure, the protagonist is invited to pursue a goal. At the decision to cross the threshold, she accepts it as her own. Accepting the goal formally gives rise to the story question: Will she succeed or fail? Stop the asteroid, solve the case, marry the billionaire? Only the story will tell.</p>
+
+    <h3>A word about hooks</h3>
+
+    <p><a name="reference17"></a>
+      There's another story beat that people sometimes confuse for the inciting incident. This is what's called the “hook.” I agree with author and story expert Joe Bunting that the hook isn't a structural beat. <sup><a href="#citation17">17</a></sup> Its function is not to create change in the protagonist's life, but to engage the audience. </p>
+
+    <p>A hook may contain structural functions, like the tipping of the apple cart or the call to adventure, but it doesn't have to.</p>
+
+    <p><a name="referenceC"></a>For example, the prologue in <em>Indiana Jones and the Raiders of the Lost Ark</em> is one of the most celebrated hooks in cinematic history, yet structurally, it has almost nothing to do with the main story. Its only connection is to set up characters. <sup><a href="#footnoteC">C</a></sup></p>
+
+    <p>Compare that to <em>Star Wars: A New Hope</em>, which also has an extended prologue hook. Similar to <em>Raiders</em>, the prologue introduces characters. But in this case, it also serves as the tipping of the apple cart. The events in the prologue will later “come home to roost” as Luke's family buys the droids, sealing their own fate and setting Luke on a collision course with destiny.</p>
+
+    <p>Thus, a hook is a special type of story beat. It does have a function, but its function is audience-facing rather than protagonist-facing. A hook may be stacked with structural functions, but it doesn't have to be.</p>
+
+    <h2>Bringing it all together</h2>
+
+    <p><a name="reference18"></a>
+      The three-function framework helps us better understand what the experts say about inciting incidents. When Robert McKee talks about at two-part inciting incident in <em>Jaws</em>, we can think of it as a combination of the tipping of the apple cart (the initial shark attack&mdash;which also serves as a hook, incidentally) and the call to adventure (discovery of the body by the protagonist). Field's definitions of the inciting incident and key incident can similarly map up to the tipping of the apple cart and call to adventure, respectively. When Yorke talks about the protagonist being forced to “make a decision propelling them into a whole new universe,” <sup><a href="#citation18">18</a></sup> he's talking about the decision to cross the threshold.</p>
+
+    <h2>Why it isn't always obvious</h2>
+
+    <p>"That's all fine and good in theory,” you may say, “but what about stories that don't seem to follow this pattern? What if there appear to be only one or two significant beats, not three?” </p>
+
+    <p>There are a couple of confounding factors that may make it difficult to identify the functions.</p>
+
+    <p><a name="referenceD"></a>The first is the fact that more than one function can be stacked into the same story beat. In <em>Jurassic Park</em>, for example, when Hammond invites Grant and Sattler to visit the park, they agree with only a brief moment of hesitation. The call to adventure and decision to cross the threshold are almost on top of one another. <sup><a href="#footnoteD">D</a></sup></p>
+
+    <p>The second confounding factor is that the functions can be implied, rather than explicit. In <em>The Bourne Identity</em>, for example, the story opens with Bourne having no idea who he is or where he came from. The backstory of what caused his amnesia is the tipping of the apple cart, but isn't shown until much later. At the opening, it's merely implied that something has made him lose his memory. Yet, it delivers its impact, performing its crucial function.</p>
+
+    <p>Or consider the decision to cross the threshold. In many stories, it doesn't need to be explicitly shown as long as it's signaled by the frame of what happens at the call to adventure and the resulting situation in the following scene. If the decision is clear, it's effective to trim that moment and allow the audience to make the connection on their own.</p>
+
+    <p>Ultimately, it's not important whether the functions are combined into a single story beat or spaced across the entire first act, shown or merely implied. That's flexible, depending on the needs of the story and the stylistic choices of the storyteller. What matters is that the functions are there.</p>
+
+    <p>The protagonist's world must be destabilized at the tipping of the apple cart. She must discover that the destabilization affects her in a way she cannot ignore at the call to adventure. And, she must be driven to make a choice and commit herself at the decision to cross the threshold.</p>
+
+    <h2>Conclusion</h2>
+
+    <p>No framework is a silver bullet. You'll find places where this doesn't work for you. Even with the best tools, writing takes work; and I can't guarantee that this is all that great of a tool.</p>
+
+    <p><a name="referenceE"></a>But, it has helped me. It's given me confidence. As I enter the “kitchen” of my own writing, grab a whisk and a spatula, and try to wrestle my story into shape, I at least have a sense for what the “ingredients” will do when I add them to the mixing bowl. <sup><a href="#footnoteE">E</a></sup> I hope that, if your brain works like to mine, this'll help you a little as well.</p>
+
+    <hr />
+
+    <footer>
+
+      <h2>The footer stuff . . .</h2>
+      <p>For those of you into <a href="https://maggieappleton.com/garden-history">digital gardening</a>, I'd rate this essay “reasonably certain” in terms of epistemic maturity. To me, this gives the clearest explanation I've seen so far. I've been mulling around this problem for several years and thinking about this solution for more than a year. This is the first time I've set it down in writing. In terms of effort, I've spent several hours on the draft.</p>
+      <p>If you like this essay, you can read more of my writing on <a href="https://medium.com/@natelistrom">Medium</a>.</p>
+      <p>I love hearing from folks. Really! Drop me a line on <a href="https://twitter.com/natelistrom">Twitter</a> or email me at natelistrom at icloud dot com.</p>
+
+    <hr>
+
+    <h4>Footnotes</h4>
+    <ol type="A" class="meta">
+    <li><a name="footnoteA"></a>To be clear, my criticism isn't of Coyne or any of the other story experts. I couldn't have gotten anywhere without them. What I'm pointing out is more about the peculiarities of my own limitations and the journey I've had to go on to overcome them. <a href="#referenceA"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="footnoteB"></a><a name="reference19"></a>McKee elsewhere states that the inciting incident is a “single event.” <sup><a href="#citation19">19</a></sup> Perhaps in his thinking, the shark attack and discovery of the body are really one “event” that happens in two parts. Yet to me, they feel like two distinct story events that perform different but related functions. <a href="#referenceB"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="footnoteC"></a>The main story in <em>Raiders</em> doesn't get going until the actual tipping of the apple cart and call to adventure, when intelligence goons come to Jones and tell him that the Nazis are after the Ark. <a href="#referenceC"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="footnoteD"></a>It's also theoretically possible to have a story in which the tipping of the apple cart and call to adventure are driven by the same event. This could be, for example, in a small character drama. In epic adventure stories, there's usually some external, world-threatening conflict into which the protagonist gets swept. Only narcissists would immediately assume they were the ones chosen to address a crisis of that magnitude, so there's some story logic required to make the connection. But in extremely focused, internal dramas, the tipping of the apple cart crisis may affect only the protagonist and immediately present her with a call to adventure dilemma. <a href="#referenceD"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="footnoteE"></a>I've found it especially useful in revision, when analyzing what I've written. It's a little less impactful during the outlining and drafting stages. Often, what makes logical sense as I outline won't make emotional sense in the draft. I'll have to iterate. <a href="#referenceE"aria-label="Back to content"> &nwarhk;</a></li>
+    </ol>
+
+    <h4>Citations</h4>
+    <ol class="meta">
+    <li><a name="citation1"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=nJfraWAvYkc">"Chef Writer VS Cook Writer."</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 2 February 2021. <a href="#reference1"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation2"></a>Coyne, Shawn. <em>Story Grid: What Good Editors Know</em>. Black Irish Entertainment LLC. 2015. Page 160. <a href="#reference2"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation3"></a>Field, Syd. <em>Screenplay: the foundations of screenwriting</em>. Revised edition. Random House Publishing Group, 2005. Kindle Edition. Page 129. <a href="#reference3"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation4"></a>McKee, Robert. <em>Story: Substance, Structure, Style, and the Principles of Screenwriting</em>. Meuthen, 2014. Page 189. <a href="#reference4"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation5"></a>Mazin, Craig. <a href="https://johnaugust.com/2019/how-to-write-a-movie">"How to Write a Movie."</a> <em>Scriptnotes</em>, published 4 June 2019. (<a href="https://johnaugust.com/2019/scriptnotes-ep-403-how-to-write-a-movie-transcript">Transcript.</a>) <a href="#reference5"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation6"></a>Bork, Erik. <em>The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction</em>. Overfall Press, Thousand Oaks, CA, 2018. Kindle Edition. Page 76. <a href="#reference6"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation7"></a>Bork. Page 155. <a href="#reference7"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation8"></a>Yorke, John. <em>Into the Woods: A Five-Act Journey Into Story</em>. Overlook Press, Peter Mayer Publishers, Inc., 2015. Kindle Edition. Location 1637. <a href="#reference8"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation9"></a>Weiland, K. M. <a href="www.helpingwritersbecomeauthors.com/inciting-event-and-climactic-moment">"The Crucial Link Between Your Story's Inciting Event and Climactic Moment."</a> <em>Helping Writers Become Authors</em>, published by K. M. Weiland, 14 September 2020. <a href="#reference9"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation10"></a>Truby, John. <em>The Anatomy of Story: 22 Steps to Becoming a Master Storyteller</em>. Farrar, Straus and Giroux, 2011. Kindle Edition. Page 278. <a href="#reference10"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation11"></a>Coyne. Page 160. <a href="#reference11"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation12"></a>Field. Location 129. <a href="#reference12"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation13"></a>McKee. Pages 190-191. <a href="#reference13"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation14"></a>Yorke. Location 1654ff. <a href="#reference14"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation15"></a>Weiland, K. M. <em>Structuring Your Novel: Essential Keys for Writing an Outstanding Story</em>. PenForASword Publishing, 2013. Page 82. <a href="#reference15"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation16"></a>Propp, V. <em>Morphology of the Folk Tale</em>. Second edition. University of Texas Press, 2009. Kindle Edition. Location 685. <a href="#reference16"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation17"></a>Bunting, Joe. <a href="https://thewritepractice.com/inciting-incident/">"Inciting Incident: Definition, Examples, Types, and How to Start a Story Right."</a> <em>The Write Practice</em>, published by Joe Bunting. <a href="#reference17"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation18"></a>Yorke. Location 1654ff. <a href="#reference18"aria-label="Back to content"> &nwarhk;</a></li>
+
+    <li><a name="citation19"></a>McKee. Page 190. <a href="#reference19"aria-label="Back to content"> &nwarhk;</a></li>
+
+    </ol>
+
+  </footer>
+  </article>
+
+</div><!-- end content -->
+
+</body>
+</html>
