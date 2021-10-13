@@ -1,0 +1,12 @@
+<p class="meta">
+    {{ page.date | date: "%B %d, %Y" }}
+    {% if page.reading_time %} <span class="pipe">&nbsp;|&nbsp;</span> {{page.reading_time}} read{% endif %}
+    {% if page.categories %}
+        <span class="categories"> 
+            <span class="pipe">&nbsp;|&nbsp;</span> 
+            {% for category in page.categories %}
+            <span class="category">{{ category }}</span>
+            {% endfor %}
+        </span>
+    {% endif %}
+</p>

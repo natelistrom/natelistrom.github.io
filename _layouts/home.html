@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1>{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <hr />
+
+  {% assign posts = site.posts %}
+
+  {%- if posts.size > 0 -%}
+    <h2>Thoughts</h2>
+    <ul class="post-list">
+      {%- for post in posts -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        <small>
+            {%- include postMeta.html -%}
+        </small>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+  <hr />
+
+  <h2 class="smallHeading">Find Nate online</h2>
+
+  <ul>
+    {% if site.twitter_username -%}<li>Random bits on <a href="{{ site.twitter_url }}">Twitter</a></li>{%- endif %}
+    {% if site.medium_url -%}<li>Writing also on <a href="{{ site.medium_url }}">Medium</a></li>{%- endif %}
+    {% if site.behance_url -%}<li>Portfolio of older work on <a href="{{ site.behance_url }}">Behance</a></li>{%- endif %}
+    {% if site.linkedin_url -%}<li>Professional info on <a href="{{ site.linkedin_url }}">LinkdedIn</a></li>{%- endif %}
+  </ul>
+
+</div>

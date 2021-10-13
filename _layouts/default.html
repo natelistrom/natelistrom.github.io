@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="pageWrapper">
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+    </div>
+
+    <script>
+
+      let references = document.querySelectorAll('sup:not(.aside)');
+      
+      references.forEach(function r(sup) {
+        var ref = sup.textContent;
+        var refID = ref - 1;
+        var footnotes = document.getElementById('references').nextElementSibling;
+        var footnote = footnotes.getElementsByTagName('li')[refID];
+
+        var footnoteContent = footnote.innerHTML;
+        
+        var refContent = "<a id='ref" + ref + "' href='#" + ref +"'>" + ref + "</a>";
+        footnoteContent = footnoteContent + " <a id='" + ref + "' href='#ref" + ref + "'>Back</a>";
+      
+        sup.innerHTML = refContent;
+        footnote.innerHTML = footnoteContent;
+      }); 
+      
+    </script>
+
+  </body>
+
+</html>
