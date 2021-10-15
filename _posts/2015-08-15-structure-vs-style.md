@@ -83,7 +83,9 @@ So in the end, drop shadows and bevels, minimal and material — all these thing
 
 ---
 
-[Digital gardening](https://maggieappleton.com/garden-history) status:
+#### Notes
+
+[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
 
 - <strong>Moderate confidence</strong> - The underlying distinction is valid, but I'm not sure I've articulated the categories correctly.
 - <strong>Moderate effort</strong>

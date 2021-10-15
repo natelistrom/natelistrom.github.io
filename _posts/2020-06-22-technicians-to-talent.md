@@ -44,9 +44,9 @@ One last thought . . . maybe there could be a phase zero, before phase one, in w
 
 ---
 
-Additional notes
+#### Notes
 
-[Digital gardening](https://maggieappleton.com/garden-history) status:
+[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
 
 - <strong>Low confidence</strong> - This is just an idea; I haven't thought it through. Published more as a conversation starter than an essential piece of wisdom.
 - <strong>Low effort</strong> - I've had this notion for a while but without really investing in fleshing it out or drawing conclusions.
