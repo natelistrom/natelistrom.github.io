@@ -167,6 +167,6 @@ A lot of the inspiration behind this post came from [Craig Mod](http://craigmod.
 
 [Digital gardening](https://maggieappleton.com/garden-history) status:
 
-- <strong>Low confidence</strong> - When I originally published this, I was sure that I was onto the coolest thing since sliced bread. Now, after years of reading with scrolling vs. discrete digital "pages," I'm convinced that pages have a lot going for them. Scrolling tends to divide attention. Also, I almost never use a pinch gesture unless I'm on some sort of canvass, like a map. It's not a native gesture for navigation. As a philosophical design exploration, I think this is great. As a practical recommendation, not so much.
+- <strong>Low confidence</strong> - When I originally published this, I was sure that I was onto the coolest thing since sliced bread. Now, after years of reading with scrolling vs. discrete digital "pages," I'm convinced that pages have a lot going for them. Scrolling tends to divide attention. Also, I almost never use a pinch gesture unless I'm on some sort of canvas, like a map. It's not a native gesture for navigation. As a philosophical design exploration, I think this is great. As a practical recommendation, not so much.
 - <strong>High effort</strong> - I spent a lot of time and thought on this essay.
 
