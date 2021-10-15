@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sky lanterns and irony"
+title:  "Sky lanterns and irony: How Disney's 'Tangled' amplifies impact"
 date:   2021-10-15 12:00:00 -0400
 categories: Story Craft
 reading_time: 2 min
@@ -8,7 +8,7 @@ reading_time: 2 min
 
 ---
 
-<p class="dropCap">The sky lanterns boat scene in Disney’s “Tangled” is, to me, one of the most magical romance scenes in Disney’s canon. Why does it work so well? Let’s investigate.</p>
+<p class="dropCap">The sky lanterns boat scene in Disney’s <em>Tangled</em> is, to me, one of the most magical romance scenes in Disney’s canon. Why does it work so well? Let’s investigate.</p>
 
 First off, it’s backed by a tremendous score. The music is well-written, and the lyric tells a love story that has a unique resonance with the protagonists’ backstories.
 
