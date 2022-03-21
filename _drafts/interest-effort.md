@@ -8,9 +8,11 @@ reading_time: 4 min
 
 ---
 
-<p class="dropCap">As a storyteller, how do you capture an audience and hold their attention, keeping them engaged until your story's end? There are, of course, many ways to answer this question. One frame that I've found to be helpful is to think of audience engagement in terms of what I call the interest:effort formula.</p>
+<p class="dropCap">As a storyteller, how do you capture an audience and hold their attention, keeping them engaged until your story's end? There are, of course, many ways to answer this question. I've found it helpful to think of audience engagement in terms of what I call the interest:effort formula.</p>
 
-Every audience begins a story with a basic incentive. Often, it's simple curiosity or a desire to be entertained, but it may be more than that. Audiences also come to stories hoping to learn or be moved or make meaningful human connection. The audience's motivation is what I call the _interest_ component of the formula.
+Every audience begins a story with a basic incentive. Often, it's simple curiosity or a desire to be entertained, but it may be more than that. People also come to stories hoping to gain new insights or be moved or make meaningful human connection. This motivation is what I call the _interest_ component of the formula.
+
+> Is it really, though? The interest component that I'm planning to talk about isn't so much the incentive that I consciously seek but the unconscious drivers that keep me turning the page or sitting in my seat at the movie theater. Sure, the initial spark of interest is a part of it, but only a part. There's a much richer vein for discussion in narrative drive, much of which is underneath the surface and more "vehicle" than "destination" in terms of what I seek from a story.
 
 Audience interest starts small, often just a basic willingness to give a story a fair shake. It's like a tiny seedling pushing its way through the loamy soil in a dense forest. It can easily be crowded out by the undergrowth of distraction and alternative entertainment, anything that competes for your audience's attention.
 
@@ -20,13 +22,17 @@ Every story has practical, mechanical components: the use of language and imager
 
 Your job as a storyteller is to honor their engagement by minimizing unnecessary effort and making necessary effort meaningful.
 
+## Keeping things in balance
+
 I like to think of interest and effort as weights placed on the opposite sides of a scale. The more weight on either side, the more likely the scale will tip. As a storyteller, you can get away with some effort, but you must offset the balance with a corresponding weight of interest. The more effort your story requires of the audience, the more interest you must provide to keep them motivated.
 
 Another way to think about it is to imagine water pumping through a pipe. The steeper the incline and the longer the distance the water must travel (effort), the greater the pressure must be to get it to its destination (interest).
 
-Of course, there's great variability in what makes a "good" balance of interest and effort. Thrillers tend to have high pressure and straight pipes: simple, straightforward prose and explosive narrative drive. Literary stories, in contrast, play more in imagery and ambiguity: pressure lower and paths more winding. Neither is inherently worse or better, but they are different, and they will attract different sorts of people. Connecting with an audience depends a lot on what the audience is seeking.
+Of course, the metaphor breaks down at a certain point. There's great variability in what makes a "good" balance of interest and effort. Thrillers tend to have high pressure and straight pipes: simple, straightforward prose and explosive narrative drive. Literary stories, in contrast, play more in imagery and ambiguity: pressure lower and paths more winding. Neither is inherently worse or better, but they are different, and they will attract different sorts of people. Connecting with an audience depends a lot on what the audience is seeking. For some, the weights need to be heavier on one side than for others.
 
-How do we use this formula in our storytelling?
+---
+
+## How do we use this formula in our storytelling?
 
 The first thing is to work with intent. If you provide a steep interest:effort ratio, be sure you're doing it on purpose. It's one thing to knowingly challenge your audience to climb a mountain; it's something else to place a mountain in their way by accident. This is why we study craft. We should endeavor as storytellers to obtain the knowledge and skill to both understand and fully control when the paths we are laying for our audiences are difficult or easy. "Know the rules so that you can break them," as the adage goes.
 
