@@ -6,6 +6,8 @@ categories: Story Writing Book
 reading_time: 1 min
 ---
 
+Making edit to bump Jekyll build.
+
 > _“From the era of Latin rhetoric and poetics to the present day, emotionally moving an audience has been considered one of the major goals of rhetoric and art.”_  
 > — (Menninghaus et al, 2015)
 
