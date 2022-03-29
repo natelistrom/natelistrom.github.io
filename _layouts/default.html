@@ -20,11 +20,9 @@
 
       /*
         This script iterates through references and generates a list of citations.
-        TO DO:
-        - De-duplicate
-        - Alphabetize
       */
-      if (document.querySelectorAll('sup:not(.aside)')) {
+
+      if (document.querySelectorAll('sup:not(.aside)').length > 0) {
 
         let num_refID = 0; 
         let dom_references = document.querySelectorAll('sup:not(.aside)');

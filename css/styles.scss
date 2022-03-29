@@ -138,6 +138,7 @@ a {
 
   &:hover {
     background: none;
+    text-decoration: underline;
   }
 }
 ul, ol {
@@ -146,27 +147,6 @@ ul, ol {
 blockquote {
   padding-left: 1rem;
   border-left: 0.2rem solid $colorPrimary;
-}
-
-/* From https://css-irl.info/animating-underlines/ */
-
-a::after {
-  content: '';
-  position: absolute;
-  bottom: -0.2rem;
-  left: 0;
-  width: 100%;
-  height: 0.1em;
-  background-color: $colorPrimary;
-  opacity: 1;
-  transform: scale(0);
-  transform-origin: center;
-  transition: opacity 250ms, transform 250ms;
-}
-
-a:hover::after,
-a:focus::after{
-  transform: scale(1);
 }
 
 sup {
