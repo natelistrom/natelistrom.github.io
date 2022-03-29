@@ -86,7 +86,7 @@ This is where pinch — navigating vertically — can really help. Since page di
 
 ![A man with a walking stick stands next to a stack of papers](/assets/img/navigating-books-06.jpeg)
 
-With a pinch, we can go _up_. Suddenly, we zoom out to the 10,000 foot level. At this level the interface displays a countryside of chapters, a neatly ordered grid of different fields. It’s an automatic, visually-arranged table of contents. We see an entire book at one glance. <sup>A</sup>
+With a pinch, we can go _up_. Suddenly, we zoom out to the 10,000 foot level. At this level the interface displays a countryside of chapters, a neatly ordered grid of different fields. It’s an automatic, visually-arranged table of contents. We see an entire book at one glance. <sup class="aside">A</sup>
 
 <aside>A. Apple’s iBooks has, apparently, already been doing this pinch-to-go-to-table-of-contents for a long time. I haven’t used iBooks extensively, so I’m not sure how much of what I’m proposing here has already been done by Apple.</aside>
 
