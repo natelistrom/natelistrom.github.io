@@ -36,7 +36,7 @@ Menninghaus et al. suggest that, based on their surveys, peak aesthetic experien
 In other words, the most significant values are those connected to relationships. <sup class="aside">A</sup>
 
 <aside>
-A. There are some counterexamples in which peak aesthetic experience doesn't result from social values. Response to natural beauty is, for example, asocial by definition. Another possible counterexample comes from an account cited by Pelowski in which an artist, upon trying to understand a postmodern work and being defeated by its meaninglessness, felt her own identity challenged to the point of being moved.<sup>{% include pelowski-tearsAndTransformation.html %}</sup>
+A. There are some counterexamples in which peak aesthetic experience doesn't result from social values. Response to natural beauty is, for example, asocial by definition. Another possible counterexample comes from an account cited by Pelowski in which an artist, upon trying to understand a postmodern work and being defeated by its meaninglessness, felt her own identity challenged to the point of being moved. <sup>{% include pelowski-tearsAndTransformation.html %}</sup>
 </aside>
 
 ## Relationship change
