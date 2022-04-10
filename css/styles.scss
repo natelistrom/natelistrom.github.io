@@ -79,12 +79,11 @@ $colorNeutral: rgba(0,2,6,1);
 
 $colorTextPrimary: rgba($colorNeutral, 0.85);
 $colorTextSecondary: rgba($colorNeutral, 0.65);
-$colorBorderLight: rgba($colorNeutral, 0.15);
-$colorBackgroundLight: rgba($colorNeutral, 0.1);
+$colorBorderLight: rgba($colorNeutral, 0.1);
+$colorBackgroundLight: rgba($colorNeutral, 0.033);
+$colorBackgroundMedium: rgba($colorNeutral, 0.066);
 $colorBackgroundPrimary: rgba($colorPrimary, 0.125);
 $colorBackgroundSecondary: rgba($colorSecondary, 0.125);
-
-$colorBorderLight: $colorBackgroundLight;
 
 $wrapperWidth: 36rem;
 $sidebarWidth: 12rem;
@@ -164,7 +163,7 @@ sup {
   }
 
   &.aside {
-    background: $colorBackgroundLight;
+    background: $colorBackgroundMedium;
     margin-top: 1px;
   }
 
@@ -201,7 +200,7 @@ img {
 }
 code {
   color: $colorTextSecondary;
-  background: $colorBackgroundLight;
+  background: $colorBackgroundMedium;
   border-radius: $borderRadius;
   display: inline-block;
   font-family: monospace;
@@ -427,7 +426,7 @@ strong {
 }
 
 .category {
-  background: $colorBackgroundLight;
+  background: $colorBackgroundMedium;
   border-radius: $borderRadius * 8;
   display: inline-block;
   font-size: 85%;
@@ -457,7 +456,7 @@ strong {
   .colorPrimary,
   .colorSecondary,
   .colorNeutral {
-    fill: $colorBackgroundLight;
+    fill: $colorBorderLight;
   }
 
   // Disable the animated link underline
