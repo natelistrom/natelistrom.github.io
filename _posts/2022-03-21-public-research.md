@@ -2,7 +2,7 @@
 layout: post
 title:  "Sharing my research for a book on story"
 date:   2022-03-21 12:00:00 -0400
-categories: Story Writing Book
+tags: Story Writing Book
 reading_time: 1 min
 ---
 

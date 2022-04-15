@@ -2,7 +2,7 @@
 layout: post
 title:  "Peak aesthetic experiences part 3: content"
 date:   2022-04-08 12:00:00 -0400
-categories: Story Writing Book
+tags: Story Writing Book
 reading_time: 7 min
 ---
 

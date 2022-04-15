@@ -33,6 +33,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+  min-height: 100vh;
 }
 /*    ol, ul {
   list-style: none;
@@ -447,7 +448,18 @@ strong {
   border-radius: $borderRadius * 8;
   display: inline-block;
   font-size: 85%;
+  text-decoration: none;
   padding: 0 0.4rem;
+}
+
+a.category {
+  color: $colorTextSecondary;
+}
+
+a.category:hover {
+  background: $colorPrimary;
+  color: $colorWhite;
+  text-decoration: none;
 }
 
 .pipe {

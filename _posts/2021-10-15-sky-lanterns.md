@@ -2,7 +2,7 @@
 layout: post
 title:  "Sky lanterns and irony: How Disney's 'Tangled' amplifies impact"
 date:   2021-10-15 12:00:00 -0400
-categories: Story Craft
+tags: Story Craft
 reading_time: 2 min
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The three underlying functions of inciting incidents"
 date:   2021-07-23 12:00:00 -0400
-categories: Story
+tags: Story
 reading_time: 10 min
 ---
 

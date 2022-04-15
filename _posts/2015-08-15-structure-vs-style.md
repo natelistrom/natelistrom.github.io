@@ -2,7 +2,7 @@
 layout: post
 title:  "Distinguishing between structure and style in design"
 date:   2015-08-15 12:00:00 -0400
-categories: Design Craft
+tags: Design Craft
 reading_time: 6 min
 ---
 

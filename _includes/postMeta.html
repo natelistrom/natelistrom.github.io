@@ -1,12 +1,12 @@
 <span class="meta">
     {{ post.date | date: "%B %d, %Y" }}
     {% if post.reading_time %} <span class="pipe">&nbsp;|&nbsp;</span>  {{post.reading_time}} read{% endif %}
-    {% if post.categories %} 
+    {% if post.tags %} 
         <span class="categories">
             <span class="pipe">&nbsp;|&nbsp;</span> 
         
-            {% for category in post.categories %}
-            <span class="category">{{ category }}</span>
+            {% for tag in post.tags %}
+              <a href="/tag/{{ tag }}" class="category">{{ tag }}</a>
             {% endfor %}
         </span>
     {% endif %}
