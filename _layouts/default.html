@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="pageWrapper">
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content" id="content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+    </div>
+
+    <script>
+
+      /*
+        This script iterates through references and generates a list of citations.
+      */
+
+      if (document.querySelectorAll('sup:not(.aside)').length > 0) {
+
+        let num_refID = 0; 
+        let dom_references = document.querySelectorAll('sup:not(.aside)');
+        let dom_wrapper = document.getElementById('content').firstElementChild;
+
+        dom_wrapper.insertAdjacentHTML("beforeend", "<h4 id='references'>References</h4><ol id='citations'></ol>");
+      
+        dom_references.forEach(function(sup) {
+          /*
+            dom_references reads the list of nodes, but it doesn't actually point back to them.
+            So, we need a way to point back to the original superscript elements. We do this by
+            assigning each of them a unique ID. 
+            
+            Handily, we can also use this as the ID to which our footer reference back links point.
+          */
+
+          num_refID = num_refID + 1;
+
+          sup.setAttribute("id","ref" + num_refID);
+
+          var dom_refContent = sup.innerHTML; // Grab the content of the superscript item
+
+          var dom_supItem = document.getElementById("ref" + num_refID + ""); // Target the current superscript item
+          dom_supItem.innerHTML = "<a href='#" + num_refID +"'>" + num_refID + "</a>"; // Replace the superscript item content with a link
+
+          var dom_footnotes = document.getElementById('citations'); // Grab the footnote citations list
+          dom_footnotes.innerHTML += "<li>" + dom_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>";
+
+        }); // end forEach
+
+      }; // end if
+      
+    </script>
+
+  </body>
+
+</html>

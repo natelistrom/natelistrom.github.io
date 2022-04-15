@@ -1,0 +1,497 @@
+---
+---
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+  v2.0 | 20110126
+  License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+  min-height: 100vh;
+}
+/*    ol, ul {
+  list-style: none;
+} */
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+/* =================== */
+/* Begin custom styles */
+/* =================== */
+
+@mixin font-serif {
+  font-family: 'Merriweather', 'Lora', Georgia, serif;
+}
+
+@mixin font-sans {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+            Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+            "Helvetica Neue", sans-serif;
+}
+
+@mixin font-secondary {
+  color: $colorTextSecondary;
+  font-size: 0.8rem;
+}
+
+/* --- Variables --- */
+
+$colorWhite: #fff;
+$colorPrimary: #069;
+$colorSecondary: #f36e36;
+$colorNeutral: rgba(0,2,6,1);
+
+$colorTextPrimary: rgba($colorNeutral, 0.85);
+$colorTextSecondary: rgba($colorNeutral, 0.65);
+$colorBorderLight: rgba($colorNeutral, 0.1);
+$colorBackgroundLight: rgba($colorNeutral, 0.033);
+$colorBackgroundMedium: rgba($colorNeutral, 0.066);
+$colorBackgroundPrimary: rgba($colorPrimary, 0.125);
+$colorBackgroundSecondary: rgba($colorSecondary, 0.125);
+
+$wrapperWidth: 36rem;
+$sidebarWidth: 12rem;
+
+$borderRadius: 0.125rem;
+
+/* --- Element Defaults --- */
+
+html {
+  @include font-serif;
+  font-size: 20px;
+  background: $colorSecondary;
+  color: $colorTextPrimary; 
+}
+
+body {
+  background-color: $colorWhite;
+  border-top: 8px solid $colorPrimary; 
+  line-height: 1.5; /* Override css reset */
+}
+h1, h2, h3, h4, h5, h6 {
+  @include font-sans;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h2 + h3 {
+  margin-top: 1.5rem;
+}
+p {
+  margin: 1.5rem 0;
+}
+#content {
+  p, ul, ol {
+    font-size: 0.8rem;
+    line-height: 1.4rem;
+    margin: 1.2rem 0;
+  }
+  .meta, aside {
+    font-size: 0.7rem;
+    line-height: 1.2rem;
+  }
+  .category, sup {
+    font-size: 0.6rem;
+  }
+}
+a {
+  color: $colorPrimary;
+  text-decoration: none;
+  position: relative;
+  background: linear-gradient(to bottom, transparent 0%, transparent 60%, $colorBackgroundPrimary 60%, $colorBackgroundPrimary 100%);
+
+  &:hover {
+    background: none;
+    text-decoration: underline;
+  }
+}
+ul, ol {
+  padding-left: 2rem;
+}
+blockquote {
+  padding-left: 1rem;
+  border-left: 0.2rem solid $colorPrimary;
+}
+
+sup {
+  font-size: 0.75rem;
+  vertical-align: top;
+
+  &.aside,
+  a {
+    border-radius: $borderRadius;
+    display: inline-block;
+    line-height: 1;
+    min-width: 0.625rem;
+    padding: 0.125rem;
+    text-align: center;
+  }
+
+  &.aside {
+    background: $colorBackgroundMedium;
+    margin-top: 1px;
+  }
+
+  a {
+    @include font-sans;
+    background: $colorBackgroundPrimary;    
+    color: $colorPrimary;    
+    font-weight: 600;
+    text-decoration: none;
+    vertical-align: top;
+    margin-top: 1px;
+
+    &:hover {
+      background-color: $colorPrimary;
+      color: $colorWhite;
+      text-decoration: none;
+    }
+  }
+}
+hr {
+  border: none;
+  border-bottom: 1px solid $colorBorderLight;
+  margin: 2.5rem 2rem;
+}
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: 600;
+}
+img {
+  border-radius: $borderRadius;
+  max-width: 100%;
+}
+code {
+  color: $colorTextSecondary;
+  background: $colorBackgroundMedium;
+  border-radius: $borderRadius;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  padding: 0 0.25rem;
+}
+aside {
+  @include font-secondary;
+  border-radius: $borderRadius;
+  background: $colorBackgroundLight;
+  display: inline-block;
+  padding: 1rem;
+}
+strong {
+  @include font-sans;
+}
+
+@media screen and (min-width: ($wrapperWidth + (4 * $sidebarWidth))) {
+  aside {
+    background: none;
+    float: right;
+    height: 0px;
+    position: relative;
+    right: -1 * ($sidebarWidth + 2rem);
+    top: -4rem;
+    width: $sidebarWidth;
+    padding: 0;
+  }
+
+}
+
+/* --- ------- --- */
+/* --- CLASSES --- */
+/* --- ------- --- */
+
+.colorWhite { color: $colorWhite; fill: $colorWhite; }
+.colorPrimary { color: $colorPrimary; fill: $colorPrimary; }
+.colorSecondary { color: $colorSecondary; fill: $colorSecondary; }
+.colorNeutral { color: $colorTextPrimary; fill: $colorTextPrimary; }
+
+/* --- Logo --- */
+
+@keyframes grow-all {
+  0% { transform: scale(1, 1); }
+  20% { transform: scale(0.95, 0.95); } 
+  100% { transform: scale(1.05, 1.05); }
+}
+
+@keyframes pulse-neutral {
+  0% { fill: $colorNeutral; }
+  20% { fill: $colorNeutral; }
+  100% { fill: $colorPrimary; }
+}
+@keyframes pulse-primary1 {
+  0% { opacity: 1; }
+  20% { opacity: 0.5; fill: $colorPrimary; }
+  30% { opacity: 0.75; fill: $colorPrimary; } 
+  100% { opacity: 0.75; fill: $colorPrimary; } 
+}
+@keyframes pulse-primary2 {
+  0% { opacity: 1; }
+  30% { opacity: 0.5; fill: $colorPrimary; }
+  40% { opacity: 0.75; fill: $colorPrimary; } 
+  100% { opacity: 0.75; fill: $colorPrimary; } 
+}
+@keyframes pulse-primary3 {
+  0% { opacity: 1; }
+  40% { opacity: 0.5; fill: $colorPrimary; }
+  50% { opacity: 0.75; fill: $colorPrimary; } 
+  100% { opacity: 0.75; fill: $colorPrimary; } 
+}
+@keyframes pulse-primary4 {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; fill: $colorPrimary; }
+  60% { opacity: 0.75; fill: $colorPrimary; } 
+  100% { opacity: 0.75; fill: $colorPrimary; } 
+}
+@keyframes pulse-secondary1 {
+  0% { opacity: 1; }
+  60% { opacity: 0.5; fill: $colorSecondary; }
+  70% { opacity: 0.5; fill: $colorPrimary; } 
+  100% { opacity: 0.5; fill: $colorPrimary; } 
+}
+@keyframes pulse-secondary2 {
+  0% { opacity: 1; }
+  70% { opacity: 0.5; fill: $colorSecondary; }
+  80% { opacity: 0.5; fill: $colorPrimary; } 
+  100% { opacity: 0.5; fill: $colorPrimary; } 
+}
+@keyframes pulse-secondary3 {
+  0% { opacity: 1; }
+  80% { opacity: 0.5; fill: $colorSecondary; }
+  90% { opacity: 0.5; fill: $colorPrimary; } 
+  100% { opacity: 0.5; fill: $colorPrimary; } 
+}
+@keyframes pulse-secondary4 {
+  0% { opacity: 1; }
+  90% { opacity: 0.5; fill: $colorSecondary; }
+  100% { opacity: 0.5; fill: $colorPrimary; } 
+  100% { opacity: 0.5; fill: $colorPrimary; } 
+}
+
+.pageWrapper > header a {
+  display: inline-block;
+  height: 6rem;
+  background: none;
+
+  &:hover {
+    svg,
+    .colorNeutral,
+    .colorPrimary,
+    .colorSecondary {
+      animation-duration: 0.25s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+    }
+    svg { animation-name: grow-all; }
+    .colorNeutral { animation-name: pulse-neutral; }
+    .colorPrimary:nth-child(8) { animation-name: pulse-primary1; }
+    .colorPrimary:nth-child(7) { animation-name: pulse-primary2; }
+    .colorPrimary:nth-child(9) { animation-name: pulse-primary3; }
+    .colorPrimary:nth-child(6) { animation-name: pulse-primary4; }
+    .colorSecondary:nth-child(3) { animation-name: pulse-secondary1; }
+    .colorSecondary:nth-child(5) { animation-name: pulse-secondary2; }
+    .colorSecondary:nth-child(2) { animation-name: pulse-secondary3; }
+    .colorSecondary:nth-child(4) { animation-name: pulse-secondary4; }
+  }
+
+  &:active {
+    svg { transform: scale(1, 1) !important; }
+    /*
+    .colorNeutral { fill: $colorSecondary !important; }
+    .colorPrimary:nth-child(8) { fill: $colorSecondary !important; }
+    .colorPrimary:nth-child(7) { fill: $colorSecondary !important; }
+    .colorPrimary:nth-child(9) { fill: $colorSecondary !important; }
+    .colorPrimary:nth-child(6) { fill: $colorSecondary !important; }
+    .colorSecondary:nth-child(3) { fill: $colorSecondary !important; }
+    .colorSecondary:nth-child(5) { fill: $colorSecondary !important; }
+    .colorSecondary:nth-child(2) { fill: $colorSecondary !important; }
+    .colorSecondary:nth-child(4) { fill: $colorSecondary !important; } */
+  }
+
+  // Disable the animated link underline
+  &::after,
+  &:hover::after,
+  &:focus::after {
+    display: none;
+  }
+}
+
+/* --- Layout styles --- */
+
+.pageWrapper {
+  margin: 0 auto;
+  padding: 5rem 0;
+}
+.pageWrapper > header {
+  margin-bottom: 2.5rem;
+  height: 6rem;
+}
+.wrapper {
+  margin: 0 auto;
+  max-width: $wrapperWidth;
+  padding: 0 1rem; // Margins for small screens
+  position: relative;
+}
+
+/* --- Utilities --- */
+
+.hidden {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
+
+/* --- Generic styles --- */
+
+.title {
+    padding: 0;
+    margin: 0;
+}
+.meta {
+@include font-secondary;
+  padding-top: 0;
+}
+#content {
+  .title + .meta {
+     margin-top: 0.5rem;
+  }
+}
+
+/* --- Special elements --- */
+
+.summary strong {
+  @include font-sans; 
+}
+
+.dropCap:first-letter {
+  @include font-sans;
+  color: $colorPrimary;
+  float: left;
+  font-weight: bold;
+  font-size: 5.25rem;
+  line-height: 2.5rem;
+  padding: 0.65rem 0 0 0;
+  margin-right: 0.5rem;
+}
+
+.post-list {
+  padding-left: 0;
+
+  li {
+    list-style: none;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+
+.smallHeading {
+  font-size: 1rem;
+}
+
+.category {
+  background: $colorBackgroundMedium;
+  border-radius: $borderRadius * 8;
+  display: inline-block;
+  font-size: 85%;
+  text-decoration: none;
+  padding: 0 0.4rem;
+}
+
+a.category {
+  color: $colorTextSecondary;
+}
+
+a.category:hover {
+  background: $colorPrimary;
+  color: $colorWhite;
+  text-decoration: none;
+}
+
+.pipe {
+  color: $colorBorderLight;
+}
+
+@media screen and (max-width: 480px) {
+  .categories {
+    display: block;
+
+    .pipe {
+      display: none;
+    }
+  }
+}
+
+.site-footer a.site-title {
+  background: none;
+  display: block;
+  margin: 3.5rem auto 0;
+  max-width: 2rem;
+
+  .colorPrimary,
+  .colorSecondary,
+  .colorNeutral {
+    fill: $colorBorderLight;
+  }
+
+  // Disable the animated link underline
+  &::after,
+  &:hover::after,
+  &:focus::after {
+    display: none;
+  }
+}
