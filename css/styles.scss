@@ -143,6 +143,9 @@ p {
   .category, sup {
     font-size: 0.6rem;
   }
+  aside {
+    margin-bottom: 1.2rem;
+  }
 }
 a {
   color: $colorPrimary;
@@ -227,7 +230,7 @@ aside {
   @include font-secondary;
   border-radius: $borderRadius;
   background: $colorBackgroundLight;
-  display: inline-block;
+  display: block;
   padding: 1rem;
 }
 strong {
