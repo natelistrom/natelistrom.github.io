@@ -25,10 +25,15 @@
       if (document.querySelectorAll('sup:not(.aside)').length > 0) {
 
         let num_refID = 0; 
-        let dom_references = document.querySelectorAll('sup:not(.aside)');
+        let dom_references = document.querySelectorAll('sup:not(.aside)'); // Get a nodelist of all <sup> items
         let dom_wrapper = document.getElementById('content').firstElementChild;
 
         dom_wrapper.insertAdjacentHTML("beforeend", "<h4 id='references'>References</h4><ol id='citations'></ol>");
+        
+        let dom_footnotes = document.getElementById('citations');
+
+        let arr_refsList = [];
+        let arr_test = [];
       
         dom_references.forEach(function(sup) {
           /*
@@ -37,21 +42,86 @@
             assigning each of them a unique ID. 
             
             Handily, we can also use this as the ID to which our footer reference back links point.
-          */
+            */
 
           num_refID = num_refID + 1;
+          sup.setAttribute("id","ref" + num_refID); // Set <sup id="n"> 
 
-          sup.setAttribute("id","ref" + num_refID);
+          let str_refContent = sup.innerHTML; // Grab the content of the superscript item
 
-          var dom_refContent = sup.innerHTML; // Grab the content of the superscript item
+          /*
+            1. 
+            Before we add items to the array, check to see if they already exist in the array.
+            If they do, change them to just the short version.
+            */
 
-          var dom_supItem = document.getElementById("ref" + num_refID + ""); // Target the current superscript item
-          dom_supItem.innerHTML = "<a href='#" + num_refID +"'>" + num_refID + "</a>"; // Replace the superscript item content with a link
+          // Capture the title.
+          let str_refTitle = "No title";
+          if (sup.querySelector('.refTitle')) {
+            str_refTitle = sup.querySelector('.refTitle').innerHTML;
+          };
 
-          var dom_footnotes = document.getElementById('citations'); // Grab the footnote citations list
-          dom_footnotes.innerHTML += "<li>" + dom_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>";
+          // Compare the title with the elements already in the array to see if it already exists.
+          let found = undefined;  
+          found = arr_refsList.find(element => element[1] == str_refTitle); 
 
+          if (found != undefined) {
+
+            /* 
+              Check to see if there is a specific page number or location.
+              If one exists, store it as the str_refLocation variable.
+              */
+            let str_refLocation = "";
+            if (sup.childNodes[1]) {
+              str_refLocation = sup.childNodes[1].textContent;
+            };
+
+            // Capture the author.
+            let str_refAuthor = "No author";
+            if (sup.querySelector('.refAuthor')) {
+              str_refAuthor = sup.querySelector('.refAuthor').innerHTML; 
+            };
+
+            // Build the new content.
+            str_refContent = str_refAuthor + " " + str_refTitle + " " + str_refLocation;
+          };
+          
+          /*
+            2.
+            Add the item to the array.
+            */  
+          arr_refsList.push([str_refContent, str_refTitle]);
+
+          /* Replace the content of the <sup> item */
+          var dom_supItem = document.getElementById("ref" + num_refID + "");
+          dom_supItem.innerHTML = "<a href='#" + num_refID +"'>" + num_refID + "</a>";
         }); // end forEach
+
+        /*
+            Loop backward over the array with the short authors
+            If the titles are the same in two sequential items, change the second item to ibid
+            */
+        for (let i = arr_refsList.length - 1; i >= 0; i--) {
+
+          let str_currentTitle = arr_refsList[i][1];
+          let str_prevTitle = "No title";
+
+          if (i > 0) {
+            str_prevTitle = arr_refsList[i - 1][1];
+          };
+
+          if (str_currentTitle === str_prevTitle) {
+            arr_refsList[i][0] = "Ibid.";
+          };
+
+        }; // end for
+
+        // Create the references list HTML.
+        for (let j = 0; j < arr_refsList.length; j++) {
+          num_refID = j + 1;
+          var str_refContent = arr_refsList[j][0];
+          dom_footnotes.innerHTML += "<li>" + str_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>";
+        };
 
       }; // end if
       
