@@ -54,68 +54,63 @@
 
           let str_refContent = sup.innerHTML;
 
-          /*
-            1. 
-            Before we add items to the array, check to see if they already exist in the array.
-            If they do, change them to just the short version.
-            */
-
-          /* 
-            Capture the title.
-            We'll use this as our point of comparison.
-            */
+          // Capture the title.
           let str_refTitle = "No title";
           if (sup.querySelector('.refTitle')) {
             str_refTitle = sup.querySelector('.refTitle').innerHTML;
           };
 
-          /* 
-            Check to see if there is a specific page number or location.
-            If one exists, store it as the str_refLocation variable.
-            This needs to be outside of the comparison conditional because
-            we will later store the page number in the array that we use
-            to make the ibid references.
-            */
-            let str_refLocation = "";
-            if (sup.childNodes[1]) {
-              str_refLocation = sup.childNodes[1].textContent;
-            };
-
-          /* 
-            Compare the title with the elements already in the array to see if it already exists.
-            If the title doesn't already exists, found should return undefined.
-            */
-          let found = undefined;  
-          found = arr_refsList.find(element => element[1] == str_refTitle);
-          /* 
-            WARNING: Because of the way Jekyll's Markdown parser works, 
-            quotes can be unequal if nested at different depths.
-            Thus, for references, we use explicit right and left HTML &dquo; elements.
-            */
-
-          if (found != undefined) {
-
-            // Capture the author.
-            let str_refAuthor = "No author";
-            if (sup.querySelector('.refAuthor')) {
-              str_refAuthor = sup.querySelector('.refAuthor').innerHTML; 
-            };
-
-            // Build the new "short version" of the reference.
-            str_refContent = str_refAuthor + " " + str_refTitle + " " + str_refLocation;
+          // Capture the author.
+          let str_refAuthor = "No author";
+          if (sup.querySelector('.refAuthor')) {
+            str_refAuthor = sup.querySelector('.refAuthor').innerHTML; 
           };
-          
-          /*
-            2.
-            Add the item to the array.
-            */  
 
-          arr_refsList.push([str_refContent, str_refTitle, str_refLocation]);
+          // Capture the page number or location if one exists.
+          let str_refLocation = "";
+          if (sup.childNodes[1]) {
+            str_refLocation = sup.childNodes[1].textContent;
+          }; 
+
+          arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
 
           // Replace the content of the <sup> item
           var dom_supItem = document.getElementById("ref" + num_refID + "");
           dom_supItem.innerHTML = "<a href='#" + num_refID +"'>" + num_refID + "</a>";
         }); // end forEach
+
+        /*
+          Loop through the array and change repeat references to short versions.
+          Conditionally show titles on short versions if multiple works by the same author.
+          */
+        for (let y = 0; y < arr_refsList.length; y++) {
+          let str_currentTitle = arr_refsList[y][1];
+          let str_currentLocation = arr_refsList[y][2];
+          let str_currentAuthor = arr_refsList[y][3];
+
+          // Check to see that this is not the first time a work has been cited.
+          let num_firstReferenceIndex = undefined;  
+          num_firstReferenceIndex = arr_refsList.findIndex(element => element[1] == str_currentTitle);
+          if (num_firstReferenceIndex != y) {
+
+            // The entire array is populated at this point.
+            // We are currently at one of the items in the array . . .
+            // Check the current author and create a new array of any matching items that also share that author.
+            let arr_matchingAuthor = arr_refsList.filter(element => element[3] == str_currentAuthor);
+
+            let str_titleMismatchFound = true;
+
+            // Search the array of matching author's items to see if any of them have a different title.
+            str_titleMismatchFound = arr_matchingAuthor.some(element => element[1] != str_currentTitle);
+
+            if(str_titleMismatchFound == true) {
+              arr_refsList[y][0] = str_currentAuthor + " " + str_currentTitle + " " + str_currentLocation;
+            } else {
+              arr_refsList[y][0] = str_currentAuthor + " " + str_currentLocation;
+            }; // end if
+
+          }; // end if
+        }; // end for
 
         /*
             Loop backward over the array.
@@ -139,7 +134,7 @@
         // Create the references list HTML.
         for (let j = 0; j < arr_refsList.length; j++) {
           num_refID = j + 1;
-          var str_refContent = arr_refsList[j][0];
+          str_refContent = arr_refsList[j][0];
           dom_footnotes.insertAdjacentHTML("beforeend", "<li>" + str_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>");
         };
 
