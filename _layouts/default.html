@@ -52,24 +52,27 @@
           num_refID = num_refID + 1;
           sup.setAttribute("id","ref" + num_refID); // Set <sup id="n"> 
 
-          let str_refContent = sup.innerHTML;
+          let str_refContent = "";
+          if(sup.querySelector('.refBody')) {
+            str_refContent = sup.querySelector('.refBody').innerHTML;
+          }; 
 
-          // Capture the title.
+          // Capture the short title.
           let str_refTitle = "No title";
-          if (sup.querySelector('.refTitle')) {
-            str_refTitle = sup.querySelector('.refTitle').innerHTML;
+          if (sup.querySelector('.refTitleShort')) {
+            str_refTitle = sup.querySelector('.refTitleShort').innerHTML;
           };
 
-          // Capture the author.
+          // Capture the short author.
           let str_refAuthor = "No author";
-          if (sup.querySelector('.refAuthor')) {
-            str_refAuthor = sup.querySelector('.refAuthor').innerHTML; 
+          if (sup.querySelector('.refAuthorShort')) {
+            str_refAuthor = sup.querySelector('.refAuthorShort').innerHTML; 
           };
 
           // Capture the page number or location if one exists.
           let str_refLocation = "";
-          if (sup.childNodes[1]) {
-            str_refLocation = sup.childNodes[1].textContent;
+          if (sup.childNodes[2]) {
+            str_refLocation = sup.childNodes[2].textContent;
           }; 
 
           arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
