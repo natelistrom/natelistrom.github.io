@@ -80,3 +80,12 @@ This capacity for satisfaction of intractable problems is one of the core powers
 Ultimately, it doesn't matter whether a person's model of the world is challenged directly by incongruities between their models and the external phenomena they encounter or indirectly by internal incongruities within in their own models. What matters is that these incongruities can play on the level of a person's most deeply-held beliefs. The greater the challenge &mdash; and the more deeply held the belief &mdash; the greater the conflict. And, the greater the conflict, the greater the potential for peak aesthetic experience.
 
 Onward . . .
+
+---
+
+#### Note
+
+[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
+
+- <strong>Moderate confidence</strong>
+- <strong>Moderate effort</strong>
