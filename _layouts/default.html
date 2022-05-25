@@ -75,6 +75,8 @@
             str_refLocation = sup.childNodes[2].textContent;
           }; 
 
+          str_refContent = str_refContent + " " + str_refLocation;
+
           arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
 
           // Replace the content of the <sup> item
