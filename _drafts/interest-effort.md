@@ -2,7 +2,7 @@
 layout: post
 title:  "The interest:effort formula for engaging audiences"
 date:   2022-02-06 12:00:00 -0400
-categories: Story
+tags: Story
 reading_time: 4 min
 ---
 
