@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 6: priming and callbacks"
+title:  "Peak aesthetic experiences part 7: priming and callbacks"
 date:   2022-05-25 12:00:00 -0400
 tags: Story Writing Book
 reading_time: 8 min
