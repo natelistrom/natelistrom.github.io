@@ -8,7 +8,11 @@ reading_time: 8 min
 
 ---
 
-What causes [peak aesthetic experiences]()? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
+I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to ["work with the garage door up."](https://notes.andymatuschak.org/Work_with_the_garage_door_up) In this post, I continue exploring research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}).
+
+---
+
+What causes [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %})? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
 
 - [resonance with values]({% post_url 2022-04-08-pae-content %})
 - [relationships and prosocial actions]({% post_url 2022-04-08-pae-content %})
