@@ -30,7 +30,7 @@ In this post, I'll talk about the first of these.
 
 Investment is how much the audience cares about the story.
 
-In order for audiences to respond strongly, they need to be invested in the outcome. I must be meaningful to them. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+In order for audiences to respond strongly, they need to be invested in the outcome. It must be meaningful to them. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
 
 In part, investment can come from the themes that a story addresses &mdash; We'll talk about that in a minute &mdash; but ideas alone are difficult to connect with. The best way to bring audiences into a work is through character.
 
