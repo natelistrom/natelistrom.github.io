@@ -56,7 +56,7 @@ In 2015, Menninghaus, et al. interviewed more than two hundred students, asking 
 
 When they asked participants to rate the qualities of these events on a five-point Likert scale, qualities that rated the highest were "being ethically acceptable, being consistent with moral ideals, and being consistent with the picture of oneself." <sup class="aside">A</sup> If you squint, you'll see that all three of these highest rated qualities have to do with values.
 
-<aside>There are a couple of caveats. First, the researchers suggested that, since the eliciting events reported by participants were mostly attachment-related &mdash; birth, marriage, death, etc. &mdash; being moved isn't necessarily related to "positive core values" per se., but perhaps only a subset of values having to do with social attachments. More on this in a later post. Second, possible that the strong emphasis on moral ideals here represents the culture of the sampled population &mdash; German university students &mdash; rather than humanity in general, but evidence seems to suggest there are reasons to believe it's more universal.</aside>
+<aside>A. There are a couple of caveats. First, the researchers suggested that, since the eliciting events reported by participants were mostly attachment-related &mdash; birth, marriage, death, etc. &mdash; being moved isn't necessarily related to "positive core values" per se., but perhaps only a subset of values having to do with social attachments. More on this in a later post. Second, possible that the strong emphasis on moral ideals here represents the culture of the sampled population &mdash; German university students &mdash; rather than humanity in general, but evidence seems to suggest there are reasons to believe it's more universal.</aside>
 
 Also note that what's at play here is the _vindication_ of our values. We're moved when the values that we hold dear are put on display and celebrated.
 
@@ -74,15 +74,11 @@ The key claim is that peak aesthetic experiences affect our minds at the highest
 
 Our ideals and values, view of self and how we integrate with others, and sense of purpose are all at play. <sup class="aside">B</sup>
 
-<aside>This might explain why achievement stories like sports dramas elicit chills. It's not clear to me, however, whether it's the achievement itself ("I have fulfilled my purpose/meaning") or if it's an ethical value on endurance and overcoming ("I have fulfilled my duty to persist in the face of opposition") which is the true elicitor. In other words, it's not clear if it is a distinct category &mdash; achieving &mdash; or if it's just a re-packaging of the ethical/moral values category.</aside>
+<aside>B. This might explain why achievement stories like sports dramas elicit chills. It's not clear to me, however, whether it's the achievement itself ("I have fulfilled my purpose/meaning") or if it's an ethical value on endurance and overcoming ("I have fulfilled my duty to persist in the face of opposition") which is the true elicitor. In other words, it's not clear if it is a distinct category &mdash; achieving &mdash; or if it's just a re-packaging of the ethical/moral values category.</aside>
 
-The lynchpin is that, according to the theory, changing one's view at higher levels of our cognitive hierarchies require changes to the supporting, lower layers. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+The key point is that, according to the theory, changing one's view at higher levels of our cognitive hierarchies require changes to the supporting, lower layers. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
 
-In other words, we're most deeply invested in the things at the highest levels of the hierarchy — our values. We emotionally connect in powerful ways with stories that vindicate those values.
-
-Changing your worldview is one of the most energy-intensive and difficult cognitive processes. We don't enter into it easily.
-
-And the converse is also true. We experience reward when our worldviews are positively reinforced. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+In other words, we're most deeply invested in the things at the highest levels of the hierarchy — our values. Changing your worldview is one of the most energy-intensive and difficult cognitive processes. We don't enter into it easily. And the converse is also true. We experience reward when our worldviews are positively reinforced. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup> We emotionally connect in powerful ways with stories that vindicate our values.
 
 # Wrapping it up
 
