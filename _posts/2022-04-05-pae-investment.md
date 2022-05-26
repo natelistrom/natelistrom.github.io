@@ -19,7 +19,7 @@ What causes peak aesthetic experiences? Or, put another way, how do they work? H
 I'll group the research on this into five buckets:
 
 - Investment
-- Content ([1]({% post_url 2022-04-08-pae-content %}), [2]({% post_url 2022-05-09-pae-content-2 %}), [3]({% post_url 2022-05-22-pae-content-3 %}))
+- Content ([1]({% post_url 2022-04-08-pae-content %}), [2]({% post_url 2022-05-09-pae-content-2 %}), [3]({% post_url 2022-05-22-pae-content-3 %}), [4]({% post_url 2022-05-25-pae-content-4 %}))
 - [Expectation]({% post_url 2022-04-15-pae-expectation %})
 - Intensity
 - Breakthrough
