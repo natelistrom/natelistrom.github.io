@@ -12,7 +12,7 @@ I'm doing research for a book about story. [I'm posting summaries of my notes as
 
 ---
 
-What causes [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %})? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
+What causes peak aesthetic experiences? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
 
 - [resonance with values]({% post_url 2022-04-08-pae-content %})
 - [relationships and prosocial actions]({% post_url 2022-04-08-pae-content %})
