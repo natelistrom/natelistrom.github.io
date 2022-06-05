@@ -56,7 +56,7 @@ But, it’s just as possible that what Schoeller and Perlovsky detected in one, 
 
 ## Callbacks: long-range setup and payoff
 
-In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup>
+In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for our discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup>
 
 The researchers' motivations for using shorter clips was most likely practical; it's far quicker to test a 90-second clip than a full score. <sup class="aside">B</sup> 
 
