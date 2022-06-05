@@ -126,12 +126,20 @@
           let str_currentTitle = arr_refsList[i][1];
           let str_prevTitle = "No title";
 
+          let str_currentLocation = arr_refsList[i][2];
+          let str_prevLocation = "No location";
+
           if (i > 0) {
             str_prevTitle = arr_refsList[i - 1][1];
+            str_prevLocation = arr_refsList[i - 1][2];
           };
 
           if (str_currentTitle === str_prevTitle) {
-            arr_refsList[i][0] = "Ibid. " + arr_refsList[i][2];
+            if (str_currentLocation === str_prevLocation) {
+              arr_refsList[i][0] = "Ibid.";
+            } else {
+              arr_refsList[i][0] = "Ibid. " + arr_refsList[i][2];
+            };
           };
 
         }; // end for
