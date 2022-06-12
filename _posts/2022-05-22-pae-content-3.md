@@ -55,7 +55,7 @@ The second kind of incongruity, in contrast, is when a person's knowledge instin
 
 While Pelowski focused on the first type of conflicts, Schoeller and Perlovsky address the second. Following Lévi-Strauss and the structuralists, they claim that story, particularly, helps us deal with internal incongruities in our worldviews. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
 
-Think, for example, of the scene in Peter Jackson's _The Fellowship of the Rings_ in which the protagonist, Frodo, decides to accept the task of bearing the ring to Mordor. 
+Think, for example, of the scene in Peter Jackson's _The Fellowship of the Rings_ in which the protagonist, Frodo, decides to accept the task of bearing the Ring to Mordor. 
 
 Frodo has spent a significant portion of the story up to this point suffering loss and fear, first in saying farewell to his mentor Bilbo and then in being chased by fearsome ringwraiths. He knows personally the kinds of peril (though certainly not yet the degree) that anyone bearing the Ring shall face. And, having brought it to the Elfen stronghold of Rivendel, he is "off the hook;" he has already, quite heroically, completed the task that was asked of him &mdash; a task far more arduous than anyone could have reasonably demanded of him. By rights, he should be doing as Bilbo and planning either to spend his time resting from his travails or return home.
 
@@ -63,7 +63,7 @@ This is the expectation with which Frodo (and with him the audience) enters the 
 
 But, when the council convenes, the phenomena in Frodo's environment force him to consider a different, much more difficult possibility. Slowly, as others speak, the enormity of the problem and the risk begin to become apparent. The flight and fear that Frodo has so far experienced is only a mere drop in the ocean of what is to be for whomever is chosen to bear the Ring onward. Though nobody will admit it, the council members all quietly wish that others would perform the task. Nobody is eager to take it up themselves.
 
-As the discussion heats up around him, Frodo begins to grapple with the awful truth: rather than being finished with the bearing of the ring, perhaps he has only begun the first few steps on a much longer, much more difficult journey.
+As the discussion heats up around him, Frodo begins to grapple with the awful truth: rather than being finished with the bearing of the Ring, perhaps he has only begun the first few steps on a much longer, much more difficult journey.
 
 Here, both the audience and Frodo are caught between incongruous values. On the one hand, we as the audience want health and safety and wellbeing for Frodo. He has fulfilled a difficult mission and our values tell us that he has earned a respite. On the other hand, we know that the Ring must be destroyed, and we want someone to take that heroic charge. Morally, we respect the one who willingly takes on such an extreme challenge. And, perversely, because we are by this point so invested in Frodo (see my [earlier post on investment]({% post_url 2022-04-05-pae-investment %})), we want Frodo to be the one to do it. So there is a conflict, a tension. There are multiple, irreconcileable values at play.
 
