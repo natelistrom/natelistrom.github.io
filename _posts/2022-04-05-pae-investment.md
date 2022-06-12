@@ -21,8 +21,8 @@ I'll group the research on this into five buckets:
 - Investment
 - Content ([1]({% post_url 2022-04-08-pae-content %}), [2]({% post_url 2022-05-09-pae-content-2 %}), [3]({% post_url 2022-05-22-pae-content-3 %}), [4]({% post_url 2022-05-25-pae-content-4 %}))
 - [Expectation]({% post_url 2022-04-15-pae-expectation %})
-- Intensity
-- Breakthrough
+- [Intensity]({% post_url 2022-06-05-pae-intensity %})
+- [Breakthrough]({% post_url 2022-06-10-pae-breakthrough %})
 
 In this post, I'll talk about the first of these.
 
