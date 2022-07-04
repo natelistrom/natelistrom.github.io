@@ -43,23 +43,23 @@ But what actually happens to Spielberg's audience when the beast is revealed? Up
 
 ## A shift in the knowledge instinct
 
-As a reminder, Schoeller and Perlovsky theorize that "aesthetic emotions correspond to satisfaction or dissatisfaction of the knowledge instinct." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Methodological considerations" section.</sup>
+As a reminder, Schoeller and Perlovsky theorize that "aesthetic emotions correspond to satisfaction or dissatisfaction of the knowledge instinct." <sup>{% include schoellerAndPerlovsky-2016.html %} "Methodological considerations" section.</sup>
 
-They chart the knowledge instinct on a difference curve representing the distance between our existing mental models and the phenomena we encounter in the world.<sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "The instinct of knowledge" section.</sup>
+They chart the knowledge instinct on a difference curve representing the distance between our existing mental models and the phenomena we encounter in the world.<sup>{% include schoellerAndPerlovsky-2016.html %} "The instinct of knowledge" section.</sup>
 
-As we integrate our observations of the world and update our mental models, the difference between the two becomes less and less. The researchers represent this as a flattening. They hypothesize that peak aesthetic experience occurs when the curve totally flattens after a steep incline.<sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Aesthetic chills" section.</sup>
+As we integrate our observations of the world and update our mental models, the difference between the two becomes less and less. The researchers represent this as a flattening. They hypothesize that peak aesthetic experience occurs when the curve totally flattens after a steep incline.<sup>{% include schoellerAndPerlovsky-2016.html %} "Aesthetic chills" section.</sup>
 
-> "The dynamic . . . seems to involve a change from a great disequilibrium . . . to a state of equilibrium." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Narratology" section.</sup>
+> "The dynamic . . . seems to involve a change from a great disequilibrium . . . to a state of equilibrium." <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section.</sup>
 
 For our discussion, the point is that, leading up to this moment, there is mounting tension as our brains struggle to reconcile what we observe with what we know. When the pieces finally snap together, we experience a moment almost like an epiphany. <sup class="aside">A</sup> This leveling off of the curve is a kind of breakthrough.
 
 <aside>
-A. In some cases, if the tension is created by an intellectual puzzle, the breakthrough is a literal epiphany. Pelowski proposes that our subjective experience of the feeling of insight (which we might experience during a revelation-based turning point) is driven by the knowledge instinct. Feeling insight is a reward triggered by the transition from being threatened by new information to integrating it. <sup>{% include pelowski-tearsAndTransformation.html %} "'Aesthetic'/insightful experience" section.</sup>
+A. In some cases, if the tension is created by an intellectual puzzle, the breakthrough is a literal epiphany. Pelowski proposes that our subjective experience of the feeling of insight (which we might experience during a revelation-based turning point) is driven by the knowledge instinct. Feeling insight is a reward triggered by the transition from being threatened by new information to integrating it. <sup>{% include pelowski-2015.html %} "'Aesthetic'/insightful experience" section.</sup>
 </aside>
 
-The emotional payoff is proportional to the intensity of the struggle. [The greater the struggle, the greater the payoff]({% post_url 2022-06-05-pae-intensity %}). <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Properties of chill-eliciting scenes" section.</sup>
+The emotional payoff is proportional to the intensity of the struggle. [The greater the struggle, the greater the payoff]({% post_url 2022-06-05-pae-intensity %}). <sup>{% include schoellerAndPerlovsky-2016.html %} "Properties of chill-eliciting scenes" section.</sup>
 
-Pelowski similarly identified a progression of "initial discrepancy, followed by schema change, and [conclusion] in a proposed adjustment or 'transformation' of one's self image/world-view.” <sup>{% include pelowski-tearsAndTransformation.html %} "Abstract" section.</sup>
+Pelowski similarly identified a progression of "initial discrepancy, followed by schema change, and [conclusion] in a proposed adjustment or 'transformation' of one's self image/world-view.” <sup>{% include pelowski-2015.html %} "Abstract" section.</sup>
 
 Following a period of tension, our mental model readjusts abruptly, and we experience transformation.
 
@@ -67,13 +67,13 @@ Following a period of tension, our mental model readjusts abruptly, and we exper
 
 How is that moment of transformation constructed?
 
-Menninghaus et al.'s study included reports of participants' moving experiences in fiction as well as life. Among the reports were events such as weddings, funerals, and births. <sup>{% include menninghaus-beingMoved.html %} "Cognitive appraisal patterns" section.</sup>
+Menninghaus et al.'s study included reports of participants' moving experiences in fiction as well as life. Among the reports were events such as weddings, funerals, and births. <sup>{% include menninghaus-2015.html %} "Cognitive appraisal patterns" section.</sup>
 
-From these, the researchers found that among "the most distinctive findings regarding cognitive appraisals [what participants thought about particularly moving events] were very low ratings for causation of the event by oneself and power to change the outcome." <sup>{% include menninghaus-beingMoved.html %} "General discussion" section.</sup> (Emphasis theirs)
+From these, the researchers found that among "the most distinctive findings regarding cognitive appraisals [what participants thought about particularly moving events] were very low ratings for causation of the event by oneself and power to change the outcome." <sup>{% include menninghaus-2015.html %} "General discussion" section.</sup> (Emphasis theirs)
 
 The moment of payoff begins, counterintuitively, with a recognition that we can't change the situation. We have to get "backed into a corner." 
 
-When observing participants watching moving movie scenes, Wassiliwizky et al. detected activation in brain regions that have been "associated with states of helplessness and feelings of being emotionally overwhelmed." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup>
+When observing participants watching moving movie scenes, Wassiliwizky et al. detected activation in brain regions that have been "associated with states of helplessness and feelings of being emotionally overwhelmed." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup>
 
 As an audience, we need to realize on a subconscious level that we are stuck and there is no way out. In a word, we must experience _helplessness_.
 
@@ -83,7 +83,7 @@ On a character level, when Grant realizes the children will die if he does nothi
 
 When we are backed into a corner, when the struggle is at its most intense, we must feel powerless to escape the problem.
 
-Anything less than that will fail to create the situation necessary for peak aesthetic experience, because until we are powerless, we won't surrender. <sup>{% include pelowski-tearsAndTransformation.html %} "Secondary control" section.</sup>
+Anything less than that will fail to create the situation necessary for peak aesthetic experience, because until we are powerless, we won't surrender. <sup>{% include pelowski-2015.html %} "Secondary control" section.</sup>
 
 ## Surrender and release
 
@@ -91,13 +91,13 @@ Pelowski's theory hinges on the moment of change in worldview. (For our purposes
 
 Remember that people generally resist challenges to their worldview. Change is costly and threatening. If we are successful in resisting, we return to the safety of our preexisting beliefs. It is only when our resistance fails &mdash; and we surrender &mdash; that we experience tears:
 
-> "Crying . . . is argued to occur specifically in those rare cases when viewers do not assimilate or escape. Forced into an intractable position, they instead adopt a self-referential approach to interaction, acknowledging discrepancy, 'giving up' attempts at overt control, eventually confronting and changing _their own_ schema or expectations.” <sup>{% include pelowski-tearsAndTransformation.html %} "Review: the two-factor theory of crying" section.</sup> (Emphasis mine.)
+> "Crying . . . is argued to occur specifically in those rare cases when viewers do not assimilate or escape. Forced into an intractable position, they instead adopt a self-referential approach to interaction, acknowledging discrepancy, 'giving up' attempts at overt control, eventually confronting and changing _their own_ schema or expectations.” <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup> (Emphasis mine.)
 
 This observation suggests that perhaps it is not powerlessness, itself, that elicits peak aesthetic experiences but rather the _release_ that comes at the end of a process of encountering overwhelming change, struggling to resist it, realizing one's inability to overcome it, and finally surrendering and accepting it.
 
 Pelowski outlines the process as follows:
 
-> “The model proposes correlations between crying and: (1) anxiety, tension, confusion, stemming from initial discrepancy; followed by (2) need to escape/abort, related to secondary control. In the case of crying, this should be followed by (3) self-awareness, motive assessment, and awareness of triggers; finally concluding with (4) relief as well as epiphany or insight, marking the aesthetic end." <sup>{% include pelowski-tearsAndTransformation.html %} "Emotion" section.</sup>
+> “The model proposes correlations between crying and: (1) anxiety, tension, confusion, stemming from initial discrepancy; followed by (2) need to escape/abort, related to secondary control. In the case of crying, this should be followed by (3) self-awareness, motive assessment, and awareness of triggers; finally concluding with (4) relief as well as epiphany or insight, marking the aesthetic end." <sup>{% include pelowski-2015.html %} "Emotion" section.</sup>
 
 Thus peak aesthetic experience correlates with _relief_. 
 
@@ -105,17 +105,17 @@ Leading up to the moment of acceptance, tension has been building like the stres
 
 The T-Rex appears; Dr. Grant makes his choice.
 
-Once this happens, the knowledge instinct is satisfied. "There is no need to foresee what is going to happen next since the storyline has reached its point of equilibrium. The spectator is finally free to let go." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Narratology" section.</sup> <sup class="aside">B</sup>
+Once this happens, the knowledge instinct is satisfied. "There is no need to foresee what is going to happen next since the storyline has reached its point of equilibrium. The spectator is finally free to let go." <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section.</sup> <sup class="aside">B</sup>
 
 <aside>
 B. Of course, in our example from <em>Jurassic Park</em>, there are still many other questions raised, which keep the knowledge instinct going. This is only the story midpoint, after all. But these particular threads have reached their payoff.
 </aside>
 
-The audience experiences a "disappearance of a barrier, solution to a problem, or transformation of a previously held worldview." <sup>{% include pelowski-tearsAndTransformation.html %} "Review: the two-factor theory of crying" section.</sup> 
+The audience experiences a "disappearance of a barrier, solution to a problem, or transformation of a previously held worldview." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup> 
 
 Tension evaporates, and the release elicits peak aesthetic experience. 
 
-> "Crying . . . [is] a physiological response . . . accompanying relief of tension following schema change." <sup>{% include pelowski-tearsAndTransformation.html %} "Review: the two-factor theory of crying" section.</sup> 
+> "Crying . . . [is] a physiological response . . . accompanying relief of tension following schema change." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup> 
 
 ## In storytelling
 
@@ -137,13 +137,13 @@ In the climax, when the final clue is revealed and there is sudden reconciliatio
 
 Third, as has already been hinted by the mention of turning points, breakthrough moments can help us construct plot structures.
 
-> "There are particular nods in the story (especially at the end, in the third act) where tension reaches a peak value. These nods constitute the structure of the story." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Narratology" section.</sup>
+> "There are particular nods in the story (especially at the end, in the third act) where tension reaches a peak value. These nods constitute the structure of the story." <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section.</sup>
 
-Schoeller and Perlovsky found that nearly 60% of the scenes which elicited participant chills were at what they call "crucial node[s] in the narrative," which they define as scenes for which "the summary of the film would not be the same if the properties of these scenes were different." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Properties of chill-eliciting scenes" section.</sup>
+Schoeller and Perlovsky found that nearly 60% of the scenes which elicited participant chills were at what they call "crucial node[s] in the narrative," which they define as scenes for which "the summary of the film would not be the same if the properties of these scenes were different." <sup>{% include schoellerAndPerlovsky-2016.html %} "Properties of chill-eliciting scenes" section.</sup>
 
 The types of breakthrough moments that elicit peak aesthetic experience &mdash; and the attendant shifts in audience understanding &mdash; are plot-defining.
 
-Lastly, we can see why the highest tension in well-crafted stories is often near the end. (Schoeller and Perlovsky found that "more than 80% of the chill-eliciting scenes described by . . . subjects take place in the third act.") <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Properties of chill-eliciting scenes" section.</sup>
+Lastly, we can see why the highest tension in well-crafted stories is often near the end. (Schoeller and Perlovsky found that "more than 80% of the chill-eliciting scenes described by . . . subjects take place in the third act.") <sup>{% include schoellerAndPerlovsky-2016.html %} "Properties of chill-eliciting scenes" section.</sup>
 
 In order to keep an audience engaged through the body of the story, a storyteller must maintain some difference between the facts of the story and the audience's mental models. There must be some missing information, which triggers the audience's knowledge instinct to keep seeking resolution.
 

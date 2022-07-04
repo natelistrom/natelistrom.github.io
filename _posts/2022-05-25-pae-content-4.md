@@ -28,13 +28,13 @@ In this post, I’ll talk about two more elements of story content that can help
 
 In their study, Schoeller and Perlovsky ran an experiment in which they exposed subjects to different primes before watching a minute-long, choreographed video set to classical music. They intended the primes to either activate higher reasoning, be neutral, or be incoherent.
 
-> "We chose to use (i) a sentence from the French philosopher Pascal ('the supreme function of reason is to show man that some things are beyond reason'), (ii) a sentence from a children's book ('I once saw an apple in a tree'), and (iii) a classic example from Noam Chomsky illustrating that syntax might be independent from semantics ('colorless green ideas sleep furiously')." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+> "We chose to use (i) a sentence from the French philosopher Pascal ('the supreme function of reason is to show man that some things are beyond reason'), (ii) a sentence from a children's book ('I once saw an apple in a tree'), and (iii) a classic example from Noam Chomsky illustrating that syntax might be independent from semantics ('colorless green ideas sleep furiously')." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
-They found that the primes did indeed influence subjects' experience of chills upon watching the video, with the higher-reasoning prime having the greatest influence and the incoherent prime resulting in none of the participants experiencing chills at all. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+They found that the primes did indeed influence subjects' experience of chills upon watching the video, with the higher-reasoning prime having the greatest influence and the incoherent prime resulting in none of the participants experiencing chills at all. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
-In a post-experiment survey, the participants who were exposed to the more meaningful, higher-reasoning prime also reported experiencing more pleasure. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+In a post-experiment survey, the participants who were exposed to the more meaningful, higher-reasoning prime also reported experiencing more pleasure. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
-Priming works by exposing a person to some kind of input, which leaves a “residual trace,” in neural pathways, making future activation of the same pathways easier. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+Priming works by exposing a person to some kind of input, which leaves a “residual trace,” in neural pathways, making future activation of the same pathways easier. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
 In my very limited knowledge, <sup class="aside">A</sup> the kind of priming that Schoeller and Perlovsky employed is a short-term phenomenon. It wouldn't work, for example, for them to have their participants be exposed to the prime, go shopping at the mall, and then return to watch the choreography video. By that time, the neural pathways activated but the prime would no longer "be warm," so the it would have no effect.
 
@@ -46,7 +46,7 @@ The prime doesn’t have to be in any way related to the subsequent triggering e
 
 The takeaway for storytellers is that priming is more about the heart than the head. It’s about the feeling, the cognitive mood that you want your audience to be in, rather than about the specific details of the setup and payoff. Want your audience to _feel_ insight at the payoff, for example? Challenge them with a puzzle immediately before.
 
-The last thing to observe, which was Schoeller’s and Perlovsky’s point, is that priming can affect how much enjoyment your audience derives from your story. In their experiment, participants who received the meaningful prime reported deriving greater pleasure from the art than those who didn’t. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+The last thing to observe, which was Schoeller’s and Perlovsky’s point, is that priming can affect how much enjoyment your audience derives from your story. In their experiment, participants who received the meaningful prime reported deriving greater pleasure from the art than those who didn’t. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
 It would be tempting to claim that this experiment supports valuing “high,” intellectually-engaging art over more populist, “popcorn” art. I, myself, enjoy intellectually challenging or insightful stories, and the prime the researchers used was philosophical in nature. Doesn’t this mean that more intellectually-rigorous art provides better priming and thus better pleasure?
 
@@ -56,7 +56,7 @@ But, it’s just as possible that what Schoeller and Perlovsky detected in one, 
 
 ## Callbacks: long-range setup and payoff
 
-In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for our discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup>
+In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for our discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <sup>{% include bloodAndZatorre-2001.html %}</sup>
 
 The researchers' motivations for using shorter clips was most likely practical; it's far quicker to test a 90-second clip than a full score. <sup class="aside">B</sup> 
 
@@ -64,9 +64,9 @@ The researchers' motivations for using shorter clips was most likely practical; 
 
 The fact that these truncated sections of music _did_ elicit a strong aesthetic reaction suggests one of two interesting possibilities. The first possibility is that 90 seconds provided enough context &mdash; enough build of tension and setup of expectation &mdash; to produce a peak aesthetic experience for the listener at payoff. The second possibility, which, to me, at least, seems more likely is that participants imported emotional memory from previously having listened to the full-length scores.
 
-Remember that the participants chose scores which they reported had previously elicited peak aesthetic experience for them. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup> Thus, each participant was already familiar with the music. This supports the idea that their reactions in the laboratory were not elicited by the content of the 90-second clips _alone_ but by what the clips represented, a return to the participants' previous experience of the full pieces. 
+Remember that the participants chose scores which they reported had previously elicited peak aesthetic experience for them. <sup>{% include bloodAndZatorre-2001.html %}</sup> Thus, each participant was already familiar with the music. This supports the idea that their reactions in the laboratory were not elicited by the content of the 90-second clips _alone_ but by what the clips represented, a return to the participants' previous experience of the full pieces. 
 
-This conjecture could be further supported by the fact that the same clips were used as controls for other participants, who did not experience peak aesthetic experience upon listening to them. (In other words, a clip that one participant found particularly moving was not moving to another.) The support here is thin, however, as there are a lot of other factors involved. As Blood and Zatorre point out, taste in music is highly individual. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup>
+This conjecture could be further supported by the fact that the same clips were used as controls for other participants, who did not experience peak aesthetic experience upon listening to them. (In other words, a clip that one participant found particularly moving was not moving to another.) The support here is thin, however, as there are a lot of other factors involved. As Blood and Zatorre point out, taste in music is highly individual. <sup>{% include bloodAndZatorre-2001.html %}</sup>
 
 I can't reemphasize enough that Blood and Zatorre's results _don't_ at all prove what I'm saying. The concern of their study was to document participant's neural reactions to the stimuli, not the relationship between familiar and unfamiliar experience-eliciting stimuli. Their experimental results are suggestive to me, but everything I'm saying here is conjecture.
 

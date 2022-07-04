@@ -24,11 +24,11 @@ In this post, I’ll talk about another element that can help elicit peak aesthe
 
 I talked before about [the knowledge instinct]({% post_url 2022-04-15-pae-expectation %}). It’s an internal drive we all have, which continually seeks to detect differences between our internal mental models of the world and the external phenomena that we encounter.
 
-Depending on the magnitude of difference we detect, this knowledge instinct can manifest as curiosity or suspense &mdash; or even shock and horror. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+Depending on the magnitude of difference we detect, this knowledge instinct can manifest as curiosity or suspense &mdash; or even shock and horror. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
 Schoeller and Perlovsky put it thus:
 
-> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
+> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
 When our environment is totally predictable &mdash; a chair remains exactly where you placed it at the kitchen table, for example &mdash; it doesn't produce strong emotion. The knowledge instinct, comparing your mental model for where the chair should be and the reality, confirms its prediction and promptly redirects your mind's resources to more important things.
 

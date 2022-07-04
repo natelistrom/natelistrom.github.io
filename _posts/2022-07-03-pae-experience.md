@@ -34,22 +34,22 @@ The emotional content of peak aesthetic experiences is rich and varied.
 
 One key component of the emotional mix resulting from peak aesthetic experience is happiness.
 
-- Menninghaus et al. surveyed participants, asking them to recall a moving event in fiction or in life. <sup>{% include menninghaus-beingMoved.html %} "Study 1: questionnaire and procedure" section.</sup> They found that 27% of their interview participants reported joy as the emotion they experienced in a moving situation. These reports of joy were most correlated with moving own-life events (marriages, births, etc.), as opposed to fiction or news events. <sup>{% include menninghaus-beingMoved.html %} "Study 1: emotions experienced in episodes of being moved" section.</sup>
-- In a separate study, when asked to associate peak aesthetic experiences with key concepts, Menninghaus et al.'s participants chose terms like "warm," "wide," "elevated," "soft," and "pleasant." <sup>{% include menninghaus-beingMoved.html %} "Study 3: discussion" section.</sup>
-- Pelowski connects peak moments with catharsis and a feeling of harmony and pleasure. <sup>{% include pelowski-tearsAndTransformation.html %} "'Aesthetic'/insightful experience" section.</sup>
-- Schoeller and Perlovsky cite studies linking chill-eliciting stimuli with mood improvement. <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "'Aesthetic'/insightful experience" section.</sup>
+- Menninghaus et al. surveyed participants, asking them to recall a moving event in fiction or in life. <sup>{% include menninghaus-2015.html %} "Study 1: questionnaire and procedure" section.</sup> They found that 27% of their interview participants reported joy as the emotion they experienced in a moving situation. These reports of joy were most correlated with moving own-life events (marriages, births, etc.), as opposed to fiction or news events. <sup>{% include menninghaus-2015.html %} "Study 1: emotions experienced in episodes of being moved" section.</sup>
+- In a separate study, when asked to associate peak aesthetic experiences with key concepts, Menninghaus et al.'s participants chose terms like "warm," "wide," "elevated," "soft," and "pleasant." <sup>{% include menninghaus-2015.html %} "Study 3: discussion" section.</sup>
+- Pelowski connects peak moments with catharsis and a feeling of harmony and pleasure. <sup>{% include pelowski-2015.html %} "'Aesthetic'/insightful experience" section.</sup>
+- Schoeller and Perlovsky cite studies linking chill-eliciting stimuli with mood improvement. <sup>{% include schoellerAndPerlovsky-2016.html %} "'Aesthetic'/insightful experience" section.</sup>
 
 #### Sadness
 
 Curiously, while peak aesthetic experiences involve happiness, they also involve the opposite: sadness.
 
-In Menninghaus et al.'s study, they found that 43% of their participants reported experiencing sadness in moving situations. Sadness was reported most frequently among survey respondents who chose to report on moving events from fiction. <sup>{% include menninghaus-beingMoved.html %} "Study 1: emotions experienced in episodes of being moved" section.</sup> They also mention a sense of nostalgia or poignancy as a result of being moved. <sup>{% include menninghaus-beingMoved.html %} "Introduction" section.</sup>
+In Menninghaus et al.'s study, they found that 43% of their participants reported experiencing sadness in moving situations. Sadness was reported most frequently among survey respondents who chose to report on moving events from fiction. <sup>{% include menninghaus-2015.html %} "Study 1: emotions experienced in episodes of being moved" section.</sup> They also mention a sense of nostalgia or poignancy as a result of being moved. <sup>{% include menninghaus-2015.html %} "Introduction" section.</sup>
 
-Mori and Iwanaga found that participants perceived sadness when responding to tears-inducing songs. And, even chills-inducing songs, which had a happy element to them, were tinged with sadness. <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %} "Abstract" section.</sup>
+Mori and Iwanaga found that participants perceived sadness when responding to tears-inducing songs. And, even chills-inducing songs, which had a happy element to them, were tinged with sadness. <sup>{% include moriAndIwanaga-2017.html %} "Abstract" section.</sup>
 
 Wassiliwizky et al. discuss research showing a link between tears and sadness and positive evaluations of films:
 
-> "This peculiar phenomenon has been explained by the fact that being moved, although encompassing negative emotional ingredients such as sadness, is an overall pleasurable emotional state." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Introduction" section.</sup>
+> "This peculiar phenomenon has been explained by the fact that being moved, although encompassing negative emotional ingredients such as sadness, is an overall pleasurable emotional state." <sup>{% include wassiliwizky-2017.html %} "Introduction" section.</sup>
 
 #### Mixed emotion
 
@@ -59,9 +59,9 @@ We've talked before about [mixed valence as an _elicitor_ of peak aesthetic expe
 
 Here, we see mixed happiness and sadness as the emotional _result_ of that elicitor.
 
-- Menninghaus et al. found that "both the sad and the joyful variants of being moved showed a _coactivation_ of positive and negative affect." (Emphasis mine.) <sup>{% include menninghaus-beingMoved.html %} "Abstract" section.</sup>
-- Mori and Iwanaga found that participants perceived chills-eliciting songs as both happy and sad. <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %} "Abstract" section.</sup>
-- According to Wassiliwizky et al., "the mixture of a predominant emotional component, for example, sadness, with its emotional antidote" was a key factor in moving experience. <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup>
+- Menninghaus et al. found that "both the sad and the joyful variants of being moved showed a _coactivation_ of positive and negative affect." (Emphasis mine.) <sup>{% include menninghaus-2015.html %} "Abstract" section.</sup>
+- Mori and Iwanaga found that participants perceived chills-eliciting songs as both happy and sad. <sup>{% include moriAndIwanaga-2017.html %} "Abstract" section.</sup>
+- According to Wassiliwizky et al., "the mixture of a predominant emotional component, for example, sadness, with its emotional antidote" was a key factor in moving experience. <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup>
 
 #### Interaction of mixed emotion
 
@@ -83,17 +83,17 @@ In addition to positive and negative valence, there are a couple of other things
 
 #### Bigger than oneself
 
-One is that peak aesthetic experiences have been associated with a sense of "other agency." <sup>{% include menninghaus-beingMoved.html %} "Introduction" section.</sup>
+One is that peak aesthetic experiences have been associated with a sense of "other agency." <sup>{% include menninghaus-2015.html %} "Introduction" section.</sup>
 
 - We discussed before how, leading up to the breakthrough moment, [we experience a sense of powerlessness]({% post_url 2022-06-10-pae-breakthrough %}#powerlessness-to-escape). 
-- When observing participants watching moving movie scenes, Wassiliwizky et al. detected activation in brain regions that have been “associated with states of helplessness and feelings of being emotionally overwhelmed.” <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup>
-- When discussing weddings, funerals, and births, Menninghaus et al. found that among “the most distinctive findings regarding cognitive appraisals [what participants thought about particularly moving events] were very low ratings for causation of the event by oneself and power to change the outcome.” <sup>{% include menninghaus-beingMoved.html %} "General discussion" section.</sup>
+- When observing participants watching moving movie scenes, Wassiliwizky et al. detected activation in brain regions that have been “associated with states of helplessness and feelings of being emotionally overwhelmed.” <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup>
+- When discussing weddings, funerals, and births, Menninghaus et al. found that among “the most distinctive findings regarding cognitive appraisals [what participants thought about particularly moving events] were very low ratings for causation of the event by oneself and power to change the outcome.” <sup>{% include menninghaus-2015.html %} "General discussion" section.</sup>
 
 I suspect that these findings are all playing on the same core feeling, a feeling that something bigger than oneself is happening, and we don't have control over it.
 
 #### Importance
 
-Lastly, being moved has been identified with a feeling of certainty or importance. <sup>{% include menninghaus-beingMoved.html %} "Introduction" section.</sup>
+Lastly, being moved has been identified with a feeling of certainty or importance. <sup>{% include menninghaus-2015.html %} "Introduction" section.</sup>
 
 We've talked before about how peak aesthetic experience can be associated with [how significantly people are invested]({% post_url 2022-04-05-pae-investment %}#investment) in the characters or concepts at play. Values at the top of our cognitive hierarchies can help elicit peak aesthetic experience.
 
@@ -103,25 +103,25 @@ Here, we can see how these factors come together in a resulting emotional experi
 
 ## Empathy
 
-While it may not always be consciously felt, empathy seems to be an important component of peak aesthetic experience. Wassiliwizky et al., in fact, claim its role is "crucial." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup> 
+While it may not always be consciously felt, empathy seems to be an important component of peak aesthetic experience. Wassiliwizky et al., in fact, claim its role is "crucial." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup> 
 
 #### Feelings of connection
 
-Wassiliwizky et al. discuss evidence suggesting that our chills and tears responses have a function in social bonding. For example, they cite research theorizing that "chills (which are readily associated with feeling cold) might . . . urge [people] to seek close social (and bodily) contact with others and thereby re-establish social bonds." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup> Further, "tears have been shown to increase the perceived helplessness of the crier and a stronger willingness in the observer to provide help." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup> In other words, a feeling of chills encourages _us_ to draw close to _others_, while the expression of tears motivates _others_ to draw close to _us_.
+Wassiliwizky et al. discuss evidence suggesting that our chills and tears responses have a function in social bonding. For example, they cite research theorizing that "chills (which are readily associated with feeling cold) might . . . urge [people] to seek close social (and bodily) contact with others and thereby re-establish social bonds." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup> Further, "tears have been shown to increase the perceived helplessness of the crier and a stronger willingness in the observer to provide help." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup> In other words, a feeling of chills encourages _us_ to draw close to _others_, while the expression of tears motivates _others_ to draw close to _us_.
 
 In a previous post, I talked about how [empathy for characters]({% post_url 2022-04-05-pae-investment %}#empathy-investment-in-characters) can help elicit peak aesthetic experience. Emotional empathy, I believe, is the other half of that coin. Not only does empathy _elicit_ peak aesthetic experience, but peak aesthetic experience can also _result_ in subjective feelings of connectedness.
 
-Schoeller and Perlovsky, for example, found that their study participants reported what the researchers deemed "strong and unusual empathy." <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Phenomenology" section.</sup>
+Schoeller and Perlovsky, for example, found that their study participants reported what the researchers deemed "strong and unusual empathy." <sup>{% include schoellerAndPerlovsky-2016.html %} "Phenomenology" section.</sup>
 
-> &ldquo;Aesthetic chills induced by narrative structures seem to be related to the pinnacle of the story, to have a significant calming effect and _subjects describe a strong empathy for the characters._&rdquo; <sup>{% include schoellerAndPerlovsky-aestheticChills.html %} "Abstract" section.</sup> (Emphasis mine.)
+> &ldquo;Aesthetic chills induced by narrative structures seem to be related to the pinnacle of the story, to have a significant calming effect and _subjects describe a strong empathy for the characters._&rdquo; <sup>{% include schoellerAndPerlovsky-2016.html %} "Abstract" section.</sup> (Emphasis mine.)
 
 #### Being moved to act
 
 I mentioned in a previous post that [peak aesthetic experience involves physiological arousal]({% post_url 2022-06-17-pae-physiology %}#gearing-up-for-action). We "gear up for action." Subjectively, empathetic peak aesthetic experience can result in this "gearing up" manifesting in a physical sensation of being moved to act on another's behalf.
 
-Menninghaus et al. cite Frijda, Kuipers, and ter Schure, who observed "_approaching_ and _attending_ as the most distinctive action-readiness states of being moved." <sup>{% include menninghaus-beingMoved.html %} "Introduction" section.</sup> (Emphasis theirs.) Citing previous studies, they claim that "being emotionally moved has been shown to entail action-readiness states of approach and attendance and to facilitate prosocial acts of bonding and helping." <sup>{% include menninghaus-beingMoved.html %} "Study 1: Cognitive appraisal patterns" section.</sup> Wassiliwizky et al. also suggest a link between this heightened physiological arousal and empathy:
+Menninghaus et al. cite Frijda, Kuipers, and ter Schure, who observed "_approaching_ and _attending_ as the most distinctive action-readiness states of being moved." <sup>{% include menninghaus-2015.html %} "Introduction" section.</sup> (Emphasis theirs.) Citing previous studies, they claim that "being emotionally moved has been shown to entail action-readiness states of approach and attendance and to facilitate prosocial acts of bonding and helping." <sup>{% include menninghaus-2015.html %} "Study 1: Cognitive appraisal patterns" section.</sup> Wassiliwizky et al. also suggest a link between this heightened physiological arousal and empathy:
 
-> "The present findings of heightened physiological arousal can be interpreted as lending support to the consistent reports of physiological activation when witnessing and empathizing with others in need." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup>
+> "The present findings of heightened physiological arousal can be interpreted as lending support to the consistent reports of physiological activation when witnessing and empathizing with others in need." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup>
 
 In peak aesthetic experience, we may feel both an emotional component of empathy and a physiological sensation of being moved to act on others' behalf.
 
@@ -129,7 +129,7 @@ In peak aesthetic experience, we may feel both an emotional component of empathy
 
 And, it's not just a feeling. Evidence demonstrates that peak aesthetic experience not only results in feelings of empathy but also influences behavior. Wassiliwizky et al. cite a couple of examples:
 
-> "Stel et al. (2008) demonstrated that participants showed significantly greater readiness to make generous charitable donations if they were emotionally moved beforehand . . . Likewise, in a dictator game paradigm, Fukui and Tyoshima (2014) found enhanced empathy and altruism in participants who experienced music-elicited chills before playing the dictator game." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %} "Discussion" section.</sup>
+> "Stel et al. (2008) demonstrated that participants showed significantly greater readiness to make generous charitable donations if they were emotionally moved beforehand . . . Likewise, in a dictator game paradigm, Fukui and Tyoshima (2014) found enhanced empathy and altruism in participants who experienced music-elicited chills before playing the dictator game." <sup>{% include wassiliwizky-2017.html %} "Discussion" section.</sup>
 
 Being exposed to peak aesthetic experience can influence a person to behave in ways that are more pro-social than their baseline.
 

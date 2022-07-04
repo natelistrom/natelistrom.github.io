@@ -7,7 +7,7 @@ reading_time: 1 min
 ---
 
 > _“From the era of Latin rhetoric and poetics to the present day, emotionally moving an audience has been considered one of the major goals of rhetoric and art.”_  
-> — Winfried Menninghaus <sup>{% include menninghaus-beingMoved.html %}</sup>
+> — Winfried Menninghaus <sup>{% include menninghaus-2015.html %}</sup>
 
 ---
 
@@ -20,7 +20,7 @@ As part of my research process, [I'm posting summaries of my notes as I go.]({% 
 One of the neuroscience topics I'm researching is what I'm calling "peak aesthetic experiences." <sup class="aside">A</sup> In this post, I'll try to give you a working definition for what these are.
 
 <aside>
-A. Mori and Iwanaga call these "peak emotional experiences." <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %}</sup>
+A. Mori and Iwanaga call these "peak emotional experiences." <sup>{% include moriAndIwanaga-2017.html %}</sup>
 
 However, I'm not sure that these accurately cover all forms of peak emotional experiences. Experiencing chills and tears doesn't necessarily account for experiences of extreme rage, for example. (Although, perhaps peak rage is when a person is so angry as to be moved to tears, so maybe the label is accurate. Needs more research.)
 
@@ -37,22 +37,22 @@ You can think of peak aesthetic experiences as the kind of emotional reaction th
 
 The papers I read discussed three reactions that are associated with peak aesthetic experiences: chills, tears, and a feeling of "being moved."
 
-Although they are distinct, these phenomena overlap and interact in interesting ways. For example, both tears and chills have been reported to cooccur with states of being moved. <sup>{% include menninghaus-beingMoved.html %}</sup> <sup>{% include wassiliwizky-tearsAndGoosebumps.html %}</sup> 
+Although they are distinct, these phenomena overlap and interact in interesting ways. For example, both tears and chills have been reported to cooccur with states of being moved. <sup>{% include menninghaus-2015.html %}</sup> <sup>{% include wassiliwizky-2017.html %}</sup> 
 
-Chills and tears are physiologically distinct. Using music as a prompt, Mori and Iwanaga found that chills are associated with states of arousal, while tears are associated with calm. Both produced pleasure and deep breathing. <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %}</sup>
+Chills and tears are physiologically distinct. Using music as a prompt, Mori and Iwanaga found that chills are associated with states of arousal, while tears are associated with calm. Both produced pleasure and deep breathing. <sup>{% include moriAndIwanaga-2017.html %}</sup>
 
-Chills and tears can overlap, <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %}</sup> and Wassiliwizky et al. found that the intensity of response is strongest when they do. "The overlap of tears and goosebumps signifies a maximal climax within peak moments." <sup>{% include wassiliwizky-tearsAndGoosebumps.html %}</sup> Thus, I presume that all three may happen at the same moment. Engaging with a particularly salient stimulus, a person may have chills, tears, and a sense of being moved. This is peak aesthetic experience.
+Chills and tears can overlap, <sup>{% include moriAndIwanaga-2017.html %}</sup> and Wassiliwizky et al. found that the intensity of response is strongest when they do. "The overlap of tears and goosebumps signifies a maximal climax within peak moments." <sup>{% include wassiliwizky-2017.html %}</sup> Thus, I presume that all three may happen at the same moment. Engaging with a particularly salient stimulus, a person may have chills, tears, and a sense of being moved. This is peak aesthetic experience.
 
 ---
 
 I'll go into all of this more later, but for now, here's a rapid-fire summary of facts about peak aesthetic experiences:
 
-- Peak aesthetic experiences are cross-cultural <sup>{% include wassiliwizky-tearsAndGoosebumps.html %}</sup> <sup>{% include menninghaus-beingMoved.html %}</sup> <sup>{% include pelowski-tearsAndTransformation.html %}</sup>, suggesting that they're core human responses, rather than socially or environmentally adapted.
-- They're pleasurable, activating the same parts of the brain as euphoric experiences. <sup>{% include bloodAndZatorre-intenselyPleasurableResponses.html %}</sup> <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %}</sup>
-- They're intense. <sup>{% include menninghaus-beingMoved.html %}</sup> (I know, "Thank you, captain obvious.")
-- They can give us a feeling of insight, a "eureka moment." <sup>{% include pelowski-tearsAndTransformation.html %}</sup> <sup>{% include schoellerAndPerlovsky-aestheticChills.html %}</sup>
-- Tears, at least, can be cathartic. <sup>{% include moriAndIwanaga-peakEmotionalResponses.html %}</sup>
-- They results in positive evaluations of the elicitor. People like a moving story and rate it highly. <sup>{% include pelowski-tearsAndTransformation.html %}</sup>
+- Peak aesthetic experiences are cross-cultural <sup>{% include wassiliwizky-2017.html %}</sup> <sup>{% include menninghaus-2015.html %}</sup> <sup>{% include pelowski-2015.html %}</sup>, suggesting that they're core human responses, rather than socially or environmentally adapted.
+- They're pleasurable, activating the same parts of the brain as euphoric experiences. <sup>{% include bloodAndZatorre-2001.html %}</sup> <sup>{% include moriAndIwanaga-2017.html %}</sup>
+- They're intense. <sup>{% include menninghaus-2015.html %}</sup> (I know, "Thank you, captain obvious.")
+- They can give us a feeling of insight, a "eureka moment." <sup>{% include pelowski-2015.html %}</sup> <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+- Tears, at least, can be cathartic. <sup>{% include moriAndIwanaga-2017.html %}</sup>
+- They results in positive evaluations of the elicitor. People like a moving story and rate it highly. <sup>{% include pelowski-2015.html %}</sup>
 
 ---
 
