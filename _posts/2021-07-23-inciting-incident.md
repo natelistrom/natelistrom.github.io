@@ -114,7 +114,7 @@ The decision to cross the threshold is the function that solidifies the story go
 
 ### A word about hooks
 
-There's another story beat that people sometimes confuse for the inciting incident. This is what's called the “hook.” I agree with author and story expert Joe Bunting that the hook isn't a structural beat. <sup>{% include buntingIncitingIncident.html %}</sup> Its function is not to create change in the protagonist's life, but to engage the audience.
+There's another story beat that people sometimes confuse for the inciting incident. This is what's called the “hook.” I agree with author and story expert Joe Bunting that the hook isn't a structural beat. <sup>{% include bunting-2016.html %}</sup> Its function is not to create change in the protagonist's life, but to engage the audience.
 
 A hook may contain structural functions, like the tipping of the apple cart or the call to adventure, but it doesn't have to.
 
