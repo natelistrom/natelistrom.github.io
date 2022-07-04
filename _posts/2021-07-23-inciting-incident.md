@@ -10,13 +10,13 @@ reading_time: 10 min
 
 ---
 
-<p class="dropCap">Bestselling fantasy author Brandon Sanderson talks about the difference between “chef writers” and “cook writers.” <sup>{% include sandersonChef.html %}</sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.</p>
+<p class="dropCap">Bestselling fantasy author Brandon Sanderson talks about the difference between “chef writers” and “cook writers.” <sup>{% include sanderson-2021.html %}</sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.</p>
 
 I'm no story expert. I'm still very much a “cook” rather than a “chef.” But I am an expert on my own struggles. I can tell you with great authority about what I've gotten wrong . . . and the things I've learned along the way. Today, I'd like to tell you about a framework that has helped me tremendously when approaching what story experts call the inciting incident.
 
 ## What are inciting incidents?
 
-I first encountered the concept of the inciting incident in Shawn Coyne's _Story Grid_ and the podcast of the same name, which he does with co-host Tim Grahl. Coyne defines the inciting incident as “the big event that scene that kicks off your story.” <sup>{% include coyne.html %} Page 160.</sup>
+I first encountered the concept of the inciting incident in Shawn Coyne's _Story Grid_ and the podcast of the same name, which he does with co-host Tim Grahl. Coyne defines the inciting incident as “the big event that scene that kicks off your story.” <sup>{% include coyne-2015.html %} Page 160.</sup>
 
 Intuitively, that immediately resonated. Yet, when it came time to apply the definition, I found myself floundering.
 
@@ -28,11 +28,11 @@ A. To be clear, my criticism isn't of Coyne or any of the other story experts. I
 
 As I continued my journey, I kept my eyes peeled for answers. Gradually, a picture began to emerge.
 
-In his landmark work, _Screenplay_, Syd Field describes the inciting incident similarly to Coyne. It's the thing that “sets the story in motion.” <sup>{% include field.html %} Page 129.</sup>
+In his landmark work, _Screenplay_, Syd Field describes the inciting incident similarly to Coyne. It's the thing that “sets the story in motion.” <sup>{% include field-2005.html %} Page 129.</sup>
 
-Robert McKee contributes a protagonist-centric nuance: the inciting incident “radically upsets the balance of forces in the protagonist's life.” <sup>{% include mckee.html %} Page 189.</sup> Screenwriter and producer Craig Mazin agrees. “It makes the continuation of balance and stasis . . . impossible . . . and it _forces a choice on the character_.” <sup>{% include mazin.html %}</sup> (emphasis mine) Screenwriting consultant Erik Bork says it “introduces the main story problem.” <sup>{% include bork.html %} Page 76.</sup> It must “really rock [the protagonist's] world, in order to force them to take a leap into some major challenge.” <sup>{% include bork.html %} Page 155.</sup>
+Robert McKee contributes a protagonist-centric nuance: the inciting incident “radically upsets the balance of forces in the protagonist's life.” <sup>{% include mckee-2014.html %} Page 189.</sup> Screenwriter and producer Craig Mazin agrees. “It makes the continuation of balance and stasis . . . impossible . . . and it _forces a choice on the character_.” <sup>{% include mazin-2019.html %}</sup> (emphasis mine) Screenwriting consultant Erik Bork says it “introduces the main story problem.” <sup>{% include bork-2018.html %} Page 76.</sup> It must “really rock [the protagonist's] world, in order to force them to take a leap into some major challenge.” <sup>{% include bork-2018.html %} Page 155.</sup>
 
-In _Into the Woods: A Five Act Journey Into Story_, John Yorke compares the inciting incident to “an invitation to begin the journey.” <sup>{% include yorke.html %} Location 1637.</sup> K. M. Weiland, referring to the tradition of Joseph Campbell and Christopher Vogler, calls the inciting incident the “Call to Adventure—the moment when your protagonist is first asked to engage with the conflict in a definite way.” <sup>{% include weilandCrucialLink.html %}</sup> In _The Anatomy of Story_, John Truby calls it “an event from the outside that causes the hero to come up with a goal and take action.” <sup>{% include truby.html %}</sup>
+In _Into the Woods: A Five Act Journey Into Story_, John Yorke compares the inciting incident to “an invitation to begin the journey.” <sup>{% include yorke-2015.html %} Location 1637.</sup> K. M. Weiland, referring to the tradition of Joseph Campbell and Christopher Vogler, calls the inciting incident the “Call to Adventure—the moment when your protagonist is first asked to engage with the conflict in a definite way.” <sup>{% include weiland-2020.html %}</sup> In _The Anatomy of Story_, John Truby calls it “an event from the outside that causes the hero to come up with a goal and take action.” <sup>{% include truby-2011.html %}</sup>
 
 So far, so good. The inciting incident kicks off the story, it involves the protagonist, it sets her off on her journey toward a goal.
 
@@ -40,19 +40,19 @@ So far, so good. The inciting incident kicks off the story, it involves the prot
 
 Here's where it gets interesting. While surveying broadly filled in gaps, creating a more well-rounded picture, it also started to reveal outlier nuances, places where the experts' opinions appeared to diverge.
 
-For example, where Coyne claimed that the inciting incident must “arouse a reaction by your protagonist,” <sup>{% include coyne.html %} Page 160.</sup> to Field, it's a different event, the “key incident,” that “draws the main character into the storyline.” To him, the inciting incident only “sets the story in motion,” <sup>{% include field.html %} Location 129</sup> without implying any protagonist involvement.
+For example, where Coyne claimed that the inciting incident must “arouse a reaction by your protagonist,” <sup>{% include coyne-2015.html %} Page 160.</sup> to Field, it's a different event, the “key incident,” that “draws the main character into the storyline.” To him, the inciting incident only “sets the story in motion,” <sup>{% include field-2005.html %} Location 129</sup> without implying any protagonist involvement.
 
-It gets more complicated. Some experts introduced the possibility of multi-part inciting incidents. McKee points to Jaws as an example in which a swimmer is killed by the shark in the opening scene (setup) but not discovered by the protagonist until the following scene (payoff). <sup>{% include mckee.html %} Pages 190-191.</sup> <sup class="aside">B</sup> Yorke even talks about a _three_-part inciting incident in which “the protagonist will be alerted to a world outside their own. They will make a decision on how to react . . . [which] will precipitate a crisis. This will force them to make a decision propelling them into a whole new universe.” <sup>{% include yorke.html %} Location 1654ff.</sup>
+It gets more complicated. Some experts introduced the possibility of multi-part inciting incidents. McKee points to Jaws as an example in which a swimmer is killed by the shark in the opening scene (setup) but not discovered by the protagonist until the following scene (payoff). <sup>{% include mckee-2014.html %} Pages 190-191.</sup> <sup class="aside">B</sup> Yorke even talks about a _three_-part inciting incident in which “the protagonist will be alerted to a world outside their own. They will make a decision on how to react . . . [which] will precipitate a crisis. This will force them to make a decision propelling them into a whole new universe.” <sup>{% include yorke-2015.html %} Location 1654ff.</sup>
 
 <aside>
-B. McKee elsewhere states that the inciting incident is a “single event.” <sup>{% include mckee.html %} Page 190.</sup> Perhaps in his thinking, the shark attack and discovery of the body are really one “event” that happens in two parts. Yet to me, they feel like two distinct story events that perform different but related functions.
+B. McKee elsewhere states that the inciting incident is a “single event.” <sup>{% include mckee-2014.html %} Page 190.</sup> Perhaps in his thinking, the shark attack and discovery of the body are really one “event” that happens in two parts. Yet to me, they feel like two distinct story events that perform different but related functions.
 </aside>
 
 What's going on here? Can inciting incidents sometimes draw the protagonist into the story and other times not? Can there be multiple events in an inciting incident? How do you know when to use which approach?
 
 ## Epiphany
 
-Author and story expert K. M. Weiland gives us our first clue to unlocking the mystery. “We find a lot of misconceptions floating around about the Inciting Event, many of them resulting from the simple fact that the 'Key Event' is either forgotten altogether or _mislabeled as the Inciting Event_” <sup>{% include weilandStructuring.html %} Page 82.</sup> (emphasis mine).
+Author and story expert K. M. Weiland gives us our first clue to unlocking the mystery. “We find a lot of misconceptions floating around about the Inciting Event, many of them resulting from the simple fact that the 'Key Event' is either forgotten altogether or _mislabeled as the Inciting Event_” <sup>{% include weiland-2013.html %} Page 82.</sup> (emphasis mine).
 
 Weiland's observation? Story beats can be confused for one another. One man's “key incident” is another man's “inciting incident."
 
@@ -60,7 +60,7 @@ The question is, why?
 
 To answer that, we have to go back nearly a century.
 
-In 1928, a folklorist named Vladimir Propp published _Morphology of the Folktale_. He analyzed a representative set of one hundred Russian folktales and identified what he called the underlying _functions_ in the stories' structures. These functions were each “an act of a character, defined from the point of view of its _significance for the course of the action_” <sup>{% include propp.html %} Location 685.</sup> (emphasis mine).
+In 1928, a folklorist named Vladimir Propp published _Morphology of the Folktale_. He analyzed a representative set of one hundred Russian folktales and identified what he called the underlying _functions_ in the stories' structures. These functions were each “an act of a character, defined from the point of view of its _significance for the course of the action_” <sup>{% include propp-2009.html %} Location 685.</sup> (emphasis mine).
 
 In other words, there's a difference between story beats and their underlying functions. A story beat is an event that happens in the story. A function is the role that an event plays in the story's structure.
 
@@ -130,7 +130,7 @@ Thus, a hook is a special type of story beat. It does have a function, but its f
 
 ## Bringing it all together
 
-The three-function framework helps us better understand what the experts say about inciting incidents. When Robert McKee talks about at two-part inciting incident in _Jaws_, we can think of it as a combination of the tipping of the apple cart (the initial shark attack—which also serves as a hook, incidentally) and the call to adventure (discovery of the body by the protagonist). Field's definitions of the inciting incident and key incident can similarly map up to the tipping of the apple cart and call to adventure, respectively. When Yorke talks about the protagonist being forced to “make a decision propelling them into a whole new universe,” <sup>{% include yorke.html %} Location 1654ff.</sup> he's talking about the decision to cross the threshold.
+The three-function framework helps us better understand what the experts say about inciting incidents. When Robert McKee talks about at two-part inciting incident in _Jaws_, we can think of it as a combination of the tipping of the apple cart (the initial shark attack—which also serves as a hook, incidentally) and the call to adventure (discovery of the body by the protagonist). Field's definitions of the inciting incident and key incident can similarly map up to the tipping of the apple cart and call to adventure, respectively. When Yorke talks about the protagonist being forced to “make a decision propelling them into a whole new universe,” <sup>{% include yorke-2015.html %} Location 1654ff.</sup> he's talking about the decision to cross the threshold.
 
 ## Why it isn't always obvious
 
