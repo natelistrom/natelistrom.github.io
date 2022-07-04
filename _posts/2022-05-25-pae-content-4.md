@@ -76,7 +76,7 @@ That rather large caveat notwithstanding, if it is true that we can "import" pre
 
 In fact, this looks a lot like what's commonly referred to as a "callback." Though he doesn't use the term specifically, author Dwight V. Swain describes the technique well:
 
-> "An object or phenomenon . . . that evokes a strong emotional reaction in your hero. You . . . demonstrate that this emotional reaction is linked to adherence to principle where said character is concerned. You do this early in the story. Preferably, you do it several times. Then, at the critical moment in your climax . . . you reintroduce the gimmick once more." <sup>{% include swain.html %} Page 196.</sup>
+> "An object or phenomenon . . . that evokes a strong emotional reaction in your hero. You . . . demonstrate that this emotional reaction is linked to adherence to principle where said character is concerned. You do this early in the story. Preferably, you do it several times. Then, at the critical moment in your climax . . . you reintroduce the gimmick once more." <sup>{% include swain-1981.html %} Page 196.</sup>
 
 We've [already established that resonance with values]({% post_url 2022-04-08-pae-content %}) &mdash; what Swain calls 'principle' here &mdash; can help elicit peak aesthetic experience. Swain shows how a callback structure can be used to first seed emotional power early in a story and then, later, bring it to bear at a crucial moment. I believe the effect we see in Blood and Zatorre's experiment could be playing on the same underlying phenomena.
 

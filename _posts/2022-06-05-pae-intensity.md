@@ -46,7 +46,7 @@ Generally, these moments involve resistance. People will, if given a chance, cho
 
 > &ldquo;Individuals typically structure interactions to avoid . . . discrepant events, employing pre-expectational filters, or, if discrepancy arises, attempting to diminish or escape from involvement." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup>
 
-This makes sense if you think about it. Updating our models of the world takes energy, <sup>{% include schoellerAndPerlovsky-2016.html %} "Conclusion" section.</sup> and, as neuroscientist Read Montague discusses at length in _Your Brain Is (Almost) Perfect_, our brains are wired to conserve energy. <sup>{% include montague-perfect.html %} Pages 22-24.</sup> Given a choice, we will choose to conserve energy.
+This makes sense if you think about it. Updating our models of the world takes energy, <sup>{% include schoellerAndPerlovsky-2016.html %} "Conclusion" section.</sup> and, as neuroscientist Read Montague discusses at length in _Your Brain Is (Almost) Perfect_, our brains are wired to conserve energy. <sup>{% include montague-2006.html %} Pages 22-24.</sup> Given a choice, we will choose to conserve energy.
 
 This resistance to schema change manifests as Pelowski's "period of tension or anxiety."
 
