@@ -24,7 +24,7 @@ layout: default
           </a>
         </h3>
         <small>
-            {%- include postMeta.html -%}
+            {%- include _postMeta.html -%}
         </small>
       </li>
       {%- endfor -%}
@@ -37,7 +37,7 @@ layout: default
   <h2 class="smallHeading">Find Nate online</h2>
 
   <ul>
-    {% if site.twitter_username -%}<li>Random bits on <a href="{{ site.twitter_url }}">Twitter</a></li>{%- endif %}
+    {% if site.twitter_url -%}<li>Random bits on <a href="{{ site.twitter_url }}">Twitter</a></li>{%- endif %}
     {% if site.medium_url -%}<li>Writing also on <a href="{{ site.medium_url }}">Medium</a></li>{%- endif %}
     {% if site.behance_url -%}<li>Portfolio of older work on <a href="{{ site.behance_url }}">Behance</a></li>{%- endif %}
     {% if site.linkedin_url -%}<li>Professional info on <a href="{{ site.linkedin_url }}">LinkedIn</a></li>{%- endif %}
