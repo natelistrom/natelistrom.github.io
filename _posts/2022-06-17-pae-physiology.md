@@ -76,7 +76,7 @@ In other words, in these moments, our systems for physiological arousal and phys
 
 Here we can see that, when something elicits peak aesthetic experience, our bodies are put into a unique physiological state. Our heart rate goes up. Our breathing deepens. We become physiologically aroused by our sympathetic nervous system, ready for action. Yet, at the same time, other forces are at play. Our parasympathetic nervous system is simultaneously triggered, working to bring release of tension, calming, and relief. We may experience chills and then tears or tears and then chills. As the two systems interact, it creates an intense, piquant experience that we don't seem to have in any other way.
 
-Next up, we'll go deeper, talking about how peak aesthetic experience affects our brains' reward systems and then, evantually, what we feel subjectively. 
+Next up, we'll go deeper, talking about how peak aesthetic experience affects our brains' reward systems and then, eventually, what we feel subjectively. 
 
 Onward . . .
 
