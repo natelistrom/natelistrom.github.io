@@ -136,7 +136,7 @@ p {
     line-height: 1.4rem;
     margin: 1.2rem 0;
   }
-  .meta, aside {
+  .meta, aside, figcaption {
     font-size: 0.7rem;
     line-height: 1.2rem;
   }
@@ -235,6 +235,10 @@ aside {
 }
 strong {
   @include font-sans;
+}
+figcaption {
+  @include font-secondary;
+  text-align: center;
 }
 
 @media screen and (min-width: ($wrapperWidth + (4 * $sidebarWidth))) {
