@@ -84,11 +84,11 @@ For example, compare action thrillers, like the _Mission: Impossible_ series, to
 
 Action thrillers tend to have high narrative drive. They surge forward, riding a fast-paced string of twists and turns, events and revelations, that grab audiences and rip them through the story. Their style tends to be concise and focused, and they don't dwell on setting or theme. They're pure, streamlined interest, eliminating effort wherever possible. 
 
-But not every story needs to be that. Some emotional effects can only be created through narrative that is slower, less direct, more challenging. As in _To Kill a Mockinbird's_ childlike viewpoint and and challenging themes, stories that play with ambiguities and unresolved threads can give us a sense of profundity, wistfulness, and longing. They can linger, keeping us thinking about a story long after it's over.
+But not every story needs to be that. Some emotional effects can only be created through narrative that is slower, less direct, more demanding. As in _To Kill a Mockinbird's_ childlike viewpoint and and challenging themes, stories that play with ambiguities and unresolved threads can give us a sense of profundity, wistfulness, and longing. They can linger, keeping us thinking about a story long after it's over.
 
 Even in approachable stories, minor cognitive effort can be beneficial. In _Story_, theorist Robert McKee talks about the 'gap' that opens between character (and audience) expectation and what the story events deliver. <sup>{% include mckee-2014.html %} Pages 147-152.</sup> Like a well-crafted joke, these gaps leave room for the audience to step into the narrative and make the connection themselves. This takes cognitive effort — but it also engages audiences more deeply. (And, paradoxically, increases interest.)
 
-Finally, challenge can, itself, be a legitimate expression of art. There are some audiences who, like those who enjoy solving a difficult puzzle, seek the reward of mastering effortful stories. Similar to my experience climbing mount Longenot, anyone who sticks it out through a particularly challenging narrative gains a sort of personal satisfaction at having done a hard thing.
+Finally, challenge can, itself, be a legitimate expression of art. There are some audiences who, like those who enjoy solving a difficult puzzle, seek the reward of mastering effortful stories. Similar to my experience climbing mount Longonot, anyone who sticks it out through a particularly challenging narrative gains a sort of personal satisfaction at having done a hard thing.
 
 ## Conclusion
 
@@ -106,7 +106,5 @@ Based on the type of experience you want to deliver, you'll have an idea about h
 
 [Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
 
-- <strong>Moderate confidence</strong>
+- <strong>High confidence</strong>
 - <strong>Moderate effort</strong>
-
-
