@@ -6,6 +6,8 @@ tags: [Story, Craft, Narrative drive]
 reading_time: 8 min
 ---
 
+<p class="summary"><strong>Summary:</strong> When engaging with stories, audiences experience a push and pull between effort and interest. Once you’ve mastered the basics of craft, you can tune the balance to control <em>type</em> of experience you give your audience.</p>
+
 ---
 
 <p class="dropCap">Mount Longonot is a volcano in the Great Rift Valley in Kenya, East Africa. The mountain boasts a stunning caldera that stretches almost twelve kilometers across. When I was a teenager, I climbed it with a group of friends.</p>
