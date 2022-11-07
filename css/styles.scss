@@ -16,7 +16,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+figure, figcaption, figure img, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -86,7 +86,7 @@ $colorBackgroundMedium: rgba($colorNeutral, 0.066);
 $colorBackgroundPrimary: rgba($colorPrimary, 0.125);
 $colorBackgroundSecondary: rgba($colorSecondary, 0.125);
 
-$wrapperWidth: 36rem;
+$wrapperWidth: 36rem; // 1rem = 20px
 $sidebarWidth: 12rem;
 
 $borderRadius: 0.125rem;
@@ -212,8 +212,11 @@ em {
 strong {
   font-weight: 600;
 }
-img {
+img,
+svg {
   border-radius: $borderRadius;
+}
+img {
   max-width: 100%;
 }
 code {
@@ -233,16 +236,25 @@ aside {
   display: block;
   padding: 1rem;
 }
+aside.inline {
+  overflow: hidden;
+}
 strong {
   @include font-sans;
 }
+figure img,
+figure svg {
+  display: block;
+}
 figcaption {
   @include font-secondary;
+  margin-top: 0.5rem;
   text-align: center;
 }
 
+
 @media screen and (min-width: ($wrapperWidth + (4 * $sidebarWidth))) {
-  aside {
+  aside:not(.inline) {
     background: none;
     float: right;
     height: 0px;
@@ -252,7 +264,6 @@ figcaption {
     width: $sidebarWidth;
     padding: 0;
   }
-
 }
 
 /* --- ------- --- */
@@ -397,6 +408,13 @@ figcaption {
   visibility: hidden;
   height: 0;
   width: 0;
+}
+
+img.center,
+svg.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* --- Generic styles --- */
