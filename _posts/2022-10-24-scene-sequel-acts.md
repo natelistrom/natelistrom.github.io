@@ -70,7 +70,7 @@ This is a "disaster" in the sense that Luke cannot continue with his former life
 
 Humans can't process abrupt, disruptive events instantaneously. We need time to absorb and reflect. This is Swain's reaction and dilemma phase, what Campbell identified as the "Denial of the Call." I like Blake Snyder's term, the "Debate" a little better. <sup>{% include snyder-2005.html %} Pages 77-78</sup> Looking at the fractured splinters of her previous plan, the protagonist must process what's happening to her. She must integrate the implications of the disaster and come to some kind of resolution.
 
-In _Star Wars: A New Hope_, we see this as Luke makes rejects to Obi-wan's invitation with some polite excuses. Laid before him so unexpectedly, the adventure he desired frightens him. He begs off.
+In _Star Wars: A New Hope_, we see this as Luke rejects Obi-wan's invitation with some polite excuses. Laid before him so unexpectedly, the adventure he desired frightens him. He begs off.
 
 Sometimes, as she passes through the debate phase, the protagonist reasons through the implications of the Call to Adventure and comes to a decision on her own. Often, however, there's one last revelation or minor disaster &mdash; what Snyder calls a "catalyst" <sup>{% include snyder-2005.html %} Pages 76-77</sup> &mdash; that finally forces her to make a choice.
 
