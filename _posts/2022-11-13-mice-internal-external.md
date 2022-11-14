@@ -8,14 +8,14 @@ reading_time: 5 min
 
 ---
 
-In Character and Viewpoint, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <sup>{% include card-2010.html %} Pages 62-63.</sup> <sup class="aside">A</sup>
-
-<aside>A. I first learned of the MICE quotient via the <a href="https://writingexcuses.com/2011/08/07/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses&rdquo; podcast (season 6, episode 10)</a>.</aside>
+In Character and Viewpoint, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <sup>{% include card-2010.html %} Pages 62-63.</sup>
 
 - **Milieu** is the "landscape, the interior spaces, the surrounding cultures . . . everything from weather to traffic laws." <sup>{% include card-2010.html %} Page 62.</sup> In other words, the _setting_.
 - **Idea** is "the information that the reader is meant to discover or learn during the process of the story." <sup>{% include card-2010.html %} Page 62.</sup> In other words, _mystery_ and _revelation_.
 - **Character** is "the nature of [a person] in the story — what they do and why." <sup>{% include card-2010.html %} Page 63.</sup>
 - **Event** is "everything that _happens_ and why." <sup>{% include card-2010.html %} Page 63. (Emphasis mine)</sup> In other words, _action_.
+
+<aside>I first learned of the MICE quotient via the <a href="https://writingexcuses.com/2011/08/07/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses&rdquo; podcast (season 6, episode 10)</a>. It's a great resource.</aside>
 
 ## Milieu alone isn't a strong story driver
 
@@ -43,11 +43,11 @@ That leaves character, which is the internal genre of narrative drive. Respondin
 
 If you're following Dwight Swain's [scene-sequel framework]({% post_url 2022-10-24-scene-sequel-acts %}), events and revelations create the "disasters" that form the external plot. Those disasters then force the protagonist to make decisions, which form the internal, character plot.
 
-## Good stories use all three
+## Good stories often use all three
 
-Stories in action genres tend to focus on event-based drive, while stories in science fiction and mystery genres tend to focus on idea-based drive. However, there's often a fair amount of overlap. 
+Different stories lean in different directions when it comes to the source of their narrative drive. For example, stories in action genres tend to focus on event-based drive, while stories in science fiction and mystery genres tend to focus on idea-based drive. However, there's often a fair amount of overlap. 
 
-This is a good thing. Coyne suggests that turning points should be a mix of events and ideas, neither leaning too heavily in one direction nor the other. If stories turn on only action, they can come across as “overly plotted,” while if they turn only on revelation, they can feel "melodramatic." <sup>{% include coyne-2015.html %} Page 172.</sup>
+Overlap is a good thing. Coyne suggests that turning points should be a mix of events and ideas, neither leaning too heavily in one direction nor the other. If stories turn on only action, they can come across as “overly plotted,” while if they turn only on revelation, they can feel "melodramatic." <sup>{% include coyne-2015.html %} Page 172.</sup>
 
 As one example of balance, [_Harry Potter and the Chamber of Secrets_](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) has a plot driven by the mystery of discovering the identity of the heir of Slytherin, a villain behind a series of attacks (idea). But, there are action beats sprinkled throughout the story, culminating in a major action showdown between Harry, Slytherin's heir, and fearsome monster (action).
 
