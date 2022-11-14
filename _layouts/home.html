@@ -14,21 +14,25 @@ layout: default
   {% assign posts = site.posts %}
 
   {%- if posts.size > 0 -%}
-    <h2>Thoughts</h2>
-    <ul class="post-list">
-      {%- for post in posts -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <small>
-            {%- include _postMeta.html -%}
-        </small>
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="post-list">
+      <h2>Thoughts</h2>
+      <span class="meta">Rss: <code>feed://natelistrom.com/feed.xml</code></span>
+
+      <ul class="post-list">
+        {%- for post in posts -%}
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          <small>
+              {%- include _postMeta.html -%}
+          </small>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
 
   {%- endif -%}
 
