@@ -8,7 +8,7 @@ reading_time: 5 min
 
 ---
 
-In Character and Viewpoint, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <sup>{% include card-2010.html %} Pages 62-63.</sup>
+In _Character and Viewpoint_, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <sup>{% include card-2010.html %} Pages 62-63.</sup>
 
 - **Milieu** is the "landscape, the interior spaces, the surrounding cultures . . . everything from weather to traffic laws." <sup>{% include card-2010.html %} Page 62.</sup> In other words, the _setting_.
 - **Idea** is "the information that the reader is meant to discover or learn during the process of the story." <sup>{% include card-2010.html %} Page 62.</sup> In other words, _mystery_ and _revelation_.
