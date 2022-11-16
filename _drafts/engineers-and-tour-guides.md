@@ -16,9 +16,7 @@ The phrase is a bit tongue-in-cheek. Behind it is the idea that, while a hard-wo
 
 ## Engineers are human
 
-The phrase also acknowledges a salient quality of human nature. At heart, we're energy-conservative beings. All other things equal, when given a choice, we'll prefer whatever path has the least friction.
-
-Humans are fundamentally friction-averse. Sure, we'll put up with a little bit of hassle for the sake of curiosity or novelty. But not for long. 
+The phrase also acknowledges a salient quality of human nature. At heart, we're energy-conservative beings. All other things equal, when given a choice, we'll prefer whatever path has the least friction. We may put up with a little bit of hassle for the sake of curiosity or novelty. But not for long. 
 
 To put up with friction, [we need a really strong motivation]({% post_url 2022-08-11-interest-effort %}). We need to have the sense that it's worth it &mdash; that something truly amazing is coming.
 
@@ -36,7 +34,7 @@ Reduce the effort required, of course.
 
 Years ago, my wife and I went on an anniversary trip to Turkey. While there, we rode on an hour-long tourist cruise up and down the Bosphorus in Istanbul. Everywhere we turned, there were fascinating things to take in. Sights, sounds, scents; texture and light and movement. 
 
-It could easily have been overwhelming &mdash; or sent us diving for the guidebooks or Googling things on our phones. Alternatively, we could have spent hours in preparation before the cruise, researching and learning about all the things we could expect to see.
+It could easily have been overwhelming . . . or sent us diving for the guidebooks or Googling things on our phones. Alternatively, we could have spent hours in preparation before the cruise, researching and learning about all the things we could expect to see.
 
 But we didn't have to do any of that. We had a guide with us on the boat. 
 
@@ -52,7 +50,7 @@ We have a similar calling as storytellers. We need to do the hard work of being 
 
 We do this by the way we tell our stories, by the techniques and structures we employ.
 
-The shape of our storytelling matters. It can make our stories easier or harder. Storytellers must carefully craft the manner in which they share their stories. That's a challenge. It takes hard work and knowledge and skill.
+The shape of our storytelling matters. It can make our stories easier or harder. That's a challenge. It takes hard work and knowledge and skill.
 
 But if we do it well, the effect is almost magical. We tell a story, and our audience is swept away. 
 
