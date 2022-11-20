@@ -55,12 +55,3 @@ As one example of balance, [_Harry Potter and the Chamber of Secrets_](https://e
 And, of course, characters must respond to all that action and revelation, which provides a great opportunity to layer in character story. Characters reveal themselves through the decisions they make. One of most clear ways to demonstrate character change is to show how a character, near the end of the story, makes different decisions in response to the kinds of _events_ or _revelations_ that they also faced at the beginning.
 
 In _The Voyage of the Dawn Treader_, the events on one of the islands are particularly impactful for a character named Eustace, who has, up until this point, been characterized by selfishness. In a moment of especially indulgent selfishness, Eustace is magically transformed into a dragon. Eustace returns to the crew only to discover that he can no longer interact with them as before. Confronted with true isolation, he ceases to think only of himself and begins to think of others. This is demonstrated, among other things, by his decision to help replace the ship's broken mast, finding a suitable tree and using his strength as a dragon to carry it from the forest to the beach where the ship is repaired. The external events of the plot have forced Eustace toward internal character change.
-
----
-
-#### Notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong>
-- <strong>Low effort</strong>
