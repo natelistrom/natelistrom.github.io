@@ -92,12 +92,3 @@ The second type of setup and payoff uses callbacks. It runs on a long timeframe 
 Looking at things this way, we can derive one more, interesting conclusion. If it's true that both of these patterns exist and can help elicit peak aesthetic experience, it seems reasonable to suggest that storytellers can stack them to added effect. In other words, a storyteller could create a callback somewhere early in a story and then, right before the moment of climax, also prime her audience. At the climax itself, both long-range and short-range effects could be paid off simultaneously.
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

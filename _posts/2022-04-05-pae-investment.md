@@ -88,12 +88,3 @@ Peak aesthetic experiences are created by the convergence of a number of factors
 One reason that values are so powerful is that our human cognitive systems are biased to preserve cognitive models at higher levels of abstraction. In a sense, when the conflict in a story revolves around a particular value we hold dear, we have a stake in the game. This is especially true if we're also invested in the characters, through empathy.
 
 That's it for now. More to come . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

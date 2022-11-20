@@ -30,8 +30,3 @@ The takeaway is this: In your own story design, see if you have the opportunity 
 #### Note
 
 This was originally posted as a [Twitter thread](https://twitter.com/natelistrom/status/1296426540830527495) back in 2020.
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong>
-- <strong>Low effort</strong> - I just tweeted out the ideas one morning; haven't spent much more time on it than that.

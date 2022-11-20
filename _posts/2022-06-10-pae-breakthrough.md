@@ -164,14 +164,3 @@ We've covered a lot of ground in this series so far.
 But, the research isn't done. There remain just a few more things worth investigating.
 
 Onward . . .
-
-
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

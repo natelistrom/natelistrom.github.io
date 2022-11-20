@@ -90,12 +90,3 @@ What does this mean for storytellers?
 I hope you won't think I'm being too pretentious when I say that peak aesthetic experience is a way to legacy. If you want key moments in your story (and thus your story as a whole) to be remembered, to be indelibly burned into audiences' minds, peak aesthetic experience is the way to do it.
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

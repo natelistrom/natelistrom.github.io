@@ -141,12 +141,3 @@ What have we learned? In this, the (I believe) last post in the series on peak a
 I hope this series has been helpful to you as you think about how to craft the stories you tell. If you've found anything interesting, useful, insightful, or just plain wrong, don't hesitate to reach out and let me know. (Also, please do report typos.) You can reach me on [Twitter](https://twitter.com/natelistrom) or email me at natelistrom at icloud dot com.
 
 And as always: Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

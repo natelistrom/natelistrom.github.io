@@ -80,12 +80,3 @@ Here we can see that, when something elicits peak aesthetic experience, our bodi
 Next up, we'll go deeper, talking about how peak aesthetic experience affects our brains' reward systems and then, eventually, what we feel subjectively. 
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

@@ -42,12 +42,3 @@ What’s interesting to me is that this pattern has been repeated in the graphic
 It’ll be interesting to see if a similar pattern will emerge in other industries whose technology costs and operator complexities are decreasing (3D printing, for example, or machine learning).
 
 One last thought . . . maybe there could be a phase zero, before phase one, in which tinkerers play around with the tools — or even tools that aren’t a part of the industry because the right tools don’t yet exist — These tinkerers would definitely be in the “technical” category, as much interested in building the tools as in doing the work, but I wouldn’t classify them as uncreative. In some ways, they’re the most creative of the bunch. They’re the ones that see the potential before the market even exists.
-
----
-
-#### Notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong> - This is just an idea; I haven't thought it through. Published more as a conversation starter than an essential piece of wisdom.
-- <strong>Low effort</strong> - I've had this notion for a while but without really investing in fleshing it out or drawing conclusions.

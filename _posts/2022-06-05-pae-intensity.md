@@ -144,12 +144,3 @@ In sum:
 - And finally, tension must reach a certain minimum level of intensity before peak aesthetic experience is possible.
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

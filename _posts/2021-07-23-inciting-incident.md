@@ -161,13 +161,4 @@ But, it has helped me. It's given me confidence. As I enter the “kitchen” of
 
 ---
 
-#### Additional notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Reasonably high confidence</strong> - This gives the clearest explanation I've seen so far. I've been mulling around this problem for several years and thinking about this solution for more than a year. This is the first time I've set it down in writing. 
-- <strong>Moderate effort</strong> - I've spent several hours on the draft.
-
-Let me know what you think. Really! Drop me a line on [Twitter]({{ site.twitter_url }}) or email me at natelistrom at icloud dot com.
-
----
+Let me know what you think. Really! Drop me a line on [Twitter]({{ site.twitter_url }}) or email me at <a href="mailto:hello@natelistrom.com">hello@natelistrom.com</a>.

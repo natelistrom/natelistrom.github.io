@@ -115,12 +115,3 @@ These also aren't a checklist, silver bullet, or recipe to follow blindly. Simpl
 But these things are good to keep in mind as you think about crafting stories. With which values does your theme and character actions resonate? Which relationships change, and how do they change? Do your characters act on behalf of others in significant moments of change, at a cost to themselves? Are moments of triumph tinged with loss or moments of resolution tinted with the conflict that came before?
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Low effort</strong>

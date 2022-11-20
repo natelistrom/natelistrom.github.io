@@ -81,12 +81,3 @@ Steve Jobs famously said, “Design is not just what it looks like and feels lik
 He, of course, is highlighting function, structure. But notice that he doesn’t ignore style. Both are important for design; they just have different roles.
 
 So in the end, drop shadows and bevels, minimal and material — all these things are good in their right place. The key is to _first_ consider a thing’s function and provide the appropriate structure. But don’t stop there. That’s only part of the journey. After the structure is set, there’s still a richness of variety in style to be explored. And style is important. It’s how your structure will be known.
-
----
-
-#### Notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong> - The underlying distinction is valid, but I'm not sure I've articulated the categories correctly.
-- <strong>Moderate effort</strong>

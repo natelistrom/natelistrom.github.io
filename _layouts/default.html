@@ -34,7 +34,7 @@
         let dom_references = document.querySelectorAll('sup:not(.aside)'); // Get a nodelist of all <sup> items
         let dom_wrapper = document.getElementById('content').firstElementChild;
 
-        dom_wrapper.insertAdjacentHTML("beforeend", "<h4 id='references'>References</h4><ol id='citations'></ol>");
+        dom_wrapper.insertAdjacentHTML("beforeend", "<hr /><h4 id='references'>References</h4><ol id='citations'></ol>");
         
         let dom_footnotes = document.getElementById('citations');
 

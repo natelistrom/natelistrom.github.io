@@ -56,11 +56,4 @@ The shape of our storytelling matters. It can make our stories easier or harder.
 But if we do it well, the effect is almost magical. We tell a story, and our audience is swept away. 
 
 All they have to do is simply sit and see and experience.
-
----
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>High confidence</strong>
-- <strong>Low effort</strong>
  

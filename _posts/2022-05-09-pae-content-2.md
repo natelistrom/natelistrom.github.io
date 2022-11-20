@@ -67,12 +67,3 @@ Inevitable, because it must satisfy your expectations for the story. It must not
 But optimal difference doesn’t, on its own, create peak aesthetic experience. Rather, it creates the environment in which peak aesthetic experience can happen. For peak aesthetic experience to be triggered, other factors need also to be at play. We'll talk about some of those soon.
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong>
-- <strong>Moderate effort</strong>

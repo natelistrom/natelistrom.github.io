@@ -96,12 +96,3 @@ The scene-sequel framework doesn't just apply to first acts. You can use the sam
 For example, if you're like me and subscribe to a four-part model, this framework fits especially nicely in the second half of the second act (Act 2b). The disaster of that segment creates an All Is Lost moment, and the following reaction and dilemma phase form a Dark Night of the Soul. Then, the decision at the end of that phase maps to what I've heard called a Recommitment, setting the protagonist on the road to the climax.
 
 No framework is perfect. Inevitably, you'll find stories that work in spite of apparently flouting the scene-sequel form. But, hopefully, you'll also be able to benefit from having one more tool in your story toolbelt. I think it's a good one.
-
----
-
-#### Notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong>
-- <strong>Moderate effort</strong>

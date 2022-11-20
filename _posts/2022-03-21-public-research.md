@@ -30,12 +30,3 @@ So I'm trying to embrace the notion of “learning in public.” Write and publi
 In that spirit, I’ve decided to publish learnings from my research before they’re well-digested into a book. Think of these as my working notes.
 
 This post itself is just a stub — a placeholder to get my foot in the door. More to come . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Low effort</strong>

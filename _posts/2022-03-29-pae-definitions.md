@@ -62,12 +62,3 @@ Taking all this together, we can finally arrive arrive at the following definiti
 > A peak aesthetic experience is one in which a person is exposed to a particularly meaningful work of art, music, nature, or story and experiences tears, chills, a sense of being moved, or some combination of these. Subjectively, a person may experience pleasure, intensity, or insight, and people generally look back on peak aesthetic experiences as having been positive.
 
 In future posts, I'll expand on what the research says about how people experience these moments and what goes into creating them.
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Low effort</strong>

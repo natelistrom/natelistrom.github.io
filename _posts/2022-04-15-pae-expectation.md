@@ -145,12 +145,3 @@ We've covered a lot of ground. Let's recap:
 As I stated at the beginning, expectation is tied to peak aesthetic experience. So, the knowledge instinct is a forward-looking drive, but it's also associated with the destination, the moment of payoff. That, of course, is supremely germane for storytellers. We'll talk about that soon.
 
 Onward . . .
-
----
-
-#### Note
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Low confidence</strong>
-- <strong>Moderate effort</strong>

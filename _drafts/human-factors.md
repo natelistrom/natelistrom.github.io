@@ -67,11 +67,3 @@ So this is where we will start with our exploration of story, with the human fac
 
 The first of these human factors, which we’ll explore next, is what I’m calling approachability — the basic, elemental things that make a story graspable and approachable. If a person can’t pick up your story and grasp it, they’ll have no hope of engaging with any of the things that come later. So, that’s where we’ll start.
 And whatever happened to the altimeters? Further research landed on a handful of improvements, some of which have even made it into modern, digital cockpit displays today — and none of which rely on three hands like a clock.
-
----
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>Moderate confidence</strong>
-- <strong>Moderate effort</strong>
- 

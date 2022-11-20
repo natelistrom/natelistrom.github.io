@@ -102,12 +102,3 @@ Once you've mastered the basics of craft, a large part of tuning the interest-ef
 Ultimately, there's no "perfect" ratio. Both _Mission: Impossible_ and _To Kill a Mockingbird_ have a place in the world — and audiences who love them. Neither is inherently better or worse.
 
 Based on the type of experience you want to deliver, you'll have an idea about how "steep" your audience members' climb (the kind of effort involved) — and the "company" (interest) you'll need to provide along the way so that, ultimately, they'll reach the summit. 
-
----
-
-#### Notes
-
-[Digital gardening](https://maggieappleton.com/garden-history) epistemic status:
-
-- <strong>High confidence</strong>
-- <strong>Moderate effort</strong>
