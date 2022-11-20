@@ -3,6 +3,7 @@ layout: post
 title:  "Lazy engineers and hard-working tour guides"
 date:   2022-11-16 12:00:00 -0400
 tags: Craft Writing Story
+maturity: note
 reading_time: 3 min
 ---
 

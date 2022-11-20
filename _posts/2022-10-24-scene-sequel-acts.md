@@ -3,6 +3,7 @@ layout: post
 title:  "Scenes, sequels, and acts"
 date:   2022-10-24 12:00:00 -0400
 tags: [Story, Craft, Story structure, Structure]
+maturity: note
 reading_time: 6 min
 ---
 

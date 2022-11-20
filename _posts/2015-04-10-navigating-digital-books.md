@@ -3,6 +3,7 @@ layout: post
 title:  "Hey Amazon, let's make navigating digital books even better"
 date:   2015-04-10 12:00:00 -0400
 tags: Design Technology
+maturity: note
 reading_time: 10 min
 ---
 

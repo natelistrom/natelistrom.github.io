@@ -3,6 +3,7 @@ layout: post
 title:  "Peak aesthetic experiences part 5: optimal difference"
 date:   2022-05-09 12:00:00 -0400
 tags: Story Writing Book
+maturity: note
 reading_time: 4 min
 ---
 

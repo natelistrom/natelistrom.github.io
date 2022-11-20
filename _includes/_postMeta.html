@@ -1,5 +1,6 @@
 <span class="meta">
     {{ post.date | date: "%b %-d, %Y" }}
+    {% if post.maturity %} <span class="pipe">&nbsp;|&nbsp;</span> {{post.maturity}}{% endif %}
     {% if post.reading_time %} <span class="pipe">&nbsp;|&nbsp;</span>  {{post.reading_time}} read{% endif %}
     {% if post.tags %} 
         <span class="categories">

@@ -3,6 +3,7 @@ layout: post
 title:  "Peak aesthetic experiences part 2: investment"
 date:   2022-04-05 12:00:00 -0400
 tags: Story Writing Book
+maturity: note
 reading_time: 5 min
 ---
 

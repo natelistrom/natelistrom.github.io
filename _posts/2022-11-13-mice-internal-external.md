@@ -3,6 +3,7 @@ layout: post
 title:  "How Orson Scott Card's MICE quotient maps to internal and external genres of narrative drive"
 date:   2022-11-13 12:00:00 -0400
 tags: [Story, Story structure, Narrative drive, Craft]
+maturity: note
 reading_time: 5 min
 ---
 

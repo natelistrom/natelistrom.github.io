@@ -3,6 +3,7 @@ layout: post
 title:  "The interest-effort formula for engaging story audiences"
 date:   2022-08-11 12:00:00 -0400
 tags: [Story, Craft, Narrative drive]
+maturity: note
 reading_time: 8 min
 ---
 

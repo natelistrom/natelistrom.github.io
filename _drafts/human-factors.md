@@ -3,6 +3,7 @@ layout: post
 title:  "Human factors"
 date:   2022-11-16 12:00:00 -0400
 tags: Craft Writing Story Design
+maturity: note
 reading_time: 4 min
 ---
 

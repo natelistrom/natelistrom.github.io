@@ -3,6 +3,7 @@ layout: post
 title:  "Peak aesthetic experiences part 10: physiology"
 date:   2022-06-17 12:00:00 -0400
 tags: Story Writing Book
+maturity: note
 reading_time: 6 min
 ---
 
