@@ -498,6 +498,11 @@ a.category:hover {
   color: $colorBorderLight;
 }
 
+.meta .bi {
+  position: relative;
+  top: 3px;
+}
+
 @media screen and (max-width: 480px) {
   .categories {
     display: block;
