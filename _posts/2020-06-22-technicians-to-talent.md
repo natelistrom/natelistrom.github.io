@@ -3,7 +3,7 @@ layout: post
 title:  "From technicians to talent: three phases in creative markets"
 date:   2020-06-26 12:00:00 -0400
 tags: Craft Marketplaces Technology
-maturity: note
+maturity: scribble
 reading_time: 3 min
 ---
 
