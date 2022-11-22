@@ -51,6 +51,57 @@ table {
   border-spacing: 0;
 }
 
+/* --- Button reset via Normalize ---
+  (as referenced on css-tricks.com:
+  https://css-tricks.com/overriding-default-button-styles/)
+  */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+ button,
+ input,
+ optgroup,
+ select,
+ textarea {
+   font-family: inherit; /* 1 */
+   font-size: 100%; /* 1 */
+   line-height: 1.15; /* 1 */
+   margin: 0; /* 2 */
+ }
+ 
+ /**
+  * Show the overflow in IE.
+  * 1. Show the overflow in Edge.
+  */
+ 
+ button,
+ input { /* 1 */
+   overflow: visible;
+ }
+ 
+ /**
+  * Remove the inheritance of text transform in Edge, Firefox, and IE.
+  * 1. Remove the inheritance of text transform in Firefox.
+  */
+ 
+ button,
+ select { /* 1 */
+   text-transform: none;
+ }
+ 
+ /**
+  * Correct the inability to style clickable types in iOS and Safari.
+  */
+ 
+ button,
+ [type="button"],
+ [type="reset"],
+ [type="submit"] {
+   -webkit-appearance: button;
+ }
 
 /* =================== */
 /* Begin custom styles */
@@ -435,6 +486,10 @@ svg.center {
      margin-top: 0.5rem;
   }
 }
+.meta .bi {
+  position: relative;
+  top: 3px;
+}
 
 /* --- Special elements --- */
 
@@ -498,10 +553,73 @@ a.category:hover {
   color: $colorBorderLight;
 }
 
-.meta .bi {
-  position: relative;
-  top: 3px;
+/* --- Hover flyout --- */
+
+/* 	The container that we animate with visibility and position
+	This needs to be continuous with the trigger 
+	in order to make the flyout reachable during hover
+	*/
+
+.hoverFlyoutContainer {
+  opacity: 0;
+  padding-top: 0px;
+  position: absolute;
+  visibility: hidden;
+  left: -0.75rem;
+  z-index: 1;
 }
+
+/* 	The design of the flyout itself 
+  */
+
+.hoverFlyout {
+  background: $colorWhite;
+  border-radius: $borderRadius;
+  box-shadow:  
+    0 2px 4px 0 rgba(0,0,0,0.125),
+    0 4px 8px 0 rgba(0,0,0,0.125);
+  font-size: 0.7rem;
+  padding: 0.5rem 0.75rem;
+  width: 240px;
+}
+
+.hoverTrigger {
+  border: none;
+  background: $colorWhite;
+  display: inline-block;
+  margin: -2px -4px;
+  padding: 2px 4px;
+  border-radius: $borderRadius;
+  &:hover {
+    background-color: $colorBackgroundLight;
+  }
+  &:active {
+    background-color: $colorBackgroundMedium;
+  }
+}
+
+/*	A global container element for the whole thing, 
+  which lets us maintain hover persistence.
+  */
+
+.hover {
+  display: inline-block;
+  position: relative;
+
+  .hoverTrigger {
+    cursor: pointer;
+  }
+
+  .hoverFlyoutContainer.active {
+    opacity: 1;
+    padding-top: 4px;
+    transition: all 0.2s ease;
+    visibility: visible;
+  }
+}
+
+
+/* --- Responsive --- */
 
 @media screen and (max-width: 480px) {
   .categories {

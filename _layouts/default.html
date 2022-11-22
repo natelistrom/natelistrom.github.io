@@ -18,6 +18,33 @@
 
     <script>
 
+      if (document.querySelectorAll('.hoverTrigger').length > 0) {
+
+        let dom_flyoutTriggers = document.getElementsByClassName("hoverTrigger");
+        console.log("Flyout triggers: " + dom_flyoutTriggers);
+
+        // for each flyout trigger . . .
+        // when it is clicked, look for the next element that has the class name flyout . . .
+        // check to see if that also has the .active class
+        // if it does, remove the class
+        // if it doesn't add the class
+
+        for (let i = 0; i < dom_flyoutTriggers.length; i++) {
+          let dom_trigger = dom_flyoutTriggers[i];
+
+          dom_trigger.addEventListener("click", function() {
+            let dom_flyout = dom_trigger.nextElementSibling;
+
+            if (dom_flyout.classList.contains("active")) {
+              dom_flyout.classList.remove("active");
+            } else {
+              dom_flyout.classList.add("active");
+            };
+
+          });
+        };
+      };
+
       /*
         This script iterates through references and generates a list of citations.
         We check for multiple citations of the same work and, depending on whether they
