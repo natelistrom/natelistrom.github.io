@@ -578,23 +578,36 @@ a.category:hover {
   box-shadow:  
     0 2px 4px 0 rgba(0,0,0,0.125),
     0 4px 8px 0 rgba(0,0,0,0.125);
+  color: $colorTextSecondary;
   font-size: 0.7rem;
   padding: 0.5rem 0.75rem;
-  width: 240px;
+  width: 400px;
 }
 
 .hoverTrigger {
   border: none;
   background: $colorWhite;
   display: inline-block;
-  margin: -2px -4px;
-  padding: 2px 4px;
+  margin: -2px;
+  padding: 2px;
   border-radius: $borderRadius;
   &:hover {
-    background-color: $colorBackgroundLight;
+    background-color: $colorBackgroundPrimary;
+    color: $colorPrimary;
   }
   &:active {
-    background-color: $colorBackgroundMedium;
+    background-color: $colorPrimary;
+    color: $colorWhite;
+  }
+}
+
+.meta .hoverTrigger {
+  color: $colorTextSecondary;
+  &:hover {
+    color: $colorPrimary;
+  }
+  &:active {
+    color: $colorWhite;
   }
 }
 

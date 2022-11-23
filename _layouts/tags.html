@@ -4,18 +4,9 @@ layout: default
 <div class="post">
 <h1>Notes tagged &ldquo;{{ page.tag }}&rdquo;</h1>
 <ul class="post-list">
-{% for post in site.tags[page.tag] %}
-<li>
-    <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </h3>
-    <small>
-        {%- include _postMeta.html -%}
-    </small>
-  </li>
-{% endfor %}
+  {% for post in site.tags[page.tag] %}
+    {% include _postList.html %}
+  {% endfor %}
 </ul>
 </div>
 
