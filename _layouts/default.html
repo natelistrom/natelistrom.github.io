@@ -18,10 +18,39 @@
 
     <script>
 
+      /* Flyouts */
+
+      function positionFlyout(trigger, flyout) {
+        /*
+          Flyout positioning script adapted from that of Vincent Navetat.
+          https://medium.com/carwow-product-engineering/building-a-simple-tooltip-component-that-never-goes-off-screen-c7039dcab5f9
+          */
+
+        const screenPadding = 16;
+
+        const placeholderRect = trigger.getBoundingClientRect();
+        const dropdownRect = flyout.getBoundingClientRect();
+
+        const dropdownRightX = dropdownRect.x + dropdownRect.width;
+        const placeholderRightX = placeholderRect.x + placeholderRect.width;
+
+        console.log(dropdownRightX);
+        console.log(window.outerWidth);
+
+        if (dropdownRect.x < 0) {
+          flyout.style.left = '0';
+          flyout.style.right = 'auto';
+          flyout.style.transform = `translateX(${-placeholderRect.x + screenPadding}px)`;
+        } else if (dropdownRightX > window.outerWidth) {
+          flyout.style.left = 'auto';
+          flyout.style.right = '0';
+          flyout.style.transform = `translateX(${(window.outerWidth - placeholderRightX) - screenPadding}px)`;
+        }
+      };
+
       if (document.querySelectorAll('.hoverTrigger').length > 0) {
 
         let dom_flyoutTriggers = document.getElementsByClassName("hoverTrigger");
-        console.log("Flyout triggers: " + dom_flyoutTriggers);
 
         // for each flyout trigger . . .
         // when it is clicked, look for the next element that has the class name flyout . . .
@@ -38,6 +67,7 @@
             if (dom_flyout.classList.contains("active")) {
               dom_flyout.classList.remove("active");
             } else {
+              positionFlyout(this, dom_flyout);
               dom_flyout.classList.add("active");
             };
 
@@ -46,6 +76,8 @@
       };
 
       /*
+        Citation builder
+
         This script iterates through references and generates a list of citations.
         We check for multiple citations of the same work and, depending on whether they
         are adjacent or not, use either a "short version" with title and author only or
