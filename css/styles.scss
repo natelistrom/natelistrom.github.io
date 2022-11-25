@@ -554,14 +554,12 @@ a.category:hover {
   color: $colorBorderLight;
 }
 
-/* --- Hover flyout --- */
+/* --- Flyout --- */
 
 /* 	The container that we animate with visibility and position
-    This needs to be continuous with the trigger 
-    in order to make the flyout reachable during hover
     */
 
-.hoverFlyoutContainer {
+.flyoutContainer {
   opacity: 0;
   padding-top: 0px;
   position: absolute;
@@ -573,7 +571,7 @@ a.category:hover {
 /* 	The design of the flyout itself 
   */
 
-.hoverFlyout {
+.flyout {
   background: $colorWhite;
   border-radius: $borderRadius;
   box-shadow:  
@@ -585,7 +583,7 @@ a.category:hover {
   width: 288px;
 }
 
-.hoverTrigger {
+.flyoutTrigger {
   border: none;
   background: $colorWhite;
   display: inline-block;
@@ -602,7 +600,7 @@ a.category:hover {
   }
 }
 
-.meta .hoverTrigger {
+.meta .flyoutTrigger {
   color: $colorTextSecondary;
   &:hover {
     color: $colorPrimary;
@@ -612,19 +610,15 @@ a.category:hover {
   }
 }
 
-/*	A global container element for the whole thing, 
-    which lets us maintain hover persistence.
-    */
-
-.hover {
+.flyoutRoot {
   display: inline-block;
   position: relative;
 
-  .hoverTrigger {
+  .flyoutTrigger {
     cursor: pointer;
   }
 
-  .hoverFlyoutContainer.active {
+  .flyoutContainer.active {
     opacity: 1;
     padding-top: 4px;
     transition: 

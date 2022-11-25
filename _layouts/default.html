@@ -20,7 +20,7 @@
 
       /* Flyouts */
 
-      if (document.querySelectorAll('.hoverTrigger').length > 0) {
+      if (document.querySelectorAll('.flyoutTrigger').length > 0) {
 
       /*
         Flyout positioning script adapted from that of Vincent Navetat.
@@ -48,7 +48,7 @@
           }
         };
 
-        let dom_flyoutTriggers = document.getElementsByClassName("hoverTrigger");
+        let dom_flyoutTriggers = document.getElementsByClassName("flyoutTrigger");
 
         // for each flyout trigger . . .
         // when it is clicked, look for the next element that has the class name flyout . . .
@@ -75,8 +75,8 @@
         document.addEventListener("click", function(event) {
           let currentTooltip = null;
 
-          if (currentTooltip = event.target.closest(".hover")) {
-            currentTooltip = event.target.closest(".hover").children[1];
+          if (currentTooltip = event.target.closest(".flyoutRoot")) {
+            currentTooltip = event.target.closest(".flyoutRoot").children[1];
           };
 
           document.querySelectorAll('.active').forEach(tooltip => { // currently fails to match tooltip
