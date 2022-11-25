@@ -443,6 +443,7 @@ figcaption {
 
 .pageWrapper {
   margin: 0 auto;
+  overflow-x: hidden; // prevent horizontal scroll from mis-positioned flyouts
   padding: 5rem 0;
 }
 .pageWrapper > header {
