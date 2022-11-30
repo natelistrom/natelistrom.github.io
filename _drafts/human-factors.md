@@ -1,25 +1,29 @@
 ---
 layout: post
-title:  "Human factors"
-date:   2022-11-16 12:00:00 -0400
+title:  "[DRAFT] Design your story to fit people"
+date:   2022-12-02 12:00:00 -0400
 tags: Craft Writing Story Design
 maturity: note
 reading_time: 4 min
 ---
 
+<p class="summary"><strong>Summary:</strong> The best tools are designed to be ergonomic &mdash; to be fitted <em>to</em> people, rather than asking people to fit the tool. Similarly, as a storyteller, you should design your stories to fit the way people think.</p>
+
 ---
 
-<p class="dropCap">In the 1940s, a psychologist named Paul Morris Fitts led an investigation into nearly three hundred documented cases of mistakes made by aircraft pilots or their crew members while operating their aircraft. He found that the largest single group of errors &mdash; more than ten percent &mdash; were due to exactly the <em>same</em> mistake: misreading the altimeter by one thousand feet. <sup>{% include fittsAndJones-1947.html %}</sup></p>
+<p class="dropCap">In the 1940s, a psychologist named Paul Morris Fitts led an investigation into mistakes made by aircraft pilots or their crew members. He reviewed nearly three hundred documented cases, looking for patterns. Suprisingly, he found that the largest single group of errors &mdash; more than ten percent &mdash; were due to <em>exactly the same mistake</em>.</p> 
 
-The altimeter is a little device that uses barometric pressure to tell a pilot how high above sea level the plane is flying. If the pilot knows both his height above sea level and the height of the ground, he can determine how high the plane is flying above the ground. This is especially important when attempting to land the plane. Miscalculation during a landing approach can be deadly.
- 
-Why were all these pilots misreading the altimeter so drastically? The suprising answer comes in how the altimeter was designed.
+What was the mistake? Misreading the altimeter by exactly one thousand feet. <sup>{% include fittsAndJones-1947.html %}</sup>
 
-## A design problem
- 
-Altimeters must provide a wide range of altitude &mdash; at the time, up to 40,000 feet. But it must also provide a fine-grained definition between narrow distances. A difference of fifty feet during final landing approach could mean the difference between touching down on the runway or crashing into a neighboring field.
+## Designed to confuse
 
-This presented designers with a problem. If the gauge was optimized to show the full, 40,000 foot range, it would be useless to show the smaller distances. But if it showed the smaller distances with high enough granularity, the gauge couldn’t possibly show the full range &mdash; it would fill the entire cockpit. 
+The altimeter is a little device that uses barometric pressure to tell a pilot how high above sea level the plane is flying. If the pilot knows both 1) his height above sea level and 2) the height of the ground, he can determine how high the plane is flying above the ground by subtracting the ground level from the reading on the altimeter.
+
+For obvious reasons, getting this calculation correct is especially important when attempting to land the plane.
+
+The designers of these altimeters faced an interesting challenge. Altimeters must provide a wide range of altitude &mdash; at the time, up to 40,000 feet. But, they must also provide a fine-grained definition between narrow distances during landing. A miscalculation of fifty feet could mean the difference between touching down on a runway or crashing into the field beyond.
+
+This presented designers with a problem. If the gauge was optimized to show the full, 40,000 foot range, it would be useless to show the smaller distances. But if it showed the smaller distances with high enough granularity, the gauge couldn’t possibly show the full range &mdash; it would need to fill the entire cockpit. 
  
 They settled upon a clever solution that repurposed a pattern that had been established for centuries. The gauges had multiple pointers, like a clock face. 
  
@@ -29,7 +33,7 @@ And it was killing people.
 
 ## Patterns point to something deeper
 
-Individually, each misreading could be attributed to simple pilot error. But, taken together in Fitts’ investigation, it became clear that something else happening.
+Individually, each misreading that Fitts reviewed could be attributed to simple pilot error. But, taken together, it became clear that something else happening.
 
 In the fractions of a second that pilots had available to glance at the reading, parse the positions of the three hands, and calculate a measurement, something was going wrong.
 
