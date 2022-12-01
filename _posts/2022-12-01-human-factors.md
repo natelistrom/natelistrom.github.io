@@ -59,7 +59,7 @@ There are certain ways that audiences receive, parse, and process story informat
 
 ## Study your craft
 
-This is why studying the fundamentals of craft is so valuable. Under the surface, a lot of good technique &mdash; matering things like structure and scene format and escalation and turning points &mdash; is simply aligning the flow of story with how the human mind works most naturally.
+This is why studying the fundamentals of craft is so valuable. Under the surface, a lot of good technique &mdash; mastering things like structure and scene format and escalation and turning points &mdash; is simply aligning the flow of story with how the human mind works most naturally.
 
 So, study your craft. It'll help your story "stick the landing."
 
