@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[DRAFT] Story structure and theme in Ira Glass' anecdote and reflection"
+title:  "Story structure and theme in Ira Glass' anecdote and reflection"
 date:   2022-12-07 12:00:00 -0400
 tags: [Story Structure, Primitives, Theme, Story, Craft]
 maturity: note
