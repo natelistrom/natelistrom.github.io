@@ -2,7 +2,7 @@
 layout: post
 title:  "Story structure and theme in Ira Glass' anecdote and reflection"
 date:   2022-12-07 12:00:00 -0400
-tags: [Story Structure, Primitives, Theme, Story, Craft]
+tags: [Story structure, Primitives, Theme, Story, Craft]
 maturity: note
 reading_time: 8 min
 ---
