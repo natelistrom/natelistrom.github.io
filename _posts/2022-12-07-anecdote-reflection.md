@@ -26,7 +26,7 @@ The reflection is that, having come to realize that they misjudged one another, 
 
 In Steven Spielberg's 1993 film, _Jurassic Park_, the anecdote is a series of events surrounding the main characters' exploration and subsequent escape from the doomed theme park. Audiences ride along with the characters as they encounter different dinosaurs and overcome obstacles, first anticipating the terrifying moment when things will go wrong and then wondering how the main characters will survive.
 
-The reflection is that, having endured the ordeal and escaped, Dr. Grant has learned to embrace the chaos and uncertainty of the future (metaphorically represented by children), which cannot &mdash; and should not &mdash; be totally controlled.
+The reflection is that, having endured the ordeal and escaped, Dr. Grant has learned to embrace the chaos and uncertainty of the future (metaphorically represented by his relationship to children), which cannot &mdash; and should not &mdash; be totally controlled.
 
 In Glass' nonfiction radio work, the moment of reflection could be explicit and non-narrative. Literally, "this is what the events taught me." When applied to fiction, the moment of reflection is almost always implied, folded into the narrative itself. It's what story theorists call the "thematic argument," the claim that the story asks its audience to consider. 
 
@@ -38,7 +38,7 @@ He goes on to observe that story form implies resolution. The events of the anec
 
 The moment of reflection is the payoff of the promise, the destination of the train. It answers the question raised by the anecdote and gives the story meaning. Without it, the story ending feels unsatisfying. Audiences might express frustration: "It didn't _go_ anywhere. It just ended."
 
-The converse is also true. A moment of reflection by itself, feels hollow. It’s just a propositional statement. In a sense, the events of the anecdote are a demonstration of the thematic argument. They are the "evidence" of which the reflection is the conclusion. They make the thematic statement feel earned.
+The converse is also true. A moment of reflection, by itself, feels hollow. It’s just a propositional statement. In a sense, the events of the anecdote are a demonstration of the thematic argument. They are the "evidence" of which the reflection is the conclusion. They make the thematic argument feel earned.
 
 To be most effective, the two need each other.
 
@@ -72,7 +72,7 @@ What about reflection?
 
 #### Reflections are layered into the events of the anecdote
 
-Remember that, in our definition, the reflection is the story's thematic argument. The thematic argument is most commonly expressed through character decisions and the resulting consequences, but, like the events of the anecdote, it can also be conveyed through image and motif. 
+Remember that, in our definition, the reflection is the story's thematic argument. The thematic argument is most commonly expressed through character decisions and the resulting consequences; but, like the events of the anecdote, it can also be conveyed through image and motif. 
 
 In classically-structured stories, the thematic argument lands in the climax and resolution, but it is established at the very beginning and spans the entire story.
 
@@ -80,7 +80,7 @@ Key moments throughout the story help to build and validate the thematic argumen
 
 - Early in the story, there may be a statement of the thematic argument by a secondary character, which the protagonist will reject (or at least be unable to assume for herself). <sup>{% include anders-2011.html %}</sup> Right before their call to adventure in _Jurassic Park_, for example, Dr. Sattler teases Dr. Grant about having kids. He declines the notion. 
 - In the later part of the second act, the protagonist will often face a "dark night of the soul." <sup>{% include snyder-2005.html %} Pages 86-89.</sup> Having tried everything her way and failed, she will have to grapple with the thematic argument, and, in a moment of insight, finally surrender and commit herself to it. In _Jurassic Park_, Dr. Grant's all is lost moment comes when one of the children's heart stops after he is shocked by high-voltage wires. Dr. Grant's desperation &mdash; and his ensuing joy when the child revives &mdash; demonstrate to both Dr. Grant and the audience that his relationship with children (and the future) is changing.
-- Then, at the climax, she will, in the words of screenwriter and director Craig Mazin, "embody the truth of the theme . . . through action." <sup>{% include mazin-2019.html %}</sup> In the climax of _Jurassic Park_, Dr. Grant once again finds himself in a position where he must risk his own life to save the kids, bodily placing himself in between them and a couple of clever and determined velociraptors.
+- Then, at the climax, the protagonist will, in the words of screenwriter and director Craig Mazin, "embody the truth of the theme . . . through action." <sup>{% include mazin-2019.html %}</sup> In the climax of _Jurassic Park_, Dr. Grant once again finds himself in a position where he must risk his own life to save the kids, bodily placing himself in between them and a couple of clever and determined velociraptors.
 
 Lastly, the protagonist's starting point and ending point across the entire span of the story create a comparison that demonstrates the thematic argument.
 
