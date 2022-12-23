@@ -4,7 +4,7 @@ title:  "AI art and the loss of practice"
 date:   2022-12-23 12:00:00 -0400
 tags: [AI art generation, Technology, Craft, AI]
 maturity: scribble
-reading_time: 5 min
+reading_time: 4 min
 ---
 
 For a bit of context on AI art generation, see [this BBC article](https://www.bbc.com/news/technology-62788725).
