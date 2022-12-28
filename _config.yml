@@ -31,10 +31,19 @@ linkedin_url: https://www.linkedin.com/in/natelistrom
 behance_url: https://www.behance.net/natelistrom
 medium_url: https://medium.com/@natelistrom
 
+defaults:
+  -
+    scope:
+      path:            "tag/**"
+    values:
+      sitemap:         false
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
