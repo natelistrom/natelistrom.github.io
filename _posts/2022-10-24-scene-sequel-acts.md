@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scenes, sequels, and acts"
+title:  "Applying scene sequel format to story structure"
 date:   2022-10-24 12:00:00 -0400
 tags: [Story, Craft, Story structure, Structure]
 maturity: note
