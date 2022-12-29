@@ -27,7 +27,7 @@ I'll group the research on this into five buckets:
 
 In this post, I'll talk about the first of these.
 
-# Investment
+## Investment
 
 Investment is how much the audience cares about the story.
 
@@ -35,7 +35,7 @@ In order for audiences to respond strongly, they need to be invested in the outc
 
 In part, investment can come from the themes that a story addresses &mdash; We'll talk about that in a minute &mdash; but ideas alone are difficult to connect with. The best way to bring audiences into a work is through character.
 
-## Empathy: investment in characters
+#### Empathy: investment in characters
 
 Schoeller and Perlovsky found that every one of the chill-eliciting scenes suggested by their study participants involved the main character. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
@@ -47,7 +47,7 @@ It's not just stories that do this. Mori and Iwanaga discuss reports by Saarikal
 
 We connect when we understand others and when, in others' shared experiences, we feel understood ourselves. Thus, empathy with the characters in a story unlocks the potential for us to be emotionally moved. But potential alone isn't enough. That potential needs to be activated.
 
-## Values: investment in ideas
+#### Values: investment in ideas
 
 The second important ingredient of investment is values, what Menninghaus et al. labelled "compatibility with social norms and self-ideals." <sup>{% include menninghaus-2015.html %}</sup>
 
@@ -63,7 +63,7 @@ Also note that what's at play here is the _vindication_ of our values. We're mov
 
 Why do values factor so significantly in our experience of being moved?
 
-## A theory of cognitive hierarchy
+#### A theory of cognitive hierarchy
 
 Schoeller and Perlovsky attribute this to a theory of being moved that has to do with cognitive hierarchy. The idea is that our minds create a spectrum of concepts, from lower level models of concrete objects, like chairs and tables, to higher level models of abstracts, like love and courage. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
 
@@ -81,7 +81,7 @@ The key point is that, according to the theory, changing one's view at higher le
 
 In other words, we're most deeply invested in the things at the highest levels of the hierarchy — our values. Changing your worldview is one of the most energy-intensive and difficult cognitive processes. We don't enter into it easily. And the converse is also true. We experience reward when our worldviews are positively reinforced. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup> We emotionally connect in powerful ways with stories that vindicate our values.
 
-# Wrapping it up
+## Wrapping it up
 
 Peak aesthetic experiences are created by the convergence of a number of factors. One of these is that the audience must be invested in the experience. In story, this happens most easily when the audience can empathize with characters and when the moral actions of those characters resonate with the audience's own values. 
 
