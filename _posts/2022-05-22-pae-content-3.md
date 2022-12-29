@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 6: incongruity"
+title:  "Incongruity: Peak aesthetic experiences 6"
 date:   2022-05-22 12:00:00 -0400
-tags: Story Writing Book
+tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 8 min
 ---

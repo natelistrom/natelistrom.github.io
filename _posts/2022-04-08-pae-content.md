@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 3: content"
+title:  "Content: Peak aesthetic experiences 3"
 date:   2022-04-08 12:00:00 -0400
-tags: Story Writing Book
+tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 7 min
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 5: optimal difference"
+title:  "Optimal difference: Peak aesthetic experiences 5"
 date:   2022-05-09 12:00:00 -0400
-tags: Story Writing Book
+tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 4 min
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 12: subjective experience"
+title:  "Subjective experience: Peak aesthetic experiences 12"
 date:   2022-07-03 12:00:00 -0400
-tags: Story Writing Book
+tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 11 min
 ---

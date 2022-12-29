@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Peak aesthetic experiences part 11: reward"
+title:  "Reward: Peak aesthetic experiences 11"
 date:   2022-06-27 12:00:00 -0400
-tags: Story Writing Book
+tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 7 min
 ---
