@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investment: Peak aesthetic experiences 2"
+title:  "Investment and peak experience"
 date:   2022-04-05 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

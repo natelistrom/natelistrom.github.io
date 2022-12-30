@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Content: Peak aesthetic experiences 3"
+title:  "What types of content create peak experience?"
 date:   2022-04-08 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

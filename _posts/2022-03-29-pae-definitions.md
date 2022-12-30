@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Definitions: Peak aesthetic experiences 1"
+title:  "Definitions: what are peak aesthetic experiences?"
 date:   2022-03-29 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expectation and the knowledge instinct: Peak aesthetic experiences 4"
+title:  "Expectation, the knowledge instinct, and peak experience"
 date:   2022-04-15 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book, Narrative drive]
 maturity: note

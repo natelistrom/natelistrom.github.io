@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Subjective experience: Peak aesthetic experiences 12"
+title:  "The subjective awareness of peak experience"
 date:   2022-07-03 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

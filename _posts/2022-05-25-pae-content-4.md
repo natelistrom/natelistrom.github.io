@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Priming and callbacks: Peak aesthetic experiences 7"
+title:  "Priming, callbacks, and peak experience"
 date:   2022-05-25 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

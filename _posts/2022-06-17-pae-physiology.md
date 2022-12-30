@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Physiology: Peak aesthetic experiences 10"
+title:  "The physiology of peak experiences"
 date:   2022-06-17 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimal difference: Peak aesthetic experiences 5"
+title:  "Optimal difference and peak experience"
 date:   2022-05-09 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

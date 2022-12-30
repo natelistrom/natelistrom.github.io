@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intensity: Peak aesthetic experiences 8"
+title:  "Intensity and peak experience"
 date:   2022-06-05 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

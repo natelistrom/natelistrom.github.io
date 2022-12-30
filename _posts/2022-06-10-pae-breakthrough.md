@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breakthrough: Peak aesthetic experiences 9"
+title:  "Peak experience and the breakthrough moment"
 date:   2022-06-10 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
