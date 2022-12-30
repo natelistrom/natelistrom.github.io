@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AI art and the loss of practice"
+description: "With the advent of AI art generation, one of the things that may be at risk is the ineffable nuance in skill that comes from repeated practice."
 date:   2022-12-23 12:00:00 -0400
 tags: [AI art generation, Technology, Craft, AI]
 maturity: scribble
