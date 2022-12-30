@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Intensity and peak experience"
+description: "Tension must reach a certain minimum level of intensity before peak aesthetic experience is possible."
 date:   2022-06-05 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

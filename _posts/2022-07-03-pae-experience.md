@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The subjective awareness of peak experience"
+description: "When audiences have peak aesthetic experiences, they move from tension to release, often experiencing interaction of both happiness and sadness and having a sense of profundity and connectedness."
 date:   2022-07-03 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

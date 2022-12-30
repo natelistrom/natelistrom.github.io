@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Optimal difference and peak experience"
+description: "To make story moments maximally engaging, storytellers must find a balance between expectation and suprise. Too familiar is boring. Too different is unbelievable."
 date:   2022-05-09 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

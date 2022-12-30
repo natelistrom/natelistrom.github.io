@@ -67,11 +67,24 @@ I wish I still played guitar as well as I used to, but my skill has atrophied. I
 
 If you're here for the discussion on craft, check out:
 
-**[Shinichi Suzuki and the three domains of mastery]({% post_url 2015-01-23-suzuki %})**
-<br />Talent, education, and skill. An exploration of these domains of mastery and how to think about them.
+{% for post in site.posts %}
+{% if post.url == "/2015/01/23/suzuki.html" %}
+
+<strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+<br />{{ post.description }}
+
+{% endif %}
+{% endfor %}
+
 
 If you're here for the discussion on tech, check out:
 
-**[Virtual reality comes in three flavors]({% post_url 2022-11-07-arvr %})**
-<br />You can group approaches to augmented reality and virtual reality (AR/VR) into three categories, each with their own unique challenges and opportunities.
+{% for post in site.posts %}
+{% if post.url == "/2022/11/07/arvr.html" %}
+
+<strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+<br />{{ post.description }}
+
+{% endif %}
+{% endfor %}
 

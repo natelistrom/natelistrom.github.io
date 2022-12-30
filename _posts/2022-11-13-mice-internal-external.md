@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How Orson Scott Card's MICE quotient maps to internal and external genres of narrative drive"
+description: "Story theorists commonly apply the MICE quotient to story structure, but elements from the framework apply to the core conflicts behind action-, revelation-, and character-based plots."
 date:   2022-11-13 12:00:00 -0400
 tags: [Story, Story structure, Narrative drive, Craft]
 maturity: note

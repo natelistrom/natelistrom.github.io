@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Peak experiences and reward"
+description: "In peak aesthetic experience, activation of reward circuitry manifest in increased pleasure, attention, and memory."
 date:   2022-06-27 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note

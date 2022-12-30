@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sky lanterns and irony: How Disney's 'Tangled' amplifies impact"
+description: "Like the writers of Disney's 'Tangled,' storytellers can use dramatic irony to increase the emotional impact of key scenes in their stories."
 date:   2021-10-15 12:00:00 -0400
 tags: Story Craft
 maturity: scribble

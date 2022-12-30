@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "The interest-effort formula for engaging story audiences"
+description: "When engaging with stories, audiences experience a push and pull between effort and interest. Storytellers can tune this balance to control the types of experiences they create."
 date:   2022-08-11 12:00:00 -0400
 tags: [Story, Craft, Narrative drive]
 maturity: note
 reading_time: 8 min
 ---
 
-<p class="summary"><strong>Summary:</strong> When engaging with stories, audiences experience a push and pull between effort and interest. Once you’ve mastered the basics of craft, you can tune the balance to control <em>type</em> of experience you give your audience.</p>
+<p class="summary"><strong>Summary:</strong> When engaging with stories, audiences experience a push and pull between effort and interest. Once you’ve mastered the basics of craft, you can tune the balance to control the <em>type</em> of experience you give your audience.</p>
 
 ---
 

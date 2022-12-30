@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Story structure and theme in Ira Glass' anecdote and reflection"
+description: "One of the most basic story structures is two parts: anecdote and reflection. A series of meaningfully related events, and a thematic argument explaining what it was all about."
 date:   2022-12-07 12:00:00 -0400
 tags: [Story structure, Primitives, Theme, Story, Craft]
 maturity: note

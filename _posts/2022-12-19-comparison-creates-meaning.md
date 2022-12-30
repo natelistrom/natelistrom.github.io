@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Creating meaning with two consecutive story units"
+description: "Human brains can't help but look for patterns, even when nothing's there. Storytellers can leverage this tendency, juxtaposing images in order to create rich and layered meaning."
 date:   2022-12-19 12:00:00 -0400
 tags: [Story structure, Story, Craft, Primitives]
 maturity: note

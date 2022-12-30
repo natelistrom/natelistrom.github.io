@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lazy engineers and hard-working tour guides"
+description: "Good storytellers are like tour guides, using technique and craft to make their stories as easy as possible for their audiences to engage with. It's hard work, but it pays off."
 date:   2022-11-25 12:00:00 -0400
 tags: Craft Writing Story
 maturity: scribble

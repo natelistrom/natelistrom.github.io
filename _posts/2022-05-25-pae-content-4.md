@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Priming, callbacks, and peak experience"
+description: "Storytellers can use both tonal and thematic setups to create peak aesthetic experiences."
 date:   2022-05-25 12:00:00 -0400
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
