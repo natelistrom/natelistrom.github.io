@@ -1,6 +1,7 @@
 ---
 layout: home
 title:  Nate Listrom
+image:  /assets/img/natelistrom-logo-144.png
 ---
 
 👋 Hi there.

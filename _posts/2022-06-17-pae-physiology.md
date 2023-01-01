@@ -3,6 +3,7 @@ layout: post
 title:  "The physiology of peak experiences"
 description: "When something elicits peak aesthetic experience, our bodies are put into a unique physiological state that mingles elements of both tension and release."
 date:   2022-06-17 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 6 min

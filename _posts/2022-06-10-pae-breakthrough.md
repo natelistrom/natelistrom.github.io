@@ -3,6 +3,7 @@ layout: post
 title:  "Peak experience and the breakthrough moment"
 description: "At climactic moments, story audiences should experience the greatest magnitude in shifts from tension and disequilibrium to balance and release."
 date:   2022-06-10 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 11 min

@@ -3,6 +3,7 @@ layout: post
 title:  "From technicians to talent: three phases in creative markets"
 description: "As technologies become more approachable, there's a shift in the types of people who can best differentiate on their use."
 date:   2020-06-26 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: Craft Marketplaces Technology
 maturity: scribble
 reading_time: 3 min

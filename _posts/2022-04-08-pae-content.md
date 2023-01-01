@@ -3,6 +3,7 @@ layout: post
 title:  "What types of content create peak experience?"
 description: "Moving stories often feature a common set of characteristics, among them resonance with values, relationship change, prosocial actions, and moments of mixed valence."
 date:   2022-04-08 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: [Peak aesthetic experiences, Story, Writing, Book]
 maturity: note
 reading_time: 7 min

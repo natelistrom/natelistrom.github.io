@@ -3,6 +3,7 @@ layout: post
 title:  "Applying scene sequel format to story structure"
 description: "Author Dwight V. Swain's scene-sequel format applies on a broader level to entire act structures."
 date:   2022-10-24 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: [Story, Craft, Story structure, Structure]
 maturity: note
 reading_time: 6 min

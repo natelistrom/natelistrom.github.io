@@ -3,6 +3,7 @@ layout: post
 title:  "Sharing my research for a book on story"
 description: "In the interests of 'working with the garage door open,' I'm sharing my research notes."
 date:   2022-03-21 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: Story Writing Book
 maturity: scribble
 reading_time: 1 min

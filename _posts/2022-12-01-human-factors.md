@@ -3,6 +3,7 @@ layout: post
 title:  "Design your story to fit humans"
 description: "The best tools are designed to be ergonomic, fitted to people, rather than requiring people to fit them. Similarly, as a storyteller, you should design your stories to fit the way people's minds work."
 date:   2022-12-01 12:00:00 -0400
+image:  /assets/img/natelistrom-logo-144.png
 tags: Craft Writing Story Design
 maturity: note
 reading_time: 5 min
