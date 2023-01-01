@@ -11,11 +11,26 @@ layout: default
 
   <hr />
 
+  <!-- Pinned posts -->
+  {% for tag in site.tags %}
+    {%- if tag[0] == "Pinned" -%}
+      <h2>Pinned</h2>
+      <ul class="post-list">
+        {% for post in tag[1] %}
+          {% include _postList.html %}
+        {% endfor %}
+      </ul>
+    {%- endif -%}
+  {% endfor %}
+
+  <hr />
+
+  <!-- Latest posts -->
   {% assign posts = site.posts %}
 
   {%- if posts.size > 0 -%}
     <div class="post-list">
-      <h2>Notes</h2>
+      <h2>Latest</h2>
       <span class="meta">Rss: <code>feed://natelistrom.com/feed.xml</code></span>
 
       <ul class="post-list">
