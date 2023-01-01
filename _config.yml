@@ -34,9 +34,10 @@ medium_url: https://medium.com/@natelistrom
 defaults:
   -
     scope:
-      path:            "tag/**"
+      path:     "tag/**"
     values:
-      sitemap:         false
+      sitemap:  false
+      image:    /assets/img/natelistrom-logo-144.png
 
 # Build settings
 theme: minima
