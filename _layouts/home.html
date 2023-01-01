@@ -34,13 +34,15 @@ layout: default
       <span class="meta">Rss: <code>feed://natelistrom.com/feed.xml</code></span>
 
       <ul class="post-list">
-        {%- for post in posts -%}
+        {%- for post in posts limit:5 -%}
           {% include _postList.html %}
         {%- endfor -%}
       </ul>
     </div>
 
   {%- endif -%}
+
+  <p><a href="/notes">View all notes</a></p>
 
   {% include _subscribe.html %}
 

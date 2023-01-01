@@ -3,11 +3,16 @@ layout: default
 ---
 <div class="post">
 <h1>Notes tagged &ldquo;{{ page.tag }}&rdquo;</h1>
+
+<hr />
+
 <ul class="post-list">
   {% for post in site.tags[page.tag] %}
     {% include _postList.html %}
   {% endfor %}
 </ul>
 </div>
+
+<p><a href="/notes">View all notes</a></p>
 
 {% include _subscribe.html %}
