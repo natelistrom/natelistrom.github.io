@@ -13,8 +13,8 @@ layout: default
 
   <!-- Pinned posts -->
   {% for tag in site.tags %}
-    {%- if tag[0] == "Pinned" -%}
-      <h2>Pinned</h2>
+    {%- if tag[0] == "Featured" -%}
+      <h2>Featured</h2>
       <ul class="post-list">
         {% for post in tag[1] %}
           {% include _postList.html %}

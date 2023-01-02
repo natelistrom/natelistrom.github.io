@@ -4,7 +4,7 @@ title:  "The three underlying functions of inciting incidents"
 description: "When story theorists talk about inciting incidents, they're often referring to one or more of three distinct story functions: the tipping of the apple cart, the call to adventure, or the decision to cross the threshold."
 date:   2021-07-23 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Story, Craft, Story structure, Structure, Pinned] 
+tags: [Story, Craft, Story structure, Structure, Featured] 
 maturity: essay
 reading_time: 10 min
 ---
