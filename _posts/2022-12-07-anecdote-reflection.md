@@ -46,7 +46,7 @@ To be most effective, the two need each other.
 
 ## Constructing anecdote and reflection
 
-#### Anecdotes need meaninfgully related events
+#### Anecdotes need meaningfully related events
 
 Good anecdotes are constructed by stringing together a series of _meaningfully related_ events.
 
