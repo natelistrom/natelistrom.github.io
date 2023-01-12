@@ -9,11 +9,11 @@ maturity: note
 reading_time: 10 min
 ---
 
-> "Structure is the presentation of images in such a way an audience is forced to work out the relationship between them." 
+> "Structure is the presentation of images in such a way an audience is forced to work out the relationship between them."  
 > &mdash; John Yorke <sup>{% include yorke-2015.html %} Loc 2087.</sup>
->
-> "It is context that bestows meaning." 
-> Lisa Cron <sup>{% include cron-2012.html %} Page 19.</sup> 
+  
+> "It is context that bestows meaning."   
+> &mdash; Lisa Cron <sup>{% include cron-2012.html %} Page 19.</sup> 
 
 ---
 
