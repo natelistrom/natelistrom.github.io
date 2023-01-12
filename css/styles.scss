@@ -107,6 +107,28 @@ table {
 /* Begin custom styles */
 /* =================== */
 
+/* --- Variables --- */
+
+$colorWhite: #fff;
+$colorPrimary: #069;
+$colorSecondary: #f36e36;
+$colorNeutral: rgba(0,2,6,1);
+
+$colorTextPrimary: rgba($colorNeutral, 0.85);
+$colorTextSecondary: rgba($colorNeutral, 0.65);
+
+$colorBorderLight: rgba($colorNeutral, 0.125);
+
+$colorBackgroundLight: rgba($colorNeutral, 0.033);
+$colorBackgroundMedium: rgba($colorNeutral, 0.066);
+$colorBackgroundPrimary: rgba($colorPrimary, 0.125);
+$colorBackgroundSecondary: rgba($colorSecondary, 0.125);
+
+$wrapperWidth: 36rem; // 1rem = 20px
+$sidebarWidth: 12rem;
+
+$borderRadius: 0.125rem;
+
 @mixin font-serif {
   font-family: 'Merriweather', 'Lora', Georgia, serif;
 }
@@ -122,27 +144,11 @@ table {
   font-size: 0.8rem;
 }
 
-/* --- Variables --- */
-
-$colorWhite: #fff;
-$colorPrimary: #069;
-$colorSecondary: #f36e36;
-$colorNeutral: rgba(0,2,6,1);
-
-$colorTextPrimary: rgba($colorNeutral, 0.85);
-$colorTextSecondary: rgba($colorNeutral, 0.65);
-
-$colorBorderLight: rgba($colorNeutral, 0.1);
-
-$colorBackgroundLight: rgba($colorNeutral, 0.033);
-$colorBackgroundMedium: rgba($colorNeutral, 0.066);
-$colorBackgroundPrimary: rgba($colorPrimary, 0.125);
-$colorBackgroundSecondary: rgba($colorSecondary, 0.125);
-
-$wrapperWidth: 36rem; // 1rem = 20px
-$sidebarWidth: 12rem;
-
-$borderRadius: 0.125rem;
+@mixin shadow {
+  box-shadow:  
+  0 2px 4px 0 $colorBorderLight,
+  0 4px 8px 0 $colorBorderLight;
+}
 
 /* --- Element Defaults --- */
 
@@ -472,6 +478,14 @@ svg.center {
   margin-right: auto;
 }
 
+.border {
+  border: 1px solid $colorBorderLight;
+}
+
+.shadow {
+  @include shadow;
+}
+
 /* --- Generic styles --- */
 
 .title {
@@ -572,11 +586,9 @@ a.category:hover {
   */
 
 .flyout {
+  @include shadow;
   background: $colorWhite;
   border-radius: $borderRadius;
-  box-shadow:  
-    0 2px 4px 0 rgba(0,0,0,0.125),
-    0 4px 8px 0 rgba(0,0,0,0.125);
   color: $colorTextSecondary;
   font-size: 0.7rem;
   padding: 0.5rem 0.75rem;
