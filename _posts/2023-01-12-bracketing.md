@@ -12,7 +12,7 @@ reading_time: 5 min
 
 In a couple of previous notes, We looked at two-unit story structures like [simple comparison and contrast]({% post_url 2022-12-19-comparison-creates-meaning %}) and [Ira Glass' anecdote and reflection]({% post_url 2022-12-07-anecdote-reflection %}). In this note, we'll move on to a three-unit structure, which I call (for lack of a better term) _bracketing_.
 
-<img src="/assets/img/bracketing-0-hero.png" width="540" height="240" alt="Hand-drawn diagram showing a square, a circle, and then another square" class="center shadow" />
+<img src="/assets/img/bracketing-0-hero.png" alt="Hand-drawn diagram showing a square, a circle, and then another square" class="center shadow" />
 
 Bracketing is a basic storytelling structure in which the first and third elements, often a repetition of some sort, sandwich the second element between them. It follows the form: `A` - `B` - `A`.
 
@@ -27,7 +27,7 @@ In modern story, bracketing can perform a similar function, often on the themati
 > "If faced with [a] similar crisis . . . what your character chooses at the beginning hook of your story and what your character chooses at the end of the story should be opposite choices."    
 > &mdash; Shawn Coyne <sup>{% include coyne-2015.html %} Page 185.</sup>
 
-<img src="/assets/img/bracketing-1-crises.png" width="540" height="240" alt="Hand-drawn diagram showing two squares for crises bracketing a rectangle for story in the middle" class="center shadow" />
+<img src="/assets/img/bracketing-1-crises.png" alt="Hand-drawn diagram showing two squares for crises bracketing a rectangle for story in the middle" class="center shadow" />
 
 Brackets can place focus on plot in addition to character. Story theorists Robert McKee and Syd Field both explore, for example, how the [inciting incident]({% post_url 2021-07-23-inciting-incident %}) and story climax together establish a story's _dramatic question_. <sup>{% include mckee-2014.html %} Page 202.</sup> <sup>{% include field-2005.html %} Page 104.</sup> Author and story theorist K. M. Weiland agrees: "think of the Inciting Event as a _question_ that the Climactic Moment must _answer_." <sup>{% include weiland-2020.html %}</sup> (Emphasis mine.)
 
@@ -39,11 +39,11 @@ Bracketing works by exploiting [comparison]({% post_url 2022-12-19-comparison-cr
 
 There are two sets of relationship comparisons in a bracketing arrangement. The first is the comparison between the bracketing elements themselves. What are the ways in which `A` is similar to `A'`? 
 
-<img src="/assets/img/bracketing-2-compare-a.png" width="540" height="240" alt="Hand-drawn diagram showing arrows pointing between two squares which are bracketing a circle in the middle" class="center shadow" />
+<img src="/assets/img/bracketing-2-compare-a.png" alt="Hand-drawn diagram showing arrows pointing between two squares which are bracketing a circle in the middle" class="center shadow" />
 
 The second is the comparison between the bracketing elements and the contents in the middle. In what ways are both `A` and `A'` different from `B`?
 
-<img src="/assets/img/bracketing-3-compare-b.png" width="540" height="240" alt="Hand-drawn diagram showing arrows pointing between two bracketing squares and a circle in the middle" class="center shadow" />
+<img src="/assets/img/bracketing-3-compare-b.png" alt="Hand-drawn diagram showing arrows pointing between two bracketing squares and a circle in the middle" class="center shadow" />
 
 In more complex forms, there can also be important contrasts between the bracketing elements. `A` is different from `A'` _because of_ what happened in `B`.
 
@@ -61,7 +61,7 @@ In Steven Spielberg's 1993 film, _Jurassic Park_, for example the opening and cl
 
 Together, these moments form tight, 1:1 contrasts with each other, establishing a set of brackets that underscore what happened between them, his character transformation.
 
-<img src="/assets/img/bracketing-4-jp.png" width="540" height="240" alt="Hand-drawn diagram with bracketing squares labelled 'character plus image' and a square for story of transformation in the middle" class="center shadow" />
+<img src="/assets/img/bracketing-4-jp.png" alt="Hand-drawn diagram with bracketing squares labelled 'character plus image' and a square for story of transformation in the middle" class="center shadow" />
 
 ## Bracketing at multiple resolutions
 
@@ -73,7 +73,7 @@ Immediately before the bracket, Luke has declined Obi-Wan's invitation to go to 
 
 In this case, the most obvious bracketing comes from location. In both of the bracketing scenes, Luke and Obi-Wan are at the site of the attack on the Jawas. In the middle, Luke goes to his home and discovers that the Empire has killed his family.
 
-<img src="/assets/img/bracketing-5-sw.png" width="540" height="240" alt="Hand-drawn diagram showing bracketing squares labelled 'jawa massacre' and a square for 'uncle's house' in the middle" class="center shadow" />
+<img src="/assets/img/bracketing-5-sw.png" alt="Hand-drawn diagram showing bracketing squares labelled 'jawa massacre' and a square for 'uncle's house' in the middle" class="center shadow" />
 
 If we go back one scene and include the final moments at Obi-Wan's home, we can also discover a larger, slightly more complex, true chiastic structure. This one has to do with the decisions and revelation in the sequence. 
 
