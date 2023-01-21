@@ -3,7 +3,7 @@ layout: post
 title:  "Creating story arcs with three-unit brackets"
 Description: Bracketing is a three-unit story structure following an A - B - A form. It's often used to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed because of the intervening story.
 date:   2023-01-12 12:00:00 -0400
-tags: [Primitives, Story structure, Story, Craft]
+tags: [Bracketing, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 5 min
 ---

@@ -4,7 +4,7 @@ title:  "How Orson Scott Card's MICE quotient maps to internal and external genr
 description: "Story theorists commonly apply the MICE quotient to story structure, but elements from the framework apply to the core conflicts behind action-, revelation-, and character-based plots."
 date:   2022-11-13 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Story, Story structure, Narrative drive, Craft]
+tags: [MICE quotient, Story structure, Narrative drive, Story, Craft]
 maturity: note
 reading_time: 5 min
 ---
