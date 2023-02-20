@@ -9,6 +9,8 @@ maturity: note
 reading_time: 6 min
 ---
 
+---
+
 In <em>Techniques of the Selling Writer</em>, Author Dwight V. Swain introduces a framework for writing compelling, psychologically realistic scene progressions. His framework is a repeating structure of what he calls &ldquo;scenes&rdquo; and &ldquo;sequels.&rdquo; <sup>{% include swain-1981.html %} Page 84 ff.</sup>
 
 Swain's focus is on the level of individual scenes, but I believe you can apply his same framework to the structure of whole story acts as well. 

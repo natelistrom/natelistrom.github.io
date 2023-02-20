@@ -9,8 +9,6 @@ maturity: essay
 reading_time: 10 min
 ---
 
-<p class="summary"><strong>Summary:</strong> Inciting incidents consist of one or more of three distinct story functions. This essay explains what each function is, how it works, and how I arrived at my current understanding.</p>
-
 ---
 
 <p class="dropCap">Bestselling fantasy author Brandon Sanderson talks about the difference between “chef writers” and “cook writers.” <sup>{% include sanderson-2021.html %}</sup> A cook can create a lovely meal, but he is dependent on following a recipe for his success. A chef, on the other hand, understands how the underlying ingredients function. While a chef may choose to follow a recipe, she can also go “off script,” combining elements in new and interesting ways. Her understanding empowers her.</p>

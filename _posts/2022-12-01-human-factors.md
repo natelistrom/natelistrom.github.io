@@ -9,8 +9,6 @@ maturity: note
 reading_time: 5 min
 ---
 
-<p class="summary"><strong>Summary:</strong> The best tools are designed to be ergonomic &mdash; to be fitted <em>to</em> people, rather than asking people to fit them. Similarly, as a storyteller, you should design your stories to fit the way people's minds work.</p>
-
 ---
 
 <p class="dropCap">In the 1940s, a psychologist named Paul Morris Fitts led an investigation into mistakes made by aircraft pilots or their crew members. He reviewed nearly three hundred documented cases, looking for patterns. Suprisingly, he found that the largest single group of errors &mdash; more than ten percent &mdash; were due to <em>exactly the same mistake</em>.</p> 

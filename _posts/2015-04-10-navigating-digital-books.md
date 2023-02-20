@@ -9,6 +9,8 @@ maturity: note
 reading_time: 10 min
 ---
 
+---
+
 ![A pair of reading glasses resting on an open book](/assets/img/navigating-books-01.jpeg)
 
 <p class="dropCap">This all began with a basic frustration I have with tap-based interaction. From there, it kind of got away from me. I ended up with a slightly new twist on gesture-based navigation, one that’s (hopefully) scalable and intuitive.</p>

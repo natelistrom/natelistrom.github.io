@@ -15,4 +15,9 @@
             {% endfor %}
         </span>
     {% endif %}
-    </span>
+</span>
+{% if page.description %}
+    <p class="summary"><strong>Summary: </strong>
+        {{page.description}}
+    </p>
+{% endif %}

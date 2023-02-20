@@ -9,8 +9,6 @@ maturity: note
 reading_time: 6 min
 ---
 
-<p class="summary"><strong>Summary:</strong> Structure and style are each important for different reasons. Structure affects how a thing functions, while style affects how it's experienced and remembered.</p>
-
 ---
 
 <p class="dropCap">Years ago, there was a discussion in the online design community about the merits and demerits of using things like filters, drop shadows, gradients, bevel effects, and the like. At the time, CSS3 wasn’t even a thing yet. The discussion was about Photoshop and how to use it properly. More recently, designers have held a similar discussion about minimal design and then material design.</p>

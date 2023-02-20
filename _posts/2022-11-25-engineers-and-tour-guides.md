@@ -9,8 +9,6 @@ maturity: scribble
 reading_time: 3 min
 ---
 
-<p class="summary"><strong>Summary:</strong> Storytellers should invest effort in reducing friction for their audiences. It's hard work, but it pays off.</p>
-
 ---
 
 Early in my career in tech, I was introduced to a phrase that stuck with me: 

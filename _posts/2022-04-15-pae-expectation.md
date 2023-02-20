@@ -9,6 +9,8 @@ maturity: note
 reading_time: 12 min
 ---
 
+---
+
 I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to "learn in public." In this post, I continue exploring the research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}) by introducing the topic of expectation, the third [factor that creates peak aesthetic experience]({% post_url 2022-04-05-pae-investment %}).
 
 In the future, I'll talk about how expectation contributes to the moment of payoff, which we experience as peak aesthetic experience itself. But, before we can talk about _how_ expectation contributes to peak aesthetic experience, we need to understand _what_ expectation is and how it works. This post explores that question.
