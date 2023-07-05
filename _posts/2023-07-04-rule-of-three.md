@@ -133,6 +133,13 @@ Onward . . .
 
 ---
 
+#### See also
+
+- _Writing Excuses_ (11.32: The Element of Humor)[https://writingexcuses.com/11-32-the-element-of-humor/] ((transcript)[https://wetranscripts.livejournal.com/118930.html])
+- Nathan Baugh's _Worldbuilders_ (essay on the rule of three)[https://www.worldbuilders.ai/p/rule-three] (requires sign up; you can get the gist in this [summary tweet](https://twitter.com/nathanbaugh27/status/1669705298204925952?s=20).)
+
+---
+
 #### Read this next
 
 **[Creating meaning with two consecutive story units]({% post_url 2022-12-19-comparison-creates-meaning %})**
