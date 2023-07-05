@@ -27,13 +27,13 @@ Under the hood, the rule of three works by harnessing our human brains’ capaci
 
 Imagine, for a moment, that you draw two dots on a sheet of paper.
 
-![description](/assets/img/rule-of-three-11.png)
+![A diagram showing two dots on a grid](/assets/img/rule-of-three-11.png)
 
 An observer could look at those two dots and mentally draw a line connecting them. (In fact, because of the way our brains work, it’s likely that your brain will at least do this briefly.)
 
 Seeing the mental line between the dots, an observer’s brain could extend the pattern and make a reasonable prediction about where a third dot might be drawn. In essence, you’ve created a trajectory.
 
-![description](/assets/img/rule-of-three-12.png)
+![A diagram showing two dots on a grid with a line connecting them and extending out to a third dot](/assets/img/rule-of-three-12.png)
 
 We humans are especially good at making these kids of predictive inferences. It’s built into us. Author and story coach Lisa Cron puts it well: “We’re wired to predict what will happen next, and _the way we do this is by charting patterns_.” <sup>{% include cron-2012.html %} Page 159</sup> (Emphasis mine.) When we see what looks like a partial pattern, we almost can’t help but predict how the pattern will complete.
 
@@ -46,7 +46,7 @@ The trajectory is set. The audience has an expectation. The hunter will pull the
 
 The first two units give a promise to the audience, creating expectation. For a satisfactory experience, that expectation must be paid off. That’s what the third unit does.
 
-![description](/assets/img/rule-of-three-13.png)
+![A diagram showing three dots on a grid, connected by lines](/assets/img/rule-of-three-13.png)
 
 ## Variations on a theme
 
@@ -67,7 +67,7 @@ Both simple and progressive have to deal with items that are more-or-less the sa
 
 But even in the simple form, the items are placed in sequence. That sequence creates an implicit hierarchy, even if the value of the items themselves is the same. Thus, both simple and progressive expressions of the rule of three are, pragmatically, pretty similar. They have to do with similar things in sequence.
 
-![description](/assets/img/rule-of-three-14.png)
+![A diagram showing three blue circles](/assets/img/rule-of-three-14.png)
 
 In the story of _The Three Little Pigs and the Big Bad Wolf_, the straw, wood, and brick used by pigs to build their houses are a great example of the progressive form. The materials create a set, each of whose items progressively increase in strength.
 
@@ -75,7 +75,7 @@ In the story of _The Three Little Pigs and the Big Bad Wolf_, the straw, wood, a
 
 The contrasting three is a form where the first two items are negative or deficient in some way and stand in comparison to the third, which is positive and fulfilling. (Or, in tragedy, the first two are positive, but the protagonist rejects them and ends on a negative.)
 
-![description](/assets/img/rule-of-three-15.png)
+![A diagram showing two orange squares standing in opposition to a blue circle](/assets/img/rule-of-three-15.png)
 
 This form also shows up in the story of _The Three Little Pigs and the Big Bad Wolf_. The first two houses, being built of weaker materials, are blown down by the wolf. The owners perish. The third house, built of stronger material, is the only one sturdy enough to withstand the wolf’s attack. It passes the test. The wolf goes away defeated, and the third pig lives.
 
@@ -83,7 +83,7 @@ This form also shows up in the story of _The Three Little Pigs and the Big Bad W
 
 The last form, which Booker calls “dialectical,” is a form where the first and second items are in contrast to one another, but are alike in that neither one is acceptable. Only by bringing together elements of both in synthesis is a satisfying conclusion found in the third item. <sup>{% include booker-2004.html %} Page 231.</sup>
 
-![description](/assets/img/rule-of-three-16.png)
+![A diagram showing three circles. The first is too small, the second too large, and the third just right.](/assets/img/rule-of-three-16.png)
 
 As Booker points out, the story of _Goldilocks and the Three Bears_ plays with this form quite liberally, with its three bowls, three chairs, and three beds. In each triplet, the first two are unacceptable in divergent ways (the porridge too hot or too cold, the chairs too large or too soft, etc.) and the third is a happy medium; “just right.”
 
