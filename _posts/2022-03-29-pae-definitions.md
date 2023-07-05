@@ -11,8 +11,8 @@ reading_time: 1 min
 
 ---
 
-> “From the era of Latin rhetoric and poetics to the present day, emotionally moving an audience has been considered one of the major goals of rhetoric and art.” 
-> — Winfried Menninghaus <sup>{% include menninghaus-2015.html %}</sup>
+> “From the era of Latin rhetoric and poetics to the present day, emotionally moving an audience has been considered one of the major goals of rhetoric and art.”  
+> &mdash; Winfried Menninghaus <sup>{% include menninghaus-2015.html %}</sup>
 
 ---
 
