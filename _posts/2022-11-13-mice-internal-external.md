@@ -18,7 +18,7 @@ In _Character and Viewpoint_, author Orson Scott Card explores four factors that
 - **Character** is "the nature of [a person] in the story — what they do and why." <sup>{% include card-2010.html %} Page 63.</sup>
 - **Event** is "everything that _happens_ and why." <sup>{% include card-2010.html %} Page 63.</sup> (Emphasis mine) In other words, _action_.
 
-<aside>I first learned of the MICE quotient via the <a href="https://writingexcuses.com/2011/08/07/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses&rdquo; podcast (season 6, episode 10)</a>. It&lsquo;s a great resource.</aside>
+<aside>I first learned of the MICE quotient via the <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses&rdquo; podcast (season 6, episode 10)</a>. It&lsquo;s a great resource.</aside>
 
 ## Milieu alone isn't a strong story driver
 
