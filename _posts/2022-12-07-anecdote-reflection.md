@@ -50,7 +50,7 @@ To be most effective, the two need each other.
 
 Good anecdotes are constructed by stringing together a series of _meaningfully related_ events.
 
-Remeber how Glass defined the anecdote:
+Remember how Glass defined the anecdote:
 
 > "This happened, and that led to this next thing, and that led to this next thing . . ." <sup>{% include glass-2009.html %}</sup>
 
