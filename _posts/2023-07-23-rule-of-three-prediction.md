@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Storytelling, neuroscience, and the rule of three: prediction and reward"
+description: "The most satisfying execution of the rule of three hooks into your audience's brains' reward systems by perfectly fulfilling the promise of the setup, but doing it in a way that subverts their expectations."
+date:   2023-07-23 12:00:00 -0400
+tags: [Story structure, Primitives, Story, Craft, Neuroscience, Rule of three]
+maturity: note
+reading_time: 8 min
+---
+
+In a previous note, I introduced [the rule of three]({% post_url 2023-07-04-rule-of-three %}), a powerful storytelling mechanic that lets you set up a trajectory for your audience’s expectations and then pay it off in a satisfying way.
+
+In this note, we’ll dive a bit deeper into the neuroscience and psychology behind why the rule of three is so powerful and how to maximize its effectiveness. We'll focus on how predictions are tied to satisfaction.
+
+## Prediction and payoff
+
+The rule of three works by using the juxtaposition of the first two items to establish a trajectory, an expectation for what the third item will be.
+
+![A diagram showing two dots on a grid with a line connecting them and extending out to a third dot](/assets/img/rule-of-three-12.png)
+
+The most basic execution of the rule of three pays off the expectation by more-or-less fulfilling the prediction in the most direct, straightforward manner.
+
+> “When you name several things you save the most impressive for last. ‘The Mayor,’ you say, ‘was there, and the Governor — and the President!’”   
+> — Lajos Egri <sup>{% include egri-2004.html %} Page 258.</sup>
+
+![A diagram showing three dots on a grid, connected by lines](/assets/img/rule-of-three-13.png)
+
+However, the most satisfying execution of the rule of three is when the third story unit perfectly fulfills the _promise_ of the first two but in a way that _subverts_ the audience's expectations.
+
+![A diagram showing a third dot in a different place than predicted, causing the line to curve instead of being straight](/assets/img/rule-of-three-23.png)
+
+Webcomic author and _Writing Excuses_ podcast co-host Howard Tayler illustrates:
+
+> "A great many funny stories are when you are telling a story that is kind of funny and then you get to the end of it and you realize, 'Oh, I was actually being told a very different story, and that's kind of hilarious,' as everything is re-contextualized and new." <sup>{% include sanderson-2016.html %}</sup>
+
+Tayler continues with this example:
+
+> "When we had the episode with Jim Hines . . . I introduced him and said, 'All the men want to be like him, and all the women want to be with those men.' Which is a fantastic comic drop . . . 'and all the women want to be with . . . _him_,' is what you're expecting. The very last word is now gone and is now replaced with 'other men.'" <sup>{% include sanderson-2016.html %}</sup> (emphasis mine)
+
+Tayler's focus is on humor — and to be sure, jokes are one of the places where this setup-and-twist pattern is the most prominent — but it applies broadly. Any deeply satisfying execution of the rule of three will follow this pattern to some degree.
+
+## Prediction and reward
+
+Why does it work this way?
+
+Expectation and anticipation are tied to our brains' reward systems. Our reward systems are built to help us learn, so they're hard-wired to prefer to novelty. <sup>{% include schultz-2015.html %} B. Neuronal Signals for Reward Learning section.</sup> <sup>{% include vanLieshout-2021.html %} Introduction section.</sup> <sup>{% include kiddAndHayden-2015.html %} The function of curiosity section.</sup> They're tuned to be especially sensitive to new and unexpected information.
+
+Our reward systems detect new information by recognizing what, in the scientific literature, are called _reward prediction errors_. <sup>{% include moritzAndKoelsch-2015.html %} Neural correlates of tension and suspense section.</sup> <sup>{% include schultz-2015.html %} B. Neuronal Signals for Reward Learning section.</sup> A prediction error occurs when your brain recognizes the difference between what it predicted and what actually occurred in the world.
+
+Here’s how neuroscientist Read Montague describes the research in his book, _Your Brain is (Almost) Perfect_:
+
+> “The reward-prediction error signal . . . was first identified using experiments in monkeys, where lights predicted the future arrival of juice squirts a short time later. When the light is initially presented, there is no change in dopamine neuron activity . . . However, the arrival of the juice a short time later causes a burst of activity in the dopamine neurons.” <sup>{% include montague-2006.html %} Page 113.</sup>
+
+The monkeys in the experiments didn’t know what to expect when they saw the flashing light. Their brains' reward systems made predictions based on whatever past experience they had. Then, when they received the juice, their reward systems recognized that this was _different_ than what they had predicted. They identified a prediction error. (In this case, triggering a dopamine response that told their brains, “Wow! Something better than expected just happened!”) <sup>{% include montague-2006.html %} Page 113.</sup>
+
+Just like the monkeys, when our reward systems recognize a prediction error, they flush our brains with reward signals. <sup>{% include schultz-2015.html %} B. Neuronal Signals for Reward Learning section.</sup>
+
+These signals have a number of effects. For the purposes of our discussion of the rule of three, there are few in particular worth mentioning:
+
+- Reward signals heighten your attention. They flip you out of “autopilot” and tell your brain to focus in on the new phenomenon you are encountering. <sup>{% include schultz-2015.html %} A. Proximal reward functions are defined by behavior section.</sup>
+- Reward signals enhance your memory, preparing you to learn any new, beneficial information. <sup>{% include schultz-2015.html %} C. Dopamine Implementation of Reward Learning section.</sup>
+- Reward signals stimulate your emotions and subjective experience, giving you feelings that your brain thinks correlate with the phenomenon you are encountering. If your reward system evaluates the outcome as better than expected, this can result in an especially pleasurable experience. <sup>{% include schultz-2015.html %} D. What Makes Rewards Rewarding? Section.</sup> <sup>{% include berridgeAndKringelbach-2015.html %} Pruning false candidates: Mesolimbic dopamine and ‘pleasure electrodes’? section.</sup> <sup>{% include berridgeAndKringelbach-2015.html %} A neuroscience of pleasure section.</sup>
+
+This is why the rule of three can be so effective when done with a twist. When the third story unit subverts the trajectory (read: prediction) set up by the first two story units, that activates our brains' reward systems. We recognize a prediction error, which triggers our reward response.
+
+## Prediction and learning
+
+Remember that our reward systems are built to help us learn. They adapt quickly, updating our predictions so that we make fewer prediction errors as we go.
+
+Let's return to Montague's account of the research with the monkeys.
+
+> "If the light-juice pairs are repeatedly delivered to the subject . . . remarkable changes occur. The initial response associated with the juice, the ‘things are better than expected’ response, goes away . . . The neurons no longer change their activity when the juice arrives following the light. This means that the dopamine system has learned to expect the time and amount of juice delivered . . . The neurons now report that the _light_ is ‘better than expected’; that is, they react to the light in the same fashion that they reacted initially to the juice.” <sup>{% include montague-2006.html %} Page 113.</sup> (Emphasis mine.)
+
+The monkeys' brains had learned the pattern. They began to expect the juice a short time after they saw the light. The light became what Montague calls a “value proxy” for the juice. <sup>{% include montague-2006.html %} Page 113.</sup>
+
+Not all reward signals are equal. Different reward signals trigger during different parts of the learning cycle. Here's Wolfram Schultz, one of the leading researchers on the topic:
+
+> “Some neurons fail initially to respond to novel stimuli and acquire reward discriminatory responses during learning. Apparently they code valid reward predictions. To the opposite, other neurons respond initially indiscriminately to all novel stimuli and differentiate as learning advances, possibly reflecting exploration. A third group of neurons shows reward expectation activity that reflects an initial general expectation and becomes selective for rewarded trials as learning progresses.” <sup>{% include schultz-2015.html %} B. Neuronal Signals for Reward Learning section.</sup>
+
+What this suggests is that there's a difference between the surprised reward signal that the monkeys experienced when they first received the juice and the expectant reward signals the monkeys received upon seeing the light once they'd learned the pattern.
+
+## Prediction and satisfaction
+
+Here's a key point for storytellers: Positive reward prediction error signals subside once the pattern becomes predictable. <sup>{% include schultz-2015.html %} B. Neuronal Signals for Reward Learning section.</sup> 
+
+As our brains get better at predicting a new pattern, they make fewer and fewer prediction errors. Eventually, the "better than expected" signal goes away completely. Like the monkeys, our reward systems may still produce those _expectation_ signals when we see a value proxy, but we no longer experience the benefit of reward when we get to the payoff. The result isn't _better_ than expected anymore. It's just . . . expected.
+
+This is why stories that are too formulaic or familiar — too predictable — feel boring. “Familiar patterns are safe,” explains author and story coach Lisa Cron. They don’t capture our attention. <sup>{% include cron-2012.html %} Page 159.</sup>
+
+In storytelling, we’re constantly making promises to our audience, setting up anticipation. Essentially, we' a're setting up value proxies, flashing lights.
+
+When the payoff is exactly what our audiences' brains predicted, their reward systems don’t detect any meaningful prediction errors. This, in turn, tells their brains, “Nothing to see here.” Their attention drifts, and they start looking around for something else that’s more interesting — more likely to produce reward prediction errors.
+
+Thus, the challenge for storytellers is to set up an expectation, creating anticipation, and then somehow deliver _more_ than their audience anticipated, triggering a “better than expected” reward signal.
+
+This is the mechanism behind what playwright David Mamet called “inevitable yet unforeseen,” <sup>{% include mamet-1998.html %} Location 426.</sup> what editor and _Story Grid_ author Shawn Coyne rephrased as, “surprising and inevitable” ending <sup>{% include grahl-2016.html %}</sup> — the ending that perfectly fulfills the promise of the setup but in a way that defies the audience's expectations.
+
+In the rule of three, the first two story units set up the trajectory, the "value proxy" that tells your audience what to expect. When you deliver with the third story unit, that's your opportunity to subvert the trajectory and deliver a "better than expected" result.
+
+---
+
+#### Read this next
+
+**[Creating story arcs with three-unit brackets]({% post_url 2023-01-12-bracketing %})**    
+Bracketing is a three-unit story structure following an `A` - `B` - `A` form. It's often used to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed because of the intervening story.
