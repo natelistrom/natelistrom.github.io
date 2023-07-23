@@ -4,7 +4,7 @@ title:  "Optimal difference and peak experience"
 description: "To make story moments maximally engaging, storytellers must find a balance between expectation and suprise. Too familiar is boring. Too different is unbelievable."
 date:   2022-05-09 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Peak aesthetic experiences, Story, Writing, Book]
+tags: [Peak aesthetic experiences, Story, Writing, Book, Neuroscience]
 maturity: note
 reading_time: 4 min
 ---

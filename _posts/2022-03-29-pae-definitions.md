@@ -4,7 +4,7 @@ title:  "Definitions: what are peak aesthetic experiences?"
 description: "A peak aesthetic experience is one in which a person is exposed to a particularly meaningful work of art, music, nature, or story and experiences tears, chills, a sense of being moved, or some combination of these."
 date:   2022-03-29 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Peak aesthetic experiences, Story, Writing, Book]
+tags: [Peak aesthetic experiences, Story, Writing, Book, Neuroscience]
 maturity: note
 reading_time: 1 min
 ---

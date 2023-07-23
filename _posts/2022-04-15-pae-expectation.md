@@ -4,7 +4,7 @@ title:  "Expectation, the knowledge instinct, and peak experience"
 description: "Stories hook into our reward systems, leveraging our brains' built-in mechanisms for learning in order to create anticipation and narrative drive."
 date:   2022-04-15 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Peak aesthetic experiences, Story, Writing, Book, Narrative drive]
+tags: [Peak aesthetic experiences, Story, Writing, Book, Narrative drive, Neuroscience]
 maturity: note
 reading_time: 12 min
 ---

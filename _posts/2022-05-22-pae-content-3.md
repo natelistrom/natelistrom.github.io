@@ -4,7 +4,7 @@ title:  "Incongruity and peak experience"
 description: "Storytellers can create peak aesthetic experiences by setting up imbalances for which our brains naturally seek resolution."
 date:   2022-05-22 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Peak aesthetic experiences, Story, Writing, Book]
+tags: [Peak aesthetic experiences, Story, Writing, Book, Neuroscience]
 maturity: note
 reading_time: 8 min
 ---

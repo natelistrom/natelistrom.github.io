@@ -4,7 +4,7 @@ title:  "Investment and peak experience"
 description: "The deeper we are invested in the characters and themes in a story, the more likely we will find the story moving."
 date:   2022-04-05 12:00:00 -0400
 image:  /assets/img/natelistrom-logo-144.png
-tags: [Peak aesthetic experiences, Story, Writing, Book]
+tags: [Peak aesthetic experiences, Story, Writing, Book, Neuroscience]
 maturity: note
 reading_time: 5 min
 ---
