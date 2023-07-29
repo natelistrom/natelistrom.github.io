@@ -89,8 +89,14 @@ Bracketing is a three-unit story structure following an `A` - `B` - `A` form. It
 
 ---
 
-#### A content warning on sources
+#### Change history
 
-- At points Freytag's _Technique of the Drama_ is racist and sexist. I more-or-less agree with <a href="https://www.briantriber.com/WritingSamples/Freytag_Drama/Freytag_TOC.html">Brian Triber's disclaimer.</a>
+July 29, 2023: Minor change to content warning.
+
+---
+
+#### A content warning
+
+- I more-or-less agree with <a href="https://www.briantriber.com/WritingSamples/Freytag_Drama/Freytag_TOC.html">Brian Triber's disclaimer about Freytag's _Technique of the Drama_.</a>
 - For readers who find strong language to be objectionable, be warned that Harmon uses profanity.
 
