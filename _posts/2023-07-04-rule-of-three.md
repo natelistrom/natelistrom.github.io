@@ -5,7 +5,7 @@ description: "The rule of three is a powerful storytelling mechanic that leverag
 date:   2023-07-04 12:00:00 -0400
 tags: [Story structure, Primitives, Story, Craft, Rule of three]
 maturity: note
-reading_time: 9 min
+reading_time: 11 min
 ---
 
 > "When you name several things you save the most impressive for last. 'The Mayor,' you say, 'was there, and the Governor — and the President!'"    
@@ -47,6 +47,42 @@ The trajectory is set. The audience has an expectation. The hunter will pull the
 The first two units give a promise to the audience, creating expectation. For a satisfactory experience, that expectation must be paid off. That’s what the third unit does.
 
 ![A diagram showing three dots on a grid, connected by lines](/assets/img/rule-of-three-13.png)
+
+## Payoff with a twist
+
+It's fine to pay off the trajectory in a way that fulfills the promise set up by the first two beats, but the most satisfying execution of the rule of three does something more.
+
+What might that look like?
+
+Take a look at this famous, "six word story" [sometimes attributed](https://en.wikipedia.org/wiki/For_sale:_baby_shoes,_never_worn) to Hemingway:
+
+> "For sale: baby shoes, never worn."
+
+This masterfully uses the rule of three to set up a trajectory, but rather than delivering a promise that matches the direction set up by the first two units, the third unit goes somewhere _else_.
+
+![Image](/assets/img/rule-of-three-21.png)
+
+Now, all of a sudden, things get interesting. The trajectory established by the first two beats has been subverted. As an audience, we're forced to focus in, to try to incorporate this new, unexpected information.
+
+As we begin to process the outcome, our brains quickly evaluate the difference between what we predicted and what actually occurred. How different was the outcome? How far was it from what we predicted? Is the reality better than expected or worse?
+
+![Image](/assets/img/rule-of-three-22.png)
+
+As we focus, our brains attempt to account for the difference and update our mental models of the world. They make new connections. Perhaps we realize that, instead of charting a straight line, the arc of the story was charting a curve all along.
+
+![A diagram showing a third dot in a different place than predicted, causing the line to curve instead of being straight](/assets/img/rule-of-three-23.png)
+
+This realization has a cascade effect. The new understanding not only shifts our view of the _current_ story beat, it re-contextualizes what came before.
+
+![Image](/assets/img/rule-of-three-24.png)
+
+Our brains compare the difference between what we thought we knew and what we know now, and this creates new understanding.
+
+Subjectively, we can experience this as a little flash of pleasure or insight — an “&lsquo;aha!’ moment.” If profound, the discovery can feel like an epiphany. 
+
+In the case of the "six word story," most audiences feel a piquant sense of second-hand grief as their brains make the connection and internalize the perspective of expectant parents experiencing the loss of their child.
+
+The most effective executions of the rule of three manage this twist well. They perfectly fulfill the promise set up by the first two story units, but they do it in a way that subverts the trajectory, adding something new and unexpected and, ultimately, more impactful and satisfying.
 
 ## Variations on a theme
 
@@ -144,3 +180,9 @@ Onward . . .
 
 **[Creating meaning with two consecutive story units]({% post_url 2022-12-19-comparison-creates-meaning %})**
 <br />Human brains can't help but look for patterns, even when nothing's there. Storytellers can leverage this tendency, juxtaposing images in order to create rich and layered meaning.
+
+---
+
+#### Change history
+
+July 29, 2023: Added section on subversion of expectations and the "six word story."
