@@ -87,7 +87,7 @@ As our brains get better at predicting a new pattern, they make fewer and fewer 
 
 This is why stories that are too formulaic or familiar — too predictable — feel boring. “Familiar patterns are safe,” explains author and story coach Lisa Cron. They don’t capture our attention. <sup>{% include cron-2012.html %} Page 159.</sup>
 
-In storytelling, we’re constantly making promises to our audience, setting up anticipation. Essentially, we' a're setting up value proxies, flashing lights.
+In storytelling, we’re constantly making promises to our audience, setting up anticipation. Essentially, we're setting up value proxies, flashing lights.
 
 When the payoff is exactly what our audiences' brains predicted, their reward systems don’t detect any meaningful prediction errors. This, in turn, tells their brains, “Nothing to see here.” Their attention drifts, and they start looking around for something else that’s more interesting — more likely to produce reward prediction errors.
 
