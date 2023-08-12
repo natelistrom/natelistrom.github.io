@@ -5,7 +5,7 @@ description: "The most satisfying execution of the rule of three hooks into your
 date:   2023-07-23 12:00:00 -0400
 tags: [Story structure, Primitives, Story, Craft, Neuroscience, Rule of three]
 maturity: note
-reading_time: 8 min
+reading_time: 9 min
 ---
 
 In a previous note, I introduced [the rule of three]({% post_url 2023-07-04-rule-of-three %}), a powerful storytelling mechanic that lets you set up a trajectory for your audience’s expectations and then pay it off in a satisfying way.
@@ -63,6 +63,22 @@ These signals have a number of effects. For the purposes of our discussion of th
 
 This is why the rule of three can be so effective when done with a twist. When the third story unit subverts the trajectory (read: prediction) set up by the first two story units, that activates our brains' reward systems. We recognize a prediction error, which triggers our reward response.
 
+## Worse for the protagonist, better for the audience
+
+At this point, it's worth pointing out that "better than expected" for the audience is _different_ than "better than expected" for the protagonist. In horror stories, for example, the situations in which the characters find themselves are, by definition, terrifying. Yet for the audience, twists and sudden revelations — although startling and frightening — can also be thrilling.
+
+In _Jurassic Park_ there are several excellent executions of the rule of three with horror elements. Let's look at one example. Here's the setup: Dr. Sattler has gone to a bunker to reset the island's power grid. This is a task that Mr. Arnold was supposed to do, but the protagonists have lost contact with him. In the bunker, Dr. Sattler is being hunted by velociraptors. 
+
+- **Beat one:** Dr. Sattler walks down a dark hallway. 
+- **Beat two:** Suddenly, she feels a hand on her shoulder. It's Mr. Arnold. Sattler sighs in relief. She's not alone.
+- **Beat three:** Then she discovers that _there is no body attached to the arm_. With horror, she realizes that Mr. Arnold has been eaten . . . and she likely will be as well.
+
+For Sattler, this is a nightmare. Yet for the audience, it's a great play on our reward systems. 
+
+We're already primed for some kind of attack but hoping for a quiet escape. The "appearance" of Mr. Arnold in the second beat oh-so-briefly sets up a prediction: Sattler and Arnold will work together to escape. Then the third beat subverts expectation, and we realize that Dr. Sattler is in even deeper trouble than we thought. There's nobody there to rescue her. 
+
+Our reward systems flush our brains with positive thrill, and we lean in. "How in the world will she escape now?" This outcome is "better than expected" in the sense that it increases the challenge that Dr. Sattler must overcome and, by doing so, promises an even better story payoff for the audience.
+
 ## Prediction and learning
 
 Remember that our reward systems are built to help us learn. They adapt quickly, updating our predictions so that we make fewer prediction errors as we go.
@@ -103,3 +119,9 @@ In the rule of three, the first two story units set up the trajectory, the "valu
 
 **[Creating story arcs with three-unit brackets]({% post_url 2023-01-12-bracketing %})**    
 Bracketing is a three-unit story structure following an `A` - `B` - `A` form. It's often used to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed because of the intervening story.
+
+---
+
+#### Change history
+
+July 30, 2023: Added section on the difference between "better than expected" for the audience versus the protagonist.
