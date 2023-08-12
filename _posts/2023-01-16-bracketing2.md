@@ -36,7 +36,7 @@ A. There's some potential for confusion here, since Freytag uses the term &ldquo
 
 Direct chiasmus isn't the only form of large-scale bracketing that storytellers can employ.
 
-Writer and Producer [Dan Harmon also discusses a mirroring structure](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details) for story units. However, in his model, the mirrored story moments are plotted on a circle, and Harmon draws a bisecting line from the story unit on one side of the circle to the one directly opposite. 
+Writer and producer [Dan Harmon also discusses a mirroring structure](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details) for story units. However, in his model, the mirrored story moments are plotted on a circle, and Harmon draws a bisecting line from the story unit on one side of the circle to the one directly opposite. 
 
 > "Just as (3), the crossing of the threshold, is the opposite of (7) the return, (5), the meeting with the goddess, is the opposite of (1), the protagonist's zone of comfort . . . As you might expect with a circular model like this, there is a lot of symmetry going on, and on the journey back upward, we're going to be doing a lot of referencing to the journey downward . . . When in doubt, _look at the opposite side of the circle_." <sup>{% include harmon-2009.html %}</sup> (Emphasis mine.)
 
