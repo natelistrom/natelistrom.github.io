@@ -88,7 +88,7 @@ The most effective executions of the rule of three manage this twist well. They 
 
 In his systematic classification of Russion folktales, _Morphology of the Folk Tale_, folklorist Vladimir Propp identifies three different variants of the rule of three:
 
-> "Repetition may appear as a uniform distribution (three tasks, three years ’ service), as an accumulation (the third task is the most difficult, the third battle the worst), or may twice produce negative results before the third, successful outcome." <sup>{% include propp-2009.html %} Location 1555.</sup>
+> "Repetition may appear as a uniform distribution (three tasks, three years’ service), as an accumulation (the third task is the most difficult, the third battle the worst), or may twice produce negative results before the third, successful outcome." <sup>{% include propp-2009.html %} Location 1555.</sup>
 
 Journalist and author Christopher Booker, in his landmark work, _The Seven Basic Plots: Why We Tell Stories_, adds a fourth variation. <sup>{% include booker-2004.html %} Page 231.</sup> His taxonomy is as follows: 
 
