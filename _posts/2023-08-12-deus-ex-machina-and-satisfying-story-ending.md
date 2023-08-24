@@ -3,7 +3,7 @@ layout: post
 title:  "Deus ex machina and the soul of a satisfying story ending"
 description: "To be most satisfying, payoffs in stories should be set up physically, morally, and thematically."
 date:   2023-08-12 12:00:00 -0400
-tags: [Story, Craft, Theme, Deus ex machina]
+tags: [Story, Craft, Theme, Deus ex machina, Payoff]
 maturity: note
 reading_time: 10 min
 ---
