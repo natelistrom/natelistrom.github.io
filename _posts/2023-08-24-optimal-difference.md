@@ -10,7 +10,7 @@ reading_time: 3 min
 
 <p class="dropCap">Story arcs with satisfying setups and payoffs share some key characteristics. Among them is the subversion of expectation. A story payoff doesn't need to be surprising in the traditional sense (although that doesn't hurt) but it should play on audience expectation in some way. The reason that this works is that <a href="{% post_url 2023-07-23-rule-of-three-prediction %}">it hooks into our brains' reward systems</a>.</p>
 
-In a series of earlier posts, I explored <a href="{% post_url 2022-03-29-pae-definitions %}">peak aesthetic experiences</a>, situations in which someone is exposed to a particularly meaningful work of art, music, nature, or story and experiences tears, chills, and a sense of being moved.</p>
+In a series of earlier posts, I explored <a href="{% post_url 2022-03-29-pae-definitions %}">peak aesthetic experiences</a>, situations in which someone is exposed to a particularly meaningful work of art, music, nature, or story and experiences tears, chills, and a sense of being moved.
 
 ## Just enough surprise
 
