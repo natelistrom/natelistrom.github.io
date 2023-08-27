@@ -1,14 +1,25 @@
 // from https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
 // and https://stackoverflow.com/questions/45018338/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-prom
     
-var refData;
+let refData = [];
 fetch('/assets/json/references.json')
   .then(res => res.json())
   .then(data => {
     refData = data;
    })
   .then(() => {
-    console.log(refData);
+//    console.log(refData);
+
+        let citations = document.querySelectorAll('cite');
+        citations.forEach(function(cite) {
+            let c = cite.childNodes[0].textContent;
+            let words = c.split("."); // We could do all this with regex, but this is easier to understand
+            let cAuthor = words[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
+            let cDate = words[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
+            console.log("Author: " + cAuthor);
+            console.log("Date: " + cDate);
+        });
+
    });
 
 /*
