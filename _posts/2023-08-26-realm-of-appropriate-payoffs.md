@@ -2,8 +2,8 @@
 layout: post
 title:  "The realm of appropriate payoffs"
 description: "The best story payoffs match the setup while being better than expected."
-date: 2023-08-24 12:00:00 -0400
-tags: [Story, Craft, Payoff]
+date: 2023-08-26 12:00:00 -0400
+tags: [Payoff, Story, Craft]
 maturity: note
 reading_time: 5 min
 ---
