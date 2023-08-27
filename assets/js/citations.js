@@ -1,36 +1,3 @@
-// from https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
-// and https://stackoverflow.com/questions/45018338/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-prom
-    
-let refData = [];
-fetch('/assets/json/references.json')
-    .then(res => res.json())
-    .then(data => {
-        refData = data;
-    })
-    .then(() => {
-
-        let citations = document.querySelectorAll('cite');
-        citations.forEach(function(cite) {
-            let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)
-            let cElements = c.split("."); // Split on every period. We could do this with regex instead, but this is easier to understand.
-            let cAuthor = cElements[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
-            let cDate = cElements[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
-            let cLoc = cElements[2].substring(1) + ".";
-            if (cLoc == ".") { cLoc = null };
-
-            for (let d = 0; d < refData.length; d++) {
-                let m = refData[d];
-                if (cAuthor == m.authorShort && cDate == m.date) {
-                    console.log(m.title);
-
-                    // Add to the array to pass on
-                };
-            };
-
-        });
-
-   });
-
 /*
     Citation builder
 
@@ -43,10 +10,10 @@ fetch('/assets/json/references.json')
     only the author for the "short version." Maybe that'll come one day.
 */
 
-if (document.querySelectorAll('sup:not(.aside)').length > 0) {
+if (document.querySelectorAll('cite').length > 0) {
 
     let num_refID = 0; 
-    let dom_references = document.querySelectorAll('sup:not(.aside)'); // Get a nodelist of all <sup> items
+    let dom_references = document.querySelectorAll('cite'); // Get a nodelist of all <cite> items
     let dom_wrapper = document.getElementById('content').firstElementChild;
 
     dom_wrapper.insertAdjacentHTML("beforeend", "<hr /><h4 id='references'>References</h4><ol id='citations'></ol>");
@@ -55,115 +22,134 @@ if (document.querySelectorAll('sup:not(.aside)').length > 0) {
 
     let arr_refsList = [];
 
-    dom_references.forEach(function(sup) {
-    /*
-        dom_references reads the list of nodes, but it doesn't actually point back to them.
-        So, we need a way to point back to the original superscript elements. We do this by
-        assigning each of them a unique ID. 
-        
-        Handily, we can also use this as the ID to which our footer reference back links point.
-        */
+    /*  fetch json data
+    from https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
+    and https://stackoverflow.com/questions/45018338/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-prom */ 
+    let refData = [];
+    fetch('/assets/json/references.json')
+        .then(res => res.json())
+        .then(data => {
+            refData = data;
+        })
+        .then(() => {
 
-    num_refID = num_refID + 1;
-    sup.setAttribute("id","ref" + num_refID); // Set <sup id="n"> 
+            dom_references.forEach(function(cite) {
+                let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)
+                let cElements = c.split("."); // Split on every period. We could do this with regex instead, but this is easier to understand.
+                let cAuthor = cElements[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
+                let cDate = cElements[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
+                let cLoc = cElements[2].substring(1) + ".";
+                if (cLoc == ".") { cLoc = "" };
 
-    let str_refContent = "";
-    if(sup.querySelector('.refBody')) {
-        str_refContent = sup.querySelector('.refBody').innerHTML;
-    }; 
+                /*
+                dom_references reads the list of nodes, but it doesn't actually point back to them.
+                So, we need a way to point back to the original superscript elements. We do this by
+                assigning each of them a unique ID. 
+                
+                Handily, we can also use this as the ID to which our footer reference back links point.
+                */
 
-    // Capture the short title.
-    let str_refTitle = "No title";
-    if (sup.querySelector('.refTitleShort')) {
-        str_refTitle = sup.querySelector('.refTitleShort').innerHTML;
-    };
+                num_refID = num_refID + 1;
+                cite.setAttribute("id","ref" + num_refID); // Set <cite id="n">
 
-    // Capture the short author.
-    let str_refAuthor = "No author";
-    if (sup.querySelector('.refAuthorShort')) {
-        str_refAuthor = sup.querySelector('.refAuthorShort').innerHTML; 
-    };
+                for (let d = 0; d < refData.length; d++) {
+                    let m = refData[d];
+                    if (cAuthor == m.authorShort && cDate == m.date) {
+                        console.log(m.title);
 
-    // Capture the page number or location if one exists.
-    let str_refLocation = "";
-    if (sup.childNodes[2]) {
-        str_refLocation = sup.childNodes[2].textContent;
-    }; 
+                        let str_refContent = m.author + " " + m.title + " " + m.body;
+                    
+                        // Capture the short title.
+                        let str_refTitle = m.titleShort;
+                    
+                        // Capture the short author.
+                        let str_refAuthor = m.authorShort;
+                    
+                        // Capture the page number or location if one exists.
+                        let str_refLocation = cLoc;
+                    
+                        str_refContent = str_refContent + " " + str_refLocation;
+                    
+                        arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
+                        console.log(arr_refsList);
 
-    str_refContent = str_refContent + " " + str_refLocation;
+                    };
+                };
+            
+                // Replace the content of the <cite> item
+                var dom_citeItem = document.getElementById("ref" + num_refID + "");
+                dom_citeItem.innerHTML = "<sup><a href='#" + num_refID +"'>" + num_refID + "</a></sup>";
+            }); // end forEach
 
-    arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
+            /*
+            Loop through the array and change repeat references to short versions.
+            Conditionally show titles on short versions if multiple works by the same author.
+            */
 
-    // Replace the content of the <sup> item
-    var dom_supItem = document.getElementById("ref" + num_refID + "");
-    dom_supItem.innerHTML = "<a href='#" + num_refID +"'>" + num_refID + "</a>";
-    }); // end forEach
+            for (let y = 0; y < arr_refsList.length; y++) {
+                let str_currentTitle = arr_refsList[y][1];
+                let str_currentLocation = arr_refsList[y][2];
+                let str_currentAuthor = arr_refsList[y][3];
 
-    /*
-    Loop through the array and change repeat references to short versions.
-    Conditionally show titles on short versions if multiple works by the same author.
-    */
-    for (let y = 0; y < arr_refsList.length; y++) {
-        let str_currentTitle = arr_refsList[y][1];
-        let str_currentLocation = arr_refsList[y][2];
-        let str_currentAuthor = arr_refsList[y][3];
+                // Check to see that this is not the first time a work has been cited.
+                let num_firstReferenceIndex = undefined;  
+                num_firstReferenceIndex = arr_refsList.findIndex(element => element[1] == str_currentTitle);
+                if (num_firstReferenceIndex != y) {
 
-        // Check to see that this is not the first time a work has been cited.
-        let num_firstReferenceIndex = undefined;  
-        num_firstReferenceIndex = arr_refsList.findIndex(element => element[1] == str_currentTitle);
-        if (num_firstReferenceIndex != y) {
+                    // The entire array is populated at this point.
+                    // We are currently at one of the items in the array . . .
+                    // Check the current author and create a new array of any matching items that also share that author.
+                    let arr_matchingAuthor = arr_refsList.filter(element => element[3] == str_currentAuthor);
 
-            // The entire array is populated at this point.
-            // We are currently at one of the items in the array . . .
-            // Check the current author and create a new array of any matching items that also share that author.
-            let arr_matchingAuthor = arr_refsList.filter(element => element[3] == str_currentAuthor);
+                    let str_titleMismatchFound = true;
 
-            let str_titleMismatchFound = true;
+                    // Search the array of matching author's items to see if any of them have a different title.
+                    str_titleMismatchFound = arr_matchingAuthor.some(element => element[1] != str_currentTitle);
 
-            // Search the array of matching author's items to see if any of them have a different title.
-            str_titleMismatchFound = arr_matchingAuthor.some(element => element[1] != str_currentTitle);
+                    if(str_titleMismatchFound == true) {
+                    arr_refsList[y][0] = str_currentAuthor + " " + str_currentTitle + " " + str_currentLocation;
+                    } else {
+                    arr_refsList[y][0] = str_currentAuthor + " " + str_currentLocation;
+                    }; // end if
 
-            if(str_titleMismatchFound == true) {
-            arr_refsList[y][0] = str_currentAuthor + " " + str_currentTitle + " " + str_currentLocation;
-            } else {
-            arr_refsList[y][0] = str_currentAuthor + " " + str_currentLocation;
-            }; // end if
+                }; // end if
+            }; // end for
 
-        }; // end if
-    }; // end for
+            /*
+                Loop backward over the array.
+                If the titles are the same in two sequential items, change the second item to ibid.
+                */
 
-    /*
-        Loop backward over the array.
-        If the titles are the same in two sequential items, change the second item to ibid.
-        */
-    for (let i = arr_refsList.length - 1; i >= 0; i--) {
+            for (let i = arr_refsList.length - 1; i >= 0; i--) {
 
-        let str_currentTitle = arr_refsList[i][1];
-        let str_prevTitle = "No title";
+                let str_currentTitle = arr_refsList[i][1];
+                let str_prevTitle = "No title";
 
-        let str_currentLocation = arr_refsList[i][2];
-        let str_prevLocation = "No location";
+                let str_currentLocation = arr_refsList[i][2];
+                let str_prevLocation = "No location";
 
-        if (i > 0) {
-            str_prevTitle = arr_refsList[i - 1][1];
-            str_prevLocation = arr_refsList[i - 1][2];
-        };
+                if (i > 0) {
+                    str_prevTitle = arr_refsList[i - 1][1];
+                    str_prevLocation = arr_refsList[i - 1][2];
+                };
 
-        if (str_currentTitle === str_prevTitle) {
-            if (str_currentLocation === str_prevLocation) {
-            arr_refsList[i][0] = "Ibid.";
-            } else {
-            arr_refsList[i][0] = "Ibid. " + arr_refsList[i][2];
-            };
-        };
+                if (str_currentTitle === str_prevTitle) {
+                    if (str_currentLocation === str_prevLocation) {
+                    arr_refsList[i][0] = "Ibid.";
+                    } else {
+                    arr_refsList[i][0] = "Ibid. " + arr_refsList[i][2];
+                    };
+                };
 
-    }; // end for
+            }; // end for
 
-    // Create the references list HTML.
-    for (let j = 0; j < arr_refsList.length; j++) {
-        num_refID = j + 1;
-        str_refContent = arr_refsList[j][0];
-        dom_footnotes.insertAdjacentHTML("beforeend", "<li>" + str_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>");
-    }; // end for
+            // Create the references list HTML.
+            for (let j = 0; j < arr_refsList.length; j++) {
+                num_refID = j + 1;
+                str_refContent = arr_refsList[j][0];
+                dom_footnotes.insertAdjacentHTML("beforeend", "<li>" + str_refContent + " <a id='" + num_refID + "' href='#ref" + num_refID + "'>Back</a></li>");
+            }; // end for
+
+    }); // end fetch then
 
 }; // end if
