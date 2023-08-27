@@ -55,7 +55,6 @@ if (document.querySelectorAll('cite').length > 0) {
                 for (let d = 0; d < refData.length; d++) {
                     let m = refData[d];
                     if (cAuthor == m.authorShort && cDate == m.date) {
-                        console.log(m.title);
 
                         let str_refContent = m.author + " " + m.title + " " + m.body;
                     
@@ -71,7 +70,6 @@ if (document.querySelectorAll('cite').length > 0) {
                         str_refContent = str_refContent + " " + str_refLocation;
                     
                         arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
-                        console.log(arr_refsList);
 
                     };
                 };
