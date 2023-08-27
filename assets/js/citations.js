@@ -3,21 +3,30 @@
     
 let refData = [];
 fetch('/assets/json/references.json')
-  .then(res => res.json())
-  .then(data => {
-    refData = data;
-   })
-  .then(() => {
-//    console.log(refData);
+    .then(res => res.json())
+    .then(data => {
+        refData = data;
+    })
+    .then(() => {
 
         let citations = document.querySelectorAll('cite');
         citations.forEach(function(cite) {
-            let c = cite.childNodes[0].textContent;
-            let words = c.split("."); // We could do all this with regex, but this is easier to understand
-            let cAuthor = words[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
-            let cDate = words[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
-            console.log("Author: " + cAuthor);
-            console.log("Date: " + cDate);
+            let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)
+            let cElements = c.split("."); // Split on every period. We could do this with regex instead, but this is easier to understand.
+            let cAuthor = cElements[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
+            let cDate = cElements[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
+            let cLoc = cElements[2].substring(1) + ".";
+            if (cLoc == ".") { cLoc = null };
+
+            for (let d = 0; d < refData.length; d++) {
+                let m = refData[d];
+                if (cAuthor == m.authorShort && cDate == m.date) {
+                    console.log(m.title);
+
+                    // Add to the array to pass on
+                };
+            };
+
         });
 
    });
