@@ -1,3 +1,15 @@
+// from https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
+// and https://stackoverflow.com/questions/45018338/javascript-fetch-api-how-to-save-output-to-variable-as-an-object-not-the-prom
+    
+var refData;
+fetch('/assets/json/references.json')
+  .then(res => res.json())
+  .then(data => {
+    refData = data;
+   })
+  .then(() => {
+    console.log(refData);
+   });
 
 /*
     Citation builder
