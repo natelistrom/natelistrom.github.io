@@ -35,11 +35,47 @@ if (document.querySelectorAll('cite').length > 0) {
 
             dom_references.forEach(function(cite) {
                 let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)
-                let cElements = c.split("."); // Split on every period. We could do this with regex instead, but this is easier to understand.
-                let cAuthor = cElements[0].substring(1) + "."; // Strip off the leading '(' character and add a trailing '.'
-                let cDate = cElements[1].substring(1) + "."; // Strip off the leading space and add a trailing '.'
-                let cLoc = cElements[2].substring(1) + ".";
-                if (cLoc == ".") { cLoc = "" };
+                let cElements = c.split(','); // Split on every comma. We could do this with regex instead, but this is easier to understand.
+                let cID = "";
+                let cLoc = "";
+
+                /*  Expected patterns are:
+                    '(String'                   Author w/ Loc   <== Remove leading '(' and add trailing '.'
+                    '(&ldquo;String&rdquo;'     Title w/ Loc    <== Remove leading '('
+                    '(String)'                  Author alone    <== Remove leading '(' and trailing ')' and add trailing '.'
+                    '(&ldquo;String&rdquo;)'    Title alone     <== Remove leading '(' and trailing ')'
+                    ' String)'                  Loc             <== Remove leading space and trailing ')' and add trailing '.'
+                */
+
+                // Check to see if this is a title in quotes or not.
+                // If so, we need to apply special logic to ensure matching works because the period is inside the quotes.
+                let cElement1 = cElements[0].substring(1); // Remove leading '(' character
+                let cElement2 = "";
+                let lastChar = cElement1.slice(-1);
+                if (cElements[1]) { 
+                    cElement2 = cElements[1].substring(1);  // Remove leading space 
+                }; // end if
+
+                // Rendering the page automatically converts the HTML entities to characters, so we need to undo that for matching.
+                function escape(htmlStr) {
+                    if (htmlStr.includes("“")) {
+                        return htmlStr.replace("“", "&ldquo;")
+                            .replace("”", "&rdquo;");
+                    } else {    
+                        return htmlStr;
+                    };
+                };
+                cElement1 = escape(cElement1);
+
+                if (lastChar == ")") { 
+                    cID = cElement1.substring(0, cElement1.length - 1); // Title or author without location
+                } else if (lastChar == ";") {
+                    cID = cElement1; // Title.
+                    cLoc = cElement2.substring(0, cElement2.length - 1) + "."; // Remove trailing ')' and add '.'
+                } else {
+                    cID = cElement1 + "."; // Author. Add a trailing '.'
+                    cLoc = cElement2.substring(0, cElement2.length - 1) + "."; // Remove trailing ')' and add '.'
+                }; // end if 
 
                 /*
                 dom_references reads the list of nodes, but it doesn't actually point back to them.
@@ -54,7 +90,7 @@ if (document.querySelectorAll('cite').length > 0) {
 
                 for (let d = 0; d < refData.length; d++) {
                     let m = refData[d];
-                    if (cAuthor == m.authorShort && cDate == m.date) {
+                    if (cID == m.authorShort || cID == m.titleShort) {
 
                         let str_refContent = m.author + " " + m.title + " " + m.body;
                     
