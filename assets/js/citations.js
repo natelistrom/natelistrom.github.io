@@ -39,10 +39,6 @@ if (document.querySelectorAll('cite').length > 0) {
                 let cID = "";
                 let cLoc = "";
 
-                // TO DO: need to figure out a new way to do the matching. 
-                // The titles with italics and the periods within quotes create too much variance.
-                // Better to store the raw data in the json without html and then add it as needed in the js as we build the strings to render.
-
                 /*  To identify a match between the citation and the corresponding data in the json, we must follow the same format exactly.
                 
                     Expected in-page citation patterns are:
@@ -55,36 +51,24 @@ if (document.querySelectorAll('cite').length > 0) {
 
                 // Check to see if this is a title in quotes or not.
                 // If so, we need to apply special logic to ensure matching works because the period is inside the quotes.
-                let cElement1 = cElements[0].substring(1); // Remove leading '(' character
-                let cElement2 = "";
-                let lastChar = cElement1.slice(-1);
+                cID = cElements[0].substring(1); // Remove leading '(' character
+                cLoc = "";
                 if (cElements[1]) { 
-                    cElement2 = cElements[1].substring(1);  // Remove leading space 
+                    cLoc = cElements[1].substring(1) + ".";  // Remove leading space and add trailing period.
                 };
 
-                // Browser page render automatically converts the HTML double quote entities to characters.
-                // For matching, we need to convert the quote characters back to HTML entities.
+                // Remove unwanted characters
                 function escape(htmlStr) {
                     htmlStr = htmlStr
-                        .replace("“", "&ldquo;")
-                        .replace("”", "&rdquo;");
+                        .replace("“", "")
+                        .replace("”", "")
+                        .replace("(", "")
+                        .replace(")", "");
                     return htmlStr;
-                };
-                if (cElement1.includes("“")) { 
-                    cElement1 = escape(cElement1); 
-                };
-
-                // Update strings to match patterns.
-                if (lastChar == ")") { 
-                    cID = cElement1.substring(0, cElement1.length - 1); // Title or author without location. Remove trailing ')'
-                    if (cID.slice(-1) != ";") { cID = cID + "."; }; // Title. Add trailing '.'
-                } else if (lastChar == ";") {
-                    cID = cElement1; // Title.
-                    cLoc = cElement2.substring(0, cElement2.length - 1) + "."; // Remove trailing ')' and add '.'
-                } else {
-                    cID = cElement1 + "."; // Author. Add a trailing '.'
-                    cLoc = cElement2.substring(0, cElement2.length - 1) + "."; // Remove trailing ')' and add '.'
-                }; // end if 
+                }; 
+                
+                cID = escape(cID);
+                cLoc = escape(cLoc);
 
                 /*
                 dom_references reads the list of nodes, but it doesn't actually point back to them.
@@ -101,14 +85,25 @@ if (document.querySelectorAll('cite').length > 0) {
                     let m = refData[d];
                     if (cID == m.authorShort || cID == m.titleShort) {
 
+                        // Add html elements as appropriate
+                        let titleBefore = "&ldquo;";
+                        let titleAfter = "&rdquo;";
+                        if (m.type == "book") {
+                            titleBefore = "<em>";
+                            titleAfter = "</em>";
+                        };
+                        m.title = titleBefore + m.title + titleAfter;
+
                         // Add link to title if one exists
                         if (m.titleLink != null) {
                             m.title = "<a href='" + m.titleLink + "'>" + m.title + "</a>";
                         }
 
                         let str_refContent = m.author + " " + m.title + " " + m.body + " " + cLoc;
+                        let str_refTitle = titleBefore + m.titleShort + "." + titleAfter;
+                        let str_refAuthor = m.authorShort + ".";
                     
-                        arr_refsList.push([str_refContent, m.titleShort, cLoc, m.authorShort]);
+                        arr_refsList.push([str_refContent, str_refTitle, cLoc, str_refAuthor]);
 
                     };
                 }; // end for
