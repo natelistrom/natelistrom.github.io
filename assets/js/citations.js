@@ -101,23 +101,12 @@ if (document.querySelectorAll('cite').length > 0) {
                             m.title = "<a href='" + m.titleLink + "'>" + m.title + "</a>";
                         }
 
-                        let str_refContent = m.author + " " + m.title + " " + m.body;
+                        let str_refContent = m.author + " " + m.title + " " + m.body + " " + cLoc;
                     
-                        // Capture the short title.
-                        let str_refTitle = m.titleShort;
-                    
-                        // Capture the short author.
-                        let str_refAuthor = m.authorShort;
-                    
-                        // Capture the page number or location if one exists.
-                        let str_refLocation = cLoc;
-                    
-                        str_refContent = str_refContent + " " + str_refLocation;
-                    
-                        arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
-                        
+                        arr_refsList.push([str_refContent, m.titleShort, cLoc, m.authorShort]);
+
                     };
-                };
+                }; // end for
             
                 // Replace the content of the <cite> item
                 var dom_citeItem = document.getElementById("ref" + num_refID + "");
