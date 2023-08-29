@@ -39,6 +39,10 @@ if (document.querySelectorAll('cite').length > 0) {
                 let cID = "";
                 let cLoc = "";
 
+                // TO DO: need to figure out a new way to do the matching. 
+                // The titles with italics and the periods within quotes create too much variance.
+                // Better to store the raw data in the json without html and then add it as needed in the js as we build the strings to render.
+
                 /*  To identify a match between the citation and the corresponding data in the json, we must follow the same format exactly.
                 
                     Expected in-page citation patterns are:
@@ -56,7 +60,7 @@ if (document.querySelectorAll('cite').length > 0) {
                 let lastChar = cElement1.slice(-1);
                 if (cElements[1]) { 
                     cElement2 = cElements[1].substring(1);  // Remove leading space 
-                }; // end if
+                };
 
                 // Browser page render automatically converts the HTML double quote entities to characters.
                 // For matching, we need to convert the quote characters back to HTML entities.
@@ -72,7 +76,8 @@ if (document.querySelectorAll('cite').length > 0) {
 
                 // Update strings to match patterns.
                 if (lastChar == ")") { 
-                    cID = cElement1.substring(0, cElement1.length - 1); // Title or author without location
+                    cID = cElement1.substring(0, cElement1.length - 1); // Title or author without location. Remove trailing ')'
+                    if (cID.slice(-1) != ";") { cID = cID + "."; }; // Title. Add trailing '.'
                 } else if (lastChar == ";") {
                     cID = cElement1; // Title.
                     cLoc = cElement2.substring(0, cElement2.length - 1) + "."; // Remove trailing ')' and add '.'
