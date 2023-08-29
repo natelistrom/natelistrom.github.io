@@ -98,6 +98,11 @@ if (document.querySelectorAll('cite').length > 0) {
                     let m = refData[d];
                     if (cID == m.authorShort || cID == m.titleShort) {
 
+                        // Add link to title if one exists
+                        if (m.titleLink != null) {
+                            m.title = "<a href='" + m.titleLink + "'>" + m.title + "</a>";
+                        }
+
                         let str_refContent = m.author + " " + m.title + " " + m.body;
                     
                         // Capture the short title.
