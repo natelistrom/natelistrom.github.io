@@ -61,11 +61,9 @@ if (document.querySelectorAll('cite').length > 0) {
                 // Browser page render automatically converts the HTML double quote entities to characters.
                 // For matching, we need to convert the quote characters back to HTML entities.
                 function escape(htmlStr) {
-                    console.log("Before: " + htmlStr);
                     htmlStr = htmlStr
                         .replace("“", "&ldquo;")
                         .replace("”", "&rdquo;");
-                    console.log("After: " + htmlStr);
                     return htmlStr;
                 };
                 if (cElement1.includes("“")) { 
@@ -117,7 +115,7 @@ if (document.querySelectorAll('cite').length > 0) {
                         str_refContent = str_refContent + " " + str_refLocation;
                     
                         arr_refsList.push([str_refContent, str_refTitle, str_refLocation, str_refAuthor]);
-
+                        
                     };
                 };
             
