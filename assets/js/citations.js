@@ -39,7 +39,9 @@ if (document.querySelectorAll('cite').length > 0) {
                 let cID = "";
                 let cLoc = "";
 
-                /*  Expected patterns are:
+                /*  To identify a match between the citation and the corresponding data in the json, we must follow the same format exactly.
+                
+                    Expected in-page citation patterns are:
                     '(String'                   Author w/ Loc   <== Remove leading '(' and add trailing '.'
                     '(&ldquo;String&rdquo;'     Title w/ Loc    <== Remove leading '('
                     '(String)'                  Author alone    <== Remove leading '(' and trailing ')' and add trailing '.'
@@ -56,17 +58,21 @@ if (document.querySelectorAll('cite').length > 0) {
                     cElement2 = cElements[1].substring(1);  // Remove leading space 
                 }; // end if
 
-                // Rendering the page automatically converts the HTML entities to characters, so we need to undo that for matching.
+                // Browser page render automatically converts the HTML double quote entities to characters.
+                // For matching, we need to convert the quote characters back to HTML entities.
                 function escape(htmlStr) {
-                    if (htmlStr.includes("“")) {
-                        return htmlStr.replace("“", "&ldquo;")
-                            .replace("”", "&rdquo;");
-                    } else {    
-                        return htmlStr;
-                    };
+                    console.log("Before: " + htmlStr);
+                    htmlStr = htmlStr
+                        .replace("“", "&ldquo;")
+                        .replace("”", "&rdquo;");
+                    console.log("After: " + htmlStr);
+                    return htmlStr;
                 };
-                cElement1 = escape(cElement1);
+                if (cElement1.includes("“")) { 
+                    cElement1 = escape(cElement1); 
+                };
 
+                // Update strings to match patterns.
                 if (lastChar == ")") { 
                     cID = cElement1.substring(0, cElement1.length - 1); // Title or author without location
                 } else if (lastChar == ";") {
