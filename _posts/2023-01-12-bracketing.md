@@ -25,11 +25,11 @@ In ancient literature, bracketing was commonly used to draw special attention or
 In modern story, bracketing can perform a similar function, often on the thematic level. For example, by showing a character's differing responses to a similar situation repeated in the story's opening and closing (represented by `A` and `A'` in the bracketing structure), a storyteller highlights the change caused by the story's events (represented by `B`). 
 
 > "If faced with [a] similar crisis . . . what your character chooses at the beginning hook of your story and what your character chooses at the end of the story should be opposite choices."    
-> &mdash; Shawn Coyne <sup>{% include coyne-2015.html %} Page 185.</sup>
+> &mdash; Shawn Coyne <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Page 185)</cite>
 
 <img src="/assets/img/bracketing-1-crises.png" alt="Hand-drawn diagram showing two squares for crises bracketing a rectangle for story in the middle" class="center shadow" />
 
-Brackets can place focus on plot in addition to character. Story theorists Robert McKee and Syd Field both explore, for example, how the [inciting incident]({% post_url 2021-07-23-inciting-incident %}) and story climax together establish a story's _dramatic question_. <sup>{% include mckee-2014.html %} Page 202.</sup> <sup>{% include field-2005.html %} Page 104.</sup> Author and story theorist K. M. Weiland agrees: "think of the Inciting Event as a _question_ that the Climactic Moment must _answer_." <sup>{% include weiland-2020.html %}</sup> (Emphasis mine.)
+Brackets can place focus on plot in addition to character. Story theorists Robert McKee and Syd Field both explore, for example, how the [inciting incident]({% post_url 2021-07-23-inciting-incident %}) and story climax together establish a story's _dramatic question_. <cite>(<a href="/bibliography#mckee2014">McKee</a>, Page 202)</cite> <cite>(<a href="/bibliography#field2005">Field</a>, Page 104)</cite> Author and story theorist K. M. Weiland agrees: "think of the Inciting Event as a _question_ that the Climactic Moment must _answer_." <cite>(<a href="/bibliography#weiland2020">&ldquo;The crucial link&rdquo;</a>)</cite> (Emphasis mine.)
 
 If we broaden our definition a little, we can even include things like [callbacks]({% post_url 2022-05-25-pae-content-4 %}) as expressions of bracketing as well. In a callback, a phrase or motif is repeated, but the meaning has changed due to contextual changes in the story between.
 

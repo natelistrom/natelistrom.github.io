@@ -77,7 +77,7 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="menninghaus2015"></a>Menninghaus, Winfried, et al. <a href="https://doi.org/10.1371/journal.pone.0128451">&ldquo;Towards a Psychological Construct of Being Moved.&rdquo;</a> <em>PLOS ONE</em>, 4 June 2015.</li>
 
-<li><a name="mori2015"></a>Mori, Kazuma and Makoto Iwanaga. <a href="https://doi.org/10.1038/srep46063">&ldquo;Two types of peak emotional responses to music: The psychophysiology of chills and tears.&rdquo;</a> <em>Scientific Reports</em>, 7 April 2017.</li>
+<li><a name="mori2017"></a>Mori, Kazuma and Makoto Iwanaga. <a href="https://doi.org/10.1038/srep46063">&ldquo;Two types of peak emotional responses to music: The psychophysiology of chills and tears.&rdquo;</a> <em>Scientific Reports</em>, 7 April 2017.</li>
 
 <li><a name="pelowski2015"></a>Pelowski, Matthew. <a href="https://doi.org/10.3389/fpsyg.2015.01006">&ldquo;Tears and transformation: feeling like crying as an indicator of insightful or 'aesthetic' experience with art.&rdquo;</a> <em>Frontiers in Psychology</em>, 23 July 2015.</li>
 

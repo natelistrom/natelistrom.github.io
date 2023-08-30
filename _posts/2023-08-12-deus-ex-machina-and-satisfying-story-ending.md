@@ -9,19 +9,19 @@ reading_time: 10 min
 ---
 
 > "Coincidences to get characters into trouble are great; coincidences to get them out of it are cheating."
-> — Emma Coats <sup>{% include price-2011.html %}</sup>
+> — Emma Coats <cite>(<a href="/bibliography#price2011">Price</a>)</cite>
 
 ---
 
 In story theory, the term _deus ex machina_ has come to represent an unsatisfying ending in which the resolution of a conflict seems to "come out of nowhere" with little or no setup. 
 
-Supposedly, the phrase originates from the era of Greek theater. It's used to describe the moment when the playwright had "written themselves into a corner" and the conflicts of the story became so difficult to resolve that they had to use the gods themselves in an intervention to work things out. <sup>{% include britannica-2022.html %}</sup> 
+Supposedly, the phrase originates from the era of Greek theater. It's used to describe the moment when the playwright had "written themselves into a corner" and the conflicts of the story became so difficult to resolve that they had to use the gods themselves in an intervention to work things out. <cite>(<a href="/bibliography#britannica2022">Britannica</a>)</cite> 
 
 While surprising payoffs are [generally a good thing]({% post_url 2023-07-23-rule-of-three-prediction %}), _deus ex machina_ can leave audiences feeling that — as Coats says — the storyteller _cheated_. 
 
 In her book, _Wired for Story_, author and story coach Lisa Cron gives us a hint as to why:
 
-> "Since the brain analyzes everything in terms of cause and effect, when a story doesn’t follow a clear cause-and-effect trajectory, the brain doesn’t know what to make of it — which can trigger a sensation of physical distress, not to mention the desire to pitch the book out the window." <sup>{% include cron-2012.html %} Page 147.</sup>
+> "Since the brain analyzes everything in terms of cause and effect, when a story doesn’t follow a clear cause-and-effect trajectory, the brain doesn’t know what to make of it — which can trigger a sensation of physical distress, not to mention the desire to pitch the book out the window." <cite>(<a href="/bibliography#cron2012">Cron</a>, Page 147)</cite>
 
 At its core, the problem with _deus ex machina_ is that the payoff isn't _earned_. It lacks that cause-and-effect relationship.
 
@@ -70,11 +70,11 @@ Every once in a while, a story comes along where the payoff _isn't_ motivated by
 
 In his landmark work _The Hero with a Thousand Faces_, writer and professor Joseph Campbell makes note of these seemingly serendipitous resolutions as they existed in myth and folktale:
 
-> "Unpredicted helpers, miracles of time and space, further [the protagonist's] project; destiny itself (the maiden) lends a hand and betrays a weak spot in the [antagonistic] system. Barriers, fetters, chasms, fronts of every kind dissolve before the authoritative presence of the hero. The eye of the ordained victor immediately perceives the chink in every fortress of circumstance, and his blow can cleave it wide." <sup>{% include campbell-2020.html %} Page 466.</sup>
+> "Unpredicted helpers, miracles of time and space, further [the protagonist's] project; destiny itself (the maiden) lends a hand and betrays a weak spot in the [antagonistic] system. Barriers, fetters, chasms, fronts of every kind dissolve before the authoritative presence of the hero. The eye of the ordained victor immediately perceives the chink in every fortress of circumstance, and his blow can cleave it wide." <cite>(<a href="/bibliography#campbell2020">Campbell</a>, Page 466)</cite>
 
 Writer and producer Dan Harmon, when talking about story structure in the 1988 film _Die Hard_, gives us some examples from contemporary works:
 
-> "Remember that zippo the bum gave [the protagonist]? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times. Grab it, deconstruct it, create your own version. You didn't seem to have a problem with that formula when the stuttering guy (4) recited a perfect monologue (8) in Shakespeare in Love . . . Why is this not Deus Ex Machina? Because we _earned_ it (4)." <sup>{% include harmon-2009.html %}</sup> (Emphasis mine)
+> "Remember that zippo the bum gave [the protagonist]? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times. Grab it, deconstruct it, create your own version. You didn't seem to have a problem with that formula when the stuttering guy (4) recited a perfect monologue (8) in Shakespeare in Love . . . Why is this not Deus Ex Machina? Because we _earned_ it (4)." <cite>(<a href="/bibliography#harmon2009">Harmon</a>)</cite> (Emphasis mine)
 
 #### Why it works
 

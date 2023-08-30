@@ -25,7 +25,7 @@ I wonder if AI art generation will change us because it removes this "ten thousa
 
 Let's consider an analogy from the field of animation.
 
-Traditional, hand-drawn animation takes a _lot_ of effort. In _The Animator's Survival Kit_, author Richard Williams conveys an anecdote that artists working on Disney's _Snow White and the Seven Dwarfs_ "booked themselves in advance into hospital to recover from the effort of completing the film" because they knew the production would be so demanding. <sup>{% include williams-2001.html %} Page 19.</sup>
+Traditional, hand-drawn animation takes a _lot_ of effort. In _The Animator's Survival Kit_, author Richard Williams conveys an anecdote that artists working on Disney's _Snow White and the Seven Dwarfs_ "booked themselves in advance into hospital to recover from the effort of completing the film" because they knew the production would be so demanding. <cite>(<a href="/bibliography#williams2001">Williams</a>, Page 19)</cite>
 
 Digital animation, brought mainstream by Pixar, revolutionized the type of work needed to create animated films. It saved time and effort, eliminating the drudgery of drawing the same frames over and over. An animator could set the key poses and timing, and the computer could interpolate and render all the "inbetweens." The technology freed animators up to focus on other things, allowing them to work more quickly and produce more. Overall, it was a net positive.
 
@@ -37,7 +37,7 @@ Yet, somehow, I felt the animation in _Mary Poppins Returns_ lacked something wh
 
 It would be tempting to chalk up the difference to lack of experience, but that doesn't appear to be the case. While Duncan did bring on new animators, he employed seasoned veterans as well: 
 
-> "Technically, the process for the hand-drawn animation was that we drew it on paper much like it had been done since 1905. It wasn’t done by 90-year-olds, but rather we mixed experienced people from Disney and Dreamworks. We also hired younger folks who had come out of Cal Arts and Laguna College of Art and Design where they teach traditional animation. Traditionally, that’s how we learned, we’d work as apprentices with experienced animators." <sup>{% include tangcay-2019.html %}</sup>
+> "Technically, the process for the hand-drawn animation was that we drew it on paper much like it had been done since 1905. It wasn’t done by 90-year-olds, but rather we mixed experienced people from Disney and Dreamworks. We also hired younger folks who had come out of Cal Arts and Laguna College of Art and Design where they teach traditional animation. Traditionally, that’s how we learned, we’d work as apprentices with experienced animators." <cite>(<a href="/bibliography#tangcay2019">Tangcay</a>)</cite>
 
 So, what made the difference?
 

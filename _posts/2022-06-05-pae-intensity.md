@@ -13,13 +13,20 @@ reading_time: 8 min
 
 I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to ["work with the garage door up."](https://notes.andymatuschak.org/Work_with_the_garage_door_up) In this post, I continue exploring research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}).
 
----
+This post is a part of a series:
 
-What causes peak aesthetic experiences? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
-
-- [Investment]({% post_url 2022-04-05-pae-investment %})
-- Content ([1]({% post_url 2022-04-08-pae-content %}), [2]({% post_url 2022-05-09-pae-content-2 %}), [3]({% post_url 2022-05-22-pae-content-3 %}), [4]({% post_url 2022-05-25-pae-content-4 %}))
-- [Expectation]({% post_url 2022-04-15-pae-expectation %})
+1. [Definitions: what are peak aesthetic experiences?]({% post_url 2022-03-29-pae-definitions %})
+2. [Investment and peak experience]({% post_url 2022-04-05-pae-investment %})
+3. [What types of content create peak experience?]({% post_url 2022-04-08-pae-content %})
+4. [Expectation, the knowledge instinct, and peak experience]({% post_url 2022-04-15-pae-expectation %})
+5. [Optimal difference and peak experience]({% post_url 2022-05-09-pae-content-2 %})
+6. [Incongruity and peak experience]({% post_url 2022-05-22-pae-content-3 %})
+7. [Priming, callbacks, and peak experience]({% post_url 2022-05-25-pae-content-4 %})
+8. [Intensity and peak experience]({% post_url 2022-06-05-pae-intensity %})
+9. [Peak experience and the breakthrough moment]({% post_url 2022-06-10-pae-breakthrough %})
+10. [The physiology of peak experiences]({% post_url 2022-06-17-pae-physiology %})
+11. [Peak experiences and reward]({% post_url 2022-06-27-pae-reward %})
+12. [The subjective awareness of peak experience]({% post_url 2022-07-03-pae-experience %})
 
 In this post, I’ll talk about another element that can help elicit peak aesthetic experiences: intensity.
 
@@ -27,11 +34,11 @@ In this post, I’ll talk about another element that can help elicit peak aesthe
 
 In his paper, Matthew Pelowski cites an encounter by performance artist [Andrea Fraser](https://en.wikipedia.org/wiki/Andrea_Fraser) with the work of sculptor [Fred Sandback](https://en.wikipedia.org/wiki/Fred_Sandback):
 
-> &ldquo;[Fraser] recalled feeling that [Sandback's] works were so devoid of substance that they led her to question the ontological viability of art, causing a subsequent questioning of art making, and—because she was herself an artist—causing a re-evaluation of herself." <sup>{% include pelowski-2015.html %} "The two-factor theory and examples with art" section.</sup>
+> &ldquo;[Fraser] recalled feeling that [Sandback's] works were so devoid of substance that they led her to question the ontological viability of art, causing a subsequent questioning of art making, and—because she was herself an artist—causing a re-evaluation of herself." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "The two-factor theory and examples with art" section)</cite>
 
-> &ldquo;'For me, art [became] an impossibility. And if art is impossible, then artists are also impossible, and I myself am impossible.'" <sup>{% include pelowski-2015.html %} "The two-factor theory and examples with art" section.</sup>
+> &ldquo;'For me, art [became] an impossibility. And if art is impossible, then artists are also impossible, and I myself am impossible.'" <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "The two-factor theory and examples with art" section)</cite>
 
-Confronted by Sandback's work, Fraser had something of a moment. She experienced a challenge to her core identity and was moved to tears as a result. <sup>{% include pelowski-2015.html %} "The two-factor theory and examples with art" section.</sup> 
+Confronted by Sandback's work, Fraser had something of a moment. She experienced a challenge to her core identity and was moved to tears as a result. <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "The two-factor theory and examples with art" section)</cite> 
 
 Her encounter can teach us about peak aesthetic experience.
 
@@ -39,17 +46,17 @@ Her encounter can teach us about peak aesthetic experience.
 
 In Matthew Pelowski's theory, people are moved to tears through a multi-step process: 
 
-1. First, people encounter a "discrepancy between expectation and perception." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup> (See post on the [knowledge instinct]({% post_url 2022-04-15-pae-expectation %}).) 
-2. This is followed by a "period of tension or anxiety in which individuals search for resolution or try to repress discrepancy's consequence." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup> (See post on [incongruity]({% post_url 2022-05-22-pae-content-3 %}).) 
-3. Finally, if people cannot find a way to escape, there is a watershed moment (in more senses than one) in which people's schema's readjust. <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup>
+1. First, people encounter a "discrepancy between expectation and perception." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "Review: the two-factor theory of crying" section)</cite> (See post on the [knowledge instinct]({% post_url 2022-04-15-pae-expectation %}).) 
+2. This is followed by a "period of tension or anxiety in which individuals search for resolution or try to repress discrepancy's consequence." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "Review: the two-factor theory of crying" section)</cite> (See post on [incongruity]({% post_url 2022-05-22-pae-content-3 %}).) 
+3. Finally, if people cannot find a way to escape, there is a watershed moment (in more senses than one) in which people's schema's readjust. <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "Review: the two-factor theory of crying" section)</cite>
 
 Pelowski's theory focuses on _schema change_, a moment when a person's model of the world has been challenged and they can no longer maintain their previous understanding.
 
 Generally, these moments involve resistance. People will, if given a chance, choose to preserve their existing schemas.
 
-> &ldquo;Individuals typically structure interactions to avoid . . . discrepant events, employing pre-expectational filters, or, if discrepancy arises, attempting to diminish or escape from involvement." <sup>{% include pelowski-2015.html %} "Review: the two-factor theory of crying" section.</sup>
+> &ldquo;Individuals typically structure interactions to avoid . . . discrepant events, employing pre-expectational filters, or, if discrepancy arises, attempting to diminish or escape from involvement." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>, "Review: the two-factor theory of crying" section)</cite>
 
-This makes sense if you think about it. Updating our models of the world takes energy, <sup>{% include schoellerAndPerlovsky-2016.html %} "Conclusion" section.</sup> and, as neuroscientist Read Montague discusses at length in _Your Brain Is (Almost) Perfect_, our brains are wired to conserve energy. <sup>{% include montague-2006.html %} Pages 22-24.</sup> Given a choice, we will choose to conserve energy.
+This makes sense if you think about it. Updating our models of the world takes energy, <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, "Conclusion" section)</cite> and, as neuroscientist Read Montague discusses at length in _Your Brain Is (Almost) Perfect_, our brains are wired to conserve energy. <cite>(<a href="/bibliography#montague2006">Montague</a>, Pages 22-24)</cite> Given a choice, we will choose to conserve energy.
 
 This resistance to schema change manifests as Pelowski's "period of tension or anxiety."
 
@@ -66,12 +73,12 @@ It's only when there's a significant schema change, when a deeply-held schema is
 
 Study participants' physiological responses support this claim.
 
-For example, when measuring participants' experience of chills elicited by music, Blood and Zatorre observed significant increases in heart rate, breathing, and electromyogram (EMG) readings (EMG can be used to gauge muscle tension). <sup>{% include bloodAndZatorre-2001.html %} "Results" section</sup> Wassiliwizky et al. also observed increase in heart rate related to tears and goosebumps. <sup>{% include wassiliwizky-2017.html %} "Discussion" section</sup> Mori an Iwanaga observed increased heart rate and respiration depth in response to peak moments in music listening. <sup>{% include moriAndIwanaga-2017.html %} "Discussion" section</sup>
+For example, when measuring participants' experience of chills elicited by music, Blood and Zatorre observed significant increases in heart rate, breathing, and electromyogram (EMG) readings (EMG can be used to gauge muscle tension). <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>, "Results" section)</cite> Wassiliwizky et al. also observed increase in heart rate related to tears and goosebumps. <cite>(<a href="/bibliography#wassiliwizky2017">Wassiliwizky</a>, "Discussion" section)</cite> Mori an Iwanaga observed increased heart rate and respiration depth in response to peak moments in music listening. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>, "Discussion" section)</cite>
 
-Blood and Zatorre found that, "as intensity of . . . chills increased, cerebral blood flow increases and decreases were observed in brain regions thought to be involved in reward/motivation, emotion, and arousal . . . brain structures are known to be active in response to other euphoria-inducing stimuli, such as food, sex, and drugs of abuse." <sup>{% include bloodAndZatorre-2001.html %} "Abstract" section</sup>
+Blood and Zatorre found that, "as intensity of . . . chills increased, cerebral blood flow increases and decreases were observed in brain regions thought to be involved in reward/motivation, emotion, and arousal . . . brain structures are known to be active in response to other euphoria-inducing stimuli, such as food, sex, and drugs of abuse." <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>, "Abstract" section)</cite>
 
 Participants' reports of their subjective experiences seem to agree with the physiological findings.
-For example, Schoeller and Perlovsky found that, among their participants, the emotional payoff reported at story climax and resolution appeared to be proportional to the intensity of the preceding struggle. The greater the struggle, the greater the payoff. <sup>{% include schoellerAndPerlovsky-2016.html %} "Properties of chill-eliciting scenes" section</sup> 
+For example, Schoeller and Perlovsky found that, among their participants, the emotional payoff reported at story climax and resolution appeared to be proportional to the intensity of the preceding struggle. The greater the struggle, the greater the payoff. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, "Properties of chill-eliciting scenes" section)</cite> 
 
 Thus, participants' subjective sensation of peak aesthetic experience correlated with physiological responses that also correlate with intensity.
 
@@ -79,13 +86,13 @@ Thus, participants' subjective sensation of peak aesthetic experience correlated
 
 There appears to be a minimum level of intensity required in order to elicit peak aesthetic experience.
 
-Blood and Zatorre observed that responses to music in participants' neural reward centers "were found to correlate with chills intensity _but not_ with the more mildly pleasant emotion associated with consonance.” <sup>{% include bloodAndZatorre-2001.html %} "Discussion" section</sup> (Emphasis mine.)
+Blood and Zatorre observed that responses to music in participants' neural reward centers "were found to correlate with chills intensity _but not_ with the more mildly pleasant emotion associated with consonance.” <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>, "Discussion" section)</cite> (Emphasis mine.)
 
 This demonstrates that peak physiological responses were activated by a certain level of intensity, rather than just listening to music in general.
 
-Furthermore, their study participants reported that the intensity of their chills trailed behind the intensity they experienced for pleasantness and emotional intensity. <sup>{% include bloodAndZatorre-2001.html %} "Results" section</sup>
+Furthermore, their study participants reported that the intensity of their chills trailed behind the intensity they experienced for pleasantness and emotional intensity. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>, "Results" section)</cite>
 
-In other words, chills intensity correlated with pleasantness and emotional intensity — they rose and fell at the same times — but chills intensity was always less intense than those other feelings. According to the researchers, this suggests that "pleasantness and emotional intensity <em>must reach a certain level</em> before chills are experienced." <sup>{% include bloodAndZatorre-2001.html %} "Results" section</sup> (Emphasis mine.)
+In other words, chills intensity correlated with pleasantness and emotional intensity — they rose and fell at the same times — but chills intensity was always less intense than those other feelings. According to the researchers, this suggests that "pleasantness and emotional intensity <em>must reach a certain level</em> before chills are experienced." <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>, "Results" section)</cite> (Emphasis mine.)
 
 ## Intensity and storytelling
 
@@ -114,11 +121,11 @@ C. I'm using "goal" here to refer to both what the protagonist actively desires 
 
 After firmly establishing the schema, the storyteller then threatens that schema, creating the possibility that it will need to change. This creates tension. The more deeply invested the audience is in the protagonist and the goal, the more deeply felt will be the tension over schema change.
 
-> &ldquo;If the story is well-crafted (if the classical unities are respected, if the elements of the narrative are important, if the viewer cares about the story) narrative tension should trigger psychological tension (i.e., an emotional response)." <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section</sup>
+> &ldquo;If the story is well-crafted (if the classical unities are respected, if the elements of the narrative are important, if the viewer cares about the story) narrative tension should trigger psychological tension (i.e., an emotional response)." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, "Narratology" section)</cite>
 
 One key insight here is that tension is now embodied in goals and obstacles.
 
-> &ldquo;There exist mainly two types of heroes: (i) heroes who have tremendous goals (e.g., being the best chest player in the world) and (ii) heroes who have tremendous obstacles (e.g., surviving a natural catastrophe).” <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section</sup>
+> &ldquo;There exist mainly two types of heroes: (i) heroes who have tremendous goals (e.g., being the best chest player in the world) and (ii) heroes who have tremendous obstacles (e.g., surviving a natural catastrophe).” <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, "Narratology" section)</cite>
 
 If written in a formula, we could say:
 
@@ -134,7 +141,7 @@ Over the course of the narrative, the storyteller raises the tension by increasi
 
 Schoeller and Perlovsky express a formula for thus:
 
-> &ldquo;Narrative tension is directly proportional to conflict, and it is inversely proportional to the likelihood of the hero reaching his goal given obstacles.” <sup>{% include schoellerAndPerlovsky-2016.html %} "Narratology" section</sup>
+> &ldquo;Narrative tension is directly proportional to conflict, and it is inversely proportional to the likelihood of the hero reaching his goal given obstacles.” <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, "Narratology" section)</cite>
 
 ## Conclusion
 

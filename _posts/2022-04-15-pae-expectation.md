@@ -13,7 +13,22 @@ reading_time: 12 min
 
 I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to "learn in public." In this post, I continue exploring the research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}) by introducing the topic of expectation, the third [factor that creates peak aesthetic experience]({% post_url 2022-04-05-pae-investment %}).
 
-In the future, I'll talk about how expectation contributes to the moment of payoff, which we experience as peak aesthetic experience itself. But, before we can talk about _how_ expectation contributes to peak aesthetic experience, we need to understand _what_ expectation is and how it works. This post explores that question.
+This post is a part of a series:
+
+1. [Definitions: what are peak aesthetic experiences?]({% post_url 2022-03-29-pae-definitions %})
+2. [Investment and peak experience]({% post_url 2022-04-05-pae-investment %})
+3. [What types of content create peak experience?]({% post_url 2022-04-08-pae-content %})
+4. [Expectation, the knowledge instinct, and peak experience]({% post_url 2022-04-15-pae-expectation %})
+5. [Optimal difference and peak experience]({% post_url 2022-05-09-pae-content-2 %})
+6. [Incongruity and peak experience]({% post_url 2022-05-22-pae-content-3 %})
+7. [Priming, callbacks, and peak experience]({% post_url 2022-05-25-pae-content-4 %})
+8. [Intensity and peak experience]({% post_url 2022-06-05-pae-intensity %})
+9. [Peak experience and the breakthrough moment]({% post_url 2022-06-10-pae-breakthrough %})
+10. [The physiology of peak experiences]({% post_url 2022-06-17-pae-physiology %})
+11. [Peak experiences and reward]({% post_url 2022-06-27-pae-reward %})
+12. [The subjective awareness of peak experience]({% post_url 2022-07-03-pae-experience %})
+
+In later posts, I'll talk about how expectation contributes to the moment of payoff, which we experience as peak aesthetic experience itself. But, before we can talk about _how_ expectation contributes to peak aesthetic experience, we need to understand _what_ expectation is and how it works. This post explores that question.
 
 ---
 
@@ -55,15 +70,15 @@ After my failure in Venice, I certainly learned a more accurate layout for the b
 
 Our process of seeking to update our mental models can be thought of as a drive.
 
-Schoeller and Perlovsky call it the "knowledge instinct," a "drive to modify existing representations to match patterns in sensory signals." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+Schoeller and Perlovsky call it the "knowledge instinct," a "drive to modify existing representations to match patterns in sensory signals." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 When we detect a learning opportunity, it activates our knowledge instinct. Possible gaps between our mental models of the world and phenomena we encounter raise questions in our minds, and our brains seek answers.
 
-Schoeller and Perlovsky refer to a theory put forth by Grossberg and Levine in 1987. According to the theory, the way we subjectively experience the knowledge instinct can be akin to homeostatic senses like thirst or hunger. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+Schoeller and Perlovsky refer to a theory put forth by Grossberg and Levine in 1987. According to the theory, the way we subjectively experience the knowledge instinct can be akin to homeostatic senses like thirst or hunger. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 When it comes to physical homeostasis, for example, our bodies need to keep water and electrolytes properly balanced in order to be healthy. We have a "safe range" of water in our systems, and our bodies are programmed to keep us within that range. When our balance of water gets too low, our bodies sense the need and trigger a response, which we experience as thirst. Subjectively-experienced signals like thirst and satiation then drive behavior.
 
-Schoeller's and Perlovsky's theory suggests that our minds have a similar kind of "homeostatic" response to knowledge acquisition. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup> In a sense, the phrase, "thirst for knowledge" may be quite accurate.
+Schoeller's and Perlovsky's theory suggests that our minds have a similar kind of "homeostatic" response to knowledge acquisition. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite> In a sense, the phrase, "thirst for knowledge" may be quite accurate.
 
 ## Reward
 
@@ -71,11 +86,11 @@ Findings suggest a relationship between the knowledge instinct, peak aesthetic e
 
 ### Reward and insight
 
-Schoeller and Perlovsky cite a 2012 paper by Levine, which suggests that knowledge acquisition leverages a "network involving association cortex, dorsolateral prefrontal cortex, orbitofrontal cortex, striatum, opioids, and dopamine." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup> (In other words, structures of the brain associated with reward.)
+Schoeller and Perlovsky cite a 2012 paper by Levine, which suggests that knowledge acquisition leverages a "network involving association cortex, dorsolateral prefrontal cortex, orbitofrontal cortex, striatum, opioids, and dopamine." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite> (In other words, structures of the brain associated with reward.)
 
-Pelowski proposes that knowledge acquisition can trigger peak aesthetic experience. This happens through significant change in understanding, which we experience as insight. <sup>{% include pelowski-2015.html %}</sup>
+Pelowski proposes that knowledge acquisition can trigger peak aesthetic experience. This happens through significant change in understanding, which we experience as insight. <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite>
 
-> "The resetting [of engagement with challenging knowledge], if it is particularly profound, is also tied to experience of harmony as well as catharsis, pleasure." <sup>{% include pelowski-2015.html %}</sup>
+> "The resetting [of engagement with challenging knowledge], if it is particularly profound, is also tied to experience of harmony as well as catharsis, pleasure." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite>
 
 Pelowski didn't monitor activity in people's brains for his study, but the relationships between reward systems, knowledge acquisition, and peak aesthetic experience are certainly suggestive.
 
@@ -83,11 +98,11 @@ Pelowski didn't monitor activity in people's brains for his study, but the relat
 
 The evidence tying peak aesthetic experience to reward is even stronger with music.
 
-Blood's and Zatorre's findings, for example, demonstrate directly that music-induced chills activate reward systems in our brains. <sup>{% include bloodAndZatorre-2001.html %}</sup>
+Blood's and Zatorre's findings, for example, demonstrate directly that music-induced chills activate reward systems in our brains. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite>
 
-Although Mori and Iwanaga didn't look at the brain's reward systems directly, they do suggest that tears may also be associated with the brain's reward system. However, they give a caveat: "The brain responses of the cathartic tears are still unknown." <sup>{% include moriAndIwanaga-2017.html %}</sup>
+Although Mori and Iwanaga didn't look at the brain's reward systems directly, they do suggest that tears may also be associated with the brain's reward system. However, they give a caveat: "The brain responses of the cathartic tears are still unknown." <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
 
-They found that music-induced chills and music-induced tears have distinct physiological characteristics, but both trigger a subjective experience of pleasure, which is suggestive. <sup>{% include moriAndIwanaga-2017.html %}</sup>
+They found that music-induced chills and music-induced tears have distinct physiological characteristics, but both trigger a subjective experience of pleasure, which is suggestive. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
 
 ### Knowledge instinct and music
 
@@ -123,15 +138,15 @@ We've come pretty far afield from where we started, but this little excursus abo
 
 ## Expectation and story
 
-Storytellers take advantage of our knowledge-instinct-based expectations liberally. Schoeller and Perlovsky cite Kreitler and Kreitler in calling this the "tension principle," the idea that a storyteller sets up a dramatic situation or question but withholds crucial details that would fill in the answer. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup> This causes the audience to remain hooked, pursuing that knowledge throughout the story until it's finally revealed in the resolution. 
+Storytellers take advantage of our knowledge-instinct-based expectations liberally. Schoeller and Perlovsky cite Kreitler and Kreitler in calling this the "tension principle," the idea that a storyteller sets up a dramatic situation or question but withholds crucial details that would fill in the answer. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite> This causes the audience to remain hooked, pursuing that knowledge throughout the story until it's finally revealed in the resolution. 
 
-> "Hollywood narratives can thus be described in terms of retention of information. The answer to the dramatic question is the information that the author retains. It is what the viewer cares about, _what motivates his curiosity_.” <sup>{% include schoellerAndPerlovsky-2016.html %}</sup> (Emphasis theirs.)
+> "Hollywood narratives can thus be described in terms of retention of information. The answer to the dramatic question is the information that the author retains. It is what the viewer cares about, _what motivates his curiosity_.” <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite> (Emphasis theirs.)
 
 This tension principle may be more familiar to students of story theory under another name. I've most often heard it called "narrative drive."
 
 Schoeller and Perlovsky point out that narrative drive only works so long as the audience believes that the storyteller is competent to provide the payoff at the end.
 
-> "If the audience suspects that the author does not hold such information, the spectatorial contract (i.e., 'I am going to be told a story which end I shall know') is broken, the tension principle ceases to apply, and the viewer has no good reason to wait until the end of the story." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+> "If the audience suspects that the author does not hold such information, the spectatorial contract (i.e., 'I am going to be told a story which end I shall know') is broken, the tension principle ceases to apply, and the viewer has no good reason to wait until the end of the story." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 Our knowledge instinct, and its underlying reward systems, are pretty savvy. We won't hang around if we think someone is just stringing us along, wasting our time. If we sense that the likelihood of payoff &mdash; of successfully updating our mental models &mdash; is low, we'll cut our losses and run.
 

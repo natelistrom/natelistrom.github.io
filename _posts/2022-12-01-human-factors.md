@@ -13,7 +13,7 @@ reading_time: 5 min
 
 <p class="dropCap">In the 1940s, a psychologist named Paul Morris Fitts led an investigation into mistakes made by aircraft pilots or their crew members. He reviewed nearly three hundred documented cases, looking for patterns. Suprisingly, he found that the largest single group of errors &mdash; more than ten percent &mdash; were due to <em>exactly the same mistake</em>.</p> 
 
-What was the mistake? Misreading the altimeter by exactly one thousand feet. <sup>{% include fittsAndJones-1947.html %}</sup>
+What was the mistake? Misreading the altimeter by exactly one thousand feet. <cite>(<a href="/bibliography#fitts1947">Fitts and Jones</a>)</cite>
 
 ## A clever solution to an engineering challenge
 

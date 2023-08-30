@@ -16,7 +16,7 @@ In a series of earlier posts, I explored <a href="{% post_url 2022-03-29-pae-def
 
 One key component to these experiences is [optimal difference]({% post_url 2022-05-09-pae-content-2 %}), the idea that the payoff must be neither too predictable nor too unpredictable.
 
-> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror.” <sup>{% include schoellerAndPerlovsky-2016.html %} Aesthetic Emotions section.</sup>
+> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror.” <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>, Aesthetic Emotions section)</cite>
 
 If things are too close to expected, they fall into the trap of failing to meaningfully subvert expectations. If a chair remains exactly where you placed it, that won't produce strong emotion. It's boring. Our brains' [reward systems]({% post_url 2023-07-23-rule-of-three-prediction %}) aren't engaged. 
 

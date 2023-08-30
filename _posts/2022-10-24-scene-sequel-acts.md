@@ -11,7 +11,7 @@ reading_time: 6 min
 
 ---
 
-In <em>Techniques of the Selling Writer</em>, Author Dwight V. Swain introduces a framework for writing compelling, psychologically realistic scene progressions. His framework is a repeating structure of what he calls &ldquo;scenes&rdquo; and &ldquo;sequels.&rdquo; <sup>{% include swain-1981.html %} Page 84 ff.</sup>
+In <em>Techniques of the Selling Writer</em>, Author Dwight V. Swain introduces a framework for writing compelling, psychologically realistic scene progressions. His framework is a repeating structure of what he calls &ldquo;scenes&rdquo; and &ldquo;sequels.&rdquo; <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 84 ff)</cite>
 
 Swain's focus is on the level of individual scenes, but I believe you can apply his same framework to the structure of whole story acts as well. 
 
@@ -21,14 +21,14 @@ Swain's focus is on the level of individual scenes, but I believe you can apply 
 
 ![A diagram showing scene and sequel with goal, conflict, disaster, reaction, dilemma, and decision plotted on a sine wave](/assets/img/scene-sequel-act-1.png)
 
-In Swain's framework, Scenes are an action-based progression of what he calls goal, conflict, and disaster. <sup>{% include swain-1981.html %} Page 85</sup> The protagonist has a desire she is pursuing (goal). Some form of opposition threatens her ability to obtain the object of her desire (conflict). Then, when the conflict reaches its peak, there comes a crescendo: a "logical, yet unanticipated development" ends her plans in in disaster. <sup>{% include swain-1981.html %} Page 89</sup>
+In Swain's framework, Scenes are an action-based progression of what he calls goal, conflict, and disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 85</sup> The protagonist has a desire she is pursuing (goal). Some form of opposition threatens her ability to obtain the object of her desire (conflict). Then, when the conflict reaches its peak, there comes a crescendo: a "logical, yet unanticipated development" ends her plans in in disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 89</sup>
 
-Sequels are the response, a progression of what Swain calls reaction, dilemma, and decision. <sup>{% include swain-1981.html %} Page 100</sup> Reeling from the shock of the disaster, the protagonist must process what has happened, take stock, and form a new plan. 
+Sequels are the response, a progression of what Swain calls reaction, dilemma, and decision. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 100</sup> Reeling from the shock of the disaster, the protagonist must process what has happened, take stock, and form a new plan. 
 
-In good stories, the response to action is just as compelling as the action itself. Sequels are all about the protagonist's decision-making, and the process must never be easy. The protagonist faces what story theorist Shawn Coyne calls a crisis of "best bad choice" or "irreconcilable goods." <sup>{% include coyne-2015.html %} Pages 177-178</sup> In Swain's parlance, it's a "choice between equally unsatisfactory alternatives." <sup>{% include swain-1981.html %} Page 101</sup>
+In good stories, the response to action is just as compelling as the action itself. Sequels are all about the protagonist's decision-making, and the process must never be easy. The protagonist faces what story theorist Shawn Coyne calls a crisis of "best bad choice" or "irreconcilable goods." <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Pages 177-178</sup> In Swain's parlance, it's a "choice between equally unsatisfactory alternatives." <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 101</sup>
 
 Once the protagonist makes her decision, this forms a new goal, and the cycle repeats.
-Scenes grip audiences with the thrill and tension of "What will happen next?" Sequels allow the emotional and logical resonance of story to strike home. <sup>{% include swain-1981.html %} Page 98</sup> "What will the protagonist do _now_?"
+Scenes grip audiences with the thrill and tension of "What will happen next?" Sequels allow the emotional and logical resonance of story to strike home. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 98</sup> "What will the protagonist do _now_?"
 
 <aside>For further explanation of scenes and sequels, I recommend Randy Ingermanson's excellent article, <a href="https://www.advancedfictionwriting.com/articles/writing-the-perfect-scene/">Writing the Perfect Scene</a>.</aside>
 
@@ -73,11 +73,11 @@ This is a "disaster" in the sense that Luke cannot continue with his former life
 
 ![The scene-sequel diagram with the third part, reaction and dilemma, highlighted](/assets/img/scene-sequel-act-4.png)
 
-Humans can't process abrupt, disruptive events instantaneously. We need time to absorb and reflect. This is Swain's reaction and dilemma phase, what Campbell identified as the "Denial of the Call." I like Blake Snyder's term, the "Debate" a little better. <sup>{% include snyder-2005.html %} Pages 77-78</sup> Looking at the fractured splinters of her previous plan, the protagonist must process what's happening to her. She must integrate the implications of the disaster and come to some kind of resolution.
+Humans can't process abrupt, disruptive events instantaneously. We need time to absorb and reflect. This is Swain's reaction and dilemma phase, what Campbell identified as the "Denial of the Call." I like Blake Snyder's term, the "Debate" a little better. <cite>(<a href="/bibliography#snyder2005">Snyder</a>, Pages 77-78</sup> Looking at the fractured splinters of her previous plan, the protagonist must process what's happening to her. She must integrate the implications of the disaster and come to some kind of resolution.
 
 In _Star Wars: A New Hope_, we see this as Luke rejects Obi-wan's invitation with some polite excuses. Laid before him so unexpectedly, the adventure he desired frightens him. He begs off.
 
-Sometimes, as she passes through the debate phase, the protagonist reasons through the implications of the Call to Adventure and comes to a decision on her own. Often, however, there's one last revelation or minor disaster &mdash; what Snyder calls a "catalyst" <sup>{% include snyder-2005.html %} Pages 76-77</sup> &mdash; that finally forces her to make a choice.
+Sometimes, as she passes through the debate phase, the protagonist reasons through the implications of the Call to Adventure and comes to a decision on her own. Often, however, there's one last revelation or minor disaster &mdash; what Snyder calls a "catalyst" <cite>(<a href="/bibliography#snyder2005">Snyder</a>, Pages 76-77</sup> &mdash; that finally forces her to make a choice.
 
 ## Decision: Crossing the First Threshold
 
