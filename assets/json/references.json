@@ -1,7 +1,8 @@
 [
     {
-        "author":"Anders, Lou; Mary Kowal; Dan Wells, and Howard Tayler.",
-        "authorShort":"Anders",
+        "id":"kowal2011a",
+        "author":"Mary Robinette Kowal, Dan Wells, and Howard Tayler with Lou Anders.",
+        "authorShort":"Kowal et al.",
         "date":"2011.",
         "title":"6.18: The Hollywood Formula, with Lou Anders",
         "titleShort":"Hollywood Formula",
@@ -11,6 +12,7 @@
         "img":null
     },
     {
+        "id":"berridge2015",
         "author":"Berridge, Kent C. and Morten L. Kringelbach.",
         "authorShort":"Berridge and Kringelbach",
         "date":"2015.",
@@ -22,6 +24,7 @@
         "img":null
     },
     {
+        "id":"blood2001",
         "author":"Blood, Anne J. and Robert J. Zatorre.",
         "authorShort":"Blood and Zatorre",
         "date":"2001.",
@@ -33,6 +36,7 @@
         "img":null
     },
     {
+        "id":"booker2004",
         "author":"Booker, Christopher.",
         "authorShort":"Booker",
         "date":"2004.",
@@ -44,6 +48,7 @@
         "img":null
     },
     {
+        "id":"bork2018",
         "author":"Bork, Erik.",
         "authorShort":"Bork",
         "date":"2018.",
@@ -55,6 +60,7 @@
         "img":null
     },
     {
+        "id":"britannica2022",
         "author":"Britannica, The Editors of Encyclopaedia.",
         "authorShort":"Britannica",
         "date":"2022.",
@@ -66,6 +72,7 @@
         "img":null
     },
     {
+        "id":"bunting",
         "author":"Bunting, Joe.",
         "authorShort":"Bunting",
         "date":null,
@@ -77,6 +84,7 @@
         "img":null
     },
     {
+        "id":"campbell2020",
         "author":"Campbell, Joseph.",
         "authorShort":"Campbell",
         "date":"2020",
@@ -88,6 +96,7 @@
         "img":null
     },
     {
+        "id":"card2010",
         "author":"Card, Orson Scott.",
         "authorShort":"Card",
         "date":"2010",
@@ -99,6 +108,7 @@
         "img":null
     },
     {
+        "id":"coyne2015",
         "author":"Coyne, Shawn.",
         "authorShort":"Coyne",
         "date":"2015",
@@ -110,6 +120,7 @@
         "img":null
     },
     {
+        "id":"cron2012",
         "author":"Cron, Lisa.",
         "authorShort":"Cron",
         "date":"2012",
@@ -121,6 +132,7 @@
         "img":null
     },
     {
+        "id":"egri2004",
         "author":"Egri, Lajos.",
         "authorShort":"Lajos",
         "date":"2004",
@@ -132,6 +144,7 @@
         "img":null
     },
     {
+        "id":"field2005",
         "author":"Field, Syd.",
         "authorShort":"Field",
         "date":"2005",
@@ -143,6 +156,7 @@
         "img":null
     },
     {
+        "id":"fitts1947",
         "author":"Fitts, Paul M. and R. E. Jones.",
         "authorShort":"Fitts and Jones",
         "date":"1947.",
@@ -154,6 +168,7 @@
         "img":null
     },
     {
+        "id":"freytag1895",
         "author":"Freytag, Gustav.",
         "authorShort":"Freytag",
         "date":"1895",
@@ -165,6 +180,7 @@
         "img":null
     },
     {
+        "id":"glass2009",
         "author":"Glass, Ira.",
         "authorShort":"Glass",
         "date":"2009",
@@ -176,6 +192,7 @@
         "img":null
     },
     {
+        "id":"grahl2016",
         "author":"Grahl, Tim and Shawn Coyne.",
         "authorShort":"Grahl",
         "date":"2016",
@@ -187,6 +204,7 @@
         "img":null
     },
     {
+        "id":"harmon2009",
         "author":"Harmon, Dan.",
         "authorShort":"Harmon",
         "date":"2009",
@@ -198,6 +216,7 @@
         "img":null
     },
     {
+        "id":"kidd2015",
         "author":"Kidd, Celeste, and Benjamin Y Hayden.",
         "authorShort":"Kidd and Hayden",
         "date":"2015",
@@ -209,6 +228,7 @@
         "img":null
     },
     {
+        "id":"kowal2011",
         "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
         "authorShort":"Kowal et al.",
         "date":"2011",
@@ -220,6 +240,7 @@
         "img":null
     },
     {
+        "id":"mamet1998",
         "author":"Mamet, David.",
         "authorShort":"Mamet",
         "date":"1998",
@@ -231,6 +252,7 @@
         "img":null
     },
     {
+        "id":"mazin2019",
         "author":"Mazin, Craig.",
         "authorShort":"Mazin",
         "date":"2019",
@@ -242,6 +264,7 @@
         "img":null
     },
     {
+        "id":"mckee2014",
         "author":"McKee, Robert.",
         "authorShort":"McKee",
         "date":"2014",
@@ -253,6 +276,7 @@
         "img":null
     },
     {
+        "id":"menninghaus2015",
         "author":"Menninghaus, Winfried, et al.",
         "authorShort":"Menninghaus et al.",
         "date":"2015",
@@ -264,6 +288,7 @@
         "img":null
     },
     {
+        "id":"montague2006",
         "author":"Montague, Read.",
         "authorShort":"Montague",
         "date":"2006",
@@ -275,6 +300,7 @@
         "img":null
     },
     {
+        "id":"mori2017",
         "author":"Mori, Kazuma and Makoto Iwanaga.",
         "authorShort":"Mori and Iwanaga",
         "date":"2017",
@@ -286,6 +312,7 @@
         "img":null
     },
     {
+        "id":"lehne2015",
         "author":"Lehne, Moritz and Stefan Koelsch.",
         "authorShort":"Moritz and Koelsch",
         "date":"2015",
@@ -297,6 +324,7 @@
         "img":null
     },
     {
+        "id":"pelowski2015",
         "author":"Pelowski, Matthew.",
         "authorShort":"Pelowski",
         "date":"2015",
@@ -308,6 +336,7 @@
         "img":null
     },
     {
+        "id":"phillips2009",
         "author":"Phillips, Melanie Anne and Chris Huntley.",
         "authorShort":"Phillips",
         "date":"2009",
@@ -319,6 +348,7 @@
         "img":null
     },
     {
+        "id":"price2011",
         "author":"Price, David A.",
         "authorShort":"Price",
         "date":null,
@@ -330,6 +360,7 @@
         "img":null
     },
     {
+        "id":"propp2009",
         "author":"Propp, V.",
         "authorShort":"Propp",
         "date":"2009",
@@ -341,6 +372,7 @@
         "img":null
     },
     {
+        "id":"kowal2016",
         "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
         "authorShort":"Kowal et al.",
         "date":"2016",
@@ -352,6 +384,7 @@
         "img":null
     },
     {
+        "id":"sanderson2021",
         "author":"Sanderson, Brandon.",
         "authorShort":"Sanderson",
         "date":"2021",
@@ -363,6 +396,7 @@
         "img":null
     },
     {
+        "id":"sanderson2021a",
         "author":"Sanderson, Brandon.",
         "authorShort":"Sanderson",
         "date":"2021",
@@ -374,6 +408,7 @@
         "img":null
     },
     {
+        "id":"schoeller2016",
         "author":"Schoeller, Felix and Leonid Perlovsky.",
         "authorShort":"Schoeller and Perlovsky",
         "date":"2016",
@@ -385,6 +420,7 @@
         "img":null
     },
     {
+        "id":"schultz2015",
         "author":"Schultz, Wolfram.",
         "authorShort":"Schultz",
         "date":"2015",
@@ -396,6 +432,7 @@
         "img":null
     },
     {
+        "id":"snyder2005",
         "author":"Snyder, Blake.",
         "authorShort":"Snyder",
         "date":"2005",
@@ -407,6 +444,7 @@
         "img":null
     },
     {
+        "id":"swaiin1981",
         "author":"Swain, Dwight V.",
         "authorShort":"Swain",
         "date":"1981",
@@ -418,6 +456,7 @@
         "img":null
     },
     {
+        "id":"tangcay2019",
         "author":"Tangcay, Jazz.",
         "authorShort":"Tangcay",
         "date":"2019",
@@ -429,6 +468,7 @@
         "img":null
     },
     {
+        "id":"truby2011",
         "author":"Truby, John.",
         "authorShort":"Truby",
         "date":"2011",
@@ -440,6 +480,7 @@
         "img":null
     },
     {
+        "id":"vanlieshout2021",
         "author":"van Lieshout, Lieke L F et al.",
         "authorShort":"van Lieshout et al.",
         "date":"2021",
@@ -451,6 +492,7 @@
         "img":null
     },
     {
+        "id":"wassiliwizky2017",
         "author":"Wassiliwizky, Eugen et al.",
         "authorShort":"Wassiliwizky et al.",
         "date":"2017",
@@ -462,6 +504,7 @@
         "img":null
     },
     {
+        "id":"weiland2013",
         "author":"Weiland, K. M.",
         "authorShort":"Weiland",
         "date":"2013",
@@ -473,6 +516,7 @@
         "img":null
     },
     {
+        "id":"weiland2020",
         "author":"Weiland, K. M.",
         "authorShort":"Weiland",
         "date":"2020",
@@ -484,6 +528,7 @@
         "img":null
     },
     {
+        "id":"williams2001",
         "author":"Williams, Richard.",
         "authorShort":"Williams",
         "date":"2001",
@@ -495,6 +540,7 @@
         "img":null
     },
     {
+        "id":"yorke2015",
         "author":"Yorke, John.",
         "authorShort":"Yorke",
         "date":"2015",

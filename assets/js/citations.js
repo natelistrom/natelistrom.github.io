@@ -34,24 +34,17 @@ if (document.querySelectorAll('cite').length > 0) {
         .then(() => {
 
             dom_references.forEach(function(cite) {
-                let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)
+
+                // Get the unique ID
+                let a = cite.childNodes[1].getAttribute("href"); // Grab the contents of the href element
+                let cID = a.substring(a.indexOf("#") + 1); // Remove everything before the # symbol
+                console.log(cID);
+
+                // Get the location number
+                let c = cite.innerText; // innerText to avoid having to deal with markup (aka links, etc.)  
                 let cElements = c.split(','); // Split on every comma. We could do this with regex instead, but this is easier to understand.
-                let cID = "";
                 let cLoc = "";
 
-                /*  To identify a match between the citation and the corresponding data in the json, we must follow the same format exactly.
-                
-                    Expected in-page citation patterns are:
-                    '(String'                   Author w/ Loc   <== Remove leading '(' and add trailing '.'
-                    '(&ldquo;String&rdquo;'     Title w/ Loc    <== Remove leading '('
-                    '(String)'                  Author alone    <== Remove leading '(' and trailing ')' and add trailing '.'
-                    '(&ldquo;String&rdquo;)'    Title alone     <== Remove leading '(' and trailing ')'
-                    ' String)'                  Loc             <== Remove leading space and trailing ')' and add trailing '.'
-                */
-
-                // Check to see if this is a title in quotes or not.
-                // If so, we need to apply special logic to ensure matching works because the period is inside the quotes.
-                cID = cElements[0].substring(1); // Remove leading '(' character
                 cLoc = "";
                 if (cElements[1]) { 
                     cLoc = cElements[1].substring(1) + ".";  // Remove leading space and add trailing period.
@@ -67,7 +60,6 @@ if (document.querySelectorAll('cite').length > 0) {
                     return htmlStr;
                 }; 
                 
-                cID = escape(cID);
                 cLoc = escape(cLoc);
 
                 /*
@@ -83,7 +75,7 @@ if (document.querySelectorAll('cite').length > 0) {
 
                 for (let d = 0; d < refData.length; d++) {
                     let m = refData[d];
-                    if (cID == m.authorShort || cID == m.titleShort) {
+                    if (cID == m.id) {
 
                         // Add html elements as appropriate
                         let titleBefore = "&ldquo;";
