@@ -53,8 +53,6 @@ if (document.querySelectorAll('cite').length > 0) {
                 // Remove unwanted characters
                 function escape(htmlStr) {
                     htmlStr = htmlStr
-                        .replace("“", "")
-                        .replace("”", "")
                         .replace("(", "")
                         .replace(")", "");
                     return htmlStr;
