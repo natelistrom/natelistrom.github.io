@@ -45,7 +45,7 @@ Why does it work this way?
 
 Expectation and anticipation are tied to our brains' reward systems. Our reward systems are built to help us learn, so they're hard-wired to prefer to novelty. <cite>(<a href="/bibliography#schultz2015">Schultz</a>, B. Neuronal Signals for Reward Learning section)</cite> <cite>(<a href="/bibliography#vanlieshout2021">van Lieshout</a>, Introduction section)</cite> <cite>(<a href="/bibliography#kidd2015">Kidd and Hayden</a>, The function of curiosity section)</cite> They're tuned to be especially sensitive to new and unexpected information.
 
-Our reward systems detect new information by recognizing what, in the scientific literature, are called _reward prediction errors_. <cite>(<a href="/bibliography#moritz2015">Moritz and Koelsch</a>, Neural correlates of tension and suspense section)</cite> <cite>(<a href="/bibliography#schultz2015">Schultz</a>, B. Neuronal Signals for Reward Learning section)</cite> A prediction error occurs when your brain recognizes the difference between what it predicted and what actually occurred in the world.
+Our reward systems detect new information by recognizing what, in the scientific literature, are called _reward prediction errors_. <cite>(<a href="/bibliography#lehne2015">Lehne and Koelsch</a>, Neural correlates of tension and suspense section)</cite> <cite>(<a href="/bibliography#schultz2015">Schultz</a>, B. Neuronal Signals for Reward Learning section)</cite> A prediction error occurs when your brain recognizes the difference between what it predicted and what actually occurred in the world.
 
 Here’s how neuroscientist Read Montague describes the research in his book, _Your Brain is (Almost) Perfect_:
 
@@ -109,7 +109,7 @@ When the payoff is exactly what our audiences' brains predicted, their reward sy
 
 Thus, the challenge for storytellers is to set up an expectation, creating anticipation, and then somehow deliver _more_ than their audience anticipated, triggering a “better than expected” reward signal.
 
-This is the mechanism behind what playwright David Mamet called “inevitable yet unforeseen,” <cite>(<a href="/bibliography#mamet1998">Mamet</a>, Location 426)</cite> what editor and _Story Grid_ author Shawn Coyne rephrased as, “surprising and inevitable” ending <cite>(<a href="/bibliography#grahl2016">Grahl</a>,</sup> — the ending that perfectly fulfills the promise of the setup but in a way that defies the audience's expectations.
+This is the mechanism behind what playwright David Mamet called “inevitable yet unforeseen,” <cite>(<a href="/bibliography#mamet1998">Mamet</a>, Location 426)</cite> what editor and _Story Grid_ author Shawn Coyne rephrased as, “surprising and inevitable” ending <cite>(<a href="/bibliography#grahl2016">Grahl</a>)</cite> — the ending that perfectly fulfills the promise of the setup but in a way that defies the audience's expectations.
 
 In the rule of three, the first two story units set up the trajectory, the "value proxy" that tells your audience what to expect. When you deliver with the third story unit, that's your opportunity to subvert the trajectory and deliver a "better than expected" result.
 

@@ -38,7 +38,7 @@ Direct chiasmus isn't the only form of large-scale bracketing that storytellers 
 
 Writer and producer [Dan Harmon also discusses a mirroring structure](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details) for story units. However, in his model, the mirrored story moments are plotted on a circle, and Harmon draws a bisecting line from the story unit on one side of the circle to the one directly opposite. 
 
-> "Just as (3), the crossing of the threshold, is the opposite of (7) the return, (5), the meeting with the goddess, is the opposite of (1), the protagonist's zone of comfort . . . As you might expect with a circular model like this, there is a lot of symmetry going on, and on the journey back upward, we're going to be doing a lot of referencing to the journey downward . . . When in doubt, _look at the opposite side of the circle_." <cite>(<a href="/bibliography#harmon2009">Harmon</a>, (Emphasis mine.)
+> "Just as (3), the crossing of the threshold, is the opposite of (7) the return, (5), the meeting with the goddess, is the opposite of (1), the protagonist's zone of comfort . . . As you might expect with a circular model like this, there is a lot of symmetry going on, and on the journey back upward, we're going to be doing a lot of referencing to the journey downward . . . When in doubt, _look at the opposite side of the circle_." <cite>(<a href="/bibliography#harmon2009">Harmon</a>)</cite> (Emphasis mine.)
 
 In this model, which loosely follows the Hero's Journey, the story's opening creates a bracket with the midpoint, the "need" phase creates a bracket with the "take" phase, etc.
 
@@ -46,7 +46,7 @@ In this model, which loosely follows the Hero's Journey, the story's opening cre
 
 Harmon's diametric mirroring provides an interesting method for placing setups and payoffs. For example, Harmon suggests that if your story has a "lucky coincidence" to help save the protagonist in the climactic "change" moment, it can be set up by forcing the protagonist to earn it during the "search" phase of the protagonist's journey, which happened back before the midpoint.
 
-> "One really neat trick is to remind the audience that the reason the protagonist is capable of such behavior is because of what happened down below . . . the opposite of (8) [the climax] is (4), the road of trials . . . Remember that zippo the bum gave him? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times . . . Why is this not _Deus Ex Machina_? Because we earned it." <cite>(<a href="/bibliography#harmon2009">Harmon</a>,
+> "One really neat trick is to remind the audience that the reason the protagonist is capable of such behavior is because of what happened down below . . . the opposite of (8) [the climax] is (4), the road of trials . . . Remember that zippo the bum gave him? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times . . . Why is this not _Deus Ex Machina_? Because we earned it." <cite>(<a href="/bibliography#harmon2009">Harmon</a>)</cite>
 
 Intuitively, this resonates. The moments leading up to the midpoint, for example, are where the protagonist learns to navigate the new world and build alliances. It's natural and satisfying that these gains pay off in the climax. So also, each other diametric pair creates opportunities for setups and payoffs.
 
@@ -54,7 +54,7 @@ Intuitively, this resonates. The moments leading up to the midpoint, for example
 
 On the _Writing Excuses_ podcast, author [Mary Robinette Kowal discusses Orson Scott Card's MICE quotient](). Kowal explains how each of the [MICE elements]({% post_url 2022-11-13-mice-internal-external %}) in a proper story structure should act like brackets for the different sub-stories they contain. 
 
-> "The way I think about it is as nesting tags in [HTML] programming. So like if you want to have a bold italic word . . . You start with the bracket B . . . bracket B bracket I. Then you have to go bracket I bracket B. You have to close out both of them and you close them out in the [reverse] order in which you opened them . . . I find that the same kind of concept generally works when I'm using MICE elements in fiction. If I start with the idea, then I have to end with the idea. I can do character in the middle of that, but that I have to end where I started. <cite><a href="/bibliography#kowal2011">Kowal</a>)</cite>
+> "The way I think about it is as nesting tags in [HTML] programming. So like if you want to have a bold italic word . . . You start with the bracket B . . . bracket B bracket I. Then you have to go bracket I bracket B. You have to close out both of them and you close them out in the [reverse] order in which you opened them . . . I find that the same kind of concept generally works when I'm using MICE elements in fiction. If I start with the idea, then I have to end with the idea. I can do character in the middle of that, but that I have to end where I started. <cite>(<a href="/bibliography#kowal2011">Kowal</a>)</cite>
 
 In other words, when using multiple MICE quotient story types, the opening and closing of each story type should properly nest. If you open on milieu, for example, and then go on to an idea story, resolve the idea story _before_ resolving the milieu story (`M` - `I` - `I'` - `M'`).
 

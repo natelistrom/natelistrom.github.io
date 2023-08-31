@@ -61,7 +61,7 @@ It’s not unrealistic to thus conclude that all three might happen at the same 
 I'll go into all of this more later, but for now, here's a rapid-fire summary of facts about peak aesthetic experiences:
 
 - Peak aesthetic experiences are cross-cultural <cite>(<a href="/bibliography#wassiliwizky2017">Wassiliwizky</a>)</cite> <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite> <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite>, suggesting that they're core human responses, rather than socially or environmentally adapted.
-- They're pleasurable, activating the same parts of the brain as euphoric experiences. <cite>(<a href="/bibliography#bloodAndZatorre-2001"></a>)</cite> <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
+- They're pleasurable, activating the same parts of the brain as euphoric experiences. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite> <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
 - They're intense. <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite> (I know, "Thank you, captain obvious.")
 - They can give us a feeling of insight, a "eureka moment." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite> <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 - Tears, at least, can be cathartic. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
