@@ -17,13 +17,13 @@ Every setup has an appropriate domain into which a payoff must fit. If the setup
 
 In _Character and Viewpoint_, author Orson Scott Card explains:
 
-> "Whenever you tell a story, you make an implicit contract with the reader. Within the first few paragraphs or pages, you tell the reader implicitly what kind of story this is going to be; the reader then knows what to expect, and holds the thread of that structure throughout the tale." <sup>{% include card-2010.html %} Page 70.</sup>
+> "Whenever you tell a story, you make an implicit contract with the reader. Within the first few paragraphs or pages, you tell the reader implicitly what kind of story this is going to be; the reader then knows what to expect, and holds the thread of that structure throughout the tale." <cite>(<a href="/bibliography#card2010">Card</a>, Page 70)</cite>
 
 The setup determines the realm of appropriate payoffs. When stories leave audiences unsatisfied, it’s often because the storyteller set up expectations in a certain way and then failed to deliver a payoff that matched.
 
 Here's Orson Scott Card again:
 
-> "Choosing one structure does not preclude using another. For instance, in . . . [a] murder mystery, you can also follow [a] widow’s attempts to find a new role for herself. The reader will gladly follow that story line as a subplot, and will be delighted if you resolve it along with the mystery. However, the reader would feel cheated if you began the novel as a mystery, but ended it when the widow falls in love and remarries — without ever solving the mystery at all! You can do that once, perhaps, for effect — but readers will feel, rightly, that you misled them." <sup>{% include card-2010.html %} Page 71.</sup>
+> "Choosing one structure does not preclude using another. For instance, in . . . [a] murder mystery, you can also follow [a] widow’s attempts to find a new role for herself. The reader will gladly follow that story line as a subplot, and will be delighted if you resolve it along with the mystery. However, the reader would feel cheated if you began the novel as a mystery, but ended it when the widow falls in love and remarries — without ever solving the mystery at all! You can do that once, perhaps, for effect — but readers will feel, rightly, that you misled them." <cite>(<a href="/bibliography#card2010">Card</a>, Page 71)</cite>
 
 Thus, the challenge for storytellers is to find a payoff that's optimally surprising while still falling within a realm appropriate to the setup.
 
@@ -39,7 +39,7 @@ Bestselling author Brandon Sanderson [explains](https://www.youtube.com/watch?v=
 >   
 > "That's a twist. It's not hard to surprise a reader by giving them socks instead of a Matchbox car — really easy to do — and it makes for a terribly unsatisfying experience . . .    
 >    
-> "Good twists are of a different sort, where the kid opens [the present] and . . . you have learned that they love Super Mario, so you have given them a Super Mario Matchbox car. So it combines two of their loves. It's _more than they ever wanted_." <sup>{% include sanderson-2021-twists.html %} 3:30-3:50.</sup> (Emphasis mine.)
+> "Good twists are of a different sort, where the kid opens [the present] and . . . you have learned that they love Super Mario, so you have given them a Super Mario Matchbox car. So it combines two of their loves. It's _more than they ever wanted_." <cite>(<a href="/bibliography#sanderson2021">Sanderson</a>, 3:30-3:50)</cite> (Emphasis mine.)
 
 In Sanderson’s example the satisfying gift _does_ end up being a Matchbox car. It's true to kind. But it also delivers more.
 

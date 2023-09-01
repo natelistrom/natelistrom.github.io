@@ -13,15 +13,20 @@ reading_time: 8 min
 
 I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to ["work with the garage door up."](https://notes.andymatuschak.org/Work_with_the_garage_door_up) In this post, I continue exploring research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}).
 
----
+This post is a part of a series:
 
-What causes peak aesthetic experiences? In earlier posts, I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are:
-
-- [resonance with values]({% post_url 2022-04-08-pae-content %})
-- [relationships and prosocial actions]({% post_url 2022-04-08-pae-content %})
-- [mixed valence]({% post_url 2022-04-08-pae-content %})
-- [optimal difference]({% post_url 2022-05-09-pae-content-2 %})
-- [incongruity]({% post_url 2022-05-22-pae-content-3 %})
+1. [Definitions: what are peak aesthetic experiences?]({% post_url 2022-03-29-pae-definitions %})
+2. [Investment and peak experience]({% post_url 2022-04-05-pae-investment %})
+3. [What types of content create peak experience?]({% post_url 2022-04-08-pae-content %})
+4. [Expectation, the knowledge instinct, and peak experience]({% post_url 2022-04-15-pae-expectation %})
+5. [Optimal difference and peak experience]({% post_url 2022-05-09-pae-content-2 %})
+6. [Incongruity and peak experience]({% post_url 2022-05-22-pae-content-3 %})
+7. [Priming, callbacks, and peak experience]({% post_url 2022-05-25-pae-content-4 %})
+8. [Intensity and peak experience]({% post_url 2022-06-05-pae-intensity %})
+9. [Peak experience and the breakthrough moment]({% post_url 2022-06-10-pae-breakthrough %})
+10. [The physiology of peak experiences]({% post_url 2022-06-17-pae-physiology %})
+11. [Peak experiences and reward]({% post_url 2022-06-27-pae-reward %})
+12. [The subjective awareness of peak experience]({% post_url 2022-07-03-pae-experience %})
 
 In this post, I’ll talk about two more elements of story content that can help elicit peak aesthetic experiences: priming and callbacks.
 
@@ -31,13 +36,13 @@ In this post, I’ll talk about two more elements of story content that can help
 
 In their study, Schoeller and Perlovsky ran an experiment in which they exposed subjects to different primes before watching a minute-long, choreographed video set to classical music. They intended the primes to either activate higher reasoning, be neutral, or be incoherent.
 
-> "We chose to use (i) a sentence from the French philosopher Pascal ('the supreme function of reason is to show man that some things are beyond reason'), (ii) a sentence from a children's book ('I once saw an apple in a tree'), and (iii) a classic example from Noam Chomsky illustrating that syntax might be independent from semantics ('colorless green ideas sleep furiously')." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+> "We chose to use (i) a sentence from the French philosopher Pascal ('the supreme function of reason is to show man that some things are beyond reason'), (ii) a sentence from a children's book ('I once saw an apple in a tree'), and (iii) a classic example from Noam Chomsky illustrating that syntax might be independent from semantics ('colorless green ideas sleep furiously')." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
-They found that the primes did indeed influence subjects' experience of chills upon watching the video, with the higher-reasoning prime having the greatest influence and the incoherent prime resulting in none of the participants experiencing chills at all. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+They found that the primes did indeed influence subjects' experience of chills upon watching the video, with the higher-reasoning prime having the greatest influence and the incoherent prime resulting in none of the participants experiencing chills at all. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
-In a post-experiment survey, the participants who were exposed to the more meaningful, higher-reasoning prime also reported experiencing more pleasure. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+In a post-experiment survey, the participants who were exposed to the more meaningful, higher-reasoning prime also reported experiencing more pleasure. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
-Priming works by exposing a person to some kind of input, which leaves a “residual trace,” in neural pathways, making future activation of the same pathways easier. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+Priming works by exposing a person to some kind of input, which leaves a “residual trace,” in neural pathways, making future activation of the same pathways easier. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 In my very limited knowledge, <sup class="aside">A</sup> the kind of priming that Schoeller and Perlovsky employed is a short-term phenomenon. It wouldn't work, for example, for them to have their participants be exposed to the prime, go shopping at the mall, and then return to watch the choreography video. By that time, the neural pathways activated but the prime would no longer "be warm," so the it would have no effect.
 
@@ -49,7 +54,7 @@ The prime doesn’t have to be in any way related to the subsequent triggering e
 
 The takeaway for storytellers is that priming is more about the heart than the head. It’s about the feeling, the cognitive mood that you want your audience to be in, rather than about the specific details of the setup and payoff. Want your audience to _feel_ insight at the payoff, for example? Challenge them with a puzzle immediately before.
 
-The last thing to observe, which was Schoeller’s and Perlovsky’s point, is that priming can affect how much enjoyment your audience derives from your story. In their experiment, participants who received the meaningful prime reported deriving greater pleasure from the art than those who didn’t. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+The last thing to observe, which was Schoeller’s and Perlovsky’s point, is that priming can affect how much enjoyment your audience derives from your story. In their experiment, participants who received the meaningful prime reported deriving greater pleasure from the art than those who didn’t. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 It would be tempting to claim that this experiment supports valuing “high,” intellectually-engaging art over more populist, “popcorn” art. I, myself, enjoy intellectually challenging or insightful stories, and the prime the researchers used was philosophical in nature. Doesn’t this mean that more intellectually-rigorous art provides better priming and thus better pleasure?
 
@@ -59,7 +64,7 @@ But, it’s just as possible that what Schoeller and Perlovsky detected in one, 
 
 ## Callbacks: long-range setup and payoff
 
-In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for our discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <sup>{% include bloodAndZatorre-2001.html %}</sup>
+In their study, Blood and Zatorre used music as a stimulus to study participants' neural activity during peak aesthetic experiences. What's interesting for our discussion today is that they used pieces of music, which the participants chose, and truncated them to 90-second clips. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite>
 
 The researchers' motivations for using shorter clips was most likely practical; it's far quicker to test a 90-second clip than a full score. <sup class="aside">B</sup> 
 
@@ -67,9 +72,9 @@ The researchers' motivations for using shorter clips was most likely practical; 
 
 The fact that these truncated sections of music _did_ elicit a strong aesthetic reaction suggests one of two interesting possibilities. The first possibility is that 90 seconds provided enough context &mdash; enough build of tension and setup of expectation &mdash; to produce a peak aesthetic experience for the listener at payoff. The second possibility, which, to me, at least, seems more likely is that participants imported emotional memory from previously having listened to the full-length scores.
 
-Remember that the participants chose scores which they reported had previously elicited peak aesthetic experience for them. <sup>{% include bloodAndZatorre-2001.html %}</sup> Thus, each participant was already familiar with the music. This supports the idea that their reactions in the laboratory were not elicited by the content of the 90-second clips _alone_ but by what the clips represented, a return to the participants' previous experience of the full pieces. 
+Remember that the participants chose scores which they reported had previously elicited peak aesthetic experience for them. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite> Thus, each participant was already familiar with the music. This supports the idea that their reactions in the laboratory were not elicited by the content of the 90-second clips _alone_ but by what the clips represented, a return to the participants' previous experience of the full pieces. 
 
-This conjecture could be further supported by the fact that the same clips were used as controls for other participants, who did not experience peak aesthetic experience upon listening to them. (In other words, a clip that one participant found particularly moving was not moving to another.) The support here is thin, however, as there are a lot of other factors involved. As Blood and Zatorre point out, taste in music is highly individual. <sup>{% include bloodAndZatorre-2001.html %}</sup>
+This conjecture could be further supported by the fact that the same clips were used as controls for other participants, who did not experience peak aesthetic experience upon listening to them. (In other words, a clip that one participant found particularly moving was not moving to another.) The support here is thin, however, as there are a lot of other factors involved. As Blood and Zatorre point out, taste in music is highly individual. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite>
 
 I can't reemphasize enough that Blood and Zatorre's results _don't_ at all prove what I'm saying. The concern of their study was to document participant's neural reactions to the stimuli, not the relationship between familiar and unfamiliar experience-eliciting stimuli. Their experimental results are suggestive to me, but everything I'm saying here is conjecture.
 
@@ -79,7 +84,7 @@ That rather large caveat notwithstanding, if it is true that we can "import" pre
 
 In fact, this looks a lot like what's commonly referred to as a "callback." Though he doesn't use the term specifically, author Dwight V. Swain describes the technique well:
 
-> "An object or phenomenon . . . that evokes a strong emotional reaction in your hero. You . . . demonstrate that this emotional reaction is linked to adherence to principle where said character is concerned. You do this early in the story. Preferably, you do it several times. Then, at the critical moment in your climax . . . you reintroduce the gimmick once more." <sup>{% include swain-1981.html %} Page 196.</sup>
+> "An object or phenomenon . . . that evokes a strong emotional reaction in your hero. You . . . demonstrate that this emotional reaction is linked to adherence to principle where said character is concerned. You do this early in the story. Preferably, you do it several times. Then, at the critical moment in your climax . . . you reintroduce the gimmick once more." <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 196)</cite>
 
 We've [already established that resonance with values]({% post_url 2022-04-08-pae-content %}) &mdash; what Swain calls 'principle' here &mdash; can help elicit peak aesthetic experience. Swain shows how a callback structure can be used to first seed emotional power early in a story and then, later, bring it to bear at a crucial moment. I believe the effect we see in Blood and Zatorre's experiment could be playing on the same underlying phenomena.
 

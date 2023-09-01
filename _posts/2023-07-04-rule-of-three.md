@@ -9,13 +9,13 @@ reading_time: 11 min
 ---
 
 > "When you name several things you save the most impressive for last. 'The Mayor,' you say, 'was there, and the Governor — and the President!'"    
-> &mdash; Lajos Egri <sup>{% include egri-2004.html %} Page 258.</sup>
+> &mdash; Lajos Egri <cite>(<a href="/bibliography#egri2004">Egri</a>, Page 258)</cite>
 
 ---
 
 <p class="dropCap">The rule of three is a powerful and efficient, three-unit storytelling structural mechanic. It leverages human psychology to set up and pay off audience expectation. Where storytelling techniques like <a href="{% post_url 2022-12-19-comparison-creates-meaning %}">comparison</a> and <a href="{% post_url 2023-01-12-bracketing %}">bracketing</a> are about communicating <em>meaning</em> to your audience, you can use the rule of three to deliver lasting, memorable <em>satisfaction</em>.</p>
 
-You construct the rule of three by stringing together three things in such a way that audiences can tell they are similar or related. This creates a progression among the items. For example, in the words of webcomic author and _Writing Excuses_ podcast co-host Howard Tayler, it's, &ldquo;beat, beat, punchline. Thing one, thing two, thing three, where we are escalating . . . We have three beats, and the third one is the longest, and the third one is the most specific.&rdquo; <sup>{% include sanderson-2016.html %}</sup>
+You construct the rule of three by stringing together three things in such a way that audiences can tell they are similar or related. This creates a progression among the items. For example, in the words of webcomic author and _Writing Excuses_ podcast co-host Howard Tayler, it's, &ldquo;beat, beat, punchline. Thing one, thing two, thing three, where we are escalating . . . We have three beats, and the third one is the longest, and the third one is the most specific.&rdquo; <cite>(<a href="/bibliography#kowal2016">Kowal et al.</a>)</cite>
 
 The rule of three appears in many forms of storytelling. It is, perhaps, most obvious in folk tales, like the tale of _The Three Little Pigs and the Big Bad Wolf_, _Goldilocks and the Three Bears_, or _The Little Girl and the Swan Geese_. (In the first two examples, “three” is even in the name.) But the rule of three isn't limited to children's stories. You can find it applied to all levels of story, from line-level prose and dialog to individual beats to scenes to whole sequences and acts. The existence of story trilogies speaks to the power of the form.
 
@@ -35,7 +35,7 @@ Seeing the mental line between the dots, an observer’s brain could extend the 
 
 ![A diagram showing two dots on a grid with a line connecting them and extending out to a third dot](/assets/img/rule-of-three-12.png)
 
-We humans are especially good at making these kids of predictive inferences. It’s built into us. Author and story coach Lisa Cron puts it well: “We’re wired to predict what will happen next, and _the way we do this is by charting patterns_.” <sup>{% include cron-2012.html %} Page 159</sup> (Emphasis mine.) When we see what looks like a partial pattern, we almost can’t help but predict how the pattern will complete.
+We humans are especially good at making these kids of predictive inferences. It’s built into us. Author and story coach Lisa Cron puts it well: “We’re wired to predict what will happen next, and _the way we do this is by charting patterns_.” <cite>(<a href="/bibliography#cron2012">Cron</a>, Page 159)</cite> (Emphasis mine.) When we see what looks like a partial pattern, we almost can’t help but predict how the pattern will complete.
 
 The rule of three leverages this human tendency toward pattern-based predictions, but rather than dots on a graph, it does this with story units.
 
@@ -88,9 +88,9 @@ The most effective executions of the rule of three manage this twist well. They 
 
 In his systematic classification of Russion folktales, _Morphology of the Folk Tale_, folklorist Vladimir Propp identifies three different variants of the rule of three:
 
-> "Repetition may appear as a uniform distribution (three tasks, three years’ service), as an accumulation (the third task is the most difficult, the third battle the worst), or may twice produce negative results before the third, successful outcome." <sup>{% include propp-2009.html %} Location 1555.</sup>
+> "Repetition may appear as a uniform distribution (three tasks, three years’ service), as an accumulation (the third task is the most difficult, the third battle the worst), or may twice produce negative results before the third, successful outcome." <cite>(<a href="/bibliography#propp2009">Propp</a>, Location 1555)</cite>
 
-Journalist and author Christopher Booker, in his landmark work, _The Seven Basic Plots: Why We Tell Stories_, adds a fourth variation. <sup>{% include booker-2004.html %} Page 231.</sup> His taxonomy is as follows: 
+Journalist and author Christopher Booker, in his landmark work, _The Seven Basic Plots: Why We Tell Stories_, adds a fourth variation. <cite>(<a href="/bibliography#booker2004">Booker</a>, Page 231)</cite> His taxonomy is as follows: 
 
 - simple (what Propp calls "uniform distribution")
 - progressive (what Propp calls "accumulation")
@@ -99,7 +99,7 @@ Journalist and author Christopher Booker, in his landmark work, _The Seven Basic
 
 #### Simple and progressive
 
-Both simple and progressive have to deal with items that are more-or-less the same to one another. The main difference that Propp and Booker draw is that in the progressive form, sets of three build, their items increasing in strength or value (either positively or negatively). <sup>{% include booker-2004.html %} Page 231.</sup>
+Both simple and progressive have to deal with items that are more-or-less the same to one another. The main difference that Propp and Booker draw is that in the progressive form, sets of three build, their items increasing in strength or value (either positively or negatively). <cite>(<a href="/bibliography#booker2004">Booker</a>, Page 231)</cite>
 
 But even in the simple form, the items are placed in sequence. That sequence creates an implicit hierarchy, even if the value of the items themselves is the same. Thus, both simple and progressive expressions of the rule of three are, pragmatically, pretty similar. They have to do with similar things in sequence.
 
@@ -117,7 +117,7 @@ This form also shows up in the story of _The Three Little Pigs and the Big Bad W
 
 #### Dialectical
 
-The last form, which Booker calls “dialectical,” is a form where the first and second items are in contrast to one another, but are alike in that neither one is acceptable. Only by bringing together elements of both in synthesis is a satisfying conclusion found in the third item. <sup>{% include booker-2004.html %} Page 231.</sup>
+The last form, which Booker calls “dialectical,” is a form where the first and second items are in contrast to one another, but are alike in that neither one is acceptable. Only by bringing together elements of both in synthesis is a satisfying conclusion found in the third item. <cite>(<a href="/bibliography#booker2004">Booker</a>, Page 231)</cite>
 
 ![A diagram showing three circles. The first is too small, the second too large, and the third just right.](/assets/img/rule-of-three-16.png)
 
@@ -135,13 +135,13 @@ For example, Charles Dickens’ _A Christmas Carol_ features a progressive rule 
 
 In Jane Austen’s _Pride and Prejudice_, there’s a powerful example of the contrasting rule of three in Elizabeth’s potential suitors. Collins is socially acceptable but a buffoon, someone who would be intellectual death for Elizabeth to marry. Wickham is attractive and winsome, intellectually interesting, but turns out to be scoundrel and morally repugnant. Only Darcy, whom Elizabeth rejects at first, turns out to (eventually) be everything she can admire and respect.
 
-Because it’s more complex, the dialectical three is a bit harder to see. But it’s there. Many “fish out of water” stories feature a dialectical three where the protagonist must take elements of themselves from both their “ordinary world” and their “magical world” and merge them in a new way to finally undergo the transformation needed to overcome the challenge of the story. Joseph Campbell referred to this as the protagonist becoming “master of the two worlds.” <sup>{% include campbell-2020.html %} Page 247.</sup>
+Because it’s more complex, the dialectical three is a bit harder to see. But it’s there. Many “fish out of water” stories feature a dialectical three where the protagonist must take elements of themselves from both their “ordinary world” and their “magical world” and merge them in a new way to finally undergo the transformation needed to overcome the challenge of the story. Joseph Campbell referred to this as the protagonist becoming “master of the two worlds.” <cite>(<a href="/bibliography#campbell2020">Campbell</a>, Page 247)</cite>
 
-Writer and director Craig Mazin sees this on the thematic level. He describes the dialectical three as the merging of thesis (what the protagonist believed at the story’s beginning) and antithesis (how the story proves that belief wrong) into synthesis (new, thematic knowledge expressed in the climax and resolution). <sup>{% include mazin-2019.html %}</sup>
+Writer and director Craig Mazin sees this on the thematic level. He describes the dialectical three as the merging of thesis (what the protagonist believed at the story’s beginning) and antithesis (how the story proves that belief wrong) into synthesis (new, thematic knowledge expressed in the climax and resolution). <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite>
 
 It seems that Booker would agree with that assessment.
 
->"'Three' is the final trigger for something important to happen. Three in stories is the number of growth and transformation." <sup>{% include booker-2004.html %} Page 231.</sup>
+>"'Three' is the final trigger for something important to happen. Three in stories is the number of growth and transformation." <cite>(<a href="/bibliography#booker2004">Booker</a>, Page 231)</cite>
 
 ## Three makes for a good conflict
 

@@ -13,12 +13,12 @@ reading_time: 8 min
 
 ---
 
-In a [2009 interview](https://www.thisamericanlife.org/extras/ira-glass-on-storytelling), radio personality Ira Glass discussed a two-part method of storytelling, which he described as the combination of an "anecdote" and a "moment of reflection." <sup>{% include glass-2009.html %}</sup>
+In a [2009 interview](https://www.thisamericanlife.org/extras/ira-glass-on-storytelling), radio personality Ira Glass discussed a two-part method of storytelling, which he described as the combination of an "anecdote" and a "moment of reflection." <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite>
 
-- An **anecdote** is a series of events. Glass defines it as a "sequence of actions. This happened, and that led to this next thing, and that led to this next thing . . ." <sup>{% include glass-2009.html %}</sup>
-- A **moment of reflection** is the "bigger something" that the narrative is all about. <sup>{% include glass-2009.html %}</sup> 
+- An **anecdote** is a series of events. Glass defines it as a "sequence of actions. This happened, and that led to this next thing, and that led to this next thing . . ." <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite>
+- A **moment of reflection** is the "bigger something" that the narrative is all about. <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite> 
 
-Glass developed his formula in nonfiction radio storytelling, but it can apply to fiction just as well. In fact, the form is nearly identical to what fiction author Dwight Swain called a “double-barreled attack” of “pleasurable tension plus ultimate satisfaction.” <sup>{% include swain-1981.html %} Page 130</sup>
+Glass developed his formula in nonfiction radio storytelling, but it can apply to fiction just as well. In fact, the form is nearly identical to what fiction author Dwight Swain called a “double-barreled attack” of “pleasurable tension plus ultimate satisfaction.” <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 130</sup>
 
 The anecdote creates a pleasurable tension as the series of events play out. The moment of reflection pays it off with satisfaction in some kind of resolution.
 
@@ -36,7 +36,7 @@ In Glass' nonfiction radio work, the moment of reflection could be explicit and 
 
 Glass points out that a series of events on its own doesn't really make a compelling story. To feel complete, a story needs to explain itself.
 
-He goes on to observe that story form implies resolution. The events of the anecdote raise a question: "Where is this all going?" In Glass' words, the anecdote is a "train that _has some destination_." <sup>{% include glass-2009.html %}</sup> (Emphasis mine.) It's a kind of promise to the audience.
+He goes on to observe that story form implies resolution. The events of the anecdote raise a question: "Where is this all going?" In Glass' words, the anecdote is a "train that _has some destination_." <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite> (Emphasis mine.) It's a kind of promise to the audience.
 
 The moment of reflection is the payoff of the promise, the destination of the train. It answers the question raised by the anecdote and gives the story meaning. Without it, the story ending feels unsatisfying. Audiences might express frustration: "It didn't _go_ anywhere. It just ended."
 
@@ -52,7 +52,7 @@ Good anecdotes are constructed by stringing together a series of _meaningfully r
 
 Remember how Glass defined the anecdote:
 
-> "This happened, and that led to this next thing, and that led to this next thing . . ." <sup>{% include glass-2009.html %}</sup>
+> "This happened, and that led to this next thing, and that led to this next thing . . ." <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite>
 
 Note how, in his example, the events are _causally_ linked. One event "led to" another. That little link established by the "led to" is important. Causality creates meaningful relationships.
 
@@ -80,9 +80,9 @@ In classically-structured stories, the thematic argument lands in the climax and
 
 Key moments throughout the story help to build and validate the thematic argument. For example:
 
-- Early in the story, there may be a statement of the thematic argument by a secondary character, which the protagonist will reject (or at least be unable to assume for herself). <sup>{% include anders-2011.html %}</sup> Right before their call to adventure in _Jurassic Park_, for example, Dr. Sattler teases Dr. Grant about having kids. He declines the notion. 
-- In the later part of the second act, the protagonist will often face a "dark night of the soul." <sup>{% include snyder-2005.html %} Pages 86-89.</sup> Having tried everything her way and failed, she will have to grapple with the thematic argument, and, in a moment of insight, finally surrender and commit herself to it. In _Jurassic Park_, Dr. Grant's all is lost moment comes when one of the children's hearts stops after he is shocked by high-voltage wires. Dr. Grant's desperation &mdash; and his ensuing joy when the child revives &mdash; demonstrate to both Dr. Grant and the audience that his relationship with children (and the future) is changing.
-- Then, at the climax, the protagonist will, in the words of screenwriter and director Craig Mazin, "embody the truth of the theme . . . through action." <sup>{% include mazin-2019.html %}</sup> In the climax of _Jurassic Park_, Dr. Grant once again finds himself in a position where he must risk his own life to save the kids, bodily placing himself in between them and a couple of clever and determined velociraptors.
+- Early in the story, there may be a statement of the thematic argument by a secondary character, which the protagonist will reject (or at least be unable to assume for herself). <cite>(<a href="/bibliography#kowal2011a">&ldquo;Hollywood Formula&rdquo;</a>)</cite> Right before their call to adventure in _Jurassic Park_, for example, Dr. Sattler teases Dr. Grant about having kids. He declines the notion. 
+- In the later part of the second act, the protagonist will often face a "dark night of the soul." <cite>(<a href="/bibliography#snyder2005">Snyder</a>, Pages 86-89)</cite> Having tried everything her way and failed, she will have to grapple with the thematic argument, and, in a moment of insight, finally surrender and commit herself to it. In _Jurassic Park_, Dr. Grant's all is lost moment comes when one of the children's hearts stops after he is shocked by high-voltage wires. Dr. Grant's desperation &mdash; and his ensuing joy when the child revives &mdash; demonstrate to both Dr. Grant and the audience that his relationship with children (and the future) is changing.
+- Then, at the climax, the protagonist will, in the words of screenwriter and director Craig Mazin, "embody the truth of the theme . . . through action." <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite> In the climax of _Jurassic Park_, Dr. Grant once again finds himself in a position where he must risk his own life to save the kids, bodily placing himself in between them and a couple of clever and determined velociraptors.
 
 Lastly, the protagonist's starting point and ending point across the entire span of the story create a comparison that demonstrates the thematic argument.
 

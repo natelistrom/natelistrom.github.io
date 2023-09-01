@@ -22,11 +22,11 @@ Author and story theorist K. M. Weiland has written [an excellent series of arti
 
 The idea of a story structure reflected around the midpoint isn't unique to Weiland. Television producer and script editor John Yorke articulates a quite similar idea (though he uses a five-act framework instead of Weiland's nine-point plot structure):
 
-> "If you take any archetypal story and imagine folding it over on itself at the midpoint, it’s possible to see with far greater clarity just how great story’s aspiration for symmetry is. Not only do the first part of act one and the last part of act five mirror each other, but act four becomes a mirror of act two, and one half of the third act, bisected at the midpoint, becomes a mirror image of the other." <sup>{% include yorke-2015.html %} Loc 2020.</sup>
+> "If you take any archetypal story and imagine folding it over on itself at the midpoint, it’s possible to see with far greater clarity just how great story’s aspiration for symmetry is. Not only do the first part of act one and the last part of act five mirror each other, but act four becomes a mirror of act two, and one half of the third act, bisected at the midpoint, becomes a mirror image of the other." <cite>(<a href="/bibliography#yorke2015">Yorke</a>, Loc 2020)</cite>
 
 Even before contemporary plot theorists, the idea was around. [Freytag's pyramid](https://en.wikipedia.org/wiki/Dramatic_structure#Freytag's_pyramid), at least as it is most commonly expressed, is an example of a chiastic structure. Freytag himself hints at chiasmus when analyzing Euripides:
 
-> "_Electra_ has a very simple construction. It consists&mdash;besides prologue and catastrophe&mdash;of two stages of the ascent and two of the fall; of these, the two standing nearest the climax <sup class="aside">A</sup> are united with this into a great scene-group, which makes specially conspicuous the middle point of the play." <sup>{% include freytag-1895.html %} Chapter 2 - Construction of the Drama; &ldquo;Sophocles' Construction of the Drama&rdquo; Section.</sup>
+> "_Electra_ has a very simple construction. It consists&mdash;besides prologue and catastrophe&mdash;of two stages of the ascent and two of the fall; of these, the two standing nearest the climax <sup class="aside">A</sup> are united with this into a great scene-group, which makes specially conspicuous the middle point of the play." <cite>(<a href="/bibliography#freytag1895">Freytag</a>, Chapter 2 - Construction of the Drama; &ldquo;Sophocles' Construction of the Drama&rdquo; Section)</cite>
 
 <aside>
 A. There's some potential for confusion here, since Freytag uses the term &ldquo;climax&rdquo; to describe what modern story theorists call the midpoint. He uses a different term, &ldquo;catastrophe,&rdquo; to refer to what we typically think of as the climax and resolution.
@@ -38,7 +38,7 @@ Direct chiasmus isn't the only form of large-scale bracketing that storytellers 
 
 Writer and producer [Dan Harmon also discusses a mirroring structure](https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details) for story units. However, in his model, the mirrored story moments are plotted on a circle, and Harmon draws a bisecting line from the story unit on one side of the circle to the one directly opposite. 
 
-> "Just as (3), the crossing of the threshold, is the opposite of (7) the return, (5), the meeting with the goddess, is the opposite of (1), the protagonist's zone of comfort . . . As you might expect with a circular model like this, there is a lot of symmetry going on, and on the journey back upward, we're going to be doing a lot of referencing to the journey downward . . . When in doubt, _look at the opposite side of the circle_." <sup>{% include harmon-2009.html %}</sup> (Emphasis mine.)
+> "Just as (3), the crossing of the threshold, is the opposite of (7) the return, (5), the meeting with the goddess, is the opposite of (1), the protagonist's zone of comfort . . . As you might expect with a circular model like this, there is a lot of symmetry going on, and on the journey back upward, we're going to be doing a lot of referencing to the journey downward . . . When in doubt, _look at the opposite side of the circle_." <cite>(<a href="/bibliography#harmon2009">Harmon</a>)</cite> (Emphasis mine.)
 
 In this model, which loosely follows the Hero's Journey, the story's opening creates a bracket with the midpoint, the "need" phase creates a bracket with the "take" phase, etc.
 
@@ -46,7 +46,7 @@ In this model, which loosely follows the Hero's Journey, the story's opening cre
 
 Harmon's diametric mirroring provides an interesting method for placing setups and payoffs. For example, Harmon suggests that if your story has a "lucky coincidence" to help save the protagonist in the climactic "change" moment, it can be set up by forcing the protagonist to earn it during the "search" phase of the protagonist's journey, which happened back before the midpoint.
 
-> "One really neat trick is to remind the audience that the reason the protagonist is capable of such behavior is because of what happened down below . . . the opposite of (8) [the climax] is (4), the road of trials . . . Remember that zippo the bum gave him? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times . . . Why is this not _Deus Ex Machina_? Because we earned it." <sup>{% include harmon-2009.html %}</sup>
+> "One really neat trick is to remind the audience that the reason the protagonist is capable of such behavior is because of what happened down below . . . the opposite of (8) [the climax] is (4), the road of trials . . . Remember that zippo the bum gave him? It blocked the bullet! It's hack, but it's hack because it's worked a thousand times . . . Why is this not _Deus Ex Machina_? Because we earned it." <cite>(<a href="/bibliography#harmon2009">Harmon</a>)</cite>
 
 Intuitively, this resonates. The moments leading up to the midpoint, for example, are where the protagonist learns to navigate the new world and build alliances. It's natural and satisfying that these gains pay off in the climax. So also, each other diametric pair creates opportunities for setups and payoffs.
 
@@ -54,7 +54,7 @@ Intuitively, this resonates. The moments leading up to the midpoint, for example
 
 On the _Writing Excuses_ podcast, author [Mary Robinette Kowal discusses Orson Scott Card's MICE quotient](). Kowal explains how each of the [MICE elements]({% post_url 2022-11-13-mice-internal-external %}) in a proper story structure should act like brackets for the different sub-stories they contain. 
 
-> "The way I think about it is as nesting tags in [HTML] programming. So like if you want to have a bold italic word . . . You start with the bracket B . . . bracket B bracket I. Then you have to go bracket I bracket B. You have to close out both of them and you close them out in the [reverse] order in which you opened them . . . I find that the same kind of concept generally works when I'm using MICE elements in fiction. If I start with the idea, then I have to end with the idea. I can do character in the middle of that, but that I have to end where I started. <sup>{% include kowal-2011.html %}</sup>
+> "The way I think about it is as nesting tags in [HTML] programming. So like if you want to have a bold italic word . . . You start with the bracket B . . . bracket B bracket I. Then you have to go bracket I bracket B. You have to close out both of them and you close them out in the [reverse] order in which you opened them . . . I find that the same kind of concept generally works when I'm using MICE elements in fiction. If I start with the idea, then I have to end with the idea. I can do character in the middle of that, but that I have to end where I started. <cite>(<a href="/bibliography#kowal2011">Kowal</a>)</cite>
 
 In other words, when using multiple MICE quotient story types, the opening and closing of each story type should properly nest. If you open on milieu, for example, and then go on to an idea story, resolve the idea story _before_ resolving the milieu story (`M` - `I` - `I'` - `M'`).
 
@@ -68,7 +68,7 @@ Note that while Weiland's and Harmon's frameworks imply a proportional balance t
 
 Kowal's nested subplots framework leads us to conclude with one final observation about bracketing, which comes from Orson Scott Card himself:
 
-> "[Audiences] will expect a story to end when the first major source of structural tension is resolved. If the story begins as an idea story, the [audience] expects it to end when the idea is discovered." <sup>{% include card-2010.html %} Page 71.</sup>
+> "[Audiences] will expect a story to end when the first major source of structural tension is resolved. If the story begins as an idea story, the [audience] expects it to end when the idea is discovered." <cite>(<a href="/bibliography#card2010">Card</a>, Page 71)</cite>
 
 Once the first major plot arc resolves, the audience expects the story to be over. Narrative drive evaporates, and any remaining threads feel like leftovers.
 

@@ -10,10 +10,10 @@ reading_time: 10 min
 ---
 
 > "Structure is the presentation of images in such a way an audience is forced to work out the relationship between them."  
-> &mdash; John Yorke <sup>{% include yorke-2015.html %} Loc 2087.</sup>
+> &mdash; John Yorke <cite>(<a href="/bibliography#yorke2015">Yorke</a>, Loc 2087)</cite>
   
 > "It is context that bestows meaning."   
-> &mdash; Lisa Cron <sup>{% include cron-2012.html %} Page 19.</sup> 
+> &mdash; Lisa Cron <cite>(<a href="/bibliography#cron2012">Cron</a>, Page 19)</cite> 
 
 ---
 
@@ -27,13 +27,13 @@ Our minds are incredible, pattern-seeking machines.
 
 Storytelling liberally exploits this "pattern hunger" in us. In a sense, all of storytelling is simply juxtaposing things together in order to hack our brains into creating meaning.
 
-One of the clearest ways to visualize this is through a film editing technique named for Russian director Lev Kuleshov, who is credited with demonstrating it. <sup>{% include yorke-2015.html %} Loc 2089.</sup>
+One of the clearest ways to visualize this is through a film editing technique named for Russian director Lev Kuleshov, who is credited with demonstrating it. <cite>(<a href="/bibliography#yorke2015">Yorke</a>, Loc 2089)</cite>
 
 Kuleshov edited together alternate shots of an actor staring and a bowl of soup, the actor staring and a coffin, and the actor staring and a girl. 
 
 According to one of Kuleshov's colleagues: 
 
-> "[Audiences] raved about the acting of the artist. They pointed out the heavy pensiveness of his mood over the forgotten soup, were touched and moved by the deep sorrow with which he looked on the dead woman, and admired the light, happy smile with which he surveyed the girl at play." <sup>{% include yorke-2015.html %} Loc 4845.</sup>
+> "[Audiences] raved about the acting of the artist. They pointed out the heavy pensiveness of his mood over the forgotten soup, were touched and moved by the deep sorrow with which he looked on the dead woman, and admired the light, happy smile with which he surveyed the girl at play." <cite>(<a href="/bibliography#yorke2015">Yorke</a>, Loc 4845)</cite>
 
 The catch? Kuleshov had used the _exact same shot_ of the actor in all three cases.
 
@@ -41,7 +41,7 @@ What he [and others before him](https://youtu.be/jqi_MtroWA4) had discovered was
 
 Story theorists Melanie Anne Phillips and Chris Huntley illustrate the idea well:
 
-> "A slap followed by a scream might seem as if someone were crying out because of hit. A scream followed by a slap, however, might seem as if someone was hysterical and hit to bring him to his senses. _The order in which events occur changes their . . . meaning._" <sup>{% include phillips-2009.html %} Loc 1783.</sup> (Emphasis mine.)
+> "A slap followed by a scream might seem as if someone were crying out because of hit. A scream followed by a slap, however, might seem as if someone was hysterical and hit to bring him to his senses. _The order in which events occur changes their . . . meaning._" <cite>(<a href="/bibliography#phillips2009">Phillips</a>, Loc 1783)</cite> (Emphasis mine.)
 
 Context creates meaning.
 
@@ -59,7 +59,7 @@ And, what's true in our recognition of physical objects is also true in our reco
 
 There are many ways to create meaning through context. When it comes to story structure, the most basic method is to create a contrast between two consecutive beats. First one thing happened, then another.
 
-In Kuleshov's demonstration, for example, the audience saw first a shot of the actor staring into the camera, then a shot of a coffin. Audience members were "touched and moved by the deep sorrow with which [the actor] looked on." <sup>{% include yorke-2015.html %} Loc 4845.</sup> They had taken the two sequential images and created a narrative connection between them . . . one which didn't exist in either image on its own.
+In Kuleshov's demonstration, for example, the audience saw first a shot of the actor staring into the camera, then a shot of a coffin. Audience members were "touched and moved by the deep sorrow with which [the actor] looked on." <cite>(<a href="/bibliography#yorke2015">Yorke</a>, Loc 4845)</cite> They had taken the two sequential images and created a narrative connection between them . . . one which didn't exist in either image on its own.
 
 Let's look at a more complex example from Steven Spielberg's 1993 film, _Jurassic Park_.
 

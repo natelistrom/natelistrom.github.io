@@ -11,12 +11,12 @@ reading_time: 5 min
 
 ---
 
-In _Character and Viewpoint_, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <sup>{% include card-2010.html %} Pages 62-63.</sup>
+In _Character and Viewpoint_, author Orson Scott Card explores four factors that have come to be called the "MICE quotient." They are milieu, idea, character, and event. <cite>(<a href="/bibliography#card2010">Card</a>, Pages 62-63)</cite>
 
-- **Milieu** is the "landscape, the interior spaces, the surrounding cultures . . . everything from weather to traffic laws." <sup>{% include card-2010.html %} Page 62.</sup> In other words, the _setting_.
-- **Idea** is "the information that the reader is meant to discover or learn during the process of the story." <sup>{% include card-2010.html %} Page 62.</sup> In other words, _mystery_ and _revelation_.
-- **Character** is "the nature of [a person] in the story — what they do and why." <sup>{% include card-2010.html %} Page 63.</sup>
-- **Event** is "everything that _happens_ and why." <sup>{% include card-2010.html %} Page 63.</sup> (Emphasis mine) In other words, _action_.
+- **Milieu** is the "landscape, the interior spaces, the surrounding cultures . . . everything from weather to traffic laws." <cite>(<a href="/bibliography#card2010">Card</a>, Page 62)</cite> In other words, the _setting_.
+- **Idea** is "the information that the reader is meant to discover or learn during the process of the story." <cite>(<a href="/bibliography#card2010">Card</a>, Page 62)</cite> In other words, _mystery_ and _revelation_.
+- **Character** is "the nature of [a person] in the story — what they do and why." <cite>(<a href="/bibliography#card2010">Card</a>, Page 63)</cite>
+- **Event** is "everything that _happens_ and why." <cite>(<a href="/bibliography#card2010">Card</a>, Page 63)</cite> (Emphasis mine) In other words, _action_.
 
 <aside>I first learned of the MICE quotient via the <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses&rdquo; podcast (season 6, episode 10)</a>. It&lsquo;s a great resource.</aside>
 
@@ -40,7 +40,7 @@ Removing milieu from the framework leaves us with ICE — idea, character, and e
 
 If you look closely at this point, you'll discover something interesting. Idea, character, and event map perfectly to what have been called the internal and external story genres.
 
-In _The Story Grid_, editor and story theorist Shawn Coyne talks about story beats that turn on the external genres of narrative drive, action and revelation. <sup>{% include coyne-2015.html %} Page 168.</sup> These are none other than Scott Card's event (action) and idea (revelation). Events and revelations come from outside a protagonist and force her to react in some way.
+In _The Story Grid_, editor and story theorist Shawn Coyne talks about story beats that turn on the external genres of narrative drive, action and revelation. <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Page 168)</cite> These are none other than Scott Card's event (action) and idea (revelation). Events and revelations come from outside a protagonist and force her to react in some way.
 
 That leaves character, which is the internal genre of narrative drive. Responding to the demands of the plot, the protagonist must face dilemmas and make decisions, revealing who she is and who she can become.
 
@@ -50,7 +50,7 @@ If you're following Dwight Swain's [scene-sequel framework]({% post_url 2022-10-
 
 Different stories lean in different directions when it comes to the source of their narrative drive. For example, stories in action genres tend to focus on event-based drive, while stories in science fiction and mystery genres tend to focus on idea-based drive. However, there's often a fair amount of overlap. 
 
-Overlap is a good thing. Coyne suggests that turning points should be a mix of events and ideas, neither leaning too heavily in one direction nor the other. If stories turn on only action, they can come across as “overly plotted,” while if they turn only on revelation, they can feel "melodramatic." <sup>{% include coyne-2015.html %} Page 172.</sup>
+Overlap is a good thing. Coyne suggests that turning points should be a mix of events and ideas, neither leaning too heavily in one direction nor the other. If stories turn on only action, they can come across as “overly plotted,” while if they turn only on revelation, they can feel "melodramatic." <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Page 172)</cite>
 
 As one example of balance, [_Harry Potter and the Chamber of Secrets_](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) has a plot driven by the mystery of discovering the identity of the heir of Slytherin, a villain behind a series of attacks (idea). But, there are action beats sprinkled throughout the story, culminating in a major action showdown between Harry, Slytherin's heir, and fearsome monster (action).
 

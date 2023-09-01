@@ -12,7 +12,7 @@ reading_time: 1 min
 ---
 
 > “From the era of Latin rhetoric and poetics to the present day, emotionally moving an audience has been considered one of the major goals of rhetoric and art.”  
-> &mdash; Winfried Menninghaus <sup>{% include menninghaus-2015.html %}</sup>
+> &mdash; Winfried Menninghaus <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite>
 
 ---
 
@@ -25,7 +25,7 @@ As part of my process, [I'm posting summaries of my notes as I go.]({% post_url 
 One of the neuroscience topics I'm researching is what I'm calling "peak aesthetic experiences." <sup class="aside">A</sup> <sup class="aside">B</sup>
 
 <aside>
-A. Mori and Iwanaga call these &ldquo;peak emotional experiences.&rdquo; <sup>{% include moriAndIwanaga-2017.html %}</sup>
+A. Mori and Iwanaga call these &ldquo;peak emotional experiences.&rdquo; <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
 
 <br /><br />However, I'm not sure that these accurately cover all forms of peak emotional experiences. Experiencing chills and tears doesn't necessarily account for experiences of extreme rage, for example. (Although, perhaps peak rage is when a person is so angry as to be moved to tears, so maybe the label is accurate. Needs more research.)
 
@@ -46,13 +46,13 @@ In the scientific literature, there are at least three phenomena associated with
 - tears
 - a feeling of “being moved”
 
-These phenomena are, in some ways distinct. For example, using music as a prompt, Mori and Iwanaga found that chills are associated with states of arousal, while tears are associated with calm. <sup>{% include moriAndIwanaga-2017.html %}</sup>
+These phenomena are, in some ways distinct. For example, using music as a prompt, Mori and Iwanaga found that chills are associated with states of arousal, while tears are associated with calm. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
 
 Nevertheless, in peak experiences, these phenomena overlap in interesting ways.
 
-In the same studies, Mori and Iwanaga found that both tears and chills produced pleasure and deep breathing. <sup>{% include moriAndIwanaga-2017.html %}</sup> Both have also been reported to co-occur with states of being moved. <sup>{% include menninghaus-2015.html %}</sup> <sup>{% include wassiliwizky-2017.html %}</sup> 
+In the same studies, Mori and Iwanaga found that both tears and chills produced pleasure and deep breathing. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite> Both have also been reported to co-occur with states of being moved. <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite> <cite>(<a href="/bibliography#wassiliwizky2017">Wassiliwizky</a>)</cite> 
 
-And, although they create opposite states of arousal, chills and tears even can overlap. <sup>{% include moriAndIwanaga-2017.html %}</sup> In fact, Wassiliwizky et al. found that the intensity of response is strongest when they do. “The overlap of tears and goosebumps signifies a maximal climax within peak moments.” <sup>{% include wassiliwizky-2017.html %}</sup> 
+And, although they create opposite states of arousal, chills and tears even can overlap. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite> In fact, Wassiliwizky et al. found that the intensity of response is strongest when they do. “The overlap of tears and goosebumps signifies a maximal climax within peak moments.” <cite>(<a href="/bibliography#wassiliwizky2017">Wassiliwizky</a>)</cite> 
 
 It’s not unrealistic to thus conclude that all three might happen at the same peak event. Engaging with a particularly salient stimulus, a person may have near simultaneous chills, tears, and a sense of being moved. This is peak aesthetic experience.
 
@@ -60,28 +60,29 @@ It’s not unrealistic to thus conclude that all three might happen at the same 
 
 I'll go into all of this more later, but for now, here's a rapid-fire summary of facts about peak aesthetic experiences:
 
-- Peak aesthetic experiences are cross-cultural <sup>{% include wassiliwizky-2017.html %}</sup> <sup>{% include menninghaus-2015.html %}</sup> <sup>{% include pelowski-2015.html %}</sup>, suggesting that they're core human responses, rather than socially or environmentally adapted.
-- They're pleasurable, activating the same parts of the brain as euphoric experiences. <sup>{% include bloodAndZatorre-2001.html %}</sup> <sup>{% include moriAndIwanaga-2017.html %}</sup>
-- They're intense. <sup>{% include menninghaus-2015.html %}</sup> (I know, "Thank you, captain obvious.")
-- They can give us a feeling of insight, a "eureka moment." <sup>{% include pelowski-2015.html %}</sup> <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
-- Tears, at least, can be cathartic. <sup>{% include moriAndIwanaga-2017.html %}</sup>
-- They results in positive evaluations of the elicitor. People like a moving story and rate it highly. <sup>{% include pelowski-2015.html %}</sup>
+- Peak aesthetic experiences are cross-cultural <cite>(<a href="/bibliography#wassiliwizky2017">Wassiliwizky</a>)</cite> <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite> <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite>, suggesting that they're core human responses, rather than socially or environmentally adapted.
+- They're pleasurable, activating the same parts of the brain as euphoric experiences. <cite>(<a href="/bibliography#blood2001">Blood and Zatorre</a>)</cite> <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
+- They're intense. <cite>(<a href="/bibliography#menninghaus2015">Menninghaus</a>)</cite> (I know, "Thank you, captain obvious.")
+- They can give us a feeling of insight, a "eureka moment." <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite> <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
+- Tears, at least, can be cathartic. <cite>(<a href="/bibliography#mori2017">Mori and Iwanaga</a>)</cite>
+- They results in positive evaluations of the elicitor. People like a moving story and rate it highly. <cite>(<a href="/bibliography#pelowski2015">Pelowski</a>)</cite>
 
 ## Diving deeper
 
 In the rest of the series, I expand on what the research says about how people experience these moments and what, for storytellers, might go into creating them for an audience.
 
-1. [Investment and peak experience](https://www.natelistrom.com/2022/04/05/pae-investment.html)
-2. [What types of content create peak experience?](https://www.natelistrom.com/2022/04/08/pae-content.html)
-3. [Expectation, the knowledge instinct, and peak experience](https://www.natelistrom.com/2022/04/15/pae-expectation.html)
-4. [Optimal difference and peak experience](https://www.natelistrom.com/2022/05/09/pae-content-2.html)
-5. [Incongruity and peak experience](https://www.natelistrom.com/2022/05/22/pae-content-3.html)
-6. [Priming, callbacks, and peak experience](https://www.natelistrom.com/2022/05/25/pae-content-4.html)
-7. [Intensity and peak experience](https://www.natelistrom.com/2022/06/05/pae-intensity.html)
-8. [Peak experience and the breakthrough moment](https://www.natelistrom.com/2022/06/10/pae-breakthrough.html)
-9. [The physiology of peak experiences](https://www.natelistrom.com/2022/06/17/pae-physiology.html)
-10. [Peak experiences and reward](https://www.natelistrom.com/2022/06/27/pae-reward.html)
-11. [The subjective awareness of peak experience](https://www.natelistrom.com/2022/07/03/pae-experience.html)
+1. [Definitions: what are peak aesthetic experiences?]({% post_url 2022-03-29-pae-definitions %})
+2. [Investment and peak experience]({% post_url 2022-04-05-pae-investment %})
+3. [What types of content create peak experience?]({% post_url 2022-04-08-pae-content %})
+4. [Expectation, the knowledge instinct, and peak experience]({% post_url 2022-04-15-pae-expectation %})
+5. [Optimal difference and peak experience]({% post_url 2022-05-09-pae-content-2 %})
+6. [Incongruity and peak experience]({% post_url 2022-05-22-pae-content-3 %})
+7. [Priming, callbacks, and peak experience]({% post_url 2022-05-25-pae-content-4 %})
+8. [Intensity and peak experience]({% post_url 2022-06-05-pae-intensity %})
+9. [Peak experience and the breakthrough moment]({% post_url 2022-06-10-pae-breakthrough %})
+10. [The physiology of peak experiences]({% post_url 2022-06-17-pae-physiology %})
+11. [Peak experiences and reward]({% post_url 2022-06-27-pae-reward %})
+12. [The subjective awareness of peak experience]({% post_url 2022-07-03-pae-experience %})
 
 ---
 

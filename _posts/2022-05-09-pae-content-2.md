@@ -13,13 +13,20 @@ reading_time: 4 min
 
 I'm doing research for a book about story. [I'm posting summaries of my notes as I go.]({% post_url 2022-03-21-public-research %}) This forces me to ["work with the garage door up."](https://notes.andymatuschak.org/Work_with_the_garage_door_up) In this post, I continue exploring research on [peak aesthetic experiences]({% post_url 2022-03-29-pae-definitions %}).
 
----
+This post is a part of a series:
 
-What causes peak aesthetic experiences? In an [earlier post]({% post_url 2022-04-08-pae-content %}), I talked about some elements of story content that contribute to peak aesthetic experiences. Among them are: 
-
-- resonance with values
-- relationships and prosocial actions
-- mixed valence
+1. [Definitions: what are peak aesthetic experiences?]({% post_url 2022-03-29-pae-definitions %})
+2. [Investment and peak experience]({% post_url 2022-04-05-pae-investment %})
+3. [What types of content create peak experience?]({% post_url 2022-04-08-pae-content %})
+4. [Expectation, the knowledge instinct, and peak experience]({% post_url 2022-04-15-pae-expectation %})
+5. [Optimal difference and peak experience]({% post_url 2022-05-09-pae-content-2 %})
+6. [Incongruity and peak experience]({% post_url 2022-05-22-pae-content-3 %})
+7. [Priming, callbacks, and peak experience]({% post_url 2022-05-25-pae-content-4 %})
+8. [Intensity and peak experience]({% post_url 2022-06-05-pae-intensity %})
+9. [Peak experience and the breakthrough moment]({% post_url 2022-06-10-pae-breakthrough %})
+10. [The physiology of peak experiences]({% post_url 2022-06-17-pae-physiology %})
+11. [Peak experiences and reward]({% post_url 2022-06-27-pae-reward %})
+12. [The subjective awareness of peak experience]({% post_url 2022-07-03-pae-experience %})
 
 In this post, I’ll talk about another element that can help elicit peak aesthetic experiences: optimal difference.
 
@@ -27,11 +34,11 @@ In this post, I’ll talk about another element that can help elicit peak aesthe
 
 I talked before about [the knowledge instinct]({% post_url 2022-04-15-pae-expectation %}). It’s an internal drive we all have, which continually seeks to detect differences between our internal mental models of the world and the external phenomena that we encounter.
 
-Depending on the magnitude of difference we detect, this knowledge instinct can manifest as curiosity or suspense &mdash; or even shock and horror. <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+Depending on the magnitude of difference we detect, this knowledge instinct can manifest as curiosity or suspense &mdash; or even shock and horror. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 Schoeller and Perlovsky put it thus:
 
-> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror." <sup>{% include schoellerAndPerlovsky-2016.html %}</sup>
+> “We do not feel aesthetically elated when recognizing, say, a chair. Yet, when we do not recognize objects around us or their properties, we may feel disturbed or even scared. This is a staple of thrillers: when a situation is not recognizable, one may experience horror." <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
 When our environment is totally predictable &mdash; a chair remains exactly where you placed it at the kitchen table, for example &mdash; it doesn't produce strong emotion. The knowledge instinct, comparing your mental model for where the chair should be and the reality, confirms its prediction and promptly redirects your mind's resources to more important things.
 
