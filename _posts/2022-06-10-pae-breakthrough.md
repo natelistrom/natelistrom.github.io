@@ -42,7 +42,7 @@ Moments later, in a far subtler movement, the scene forces the protagonist Dr. A
 
 If you've been keeping up with my posts about peak aesthetic experience, you'll no doubt have noticed that the construction of this scene has a lot of the signature factors that make for a moving scene. 
 
-- There's a steep ramp [expectation]({% post_url 2022-04-15-pae-expectation %}) and [intensity]({% post_url 2022-06-05-pae-intensity %}) as the first moments of the scene signal to audiences, "Here it is; the moment you've been waiting for." 
+- There's a steep ramp in [expectation]({% post_url 2022-04-15-pae-expectation %}) and [intensity]({% post_url 2022-06-05-pae-intensity %}) as the first moments of the scene signal to audiences, "Here it is; the moment you've been waiting for." 
 - There's also a play on the level of [prosocial values]({% post_url 2022-04-08-pae-content %}) with Grant's dilemma. 
 - The horror elements, with the dinosaur's approach and the grisly fate of the goat serve as [primes]({% post_url 2022-05-25-pae-content-4 %}) that set audiences up for thrill.
 
