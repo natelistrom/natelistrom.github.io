@@ -22,7 +22,7 @@ Things come to a head near the story's climax around the matter of a tuppence â€
 
 Mary Poppins has contrived to get George to take his kids to the bank with him for the day. In his mind, it's about introducing the kids to the world of adults and responsibility.
 
-(Incidentally, this further demonstrates how disconnected George is from his kid's lives. He thinks this will help them see what an important man he is. What they really care about, though, is his spending time with them, not his social status.)
+(Incidentally, this further demonstrates how disconnected George is from his kids' lives. He thinks this will help them see what an important man he is. What they really care about, though, is his spending time with them, not his social status.)
 
 Mary Poppins knows this, of course. And, she has a plan.
 

@@ -1,5 +1,5 @@
 ---
 layout: tags
-title: "Tag: Design"
-tag: Design
+title: "Tag: Irony"
+tag: Irony
 ---
