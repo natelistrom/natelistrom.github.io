@@ -82,7 +82,7 @@ In the midpoint of Jane Austen's 1813 novel _Pride and Prejudice_, protagonist E
 
 In the All is Lost moment and Dark Night of the Soul, the antithesis definitively disproves the protagonist's thesis. This utter defeat forces the protagonist into a dilemma. She has tried every possible way to rescue her thesis, and nothing has worked. To move on, she must finally abandon her thesis and accept the truth of the synthesis. (Or, in a tragedy, she is unable to accept the synthesis, and her choice to return obstinately to her failed thesis dooms her.)
 
-In _Pride and Prejudice_, at the All is Lost moment, Elizabeth's fifteen-year-old sister elopes with a soundrel. In a piquant Dark Night of the Soul scene, Elizabeth realizes that Mr. Darcy can now no longer associate with her because of the social stigma. While before she disdained his regard (thesis), to her suprpise, she finds she grieves the loss. This introduces the first hint that maybe there was something between her and Mr. Darcy after all (synthesis).
+In _Pride and Prejudice_, at the All is Lost moment, Elizabeth's fifteen-year-old sister elopes with a soundrel. In a piquant Dark Night of the Soul scene, Elizabeth realizes that Mr. Darcy can now no longer associate with her because of the social stigma. While before she disdained his regard (thesis), to her surprise, she finds she grieves the loss. This introduces the first hint that maybe there was something between her and Mr. Darcy after all (synthesis).
 
 #### Third act
 
@@ -92,7 +92,7 @@ In the beginning of the third act, the protagonist has often accepted the truth 
 
 The protagonist may face a temptation to return to the thesis. She must reject that temptation and completely inhabit the synthesis. <cite>(<a href="/bibliograpby#mazin2019">Mazin</a>)</cite>
 
-For example, there's a moment in _Star Wars: A New Hope_ in which Luke must choose between using the conventional method of defeating the enemy — represented by use of his targeting computer — versus giving himself up to the mystical Force tradition to which he has been introduced. At the enouragement of Obi-Wan to "Trust the Force," Luke chooses to believe. He switches off the targeting computer, and his decision results in success.
+For example, there's a moment in _Star Wars: A New Hope_ in which Luke must choose between using the conventional method of defeating the enemy — represented by use of his targeting computer — versus giving himself up to the mystical Force tradition to which he has been introduced. At the enouragement of Obi-Wan to "Trust the Force," Luke chooses to believe. He switches off the targeting computer, and his decision results in victory.
 
 The final surrender and letting go of the thesis definitively overcomes the antithesis. This restores a new, synthesis-based equilibrium to the world.
 
@@ -112,7 +112,7 @@ Thus, every scene must move from a starting point (a thesis) through some kind o
 
 Let's look a bit closer at the midpoint scene from _Pride and Prejudice_.
 
-The scene's immediate context is that Elizabeth has just learned that Mr. Darcy hurt her sister Jane. Jane was in love with Mr. Darcy's friend, Mr. Bingley. Unbeknownst to Jane, Mr. Darcy contrived to thwart Jane's chances with Mr. Bingley. Elizabeth is smarting from the news, livid at how Mr. Darcy so casually and cruelly ruined her sister's hopes.
+In the scene's immediate context, Elizabeth has just learned that Mr. Darcy hurt her sister Jane. Jane was in love with Mr. Darcy's friend, Mr. Bingley. Unbeknownst to Jane, Mr. Darcy contrived to thwart Jane's chances with Mr. Bingley. Elizabeth smarts from the discovery, livid at how Mr. Darcy so casually and cruelly ruined her sister's hopes.
 
 Elizabeth's friends are on their way to visit Rosings Park. Mr. Darcy will be there. So, Elizabeth begs to stay home. Her goal is to have space to process her frustration and — at all costs — to avoid Mr. Darcy. This is the starting point for the scene (thesis).
 
@@ -130,7 +130,7 @@ In your own storytelling, thesis-antithesis-synthesis can be a tool for thinking
 
 On the scene and sequence level, you can think about it as a way to craft structural markers for the plot. A scene begins with a starting point (thesis). You introduce some form of opposition (antithesis). The two battle with each other, and the thesis becomes untenable. This results in a change (synthesis). Then, the process repeats.
 
-On a whole-story level, you can think of thesis-antithesis-synthesis as a way to communicate your thematic argument. Your protagonist begins with a certain thematic belief (thesis). That belief is challenged and shown to be incorrect (antithesis). To reach resolution, the protagonist must abandon their incorrect belief and embrace a true belief about the world (synthesis).
+On a whole-story level, you can think of thesis-antithesis-synthesis as a way to communicate your thematic argument. Your protagonist begins with a certain thematic belief (thesis). That belief is challenged and shown to be incorrect (antithesis). To reach resolution, the protagonist must abandon her incorrect belief and embrace a true belief about the world (synthesis).
 
 ---
 
@@ -139,4 +139,4 @@ On a whole-story level, you can think of thesis-antithesis-synthesis as a way to
 **[Storytelling and the rule of three: trajectory and payoff]({% post_url 2023-07-04-rule-of-three %})**
 <br />The rule of three is a powerful storytelling mechanic that leverages human psychology to set up and pay off audience expectation in a satisfying way.
 
-For even more on thesis-antithesis-synthesis, listen to writer and director Craig Mazin's ["How to Write a Movie"](https://johnaugust.com/2019/how-to-write-a-movie) episode on John August's _Scriptnotes_ podcast, from which this note borrows heavily.
+For more on thesis-antithesis-synthesis, listen to writer and director Craig Mazin's ["How to Write a Movie"](https://johnaugust.com/2019/how-to-write-a-movie) podcast episode, from which this note borrows heavily.
