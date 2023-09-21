@@ -53,7 +53,11 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="truby2011"></a>Truby, John. <em>The Anatomy of Story: 22 Steps to Becoming a Master Storyteller.</em> Farrar, Straus and Giroux, 2011. Kindle Edition.</li>
 
+<li><a name="vogler2020"></a>Vogler, Christopher. <em>The Writer's Journey: Mythic Structure for Writers.</em> (4th ed.). Michael Wiese Productions. Studio City, CA. 2020.</li>
+
 <li><a name="weiland2013"></a>Weiland, K. M. <em>Structuring Your Novel: Essential Keys for Writing an Outstanding Story.</em> PenForASword Publishing, 2013.</li>
+
+<li><a name="weiland2016"></a>Weiland, K. M. <em>Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure, Plot, and Character Development.</em> (Helping Writers Become Authors Book 7). PenForASword Publishing, 2016. Kindle Edition.</li>
 
 <li><a name="williams2001"></a>Williams, Richard. <em>The Animator's Survival Kit.</em> Faber and Faber Limited, London, 2001.</li>
 

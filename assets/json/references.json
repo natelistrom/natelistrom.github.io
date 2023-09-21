@@ -492,6 +492,18 @@
         "img":null
     },
     {
+        "id":"vogler2020",
+        "author":"Vogler, Christopher.",
+        "authorShort":"Vogler",
+        "date":"2020",
+        "title":"The Writer's Journey: Mythic Structure for Writers.",
+        "titleShort":"Writer's Journey",
+        "titleLink":null,
+        "body":"(4th ed.). Michael Wiese Productions. Studio City, CA. 2020.",
+        "type":"book",
+        "img":null
+    },
+    {
         "id":"wassiliwizky2017",
         "author":"Wassiliwizky, Eugen et al.",
         "authorShort":"Wassiliwizky et al.",
@@ -512,6 +524,18 @@
         "titleShort":"Structuring your Novel",
         "titleLink":null,
         "body":"PenForASword Publishing, 2013.",
+        "type":"book",
+        "img":null
+    },
+    {
+        "id":"weiland2016",
+        "author":"Weiland, K. M.",
+        "authorShort":"Weiland",
+        "date":"2016",
+        "title":"Creating Character Arcs: The Masterful Author's Guide to Uniting Story Structure, Plot, and Character Development.",
+        "titleShort":"Character Arcs",
+        "titleLink":null,
+        "body":"(Helping Writers Become Authors Book 7). PenForASword Publishing, 2016. Kindle Edition.",
         "type":"book",
         "img":null
     },
