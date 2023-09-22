@@ -1,0 +1,21 @@
+
+{% if page.read_next %}
+
+	<hr />
+
+	<h4>Read this next</h4>
+
+	{% for post in site.posts %}
+		{% if post.title == page.read_next %}
+
+		<p><strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+			<br />{{ post.description }}</p>
+
+		{% endif %}
+	{% endfor %}
+
+{% else %}
+
+<!-- TO DO: load random post -->
+
+{% endif %}
