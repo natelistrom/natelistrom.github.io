@@ -6,6 +6,7 @@ date:   2023-09-04 12:00:00 -0400
 tags: [Symbolism, Irony, Theme, Story, Craft]
 maturity: scribble
 reading_time: 4 min
+read_next: "Sky lanterns and irony: How Disney's 'Tangled' amplifies impact"
 ---
 
 I was watching Disney's 1964 classic, _Mary Poppins_, with my kids last night. I was struck by the delightful and surprisingly powerful use of irony and symbolism to underscore theme.
@@ -64,9 +65,4 @@ The specifics of the symbol and the irony will be different depending on the sto
 
 ---
 
-#### Read this next
-
-**[Sky lanterns and irony: How Disney's 'Tangled' amplifies impact]({% post_url 2021-10-15-sky-lanterns %})**    
-Like the writers of Disney's 'Tangled,' storytellers can use dramatic irony to increase the emotional impact of key scenes in their stories.
-
-Or, for a longer exploration of irony, see writer Craig Mazin's excellent piece, ["How to Write a Movie"](https://johnaugust.com/2019/how-to-write-a-movie) on John August's _Scriptnotes_ podcast.
+For a longer exploration of irony, see writer Craig Mazin's excellent piece, ["How to Write a Movie"](https://johnaugust.com/2019/how-to-write-a-movie) on John August's _Scriptnotes_ podcast.

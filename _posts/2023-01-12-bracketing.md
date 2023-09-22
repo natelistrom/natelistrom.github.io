@@ -6,6 +6,7 @@ date:   2023-01-12 12:00:00 -0400
 tags: [Bracketing, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 5 min
+read_next: "Creating meaning with two consecutive story units"
 ---
 
 ---
@@ -84,11 +85,3 @@ At Obi-Wan's home, Luke declines the Call to Adventure (decision). Then, Luke an
 Bracketing is a three-unit story structure that follows the form `A` - `B` - `A`. It's often used in storytelling to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed during the intervening story unit. 
 
 I hope it's a helpful tool for you as you go and tell great stories.
-
----
-
-#### Read this next
-
-**[Creating meaning with two consecutive story units]({% post_url 2022-12-19-comparison-creates-meaning %})**
-<br />Human brains can't help but look for patterns, even when nothing's there. Storytellers can leverage this tendency, juxtaposing images in order to create rich and layered meaning.
-

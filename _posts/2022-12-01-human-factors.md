@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: Craft Writing Story Design
 maturity: note
 reading_time: 5 min
+read_next: "The interest-effort formula for engaging story audiences"
 ---
 
 ---
@@ -64,15 +65,3 @@ This is why studying the fundamentals of craft is so valuable. Under the surface
 So, study your craft. It'll help your story "stick the landing."
 
 Oh &mdash; and whatever happened to the altimeters? Further research arrived at a handful of improvements, some of which have even made it into modern, digital cockpit displays today . . . and none of which rely on three hands like a clock.
-
----
-
-#### Read this next
-
-**[The interest-effort formula for engaging story audiences]({% post_url 2022-08-11-interest-effort %})**
-<br />When engaging with stories, audiences experience a push and pull between effort and interest. Once you’ve mastered the basics of craft, you can tune the balance to control <em>type</em> of experience you give your audience.
-
-Or, if you're _really_ interested in going down the rabbit hole, start my 12-post series on the neurosceince behind "peak aesthetic experience":
-
-**[Peak aesthetic experiences part 1: definitions]({% post_url 2022-03-29-pae-definitions %})**
-<br />Peak aesthetic experiences are when people are exposed to a particularly meaningful work of art, music, nature, or story and experiences tears, chills, or a sense of being moved.

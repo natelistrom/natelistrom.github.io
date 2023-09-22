@@ -6,6 +6,7 @@ date: 2023-08-26 12:00:00 -0400
 tags: [Payoff, Story, Craft]
 maturity: note
 reading_time: 5 min
+read_next: "Deus ex machina and the soul of a satisfying story ending"
 ---
 
 <p class="dropCap">
@@ -62,10 +63,3 @@ Austen delivers what she set up, but she also delivers _more_.
 ## Conclusion
 
 This is the magic of a payoff done well. The setup creates a trajectory that establishes what makes up the realm of appropriate payoffs, and it points the audience to a false prediction, which will be subverted. Then, the ending pays off the trajectory in a way that is appropriate to the setup but better than expected. It gives the audience what they wanted, but in a way they didn't see coming.
-
----
-
-#### Read this next
-
-**[Deus ex machina and the soul of a satisfying story ending]({% post_url 2023-08-12-deus-ex-machina-and-satisfying-story-ending %})**    
-To be most satisfying, payoffs in stories should be set up physically, morally, and thematically.

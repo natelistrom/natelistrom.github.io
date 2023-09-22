@@ -6,6 +6,7 @@ date:   2023-09-21 12:00:00 -0400
 tags: [Story structure, Primitives, Theme, Story, Craft]
 maturity: note
 reading_time: 11 min
+read_next: "Storytelling and the rule of three: trajectory and payoff"
 ---
 
 > "The hero . . . discovers and assimilates his opposite. . . . He must put aside his pride, his virtue, beauty, and life, and bow or submit to the absolutely intolerable. Then he finds that he and his opposite are not of differing species, but one flesh."   
@@ -134,9 +135,4 @@ On a whole-story level, you can think of thesis-antithesis-synthesis as a way to
 
 ---
 
-#### Read this next
-
-**[Storytelling and the rule of three: trajectory and payoff]({% post_url 2023-07-04-rule-of-three %})**
-<br />The rule of three is a powerful storytelling mechanic that leverages human psychology to set up and pay off audience expectation in a satisfying way.
-
-For more on thesis-antithesis-synthesis, listen to writer and director Craig Mazin's ["How to Write a Movie"](https://johnaugust.com/2019/how-to-write-a-movie) podcast episode, from which this note borrows heavily.
+For more on thesis-antithesis-synthesis, listen to writer and director Craig Mazin's _Scriptnotes_ podcast episode, ["How to Write a Movie,"](https://johnaugust.com/2019/how-to-write-a-movie) from which this note borrows heavily.

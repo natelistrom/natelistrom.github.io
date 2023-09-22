@@ -6,6 +6,7 @@ date:   2023-07-04 12:00:00 -0400
 tags: [Story structure, Primitives, Story, Craft, Rule of three]
 maturity: note
 reading_time: 11 min
+read_next: "Creating meaning with two consecutive story units"
 ---
 
 > "When you name several things you save the most impressive for last. 'The Mayor,' you say, 'was there, and the Governor — and the President!'"    
@@ -173,13 +174,6 @@ Onward . . .
 
 - _Writing Excuses_ [11.32: The Element of Humor](https://writingexcuses.com/11-32-the-element-of-humor/) ([transcript](https://wetranscripts.livejournal.com/118930.html))
 - Nathan Baugh's _Worldbuilders_ [essay on the rule of three](https://www.worldbuilders.ai/p/rule-three) (requires sign up; you can get the gist in this [summary tweet](https://twitter.com/nathanbaugh27/status/1669705298204925952?s=20).)
-
----
-
-#### Read this next
-
-**[Creating meaning with two consecutive story units]({% post_url 2022-12-19-comparison-creates-meaning %})**
-<br />Human brains can't help but look for patterns, even when nothing's there. Storytellers can leverage this tendency, juxtaposing images in order to create rich and layered meaning.
 
 ---
 

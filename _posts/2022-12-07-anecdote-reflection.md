@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [Story structure, Primitives, Theme, Story, Craft]
 maturity: note
 reading_time: 8 min
+read_next: "The three underlying functions of inciting incidents"
 ---
 
 **Note:** This post contains minor spoilers for Jane Austen's 1813 novel _Pride and Prejudice_ and Steven Spielberg's 1993 film _Jurassic Park_.
@@ -97,10 +98,3 @@ Ultimately, reflection is created through comparison. Juxtaposing events, images
 One of the most basic story structures is two parts: anecdote and reflection. A series of meaningfully related events, and a thematic argument explaining what it was all about. 
 
 When done well, they deliver for your audience, giving them, in Swain's words, "pleasurable tension plus ultimate satisfaction."
-
----
-
-#### Read this next
-
-**[The three underlying functions of inciting incidents]({% post_url 2021-07-23-inciting-incident %})**
-<br />Inciting incidents consist of one or more of three distinct story functions. This essay explains what each function is, how it works, and how I arrived at my current understanding.

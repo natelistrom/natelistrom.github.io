@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [AI art generation, Technology, Craft, AI]
 maturity: scribble
 reading_time: 4 min
+read_next: "Shinichi Suzuki and the three domains of mastery"
 ---
 
 For a bit of context on AI art generation, see [this BBC article](https://www.bbc.com/news/technology-62788725).
@@ -62,31 +63,3 @@ Commercially, it makes sense, of course. Why lose margin on something needlessly
 But I grieve the loss as I would any other good, worthwhile thing that can no longer be.
 
 I wish I still played guitar as well as I used to, but my skill has atrophied. I'm out of practice.
-
----
-
-#### Read this next
-
-If you're here for the discussion on craft, check out:
-
-{% for post in site.posts %}
-{% if post.url == "/2015/01/23/suzuki.html" %}
-
-<strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-<br />{{ post.description }}
-
-{% endif %}
-{% endfor %}
-
-
-If you're here for the discussion on tech, check out:
-
-{% for post in site.posts %}
-{% if post.url == "/2022/11/07/arvr.html" %}
-
-<strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-<br />{{ post.description }}
-
-{% endif %}
-{% endfor %}
-

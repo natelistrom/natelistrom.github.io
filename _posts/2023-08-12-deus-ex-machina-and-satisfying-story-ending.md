@@ -6,6 +6,7 @@ date:   2023-08-12 12:00:00 -0400
 tags: [Story, Craft, Theme, Deus ex machina, Payoff]
 maturity: note
 reading_time: 10 min
+read_next: "Storytelling and the rule of three: trajectory and payoff"
 ---
 
 > "Coincidences to get characters into trouble are great; coincidences to get them out of it are cheating."
@@ -147,10 +148,3 @@ In scene-level work, small stories, and small setup and payoff arcs within large
 But for larger stories and larger arcs within stories, audiences can benefit from the work storytellers do to motivate their payoffs with all three: the physical pieces they set in play, the moral choices their characters make (and the attendant consequences), and the thematic motifs and elements that undergird them.
 
 The very opposite of _deus ex machina_, using these elements to set up and pay off your story arcs will help make your story rich and satisfying.
-
----
-
-#### Read this next
-
-**[Storytelling and the rule of three: trajectory and payoff]({% post_url 2023-07-04-rule-of-three %})**    
-The rule of three is a powerful storytelling mechanic that leverages human psychology to set up and pay off audience expectation in a satisfying way.

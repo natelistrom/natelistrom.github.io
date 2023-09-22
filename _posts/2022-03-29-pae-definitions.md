@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [Peak aesthetic experiences, Story, Writing, Book, Neuroscience]
 maturity: note
 reading_time: 1 min
+read_next: "Investment and peak experience"
 ---
 
 ---
@@ -89,11 +90,3 @@ In the rest of the series, I expand on what the research says about how people e
 #### Change history
 
 July 4, 2023: Rearranged content for better readability and added series links.
-
----
-
-#### Read this next
-
-**[Creating meaning with two consecutive story units]({% post_url 2022-12-19-comparison-creates-meaning %})**
-<br />Human brains can't help but look for patterns, even when nothing's there. Storytellers can leverage this tendency, juxtaposing images in order to create rich and layered meaning.
-

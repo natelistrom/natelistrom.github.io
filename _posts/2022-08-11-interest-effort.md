@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [Story, Craft, Narrative drive]
 maturity: note
 reading_time: 8 min
+read_next: "Lazy engineers and hard-working tour guides"
 ---
 
 ---
@@ -102,10 +103,3 @@ Once you've mastered the basics of craft, a large part of tuning the interest-ef
 Ultimately, there's no "perfect" ratio. Both _Mission: Impossible_ and _To Kill a Mockingbird_ have a place in the world — and audiences who love them. Neither is inherently better or worse.
 
 Based on the type of experience you want to deliver, you'll have an idea about how "steep" your audience members' climb (the kind of effort involved) — and the "company" (interest) you'll need to provide along the way so that, ultimately, they'll reach the summit.
-
----
-
-#### Read this next
-
-**[Lazy engineers and hard-working tour guides]({% post_url 2022-11-25-engineers-and-tour-guides %})**
-<br />Storytellers should invest effort in reducing friction for their audiences. It's hard work, but it pays off.

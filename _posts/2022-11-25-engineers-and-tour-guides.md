@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: Craft Writing Story
 maturity: scribble
 reading_time: 3 min
+read_next: "The interest-effort formula for engaging story audiences"
 ---
 
 ---
@@ -57,12 +58,4 @@ We do this by the _way_ we tell our stories, by the techniques and structures we
 
 The shape of our storytelling matters. It can make our stories easier or harder. That's a challenge. It takes hard work and knowledge and skill. But if we do it well, the effect is almost magical. We tell a story, and our audience is swept away. 
 
-All they have to do is simply sit and see and experience.
-
----
-
-#### Read this next
-
-**[The interest-effort formula for engaging story audiences]({% post_url 2022-08-11-interest-effort %})**
-<br />When engaging with stories, audiences experience a push and pull between effort and interest. Once you’ve mastered the basics of craft, you can tune the balance to control <em>type</em> of experience you give your audience.
- 
+All they have to do is simply sit and see and experience. 

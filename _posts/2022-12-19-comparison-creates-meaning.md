@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [Story structure, Story, Craft, Primitives]
 maturity: note
 reading_time: 10 min
+read_next: "Story structure and theme in Ira Glass' anecdote and reflection"
 ---
 
 > "Structure is the presentation of images in such a way an audience is forced to work out the relationship between them."  
@@ -132,10 +133,3 @@ Story structure is rich and varied, and there are as many different techniques a
 In the future, we may look at how comparison plays out over non-consecutive structural units, but for today, it's enough to say that storytellers can create powerful layers of meaning by juxtaposing things next to each other. 
 
 This happened, then this happened . . . and this is what it _meant_.
-
----
-
-#### Read this next
-
-**[Story structure and theme in Ira Glass' anecdote and reflection]({% post_url 2022-12-07-anecdote-reflection %})**
-<br />One of the most basic story structures is two parts: anecdote and reflection. A series of meaningfully related events, and a thematic argument explaining what it was all about. 

@@ -6,6 +6,7 @@ date: 2023-08-27 12:00:00 -0400
 tags: [Payoff, Story structure, Story, Craft]
 maturity: note
 reading_time: 4 min
+read_next: "The realm of appropriate payoffs"
 ---
 
 You could think of this note as a part two. In the previous note, I explored what I call the ["realm of appropriate payoffs."]({% post_url 2023-08-26-realm-of-appropriate-payoffs%}) Here's what we covered:
@@ -56,10 +57,3 @@ Instead, there is an unexpected reversal. In the final payoff, the hidden redemp
 <aside>
 B. It&rsquo;s a nice treat that, in a small way, Ilsa and Rick get to work together in the climax to save Lazlo. The collaboration feels gratifying to their love story while fulfilling the needs of the redemption plot. 
 </aside>
-
----
-
-#### Read this next
-
-**[The realm of appropriate payoffs]({% post_url 2023-08-26-realm-of-appropriate-payoffs %})**    
-The best story payoffs match the setup while being better than expected.

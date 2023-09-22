@@ -6,6 +6,7 @@ date:   2023-08-24 12:00:00 -0400
 tags: [Payoff, Story, Craft]
 maturity: scribble
 reading_time: 3 min
+read_next: "Deus ex machina and the soul of a satisfying story ending"
 ---
 
 <p class="dropCap">Story arcs with satisfying setups and payoffs share some key characteristics. Among them is the subversion of expectation. A story payoff doesn't need to be surprising in the traditional sense (although that doesn't hurt) but it should play on audience expectation in some way. The reason that this works is that <a href="{% post_url 2023-07-23-rule-of-three-prediction %}">it hooks into our brains' reward systems</a>.</p>
@@ -43,10 +44,3 @@ In commercial fiction, varying appetites for difference are part of what makes u
 - In contrast to genre fiction, literary works tend to try to inject difference by intentionally avoiding formulas and conventions.
 
 As a storyteller, the key is to understand your audience's appetite. Where is the optimal point of difference for them? Are they more likely to be interested in a few tweaks on a familiar formula or are they hungry for something they've never seen before?
-
----
-
-#### Read this next
-
-**[Deus ex machina and the soul of a satisfying story ending]({% post_url 2023-08-12-deus-ex-machina-and-satisfying-story-ending %})**    
-To be most satisfying, payoffs in stories should be set up physically, morally, and thematically.

@@ -6,6 +6,7 @@ description: "Like a spiral, drawing closer but never reaching the center, creat
 tags: [Craft]
 maturity: scribble
 reading_time: 2 min
+read_next: "Shinichi Suzuki and the three domains of mastery"
 ---
 
 <p class="dropCap">I repeat myself a lot. For instance, when exploring the research on peak aesthetic experiences, I wrote about <a href="{% post_url 2022-05-09-pae-content-2 %}">optimal difference</a>, the idea that there's an ideal point between too familiar and too strange at which our reward systems are maximally engaged. Then, when writing about <a href="{% post_url 2023-07-04-rule-of-three %}">the rule of three</a>, I stumbled back into the same discussion and <a href="{% post_url 2023-08-24-optimal-difference %}">wrote about optimal difference again</a>.</p>
@@ -37,10 +38,3 @@ I'm committed to ["working with the garage door up"](https://notes.andymatuschak
 One benefit that does provide is that _you_ can have input into my writing. Ideas are more malleable when they aren't fully formed. So if something strikes you, let me know. (<a href="mailto:hello@natelistrom.com">hello@natelistrom.com</a>)
 
 Let's build some benches together.
-
----
-
-#### Read this next
-
-**[Shinichi Suzuki and the three domains of mastery]({% post_url 2015-01-23-suzuki %})**    
-An exploration of the interaction between talent, education, and skill.

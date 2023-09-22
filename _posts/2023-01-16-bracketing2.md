@@ -6,6 +6,7 @@ date:   2023-01-20 12:00:00 -0400
 tags: [Story structure, Bracketing, MICE quotient, Story, Craft]
 maturity: note
 reading_time: 7 min
+read_next: "Creating story arcs with three-unit brackets"
 ---
 
 ---
@@ -79,13 +80,6 @@ Tolkien's story follows the quest to destroy the One Ring, a magical object of g
 Tolkien's ending is realistic. Unlike Western stories, in life, the greatest struggle is often not the final one. In addition, his chosen story order has what are, most probably, intentional thematic implications. Evil isn't always concentrated in one place, and the vestiges of corruption can endure long after their initiators are gone.
 
 Nevertheless, critics aren't wrong when they claim that the story _felt_ like it could have ended when the ring was destroyed. This is because the main story bracket &mdash; and a very powerful one at that &mdash; had already closed.
-
----
-
-#### Read this next
-
-**[Creating story arcs with three-unit brackets]({% post_url 2023-01-12-bracketing %})**    
-Bracketing is a three-unit story structure following an `A` - `B` - `A` form. It's often used to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed because of the intervening story.
 
 ---
 

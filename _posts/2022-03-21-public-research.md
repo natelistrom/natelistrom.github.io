@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: Story Writing Book
 maturity: scribble
 reading_time: 1 min
+read_next: "Definitions: what are peak aesthetic experiences?"
 ---
 
 ---

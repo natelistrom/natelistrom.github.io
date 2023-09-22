@@ -6,6 +6,7 @@ date:   2023-07-23 12:00:00 -0400
 tags: [Story structure, Primitives, Story, Craft, Neuroscience, Rule of three, Payoff]
 maturity: note
 reading_time: 9 min
+read_next: "Creating story arcs with three-unit brackets"
 ---
 
 In a previous note, I introduced [the rule of three]({% post_url 2023-07-04-rule-of-three %}), a powerful storytelling mechanic that lets you set up a trajectory for your audience’s expectations and then pay it off in a satisfying way.
@@ -112,13 +113,6 @@ Thus, the challenge for storytellers is to set up an expectation, creating antic
 This is the mechanism behind what playwright David Mamet called “inevitable yet unforeseen,” <cite>(<a href="/bibliography#mamet1998">Mamet</a>, Location 426)</cite> what editor and _Story Grid_ author Shawn Coyne rephrased as, “surprising and inevitable” ending <cite>(<a href="/bibliography#grahl2016">Grahl</a>)</cite> — the ending that perfectly fulfills the promise of the setup but in a way that defies the audience's expectations.
 
 In the rule of three, the first two story units set up the trajectory, the "value proxy" that tells your audience what to expect. When you deliver with the third story unit, that's your opportunity to subvert the trajectory and deliver a "better than expected" result.
-
----
-
-#### Read this next
-
-**[Creating story arcs with three-unit brackets]({% post_url 2023-01-12-bracketing %})**    
-Bracketing is a three-unit story structure following an `A` - `B` - `A` form. It's often used to illustrate transformation by returning to a familiar image, motif, setting, or situation where something has changed because of the intervening story.
 
 ---
 
