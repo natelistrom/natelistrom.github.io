@@ -16,7 +16,7 @@ read_next: "Storytelling and the rule of three: trajectory and payoff"
 
 In storytelling, thesis-antithesis-synthesis is a structural tool for illustrating change and conveying theme.
 
-> "You take a thesis. That’s a statement. Something is true. And then you apply to that an antithesis. 'No, that’s not true and here’s why.' Those things collide and in theory what results from that is a new thesis called the synthesis." <cite>(<a href="/bibliograpby#mazin2019">Mazin</a>)</cite>
+> "You take a thesis. That’s a statement. Something is true. And then you apply to that an antithesis. 'No, that’s not true and here’s why.' Those things collide and in theory what results from that is a new thesis called the synthesis." <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite>
 
 Structurally, thesis-antithesis-synthesis uses a complex [bracketing]({% post_url 2023-01-12-bracketing %}) form to demonstrate change. Thus, it's based on [comparisons]({% post_url 2022-12-19-comparison-creates-meaning %}), and its main effect is to convey meaning to the audience.
 
@@ -31,7 +31,7 @@ On a high level, thesis-antithesis-sythesis can be viewed in terms of a three ac
 - **Act two: antithesis**  
   The story world and plot repeatedly challenge the protagonist's mistaken belief until she can no longer hold onto it. In an archetypal character arc, this culminates in an All is Lost moment. <cite>(<a href="/bibliography#snyder2005">Snyder</a>, Page 86)</cite> The protagonist must go on a soul-searching journey (represented by the Dark Night of the Soul phase) <cite>(<a href="/bibliography#snyder2005">Snyder</a>, Page 88)</cite> and come to a point of acceptance (often represented by an Epiphany and Recommitment). <cite>(<a href="/bibliography#truby2011">Truby</a>, Page 302)</cite>
 - **Act three: synthesis**  
-  Newly equipped with the thematic truth of the story (the synthesis), the protagonist challenges and defeats the antagonistic force, "embodying the truth of the theme . . . through action." <cite>(<a href="/bibliograpby#mazin2019">Mazin</a>)</cite>
+  Newly equipped with the thematic truth of the story (the synthesis), the protagonist challenges and defeats the antagonistic force, "embodying the truth of the theme . . . through action." <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite>
 
 ## All three in each act
 
@@ -41,7 +41,7 @@ While it's useful to think broadly about the structure of the thesis-antithesis-
 
 To see this more clearly, we can take on a perspective from Vogler, who sees thesis and antithesis in terms of the story's protagonist and antagonist:
 
-> "We could say the protagonist's point of view or style of living is the thesis of the story. The antithesis is the antagonist's opposing viewpoint and style. The synthesis is whatever resolves the polarized conflict at the end." <cite>(<a href="/bibliograpby#vogler2020">Vogler</a>, Page 403)</cite>
+> "We could say the protagonist's point of view or style of living is the thesis of the story. The antithesis is the antagonist's opposing viewpoint and style. The synthesis is whatever resolves the polarized conflict at the end." <cite>(<a href="/bibliography#vogler2020">Vogler</a>, Page 403)</cite>
 
 #### First act
 
@@ -55,17 +55,17 @@ For example, in George Lucas' 1974 film _Star Wars: A New Hope_, the story opens
 
 What about the synthesis? It can be there in the first act, too. 
 
-In the tradition of the "Hollywood formula" there's a reflection character who speaks the thematic truth (synthesis) to the protagonist early on in the story. <cite>(<a href="/bibliograpby#kowal2011a">Kowal</a>)</cite> Of course, at that point the protagonist is committed to believing the lie of the thesis, so she rejects it. But it sets up for the story to come.
+In the tradition of the "Hollywood formula" there's a reflection character who speaks the thematic truth (synthesis) to the protagonist early on in the story. <cite>(<a href="/bibliography#kowal2011a">Kowal</a>)</cite> Of course, at that point the protagonist is committed to believing the lie of the thesis, so she rejects it. But it sets up for the story to come.
 
 Let's look at an example from Crutiz's 1942 film _Casablanca_, as explained by editorial director Lou Anders. 
 
 Early in the first act, there's a scene in which protagonist Rick Blaine and Louis, a character designed to help challenge Rick's thesis, have a conversation.
 
-> "The expression of theme is when [Louis] tells Rick, 'I think you have the letters of transit' and Rick says, 'I stick my neck out for no one and nobody.' And he says, 'No, you don't. You're still a patriot.'" <cite>(<a href="/bibliograpby#kowal2011a">Kowal</a>)</cite>
+> "The expression of theme is when [Louis] tells Rick, 'I think you have the letters of transit' and Rick says, 'I stick my neck out for no one and nobody.' And he says, 'No, you don't. You're still a patriot.'" <cite>(<a href="/bibliography#kowal2011a">Kowal</a>)</cite>
 
 In the story's climax, Rick will choose the cause of freedom over his personal desires, an action that confirms Louis' insight.
 
-> "When Rick gives up the girl in the end, he says, 'I was right, Ricky, you are a patriot.' They say, 'This is the beginning of a beautiful friendship.' Bring the curtain down on that line." <cite>(<a href="/bibliograpby#kowal2011a">Kowal</a>)</cite>
+> "When Rick gives up the girl in the end, he says, 'I was right, Ricky, you are a patriot.' They say, 'This is the beginning of a beautiful friendship.' Bring the curtain down on that line." <cite>(<a href="/bibliography#kowal2011a">Kowal</a>)</cite>
 
 The payoff in the climax lands because it was set up in the first act. This suggests that even the synthesis, which won't be triumphant until the third act, has at least a preview in the story's beginning.
 
@@ -75,7 +75,7 @@ The payoff in the climax lands because it was set up in the first act. This sugg
 
 In the second act, the protagonist is confronted with a world that's different than her own, one where the antithesis looms large. If the first act is the "opening statement" of each side in a trial, the second act is a back-and-forth as the thesis and antithesis each try to argue their case.
 
-In general, the protagonist still pursues her original "thesis" approach through most of the second act. However, she does experience glimpses of the synthesis. This can be especially effective at key moments, like the midpoint of the story. <cite>(<a href="/bibliograpby#mazin2019">Mazin</a>)</cite>
+In general, the protagonist still pursues her original "thesis" approach through most of the second act. However, she does experience glimpses of the synthesis. This can be especially effective at key moments, like the midpoint of the story. <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite>
 
 For example, in the midpoint of Spielberg's 1993 film _Jurassic Park_, Dr. Grant risks his life to save the children, an act that's out of character with his "thesis" of avoiding uncontrollable futures. Yet it gives a significant hint at where his character will be by the end of the story.
 
@@ -91,7 +91,7 @@ In _Pride and Prejudice_, at the All is Lost moment, Elizabeth's fifteen-year-ol
 
 In the beginning of the third act, the protagonist has often accepted the truth of the synthesis but not yet fully embraced it. That's what happens in the climactic moment. 
 
-The protagonist may face a temptation to return to the thesis. She must reject that temptation and completely inhabit the synthesis. <cite>(<a href="/bibliograpby#mazin2019">Mazin</a>)</cite>
+The protagonist may face a temptation to return to the thesis. She must reject that temptation and completely inhabit the synthesis. <cite>(<a href="/bibliography#mazin2019">Mazin</a>)</cite>
 
 For example, there's a moment in _Star Wars: A New Hope_ in which Luke must choose between using the conventional method of defeating the enemy — represented by use of his targeting computer — versus giving himself up to the mystical Force tradition to which he has been introduced. At the enouragement of Obi-Wan to "Trust the Force," Luke chooses to believe. He switches off the targeting computer, and his decision results in victory.
 
