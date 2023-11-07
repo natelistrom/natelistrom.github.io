@@ -19,7 +19,7 @@ Where does this repetition come from?
 
 I think it emerges naturally from the process of iterating and refining. In my work as a designer, I often need to iterate through multiple attempts at a solution. We develop a concept about the problem we are trying to solve or a solution to a problem that we've identified and then we test it out. Like a carpenter building a bench, we observe it from different angles, "sit in it" to see if it's comfortable.
 
-Inevitably, the first few attemtps will have obvious things wrong with them. But they weren't obvious until we made the attempt. Only in making the thing and observing it — in taking it out of our heads and putting it in the world — are we able to see the holes in our concept.
+Inevitably, the first few attempts will have obvious things wrong with them. But they weren't obvious until we made the attempt. Only in making the thing and observing it — in taking it out of our heads and putting it in the world — are we able to see the holes in our concept.
 
 We must go back, fix the problems, and try again.
 
