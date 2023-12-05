@@ -190,14 +190,35 @@ h2 + h3 {
 p {
   margin: 1.5rem 0;
 }
+tr {
+  th, td {
+    border-bottom: 1px solid $colorBorderLight;
+  }
+  &:last-child {
+    th, td {
+      border: none;
+    }
+  }
+}
+td, th {
+  text-align: left;
+  padding: 0.5rem 1rem;
+  ul, li {
+    padding: 0;
+    margin: 0 0 0 1rem;
+  }
+}
+th {
+  background: $colorBackgroundLight;
+}
 #content,
 .site-footer {
-  p, ul, ol {
+  p, ul, ol, td, th {
     font-size: 0.8rem;
     line-height: 1.4rem;
     margin: 1.2rem 0;
   }
-  .meta, aside, figcaption, .summary {
+  .meta, aside, figcaption, .summary, small {
     font-size: 0.7rem;
     line-height: 1.2rem;
   }
@@ -226,7 +247,13 @@ blockquote {
   padding-left: 1rem;
   border-left: 0.2rem solid $colorPrimary;
 }
-
+table {
+  border: 1px solid $colorBorderLight;
+  border-collapse: separate;
+  border-radius: $borderRadius;
+  table-layout: fixed;
+  width: 100%;
+}
 sup {
   font-size: 0.75rem;
   vertical-align: top;
@@ -289,6 +316,9 @@ code {
   font-size: 0.7rem;
   line-height: 1.2rem;
   padding: 0 0.25rem;
+}
+small {
+  color: $colorTextSecondary;
 }
 aside, .summary {
   @include font-secondary;
