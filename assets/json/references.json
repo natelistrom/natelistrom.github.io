@@ -1,5 +1,17 @@
 [
     {
+        "id":"aristotle1895",
+        "author":"Aristotle.",
+        "authorShort":"Aristotle",
+        "date":"1895.",
+        "title":"Poetics",
+        "titleShort":"Poetics",
+        "titleLink":null,
+        "body":"English translation by S. H. Butcher, MacMillan and Co, London, 1895. Kindle Edition.",
+        "type":"book",
+        "img":null
+    },
+    {
         "id":"kowal2011a",
         "author":"Mary Robinette Kowal, Dan Wells, and Howard Tayler with Lou Anders.",
         "authorShort":"Kowal et al.",
@@ -120,6 +132,18 @@
         "img":null
     },
     {
+        "id":"coyneb",
+        "author":"Coyne, Shawn.",
+        "authorShort":"Coyne",
+        "date":null,
+        "title":"Stories Are About Change",
+        "titleShort":"Change",
+        "titleLink":"https://storygrid.com/stories-are-about-change/",
+        "body":"<em>The Story Grid</em>, published by Shawn Coyne.",
+        "type":"website",
+        "img":null
+    },
+    {
         "id":"cron2012",
         "author":"Cron, Lisa.",
         "authorShort":"Cron",
@@ -204,13 +228,25 @@
         "img":null
     },
     {
+        "id":"grahl2020",
+        "author":"Grahl, Tim and Shawn Coyne.",
+        "authorShort":"Grahl",
+        "date":"2020",
+        "title":"How to start a new novel.",
+        "titleShort":"Feedback",
+        "titleLink":"https://open.spotify.com/episode/6tZn9hLGvpPpgahAy30JtF",
+        "body":"<em>Story Grid Writing Podcast</em>, published Jan 2020. (<a href='https://storygrid.com/how-to-start-a-new-novel/'>Transcript.</a>)",
+        "type":"podcast",
+        "img":null
+    },
+    {
         "id":"harmon2009",
         "author":"Harmon, Dan.",
         "authorShort":"Harmon",
         "date":"2009",
         "title":"Story Structure 104: The Juicy Details.",
         "titleShort":"The Juicy Details",
-        "titleLink":"https://open.spotify.com/episode/1rhv7sT6MN6RmHcx5rKJsW",
+        "titleLink":"https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details",
         "body":"<em>Channel 101 Wiki</em>, Fandom.com. 2009.",
         "type":"website",
         "img":null

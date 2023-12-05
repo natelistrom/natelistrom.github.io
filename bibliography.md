@@ -19,6 +19,9 @@ image:  /assets/img/natelistrom-logo-144.png
 ## Books
 
 <ul>
+
+<li><a name="aristotle1895"></a>Aristotle. <em>Poetics.</em> English translation by S. H. Butcher, MacMillan and Co, London, 1895. Kindle Edition.</li>
+
 <li><a name="booker2004"></a>Booker, Christopher. <em>The Seven Basic Plots: Why We Tell Stories.</em> Bloomsbury Publishing, New York, NY. 2004. Kindle Edition.</li>
 
 <li><a name="bork2018"></a>Bork, Erik. <em>The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction.</em> Overfall Press, Thousand Oaks, CA, 2018. Kindle Edition.</li>
@@ -103,7 +106,9 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="bunting"></a>Bunting, Joe. <a href="https://thewritepractice.com/inciting-incident/">&ldquo;Inciting Incident: Definition, Examples, Types, and How to Start a Story Right.&rdquo;</a> <em>The Write Practice</em>, published by Joe Bunting.</li>
 
-<li><a name="harmon2009"></a>Harmon, Dan. <a href="https://open.spotify.com/episode/1rhv7sT6MN6RmHcx5rKJsW">&ldquo;Story Structure 104: The Juicy Details.&rdquo;</a> <em>Channel 101 Wiki</em>, Fandom.com. 2009.</li>
+<li><a name="coyneb"></a>Coyne, Shawn. <a href="https://storygrid.com/stories-are-about-change/">&ldquo;Stories Are About Change.&rdquo;</a> <em>The Story Grid</em>, published by Shawn Coyne.</li>
+
+<li><a name="harmon2009"></a>Harmon, Dan. <a href="https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details">&ldquo;Story Structure 104: The Juicy Details.&rdquo;</a> <em>Channel 101 Wiki</em>, Fandom.com. 2009.</li>
 
 <li><a name="price2011"></a>Price, David A. <a href="https://www.davidaprice.com/pixar-story-rules">&ldquo;&lsquo;Pixar Story Rules&rsquo; (2011).&rdquo;</a> davidaprice.com published by David A. Price.</li>
 
@@ -118,6 +123,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <ul>
 <li><a name="grahl2016"></a>Grahl, Tim and Shawn Coyne. <a href="https://open.spotify.com/episode/1rhv7sT6MN6RmHcx5rKJsW">&ldquo;When to get feedback from other writers.&rdquo;</a> <em>Story Grid Writing Podcast</em>, published 31 March 2016. (<a href='https://storygrid.com/highconcepts/'>Transcript: &ldquo;High Concepts&rdquo;.</a>)</li>
+
+<li><a name="grahl2020"></a>Grahl, Tim and Shawn Coyne. <a href="https://open.spotify.com/episode/6tZn9hLGvpPpgahAy30JtF">&ldquo;How to start a new novel.&rdquo;</a> <em>Story Grid Writing Podcast</em>, published Jan 2020. (<a href='https://storygrid.com/how-to-start-a-new-novel/'>Transcript.</a>)</li>
 
 <li><a name="kowal2011"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses 6.10: Scott Card's M.I.C.E. Quotient.&rdquo;</a> <em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)</li>
 
