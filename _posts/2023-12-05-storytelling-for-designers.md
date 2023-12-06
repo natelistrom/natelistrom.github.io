@@ -263,7 +263,7 @@ Here's the structure:
 
 By juxtaposing a before and after image, these product ads powerfully convey meaning. (In this case, "You should use this product because it will have a similar effect in your life.") 
 
-It works because of the contrast. The sharp comparison identifies _what_ changed based on the event (or series of events) in the middle. In effect, it provides the audience with an interpretation of those events.
+It works [because of the contrast]({% post_url 2022-12-19-comparison-creates-meaning %}). The sharp comparison identifies _what_ changed based on the event (or series of events) in the middle. In effect, it provides the audience with an interpretation of those events.
 
 Compare these two examples:
 
@@ -275,7 +275,7 @@ Compare these two examples:
 
 In both cases, the event in the middle is the same — learning to ride a bike. But the key thing that changed is different depending on the before and after images.
 
-In classic change arc story structure, we do something similar. We bracket the arc of change with a before and after image, which provide the necessary context for your audience to understand what the story was really about.
+In classic change arc story structure, we do something similar. We [bracket]({% post_url 2023-01-12-bracketing %}) the arc of change with a before and after image, which provide the necessary context for your audience to understand what the story was really about.
 
 ![A diagram of the change arc with new "before" and "after" sections added to the ends](/assets/img/storytelling-and-design-06.jpg)
 
