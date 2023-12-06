@@ -11,7 +11,7 @@ read_next: "Distinguishing between structure and style in design"
 
 ![A cursor pointer, floating within a speech bubble, hovered over a button that says "story"](/assets/img/storytelling-and-design-00.jpg)
 
-<p class="dropCap">How do you share your ideas in a way that helps people <em>truly</em> see them? How can you help folks pick them up, like nuggets of gold, hefting their weight, feeling their texture, and perhaps stashing them away for later use? In 2020, I faced this question as I was preparing for a talk.</p>
+<p class="dropCap">How do you share your ideas in a way that helps people <em>truly</em> see them? How can you help folks pick them up, like nuggets of gold, hefting their weight, feeling their texture, and perhaps stashing them away for later use? In 2020, I faced this question.</p>
 
 I was the only designer in my business unit at Microsoft, responsible for supporting multiple product and engineering teams. There was no way I could do everything.
 
@@ -23,17 +23,17 @@ You see, good product design is more than a kit of components, tools, and patter
 
 I knew I couldn’t ask my partners to care about design theory as much as I did. That's not their job. But it mattered for the outcomes we sought.
 
-My talk needed to be both low-effort and lasting for my audience. What tool or technique could achieve that?
+To connect with my audience, my talk needed to be both low-effort and lasting. What could achieve that?
 
 Answer: Stories.
 
 Stories are a communication superpower. They _transform ideas into experiences_, making them more clear, more engaging, and more memorable.
 
-So, I sat down in my little upstairs home office (one corner of the spare bedroom) and thought about story ideas for my talk. 
+So, I sat down in my little upstairs home office (one corner of the spare bedroom — it was during the COVID lockdowns) and rummaged around in my brain for story ideas. 
 
-For instance, most folks have at least one story about a delivery driver mishandling a package or dropping it off in an inconvenient location. I had a story like that. It made a good illustration of the fact that, although the customer experience is just one small part of a large supply chain, it has out-sized impact.
+For instance, most folks have had an experience with a delivery driver mishandling a package or dropping it off in an inconvenient location. (No shade on delivery drivers! They have a tough job.) I had a story like that. It made a good illustration of the fact that, although the customer experience is just one small part of a large supply chain, it has out-sized impact.
 
-I searched for more stories like that. By the end, I had different one to introduce each major concept. 
+I searched for more examples like that. By the end, I had different story to introduce each major concept. 
 
 Then I practiced and prepared. 
 
@@ -43,9 +43,9 @@ We got back to work, and I forgot all about it.
 
 More than a year passed.
 
-Then one day, the conversation in a meeting turned to storytelling. One of my coworkers brought up my talk. He shared how it has stuck with him, especially the personal stories from my life.
+Then one day, a meeting conversation turned to storytelling. One of my coworkers brought up my talk. He shared how it has stuck with him, especially the personal stories from my life.
 
-I was both honored and surprised. Honored that he thought it worth mentioning and surprised that it made such an impression. It brought home to me the effectiveness of storytelling in a way that I'd always believed intuitively but never before witnessed so directly.
+I was both honored and surprised. Honored that he thought it worth mentioning and surprised that it made such an impression. It brought home to me something I'd always believed intuitively but never before witnessed so directly. Story has power to connect in ways that no other communication can.
 
 ---
 
