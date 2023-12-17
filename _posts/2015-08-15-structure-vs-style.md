@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: Design Craft Structure
 maturity: note
 reading_time: 6 min
+read_next: "Shinichi Suzuki and the three domains of mastery"
 ---
 
 ---
