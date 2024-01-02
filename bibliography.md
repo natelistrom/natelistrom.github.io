@@ -126,7 +126,7 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="grahl2020"></a>Grahl, Tim and Shawn Coyne. <a href="https://open.spotify.com/episode/6tZn9hLGvpPpgahAy30JtF">&ldquo;How to start a new novel.&rdquo;</a> <em>Story Grid Writing Podcast</em>, published Jan 2020. (<a href='https://storygrid.com/how-to-start-a-new-novel/'>Transcript.</a>)</li>
 
-<li><a name="kowal2011"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses 6.10: Scott Card's M.I.C.E. Quotient.&rdquo;</a> <em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)</li>
+<li><a name="kowal2011"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses 6.10: Scott Card&rsquo;s M.I.C.E. Quotient.&rdquo;</a> <em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)</li>
 
 <li><a name="kowal2011a"></a>Kowal, Mary Robinnette, Dan Wells, and Howard Tayler with Lou Anders. <a href="https://writingexcuses.com/2011/10/02/writing-excuses-6-18-hollywood-formula">&ldquo;6.18: The Hollywood Formula, with Lou Anders&rdquo;</a> Interview with Lou Anders. <em>Writing Excuses.</em> Podcast audio. Oct 2, 2011. (<a href='https://wetranscripts.livejournal.com/49969.html'>Transcript</a>).</li>
 
@@ -141,7 +141,7 @@ image:  /assets/img/natelistrom-logo-144.png
 <ul>
 <li><a name="glass2009"></a>Glass, Ira. <a href="https://www.thisamericanlife.org/extras/ira-glass-on-storytelling">&ldquo;Ira Glass on Storytelling 1.&rdquo;</a> July 2, 2009. Interview with Current TV.</li>
 
-<li><a name="sanderson2021"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=QZXBKbg9p4E">&ldquo;Let's Talk About Twists.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 4 February 2021.</li>
+<li><a name="sanderson2021"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=QZXBKbg9p4E">&ldquo;Let&rsquo;s Talk About Twists.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 4 February 2021.</li>
 
 <li><a name="sanderson2021a"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=nJfraWAvYkc">&ldquo;Chef Writer VS Cook Writer.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 2 February 2021.</li>
 </ul>
