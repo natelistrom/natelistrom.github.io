@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why study craft?"
-date:   2022-12-16 12:00:00 -0400
+date:   2055-01-01 12:00:00 -0400
 tags: [Story, Craft]
 maturity: scribble
 reading_time: 1 min
