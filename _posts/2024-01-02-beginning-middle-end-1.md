@@ -6,7 +6,7 @@ date:   2024-01-02 12:00:00 -0400
 tags: [Beginning middle end, Primitives, Story structure, Story, Craft]
 maturity: scribble
 reading_time: 2 min
-read_next: "Thesis, antithesis, and synthesis"
+read_next: "Beginning, middle, and end part 2: In search of a useful framework"
 ---
 
 > "No doubt you have heard the old adage: 'Every story must have a beginning, a middle, and an end.' . . . Many plays met their Waterloo for the very reason that their authors, consciously or otherwise, obeyed this Aristotelian dictum."  
