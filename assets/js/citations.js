@@ -78,7 +78,7 @@ if (document.querySelectorAll('cite').length > 0) {
                         // Add html elements as appropriate
                         let titleBefore = "&ldquo;";
                         let titleAfter = "&rdquo;";
-                        if (m.type == "book") {
+                        if (m.type == "book" || m.type == "screenplay") {
                             titleBefore = "<em>";
                             titleAfter = "</em>";
                         };

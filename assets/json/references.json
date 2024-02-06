@@ -4,10 +4,22 @@
         "author":"Aristotle.",
         "authorShort":"Aristotle",
         "date":"1895.",
-        "title":"Poetics",
+        "title":"Poetics.",
         "titleShort":"Poetics",
         "titleLink":null,
         "body":"English translation by S. H. Butcher, MacMillan and Co, London, 1895. Kindle Edition.",
+        "type":"book",
+        "img":null
+    },
+    {
+        "id":"austen1813",
+        "author":"Jane Austen.",
+        "authorShort":"Austen",
+        "date":"1813.",
+        "title":"Pride and Prejudice.",
+        "titleShort":"Pride and Prejudice",
+        "titleLink":null,
+        "body":"Public Domain Books, June 1998. Originally published 1813 by T. Egerton (London). Kindle Edition.",
         "type":"book",
         "img":null
     },
@@ -264,6 +276,18 @@
         "img":null
     },
     {
+        "id":"koepp1992",
+        "author":"Koepp, David.",
+        "authorShort":"Koepp",
+        "date":"1992",
+        "title":"Jurassic Park.",
+        "titleShort":"Jurassic Park",
+        "titleLink":null,
+        "body":"Final Shooting 11.10.92 ed. Amblin Entertainment. 1992. Screenplay. (Available from <a href='https://davidkoepp.com/script-archive/jurassic-park/'>davidkoepp.com</a>.)",
+        "type":"screenplay",
+        "img":null
+    },
+    {
         "id":"kowal2011",
         "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
         "authorShort":"Kowal et al.",
@@ -272,6 +296,18 @@
         "titleShort":"MICE Quotient",
         "titleLink":"https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/",
         "body":"<em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)",
+        "type":"podcast",
+        "img":null
+    },
+    {
+        "id":"kowal2020",
+        "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
+        "authorShort":"Kowal et al.",
+        "date":"2011",
+        "title":"Writing Excuses 15.25: Using the MICE Quotient for Conflict.",
+        "titleShort":"MICE Conflict",
+        "titleLink":"https://writingexcuses.com/15-25-using-the-mice-quotient-for-conflict/",
+        "body":"<em>Writing Excuses</em>, published 25 June 2020. (<a href='https://wetranscripts.dreamwidth.org/172123.html'>Transcript.</a>)",
         "type":"podcast",
         "img":null
     },

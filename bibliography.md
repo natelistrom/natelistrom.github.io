@@ -12,6 +12,7 @@ image:  /assets/img/natelistrom-logo-144.png
 <li><a href="#web">Web posts</a></li>
 <li><a href="#podcasts">Podcasts</a></li>
 <li><a href="#videos">Videos</a></li>
+<li><a href="#screenplays">Screenplays</a></li>
 </ul>
 
 
@@ -21,6 +22,8 @@ image:  /assets/img/natelistrom-logo-144.png
 <ul>
 
 <li><a name="aristotle1895"></a>Aristotle. <em>Poetics.</em> English translation by S. H. Butcher, MacMillan and Co, London, 1895. Kindle Edition.</li>
+
+<li><a name="austen1813"></a>Austen, Jane. <em>Pride and Prejudice.</em> Public Domain Books, June 1998. Originally published 1813 by T. Egerton (London). Kindle Edition.</li>
 
 <li><a name="booker2004"></a>Booker, Christopher. <em>The Seven Basic Plots: Why We Tell Stories.</em> Bloomsbury Publishing, New York, NY. 2004. Kindle Edition.</li>
 
@@ -132,6 +135,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="kowal2016"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/11-32-the-element-of-humor/">&ldquo;11.32: The Element of Humor.&rdquo;</a> <em>Writing Excuses.</em> Aug 7, 2016. (<a href='https://wetranscripts.livejournal.com/118930.html'>Transcript.</a>)</li>
 
+<li><a name="kowal2020"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/15-25-using-the-mice-quotient-for-conflict/">&ldquo;15.25: Using the MICE Quotient for Conflict.&rdquo;</a> <em>Writing Excuses.</em> Jun 25, 2020. (<a href='https://wetranscripts.dreamwidth.org/'>Transcript.</a>)</li>
+
 <li><a name="mazin2019"></a>Mazin, Craig. <a href="https://johnaugust.com/2019/how-to-write-a-movie">&ldquo;How to Write a Movie.&rdquo;</a> <em>Scriptnotes</em>, published 4 June 2019. (<a href='https://johnaugust.com/2019/scriptnotes-ep-403-how-to-write-a-movie-transcript'>Transcript.</a>)</li>
 </ul>
 
@@ -144,4 +149,11 @@ image:  /assets/img/natelistrom-logo-144.png
 <li><a name="sanderson2021"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=QZXBKbg9p4E">&ldquo;Let&rsquo;s Talk About Twists.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 4 February 2021.</li>
 
 <li><a name="sanderson2021a"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=nJfraWAvYkc">&ldquo;Chef Writer VS Cook Writer.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 2 February 2021.</li>
+</ul>
+
+
+<a name="screenplays"></a>
+## Screenplays
+<ul>
+<li><a name="koepp1992"></a>Koepp, David. <em>Jurassic Park.</em> Final Shooting 11.10.92 ed. Amblin Entertainment. 1992. Screenplay. (Available from <a href="https://davidkoepp.com/script-archive/jurassic-park/">davidkoepp.com</a>.)</li>
 </ul>
