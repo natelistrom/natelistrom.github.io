@@ -218,7 +218,7 @@ th {
     line-height: 1.4rem;
     margin: 1.2rem 0;
   }
-  .meta, aside, figcaption, .summary, small {
+  .meta, aside, aside p, figcaption, .summary, small {
     font-size: 0.7rem;
     line-height: 1.2rem;
   }
@@ -227,6 +227,11 @@ th {
   }
   aside {
     margin-bottom: 1.2rem;
+    p {
+      margin: 0.8rem 0;
+      &:first-child {margin-top: 0;}
+      &:last-child {margin-bottom: 0;}
+    }
   }
 }
 a {
