@@ -2,7 +2,7 @@
     <div>
         <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
+                {{ post.title | smartify }}
             </a>
         </h3>
         <small>
