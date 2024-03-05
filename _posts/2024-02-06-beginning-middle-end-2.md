@@ -6,7 +6,7 @@ date:   2024-02-06 12:00:00 -0400
 tags: [Beginning middle end, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 8 min
-read_next: "Thesis, antithesis, and synthesis"
+read_next: "Beginning, middle, and end part 3: Story types"
 ---
 
 ---
