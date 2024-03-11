@@ -18,6 +18,6 @@
 </span>
 {% if page.description %}
     <p class="summary"><strong>Summary: </strong>
-        {{page.description}}
+        {{page.description | smartify}}
     </p>
 {% endif %}
