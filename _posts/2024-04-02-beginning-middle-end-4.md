@@ -64,7 +64,7 @@ So the question is, how does this fit an idea story?
 
 In an idea story, the "something that happens, which establishes a trajectory" is about raising a key question that the audience and — most often — the protagonist wants answered. (There are some stories in which the protagonist is at first reluctant to investigate.)
 
-Pure idea stories don't require much establishing setup. They can successfully open on a scene, like the discovery of a body or the arrival of aliens, which introduces the central question. This differentiates them from character and event stories, which generally hinge much more tightly on the introduction of the protagonist and her [call to adventure]({ post_url 2021-07-23-inciting-incident }).
+Pure idea stories don't require much establishing setup. They can successfully open on a scene, like the discovery of a body or the arrival of aliens, which introduces the central question. This differentiates them from character and event stories, which generally hinge much more tightly on the introduction of the protagonist and her [call to adventure]({% post_url 2021-07-23-inciting-incident %}).
 
 **_Harry Potter and the Chamber of Secrets_**
 
