@@ -129,9 +129,13 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="grahl2020"></a>Grahl, Tim and Shawn Coyne. <a href="https://open.spotify.com/episode/6tZn9hLGvpPpgahAy30JtF">&ldquo;How to start a new novel.&rdquo;</a> <em>Story Grid Writing Podcast</em>, published Jan 2020. (<a href='https://storygrid.com/how-to-start-a-new-novel/'>Transcript.</a>)</li>
 
-<li><a name="kowal2011"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;Writing Excuses 6.10: Scott Card&rsquo;s M.I.C.E. Quotient.&rdquo;</a> <em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)</li>
+<li><a name="kowal2011"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/">&ldquo;6.10: Scott Card&rsquo;s M.I.C.E. Quotient.&rdquo;</a> <em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)</li>
 
 <li><a name="kowal2011a"></a>Kowal, Mary Robinnette, Dan Wells, and Howard Tayler with Lou Anders. <a href="https://writingexcuses.com/2011/10/02/writing-excuses-6-18-hollywood-formula">&ldquo;6.18: The Hollywood Formula, with Lou Anders&rdquo;</a> Interview with Lou Anders. <em>Writing Excuses.</em> Podcast audio. Oct 2, 2011. (<a href='https://wetranscripts.livejournal.com/49969.html'>Transcript</a>).</li>
+
+<li><a name="kowal2014"></a>Kowal, Mary Robinnette, Dan Wells, and Howard Tayler with Lou Anders. <a href="https://writingexcuses.com/writing-excuses-9-32-adjusting-character-proactivity/">&ldquo;9.32: Adjusting Character Proactivity.&rdquo;</a> <em>Writing Excuses.</em> Podcast audio. Aug 5, 2014. (<a href='https://wetranscripts.livejournal.com/91225.html'>Transcript</a>).</li>
+
+<li><a name="kowal2016a"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/11-14-the-element-of-adventure/">&ldquo;11.14: The Element of Adventure.&rdquo;</a> <em>Writing Excuses.</em> Apr 11, 2016. (<a href='https://wetranscripts.livejournal.com/114311.html'>Transcript.</a>)</li>
 
 <li><a name="kowal2016"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/11-32-the-element-of-humor/">&ldquo;11.32: The Element of Humor.&rdquo;</a> <em>Writing Excuses.</em> Aug 7, 2016. (<a href='https://wetranscripts.livejournal.com/118930.html'>Transcript.</a>)</li>
 

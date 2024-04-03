@@ -292,7 +292,7 @@
         "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
         "authorShort":"Kowal et al.",
         "date":"2011",
-        "title":"Writing Excuses 6.10: Scott Card's M.I.C.E. Quotient.",
+        "title":"6.10: Scott Card's M.I.C.E. Quotient.",
         "titleShort":"MICE Quotient",
         "titleLink":"https://writingexcuses.com/writing-excuses-6-10-scott-cards-m-i-c-e-quotient/",
         "body":"<em>Writing Excuses</em>, published 7 August 2011. (<a href='https://wetranscripts.livejournal.com/47936.html'>Transcript.</a>)",
@@ -300,11 +300,23 @@
         "img":null
     },
     {
+        "id":"kowal2014",
+        "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
+        "authorShort":"Kowal et al.",
+        "date":"2014",
+        "title":"9.32: Adjusting Character Proactivity.",
+        "titleShort":"Proactivity",
+        "titleLink":"https://writingexcuses.com/writing-excuses-9-32-adjusting-character-proactivity/",
+        "body":"<em>Writing Excuses</em>, published 5 August 2014. (<a href='https://wetranscripts.livejournal.com/91225.html'>Transcript.</a>)",
+        "type":"podcast",
+        "img":null
+    },  
+    {
         "id":"kowal2020",
         "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
         "authorShort":"Kowal et al.",
         "date":"2011",
-        "title":"Writing Excuses 15.25: Using the MICE Quotient for Conflict.",
+        "title":"15.25: Using the MICE Quotient for Conflict.",
         "titleShort":"MICE Conflict",
         "titleLink":"https://writingexcuses.com/15-25-using-the-mice-quotient-for-conflict/",
         "body":"<em>Writing Excuses</em>, published 25 June 2020. (<a href='https://wetranscripts.dreamwidth.org/172123.html'>Transcript.</a>)",
@@ -441,6 +453,18 @@
         "titleLink":null,
         "body":"Second edition. University of Texas Press, 2009. Kindle Edition.",
         "type":"book",
+        "img":null
+    },
+    {
+        "id":"kowal2016a",
+        "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
+        "authorShort":"Kowal et al.",
+        "date":"2016",
+        "title":"11.14: The Element of Adventure.",
+        "titleShort":"The Element of Adventure",
+        "titleLink":"https://writingexcuses.com/11-14-the-element-of-adventure/",
+        "body":"<em>Writing Excuses.</em> Apr 11, 2016. (<a href='https://wetranscripts.livejournal.com/114311.html'>Transcript.</a>)",
+        "type":"podcast",
         "img":null
     },
     {
