@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-logo-144.png
 tags: [Story, Craft, Story structure, Structure]
 maturity: note
 reading_time: 6 min
+read_next: "How Orson Scott Card's MICE quotient maps to internal and external genres of narrative drive"
 ---
 
 ---

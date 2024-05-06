@@ -6,7 +6,7 @@ date:   2024-03-05 12:00:00 -0400
 tags: [Beginning middle end, Primitives, MICE quotient, Story structure, Story, Craft]
 maturity: note
 reading_time: 4 min
-read_next: "How Orson Scott Card's MICE quotient maps to internal and external genres of narrative drive"
+read_next: "Beginning, middle, and end part 4: Idea stories"
 ---
 
 ---
