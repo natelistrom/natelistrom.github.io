@@ -6,6 +6,7 @@ date:   2024-04-02 12:00:00 -0400
 tags: [Beginning middle end, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 10 min
+read_next: "Beginning, middle, and end part 5: Character stories part 1"
 ---
 
 > “Drama cannot exist without change; arguably it is change, so in a world where detectives stay constantly the same, what fuels the dramatic engine? In a classic episode of _Columbo_ or _Inspector Morse_, the protagonist seeks the ‘truth’ that lies behind the crime they’re investigating . . . Rather than a _flaw_, these characters have a deficiency of _knowledge_.”  
