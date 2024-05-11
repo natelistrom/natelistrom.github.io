@@ -163,7 +163,7 @@ In _Rendezvous with Rama_, the biggest dilemma comes when the alien vessel's tra
 
 #### Epiphany
 
-The epiphany momment isn’t, itself, the revelation of the answer to the question. Rather, it’s the moment that establishes certainty that the answer _will_ be revealed. Hope is restored.
+The epiphany moment isn’t, itself, the revelation of the answer to the question. Rather, it’s the moment that establishes certainty that the answer _will_ be revealed. Hope is restored.
 
 The protagonist may discover the answer at this point, but it won't yet be revealed to the audience.
 
