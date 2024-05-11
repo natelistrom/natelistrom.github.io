@@ -153,7 +153,7 @@ Elizabeth's misjudgments of Darcy and Wickham make her ideal unreachable. With e
 
 **_Jurassic Park_**
 
-In _Jurassic Park_, Dr. Grant and the other experts marvel at the wonders of the park. But then they begin to explore the implications more seriously. They speculating about negative consequences. 
+In _Jurassic Park_, Dr. Grant and the other experts marvel at the wonders of the park. But then they begin to explore the implications more seriously. They speculate about negative consequences. 
 
 Park owner John Hammond's grandchildren arrive. They're a test audience, representing the park's target market. Dr. Grant tries politely to avoid them. He ends up spending time with Dr. Malcolm instead, a man who wholeheartedly embraces the chaotic uncertainty of the future. Humorously, Dr. Malcolm's casual relationship with uncertainty makes Dr. Grant uncomfortable.
 
