@@ -66,7 +66,7 @@ Let's look at a more complex example from Steven Spielberg's 1993 film, _Jurassi
 
 At the midpoint of the film, the Tyrannosaurus Rex escapes its paddock. There are two sets of characters in the scene, Lex and Timmy, children, and Dr. Grant and Dr. Malcolm, scientists. The children are in one car and the scientists in another.  
 
-As the collossal predator inspects the two vehicles, Dr. Grant instructs Dr. Malcolm not to move. Grant has studied these animals, and he understands that the T-Rex's vision is movement-based. If he and Dr. Malcolm don't move, they will be safe. That's the first beat.
+As the colossal predator inspects the two vehicles, Dr. Grant instructs Dr. Malcolm not to move. Grant has studied these animals, and he understands that the T-Rex's vision is movement-based. If he and Dr. Malcolm don't move, they will be safe. That's the first beat.
 
 Then comes the second beat. To their horror, the scientists watch as the children in the other car try to scare off the dinosaur by vigorously moving their flashlight around. Sure enough, the T-Rex notices the movement and snaps its attention to the children's car. 
 

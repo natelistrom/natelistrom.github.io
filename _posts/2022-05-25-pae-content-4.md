@@ -44,7 +44,7 @@ In a post-experiment survey, the participants who were exposed to the more meani
 
 Priming works by exposing a person to some kind of input, which leaves a “residual trace,” in neural pathways, making future activation of the same pathways easier. <cite>(<a href="/bibliography#schoeller2016">Schoeller and Perlovsky</a>)</cite>
 
-In my very limited knowledge, <sup class="aside">A</sup> the kind of priming that Schoeller and Perlovsky employed is a short-term phenomenon. It wouldn't work, for example, for them to have their participants be exposed to the prime, go shopping at the mall, and then return to watch the choreography video. By that time, the neural pathways activated but the prime would no longer "be warm," so the it would have no effect.
+In my very limited knowledge, <sup class="aside">A</sup> the kind of priming that Schoeller and Perlovsky employed is a short-term phenomenon. It wouldn't work, for example, for them to have their participants be exposed to the prime, go shopping at the mall, and then return to watch the choreography video. By that time, the neural pathways activated but the prime would no longer "be warm," so it would have no effect.
 
 <aside>A. I don't know much about priming. The literature here appears deep, and so far, I've only read this one paper on it. I may do more research here but, in the interests of working in the open, I'm going ahead with this discussion now. That means I could be misrepresenting the science and my conclusions could be very wrong. You have been warned.</aside>
 

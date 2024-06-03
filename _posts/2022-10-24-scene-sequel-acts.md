@@ -22,7 +22,7 @@ Swain's focus is on the level of individual scenes, but I believe you can apply 
 
 ![A diagram showing scene and sequel with goal, conflict, disaster, reaction, dilemma, and decision plotted on a sine wave](/assets/img/scene-sequel-act-1.png)
 
-In Swain's framework, Scenes are an action-based progression of what he calls goal, conflict, and disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 85)</cite> The protagonist has a desire she is pursuing (goal). Some form of opposition threatens her ability to obtain the object of her desire (conflict). Then, when the conflict reaches its peak, there comes a crescendo: a "logical, yet unanticipated development" ends her plans in in disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 89)</cite>
+In Swain's framework, Scenes are an action-based progression of what he calls goal, conflict, and disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 85)</cite> The protagonist has a desire she is pursuing (goal). Some form of opposition threatens her ability to obtain the object of her desire (conflict). Then, when the conflict reaches its peak, there comes a crescendo: a "logical, yet unanticipated development" ends her plans in disaster. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 89)</cite>
 
 Sequels are the response, a progression of what Swain calls reaction, dilemma, and decision. <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 100)</cite> Reeling from the shock of the disaster, the protagonist must process what has happened, take stock, and form a new plan. 
 
