@@ -6,7 +6,7 @@ date:   2024-05-07 12:00:00 -0400
 tags: [Beginning middle end, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 9 min
-read_next: "Applying scene sequel format to story structure"
+read_next: "Beginning, middle, and end part 6: Character stories part 2"
 ---
 
 > "The Lie Your Character Believes is the foundation for his character arc. This is what’s wrong in his world. Once you know what’s wrong, you then get to set about figuring out how to make it right."  
