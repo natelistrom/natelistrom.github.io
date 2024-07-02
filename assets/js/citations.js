@@ -87,11 +87,18 @@ if (document.querySelectorAll('cite').length > 0) {
                         // Add link to title if one exists
                         if (m.titleLink != null) {
                             m.title = "<a href='" + m.titleLink + "'>" + m.title + "</a>";
-                        }
+                        };
 
                         let str_refContent = m.author + " " + m.title + " " + m.body + " " + cLoc;
                         let str_refTitle = titleBefore + m.titleShort + "." + titleAfter;
-                        let str_refAuthor = m.authorShort + ".";
+
+                        // Add trailing period to author if none exists
+                        let str_refAuthor = "No author";
+                        if (m.authorShort.endsWith('.')) {
+                            str_refAuthor = m.authorShort;
+                        } else {
+                            str_refAuthor = m.authorShort + ".";
+                        };
                     
                         arr_refsList.push([str_refContent, str_refTitle, cLoc, str_refAuthor]);
 
