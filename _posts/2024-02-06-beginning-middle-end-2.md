@@ -15,6 +15,18 @@ read_next: "Beginning, middle, and end part 3: Story types"
 
 But it turns out Aristotle wasn't primarily concerned with structure. His point was that a story should be complete and uncontaminated. It should contain every necessary part of itself and nothing else.
 
+Granted that structure wasn't his focuse, in this note we'll explore what Aristotle's formula does and doesn't say about story structure.
+
+This note is a part of a series.
+
+1. [Aristotle misinterpreted]({% post_url 2024-01-02-beginning-middle-end-1 %})
+2. In search of a useful framework
+3. [Story types]({% post_url 2024-03-05-beginning-middle-end-3 %})
+4. [Idea stories]({% post_url 2024-04-02-beginning-middle-end-4 %})
+5. [Character stories part 1]({% post_url 2024-05-07-beginning-middle-end-5 %})
+6. [Character stories part 2]({% post_url 2024-06-04-beginning-middle-end-6 %})
+7. [Event stories]({% post_url 2024-07-02-beginning-middle-end-7 %})
+
 ## A puzzle with a piece missing
 
 There's an irony here. Although Aristotle wasn't concerned with structure _per se_, his prescriptions about wholeness _can_ lend us some structural insight. 

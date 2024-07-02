@@ -6,7 +6,7 @@ date:   2024-06-04 12:00:00 -0400
 tags: [Beginning middle end, Primitives, Story structure, Story, Craft]
 maturity: note
 reading_time: 11 min
-read_next:  "The realm of appropriate payoffs"
+read_next: "Beginning, middle, and end part 7: Event stories"
 ---
 
 > "To carry an emotional appeal to an audience, a story must not only show the _results_ of a method of problem solving, but must _document the appropriateness of each step_ as well."  
@@ -14,7 +14,19 @@ read_next:  "The realm of appropriate payoffs"
 
 ---
 
-This is the second of a two-part note. See the [first part here]().
+## Recap
+
+This note is a part of a series.
+
+1. [Aristotle misinterpreted]({% post_url 2024-01-02-beginning-middle-end-1 %})
+2. [In search of a useful framework]({% post_url 2024-02-06-beginning-middle-end-2 %})
+3. [Story types]({% post_url 2024-03-05-beginning-middle-end-3 %})
+4. [Idea stories]({% post_url 2024-04-02-beginning-middle-end-4 %})
+5. [Character stories part 1]({% post_url 2024-05-07-beginning-middle-end-5 %})
+6. Character stories part 2
+7. [Event stories]({% post_url 2024-07-02-beginning-middle-end-7 %})
+
+This is the second of two parts on character stories. See the [first part here]({% post_url 2024-05-07-beginning-middle-end-5 %}).
 
 As a reminder, we're trying to develop a [useful structural framework]({% post_url 2024-02-06-beginning-middle-end-2 %}) based on Aristotle's "beginning, middle, and end." Aristotle's definitions give us clarity for the beginning and end, and we're using Dwight Swain's scene-sequel format to fill in the middle.
 

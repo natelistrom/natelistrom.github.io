@@ -20,6 +20,18 @@ read_next: "Beginning, middle, and end part 6: Character stories part 2"
 - The emotional fulfillment audiences derive from character stories is catharsis, often from the reaffirmation of their [deeply-held values]({% post_url 2022-04-05-pae-investment %}#values-investment-in-ideas).
 - The key turning points in character stories are the protagonist's decisions.
 
+## Recap
+
+This note is a part of a series.
+
+1. [Aristotle misinterpreted]({% post_url 2024-01-02-beginning-middle-end-1 %})
+2. [In search of a useful framework]({% post_url 2024-02-06-beginning-middle-end-2 %})
+3. [Story types]({% post_url 2024-03-05-beginning-middle-end-3 %})
+4. [Idea stories]({% post_url 2024-04-02-beginning-middle-end-4 %})
+5. Character stories part 1
+6. [Character stories part 2]({% post_url 2024-06-04-beginning-middle-end-6 %})
+7. [Event stories]({% post_url 2024-07-02-beginning-middle-end-7 %})
+
 As a reminder, we're trying to develop a [useful structural framework]({% post_url 2024-02-06-beginning-middle-end-2 %}) based on Aristotle's "beginning, middle, and end." Aristotle's definitions give us clarity for the beginning and end, and we're using Dwight Swain's scene-sequel format to fill in the middle.
 
 Here's what that looks like:

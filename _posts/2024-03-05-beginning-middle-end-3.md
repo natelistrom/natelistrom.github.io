@@ -15,6 +15,16 @@ read_next: "Beginning, middle, and end part 4: Idea stories"
 
 In this note, we'll continue our exploration of beginning, middle, and end by introducing a simple taxonomy of story types with which we can test our new structural framework to see if it holds up.
 
+This note is a part of a series.
+
+1. [Aristotle misinterpreted]({% post_url 2024-01-02-beginning-middle-end-1 %})
+2. [In search of a useful framework]({% post_url 2024-02-06-beginning-middle-end-2 %})
+3. Story types
+4. [Idea stories]({% post_url 2024-04-02-beginning-middle-end-4 %})
+5. [Character stories part 1]({% post_url 2024-05-07-beginning-middle-end-5 %})
+6. [Character stories part 2]({% post_url 2024-06-04-beginning-middle-end-6 %})
+7. [Event stories]({% post_url 2024-07-02-beginning-middle-end-7 %})
+
 ## Orson Scott Card and the 3 types of change
 
 To thoroughly evaluate any framework, we need to make sure it works for a broad range of different story types. But how do you determine what that range ought to be? We need a system for identifying what makes stories different.

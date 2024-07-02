@@ -37,3 +37,15 @@ What Aristotle is saying — as near as I can tell — is that a story should co
 - The middle is the thing that connects the two, the [chain of meaningfully related events]({% post_url 2022-12-07-anecdote-reflection %}) between the beginning of causality and the end of necessity.
 
 Aristotle's point isn’t (primarily, at least) to identify different structural sections of a story. His point is that a story should be _whole_.
+
+---
+
+This note is a part of a series. In the rest of the series, we'll unpack a few (hopefully) useful ways to apply the concepts of beginning, middle, and end.
+
+1. Aristotle misinterpreted
+2. [In search of a useful framework]({% post_url 2024-02-06-beginning-middle-end-2 %})
+3. [Story types]({% post_url 2024-03-05-beginning-middle-end-3 %})
+4. [Idea stories]({% post_url 2024-04-02-beginning-middle-end-4 %})
+5. [Character stories part 1]({% post_url 2024-05-07-beginning-middle-end-5 %})
+6. [Character stories part 2]({% post_url 2024-06-04-beginning-middle-end-6 %})
+7. [Event stories]({% post_url 2024-07-02-beginning-middle-end-7 %})
