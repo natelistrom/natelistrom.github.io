@@ -332,6 +332,20 @@ aside, .summary {
   display: block;
   padding: 1rem;
 }
+#content .example {
+  @include font-secondary;
+  @include font-sans;
+  border-radius: $borderRadius;
+  background: rgba($colorPrimary, 0.1);
+  display: block;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  p {
+    line-height: 1.25rem;
+    &:first-child {margin-top: 0;}
+    &:last-child {margin-bottom: 0;}
+  }
+}
 aside.inline {
   overflow: hidden;
 }
@@ -542,6 +556,11 @@ svg.center {
   position: relative;
   top: 3px;
 }
+#content img {
+  // Center images
+  display: block;
+  margin: 0 auto;
+}
 
 /* --- Special elements --- */
 
@@ -549,7 +568,7 @@ svg.center {
   @include font-sans; 
 }
 
-.dropCap:first-letter {
+.dropCap::first-letter {
   @include font-sans;
   color: $colorPrimary;
   float: left;
