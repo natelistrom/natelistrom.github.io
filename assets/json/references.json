@@ -168,6 +168,18 @@
         "img":null
     },
     {
+        "id":"dicks2018",
+        "author":"Dicks, Matthew.",
+        "authorShort":"Dicks",
+        "date":"2018",
+        "title":"Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling.",
+        "titleShort":"Storyworthy",
+        "titleLink":null,
+        "body":"New World Library. Novato, CA, 2018. Kindle Edition.",
+        "type":"book",
+        "img":null
+    },
+    {
         "id":"egri2004",
         "author":"Egri, Lajos.",
         "authorShort":"Lajos",
@@ -249,6 +261,18 @@
         "titleLink":"https://open.spotify.com/episode/6tZn9hLGvpPpgahAy30JtF",
         "body":"<em>Story Grid Writing Podcast</em>, published Jan 2020. (<a href='https://storygrid.com/how-to-start-a-new-novel/'>Transcript.</a>)",
         "type":"podcast",
+        "img":null
+    },
+    {
+        "id":"guyot2023",
+        "author":"Guyot, Paul.",
+        "authorShort":"Guyot",
+        "date":"2023",
+        "title":"Kill the Dog: The First Book on Screenwriting to Tell You the Truth.",
+        "titleShort":"Kill the Dog",
+        "titleLink":null,
+        "body":"Domestique, Inc. Los Angeles, CA, 2023. Kindle Edition.",
+        "type":"book",
         "img":null
     },
     {

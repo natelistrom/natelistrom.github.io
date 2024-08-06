@@ -31,17 +31,21 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="campbell2020"></a>Campbell, Joseph. <em>The Hero with a Thousand Faces.</em> 2020 Collected Works Edition. Joseph Campbell Foundation, New York, NY, 2020. Kindle Edition.</li>
 
-<li><a name="card2010"></a>Card, Orson Scott. <em>Elements of Fiction Writing &ndash; Character &amp; Viewpoint.</em> F+W Media, Cincinnati, OH: 2010. Kindle Edition.</li>
+<li><a name="card2010"></a>Card, Orson Scott. <em>Elements of Fiction Writing &ndash; Character &amp; Viewpoint.</em> F+W Media. Cincinnati, OH, 2010. Kindle Edition.</li>
 
 <li><a name="coyne2015"></a>Coyne, Shawn. <em>Story Grid: What Good Editors Know.</em> Black Irish Entertainment LLC. 2015.</li>
 
-<li><a name="cron2012"></a>Cron, Lisa. <em>Wired for Story: The Writers Guide to Using Brain Science to Hook Readers from the Very First Sentence.</em> Ten Speed Press, New York, NY 2012. Kindle Edition.</li>
+<li><a name="cron2012"></a>Cron, Lisa. <em>Wired for Story: The Writers Guide to Using Brain Science to Hook Readers from the Very First Sentence.</em> Ten Speed Press. New York, NY, 2012. Kindle Edition.</li>
+
+<li><a name="dicks2018"></a>Dicks, Matthew. <em>Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling.</em> New World Library. Novato, CA. 2018. Kindle Edition.</li>
 
 <li><a name="egri2004"></a>Egri, Lajos. <em>The Art of Dramatic Writing: Its Basis in the Creative Interpretation of Human Motives.</em> First Touchstone Edition. Touchstone. New York, NY, 2004. Kindle Edition.</li>
 
 <li><a name="field2005"></a>Field, Syd. <em>Screenplay: the foundations of screenwriting.</em> Revised edition. Random House Publishing Group, 2005. Kindle Edition.</li>
 
 <li><a name="freytag1895"></a>Freytag, Gustav. <em>Technique of the Drama.</em> Translated: Elias J. MacEwan. 6th German ed. Chicago: S.C. Griggs & Company, 1895.</li>
+
+<li><a name="guyot2023"></a>Guyot, Paul. <em>Kill the Dog: The First Book on Screenwriting to Tell You the Truth.</em> Domestique, Inc. Los Angeles, CA, 2023. Kindle Edition.</li>
 
 <li><a name="mamet1998"></a>Mamet, David. <em>Three Uses of the Knife.</em> First Vintage Books Edition, 2000. Knopf Doubleday Publishing Group, 1998. Kindle Edition.</li>
 
