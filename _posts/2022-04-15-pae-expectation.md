@@ -40,7 +40,7 @@ Unless you're ready to swim, there are only a few ways to get across the Grand C
 
 There were two options: the Ponte dell'Academia to the South or the Ponte di Rialto to the North. I'd been walking around the city for most of a day at this point and had already visited both bridges, so I felt I had a pretty good idea of the general geography.
 
-We talked and decided to cross the Rialto. I wasn't sure exactly how to get there, but I knew that the Grand Canal to the West, and that the Rialto was north of us. So, it made sense to head out through the winding streets in a roughly northwesterly direction.
+We talked and decided to cross the Rialto. I wasn't sure exactly how to get there, but I knew that the Grand Canal was to the West, and that the Rialto was north of us. So, it made sense to head out through the winding streets in a roughly northwesterly direction.
 
 Unfortunately, I hadn't accounted for the fact that the Grand Canal makes a large cut-back, almost like a backward letter "S" as it snakes through the city. This meant that there was more city to the West of us than I expected, and the Rialto was more north of us, rather than west. 
 
