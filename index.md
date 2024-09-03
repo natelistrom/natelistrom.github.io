@@ -4,12 +4,12 @@ title:  Nate Listrom
 image:  /assets/img/natelistrom-logo-144.png
 ---
 
-👋 Hi there.
+<p class="banner">Explore the hidden mechanisms that make stories work</p>
 
-I'm a multi-disciplinary creative living in Raleigh, North Carolina, USA.
+I'm a [UX](https://en.wikipedia.org/wiki/User_experience_design) professional investigating the intersection of story theory, neuroscience, and design. Join me as I pursue the art and science of crafting compelling, deeply satisfying stories.
 
-I've been drawing since I was a child, fiddling around with `HTML` and `CSS` since 2003, and doing design professionally since 2008.
+## Start here
 
-My work includes product design and web design, illustration, logo design and branding, print design, and a (very) little bit of video.
-
-When I'm not drawing pictures, I like to learn about stories and how they work.
+- 👉 **Discover the neuroscience behind emotional payoffs** with a 12-part series on [**peak aesthetic experiences**](/tag/peak+aesthetic+experiences.html).
+- 👉 **Examine story structure beyond frameworks** like the Hero's Journey and Snyder's beat sheet with essays on [**story structure primitives**](/tag/primitives.html).
+- 👉 **Consider fresh perspectives on familiar topics** like [**scenes and sequels**]({% post_url 2022-10-24-scene-sequel-acts %}), the [**MICE quotient**]({% post_url 2022-11-13-mice-internal-external %}), [**red herrings**]({% post_url 2023-08-27-red-herrings-and-satisfying-twists %}), [**_Deus ex Machina_**]({% post_url 2023-08-12-deus-ex-machina-and-satisfying-story-ending %}), and [more](/notes.html).
