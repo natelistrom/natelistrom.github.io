@@ -624,6 +624,15 @@ a.category:hover {
   color: $colorBorderLight;
 }
 
+.remove {
+  height: 0;
+  width: 0;
+  padding: 0;
+  margin: 0;
+  top: -32rem;
+  position: absolute;
+}
+
 #subscribe {
   background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.075), rgba($colorPrimary, 0.15));
   display: block;
