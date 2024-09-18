@@ -659,7 +659,10 @@ a.category:hover {
     margin-top: 1rem;
     color: $colorTextSecondary;
   }
-  form div {display: flex;}
+  form div {
+    display: flex;
+    flex-flow: row wrap;
+  }
   input {
     @include font-sans;
     display: inline-block;
@@ -668,16 +671,23 @@ a.category:hover {
     border: 1px solid $colorBorderLight;
     border-radius: $borderRadius;
     padding: 0.325rem 0.75rem;
+    @media screen and (max-width: 439px) {
+      margin-bottom: 0.5rem;
+    }
     &:first-child {
-      border-top-right-radius: 0;
-      border-bottom-right-radius: 0;
+      @media screen and (min-width: 440px) {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+      }
       flex-grow: 1;
     }
     &[type=submit] {
       background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.75), rgba($colorPrimary, 1));
       border: none;
-      border-top-left-radius: 0;
-      border-bottom-left-radius: 0;
+      @media screen and (min-width: 440px) {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+      }
       color: $colorWhite;
       font-weight: 600;
       padding-left: 1.25rem;
