@@ -537,6 +537,14 @@ svg.center {
   @include shadow;
 }
 
+.font-sans {
+    @include font-sans; 
+}
+
+.font-bold {
+  font-weight: 600;
+}
+
 /* --- Generic styles --- */
 
 .title {
