@@ -213,7 +213,7 @@ th {
 }
 #content,
 .site-footer {
-  p, ul, ol, td, th {
+  p, ul, ol, td, th, label, input {
     font-size: 0.8rem;
     line-height: 1.4rem;
     margin: 1.2rem 0;
@@ -622,6 +622,55 @@ a.category:hover {
 
 .pipe {
   color: $colorBorderLight;
+}
+
+#subscribe {
+  background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.075), rgba($colorPrimary, 0.15));
+  display: block;
+  padding: 1.75rem 1.5rem 2rem;
+  margin-bottom: 1.25rem;
+  form, h4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 24rem;
+  }
+  h4 {margin-top: 0; margin-bottom: 0.8rem;}
+  label {
+    display: block;
+    margin-bottom: 0.25rem;
+    margin-top: 1rem;
+    color: $colorTextSecondary;
+  }
+  form div {display: flex;}
+  input {
+    @include font-sans;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 1px solid $colorBorderLight;
+    border-radius: $borderRadius;
+    padding: 0.325rem 0.75rem;
+    &:first-child {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      flex-grow: 1;
+    }
+    &[type=submit] {
+      background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.75), rgba($colorPrimary, 1));
+      border: none;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      color: $colorWhite;
+      font-weight: 600;
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      cursor: pointer;
+      &:hover {
+        background-color: rgba($colorPrimary, 0.9);
+      }
+    }
+  }
 }
 
 /* --- Flyout --- */
