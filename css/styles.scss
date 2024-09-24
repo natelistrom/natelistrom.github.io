@@ -162,7 +162,6 @@ html {
 
 body {
   background-color: $colorWhite;
-  border-top: 8px solid $colorPrimary; 
   line-height: 1.5; /* Override css reset */
 }
 h1, h2, h3, h4, h5, h6, #content p.banner {
@@ -501,17 +500,58 @@ figcaption {
 .pageWrapper {
   margin: 0 auto;
   overflow-x: hidden; // prevent horizontal scroll from mis-positioned flyouts
-  padding: 5rem 0;
+  padding: 3.5rem 0 5rem 0;
 }
 .pageWrapper > header {
   margin-bottom: 2.5rem;
-  height: 6rem;
+  height: 5.5rem;
 }
 .wrapper {
   margin: 0 auto;
   max-width: $wrapperWidth;
   padding: 0 1rem; // Margins for small screens
   position: relative;
+}
+
+.site-nav {
+  @include font-sans();
+  // background-color: $colorPrimary;
+  border-top: 8px solid $colorPrimary;
+  color: $colorWhite;
+  font-weight: 600;
+  font-size: 0.8rem; // same as font secondary, but FS has color as well
+  display: block;
+  padding: 0;
+  ul {
+    margin: 4px auto 0 auto;
+    max-width: $wrapperWidth + 2rem;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      a {
+        display: block;
+        color: $colorPrimary;
+        background-image: none;
+        padding: 0.25rem;
+        span {
+          padding: 0.25rem 0.5rem;
+          border-radius: $borderRadius;
+        }
+        &:hover {
+          text-decoration: none;
+          span { background-color: $colorBackgroundPrimary; }
+        }
+        &:active {
+          span { background-color: rgba($colorPrimary, 0.25); }
+        }
+      }
+    }
+  }
 }
 
 /* --- Utilities --- */
