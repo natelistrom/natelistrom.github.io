@@ -22,7 +22,9 @@ He grew up reading Tolkien and C. S. Lewis and Isaak Asimov and watching Disney 
 
 In high school, Nate dabbled around with writing his own fiction but never really took it anywhere. 
 
-Then, in 2013, he finally had a story idea that was small enough he thought he could manage it. he wrote a 13,000-word first draft that, over time, balooned into a 120,000-word, novel-length piece. When he got to the end, he was so proud of himself. Moment's later, he was horrified. He knew his work badly needed revision, and he had no idea how to do that with something so large and complex.
+Then, in 2013, he finally had a story idea that was small enough he thought he could manage it. He wrote a 13,000-word first draft, which eventually balooned into a 120,000-word, novel-length piece. 
+
+When he got to the end, he was so proud of himself. Moments later, he was horrified. He knew his work badly needed revision, and he had no idea how to do that.
 
 That began a years-long journey of learning about what he would learn is called "story theory" &mdash; the study of story as a subject in itself.
 
