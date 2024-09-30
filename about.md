@@ -18,7 +18,7 @@ Before Microsoft, Nate worked in the nonprofit space doing print and web design,
 
 Nate loves storytelling.
 
-He grew up reading Tolkien and C. S. Lewis and Isaak Asimov and watching Disney films during the golden age with the greats, like _Beauty and the Beast_, _Aladdin_, and _The Lion King_. 
+He grew up reading Tolkien and C. S. Lewis and Isaac Asimov and watching Disney films during the golden age with the greats, like _Beauty and the Beast_, _Aladdin_, and _The Lion King_. 
 
 In high school, Nate dabbled around with writing his own fiction but never really took it anywhere. 
 
