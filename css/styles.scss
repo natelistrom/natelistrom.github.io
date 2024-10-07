@@ -852,3 +852,51 @@ a.category:hover {
     display: none;
   }
 }
+
+/* --- Custom Page Styles --- */
+
+html.tantalus {
+  background: $colorNeutral;
+}
+
+body.tantalus {
+  color: rgba($colorWhite, 0.8);
+  h1, h2, h3, h4, h5, h6 {
+    color: $colorWhite;
+  }
+  #content h1 {
+    text-align: center;
+    font-size: 4rem;
+    position: relative;
+    top: -13rem;
+    margin: 0;
+    height: 0;
+  }
+  #content .wrapper p:first-child {
+    margin: 0;
+    height: 18rem;
+  }
+  background-color: $colorNeutral;
+  background-image: url("/assets/img/tantalus-background.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 1440px 810px;
+  hr {
+    border-bottom: 1px solid rgba($colorWhite, 0.25);    
+  }
+  .site-nav {
+    margin-top: 0;
+    padding-top: 4px;
+    border-top: none;
+    a, a:hover, a:active, a:visited {
+      color: $colorWhite;
+    }
+    a:hover {
+      color: $colorSecondary;
+      span {background-color: rgba($colorSecondary, 0.25);}
+    }
+  }
+  .dropCap::first-letter {
+    color: $colorWhite;
+  }
+}
