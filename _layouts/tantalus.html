@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" style="background-color: #000;">
+
+  {%- include _head.html -%}
+
+  <body class="tantalus">
+    {%- include _nav.html -%}
+
+    <div class="pageWrapper tantalus">
+
+    <main class="page-content" aria-label="Content" id="content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include _footer.html -%}
+    </div>
+
+  </body>
+
+</html>
