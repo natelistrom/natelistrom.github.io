@@ -1,12 +1,10 @@
 ---
 layout: tantalus
-title:  Tantalus' Mirror
+title:  The Mirror of Tantalus
 image:  /assets/img/natelistrom-logo-144.png
 ---
 
-<img src="/assets/img/tantalus-foreground.png" height="360px" width="360px" alt="Geometric shapes reflecting a background of stars" style="position: relative; top: -2rem;" />
-
-# Tantalus' Mirror
+# The Mirror of Tantalus (Beta)
 
 ## Part 1
 
