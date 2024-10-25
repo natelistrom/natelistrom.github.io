@@ -864,13 +864,17 @@ body.tantalus {
   h1, h2, h3, h4, h5, h6 {
     color: $colorWhite;
   }
+  a, a:hover, a:active, a:visited {
+    color: $colorWhite;
+    text-decoration: underline;
+  }
   #content h1 {
     text-align: center;
     font-size: 4rem;
 //    margin: 0;
   }
   background-color: $colorNeutral;
-  background-image: url("/assets/img/tantalus-background.png");
+  background-image: url("/assets/img/tantalus-background.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 1440px 810px;
@@ -883,6 +887,7 @@ body.tantalus {
     border-top: none;
     a, a:hover, a:active, a:visited {
       color: $colorWhite;
+      text-decoration: none;
     }
     a:hover {
       color: $colorSecondary;
@@ -891,5 +896,13 @@ body.tantalus {
   }
   .dropCap::first-letter {
     color: $colorWhite;
+  }
+  .site-footer a.site-title .colorPrimary,
+  .site-footer a.site-title .colorSecondary,
+  .site-footer a.site-title .colorNeutral  {
+    fill: $colorNeutral;
+  }
+  .site-footer a.site-title .colorWhite {
+    fill: rgba($colorWhite, 0.25);
   }
 }
