@@ -1570,3 +1570,17 @@ She looked at the picture of Captain Philo's little girls on the wall. She could
 Charis' dad had told her she'd do the impossible one day.
 
 He was right.
+
+---
+
+#### Dear reader, thank you — and I need your help (yes, you!)
+
+This is a beta version of _The Mirror of Tantalus_. I intend to do one more revision before publishing the final story.
+
+Would you be willing to help me? I need feedback on what's working in the story and where I can make improvements.
+
+👉 If you're up for it, please [**fill out this form &rarr;**](https://forms.gle/Jaq929G9Svydyuqi9) 
+
+(It should only take you about 5 minutes.)
+
+And regardless of whether you give feedback or not, thank you for taking the time to read my little story. I deeply appreciate you being here.
