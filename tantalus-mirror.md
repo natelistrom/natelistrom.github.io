@@ -186,7 +186,7 @@ Better to get it right the first time.
 
 Then, on her display, she saw the first potential wrinkle in the plan. One of the edges of a gravity vortex was blooming especially far from Tantalus' tail. It would intersect with their course briefly.
 
-The _Confluence's_ computer ran some helpful calculations and projected a glowing blue line, recommending a course that would keep them safe while using the vortex' gravity to pull them forward and save some fuel.
+The _Confluence's_ computer ran some helpful calculations and projected a glowing blue line, recommending a course that would keep them safe while using the vortex's gravity to pull them forward and save some fuel.
 
 Charis eased them onto the new course, nudging the thruster controls lightly. She remembered the first time she’d ever piloted a ship. She must have been five or six, sitting in her dad’s lap. Her tiny hands were so small they could barely hold the yoke. 
 
@@ -1087,7 +1087,7 @@ Dr. Sofia nodded, a look of comprehension dawning on her face. "You're right. Wh
 
 Charis glanced at Alex. He was staring out the viewports at the tiny, flickering dot of the other ship.
 
-She keyed in a command to stop the lights flickering and send the pulse pattern to the thrusters instead.
+Charis checked the status report. Sometime in the intervening minutes, auto-repair had done its magic on the maneuvering system. She keyed in a command to stop the lights flickering and send the pulse pattern to the thrusters instead.
   
 She set it to only repeat three times. They couldn’t afford to spend much of their precious fuel — not with that leak — but it would be worth it if they could get help. The other ship seemed to be doing fine on fuel, since they were continuing to maneuver.  
   
@@ -1443,7 +1443,7 @@ They looked at each other for a long moment, shoulders rising and falling with e
   
 “No. You told the whole truth.” She took a breath and shuddered. “Maybe for the first time since you suggested that I pilot this mission. Is that why I'm here? Because you thought you could use me?”
 
-Strangely, she didn't feel shock or surprise. Just a profound sense of loss. When did Alex stop being the brother she knew and become this person she didn't even recognize? How long had their trajectories been diverging?
+Strangely, she didn't feel shock or surprise. Just a profound sense of loss. When did Alex stop being the brother she knew and become this person she didn't even recognize? How long had their paths been diverging?
 
 “Charis, I need you to send that telemetry.”
   
