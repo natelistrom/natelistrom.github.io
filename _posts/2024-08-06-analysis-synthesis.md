@@ -84,3 +84,18 @@ Second, don't get disheartened if the instruction from successful storytellers i
 Third, if you're like me and you simply derive joy from understanding — if the analysis itself is part of the fun — that's perfectly okay. Keep digging. Keep pulling things apart and putting them back together. The world _does_ need good builders of pickaxes. You're not a failure for loving that part. (Just don't present yourself as something you're not.)
 
 As for me? Well, I _do_ love the analysis and teaching parts. I'll keep doing that. But I got into this in the beginning because I wanted to tell stories, too, not just talk about the theory behind them. So I'm spending some time working on that. I've got a new short piece I'm working on, and I can't wait to share it with you when it's ready.
+
+---
+
+#### Update
+
+My short piece is finished! (Okay, well, the beta version is finished . . .) 
+
+Take a look and see if all the analysis has helped any with synthesis.
+
+**_The Mirror of Tantalus_**  
+<small>Novelette (17K words; around a 2hr read)</small>
+
+<p><a href="/tantalus-mirror"><img src="/assets/img/tantalus-book-cover.png" alt="a book cover with a background of stars and a shining, geometric figure in the foreground" width="108px" height="144px" style="float: left; padding-right: 1rem;" /></a> When a strange interstellar object enters Earth&rsquo;s system, Charis Samogost joins an unlikely alliance of nations sent to investigate. As they draw nearer to their goal, loyalties are tested, and Charis must decide what&rsquo;s most important to her &mdash; and what she&rsquo;s willing to do to get it.</p>
+
+[**Read _The Mirror of Tantalus_ &rarr;**](/tantalus-mirror)
