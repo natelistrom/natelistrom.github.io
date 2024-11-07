@@ -91,14 +91,12 @@ Onward!
 
 ## You (yes, you!) can help
 
-The thing I need most right now is feedback on the story. What's working and what still could be better? I'd love your opinion.
+I need your feedback to make the story better.
 
-**First, [read _The Mirror of Tantalus_ &rarr;](/tantalus-mirror)**  
-<small>Time commitment: about 2hr</small>
+**First, read _The Mirror of Tantalus_**
 
-<p><a href="/tantalus-mirror"><img src="/assets/img/tantalus-book-cover.png" alt="a book cover with a background of stars and a shining, geometric figure in the foreground" width="84px" height="112px" style="float: left; padding-right: 1rem;" /></a> When a strange interstellar object enters Earth&rsquo;s system, Charis Samogost joins an unlikely alliance of nations sent to investigate. As they draw nearer to their goal, loyalties are tested, and Charis must decide what&rsquo;s most important to her &mdash; and what she&rsquo;s willing to do to get it.</p>
+{%- include __blurbTantalus.html -%}
 
-**After that, [fill out a brief feedback form &rarr;](https://forms.gle/tftkD89pmyvv5SSu5)**  
-<small>Time commitment: about 5min</small>
+**After that, [fill out a 5 min feedback form &rarr;](https://forms.gle/tftkD89pmyvv5SSu5)**  
 
-And thank you for being here and catching up with my little journey.
+. . . And thank you for being here and catching up with my little journey.

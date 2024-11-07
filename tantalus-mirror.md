@@ -1579,8 +1579,6 @@ This is a beta version of _The Mirror of Tantalus_. I intend to do one more revi
 
 Would you be willing to help me? I need feedback on what's working in the story and where I can make improvements.
 
-👉 If you're up for it, please [**fill out this form &rarr;**](https://forms.gle/tftkD89pmyvv5SSu5) 
-
-(It should only take you about 5 minutes.)
+👉 If you're up for it, please [**fill out this 5 min feedback form &rarr;**](https://forms.gle/tftkD89pmyvv5SSu5) 
 
 And regardless of whether you give feedback or not, thank you for taking the time to read my little story. I deeply appreciate you being here.
