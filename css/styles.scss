@@ -853,6 +853,40 @@ a.category:hover {
   }
 }
 
+#content .book-blurb {
+  // TO DO: refactor blue boxes to be a generic, reusable style (gray boxes too...)
+  background-color: $colorBackgroundPrimary;
+  border-radius: $borderRadius;
+  display: flex;
+  gap: 1rem;
+  padding: 2rem;
+  h4, small, p { margin: 0; }
+  .img-container {
+    flex-shrink: 0;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  #content .book-blurb { flex-direction: column; }
+}
+
+#content a.button {
+  // TO DO: abstract out re-usable button styles
+  background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.75), rgba($colorPrimary, 1));
+  border: none;
+  border-radius: $borderRadius;
+  display: inline-block;
+  color: $colorWhite;
+  font-weight: 600;
+  padding: 0.25rem 1.25rem;
+  margin: 0.25rem 0.5rem 0.25rem 0; // TO DO: change to flexbox
+  cursor: pointer;
+  &:hover {
+    background-color: rgba($colorPrimary, 0.9);
+    text-decoration: none;
+  }
+}
+
 /* --- Custom Page Styles --- */
 
 html.tantalus {
