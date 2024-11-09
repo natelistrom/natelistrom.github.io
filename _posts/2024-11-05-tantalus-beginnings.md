@@ -15,6 +15,8 @@ reading_time: 6 min
 
 I hope this window into the process is useful to you, dear reader, as you work on your own projects.
 
+<aside><p><strong>Spoiler warning</strong><br />This note contains spoilers. If you care about that kind of thing, <a href="/stories">read <em>The Mirror of Tantalus</em> first</a>. You have been warned.</p></aside>
+
 ## An idea for an experiment (Dec 2020 - Apr 2023)
 
 _Tantalus_ started in December of 2020 as an idea for an experiment. 
