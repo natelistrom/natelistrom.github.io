@@ -15,7 +15,7 @@ read_next: "Beginning, middle, and end part 3: Story types"
 
 But it turns out Aristotle wasn't primarily concerned with structure. His point was that a story should be complete and uncontaminated. It should contain every necessary part of itself and nothing else.
 
-Granted that structure wasn't his focuse, in this note we'll explore what Aristotle's formula does and doesn't say about story structure.
+Granted that structure wasn't his focus, in this note we'll explore what Aristotle's formula does and doesn't say about story structure.
 
 This note is a part of a series.
 
