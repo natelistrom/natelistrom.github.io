@@ -816,6 +816,10 @@ a.category:hover {
 /* --- Responsive --- */
 
 @media screen and (max-width: 480px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
   .categories {
     display: block;
 
