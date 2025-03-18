@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Beautiful Teetch
+title:  Beautiful Teeth
 image:  /assets/img/beautiful-teeth-levi-nunnink-cover.png
 ---
 
