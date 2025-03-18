@@ -311,7 +311,7 @@ svg {
 img {
   max-width: 100%;
 }
-code {
+pre, code {
   color: $colorTextSecondary;
   background: $colorBackgroundMedium;
   border-radius: $borderRadius;
@@ -320,6 +320,17 @@ code {
   font-size: 0.7rem;
   line-height: 1.2rem;
   padding: 0 0.25rem;
+}
+pre, pre code {
+  display: block;
+  background: $colorNeutral;
+  color: $colorWhite;
+}
+pre code {
+  padding: 0.25rem 0.5rem;
+}
+pre {
+  margin: 1.2rem 0;
 }
 small {
   color: $colorTextSecondary;
@@ -865,6 +876,7 @@ a.category:hover {
   display: flex;
   gap: 1rem;
   padding: 2rem;
+  margin-bottom: 1.2rem;
   h4, small, p { margin: 0; }
   .img-container {
     flex-shrink: 0;
