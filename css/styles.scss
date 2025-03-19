@@ -327,11 +327,18 @@ pre, pre code {
   color: $colorWhite;
   white-space: normal;
 }
-pre code {
-  padding: 0.25rem 0.5rem;
-}
 pre {
   margin: 1.2rem 0;
+  padding: 0.75rem 1rem;
+}
+pre.uppercase, pre .uppercase {
+  text-transform: uppercase;
+}
+pre.primary, pre .primary {
+  color: #99DDFF;
+}
+pre.secondary, pre .secondary {
+  color: #FFC4AB;
 }
 small {
   color: $colorTextSecondary;
