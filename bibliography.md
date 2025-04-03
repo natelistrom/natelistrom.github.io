@@ -154,6 +154,8 @@ image:  /assets/img/natelistrom-logo-144.png
 <ul>
 <li><a name="glass2009"></a>Glass, Ira. <a href="https://www.thisamericanlife.org/extras/ira-glass-on-storytelling">&ldquo;Ira Glass on Storytelling 1.&rdquo;</a> July 2, 2009. Interview with Current TV.</li>
 
+<li><a name="hague2017"></a>Hague, Michael. <a href="https://youtu.be/besI6G4p4nw">&ldquo;Screenwriting Plot Structure Masterclass.&rdquo;</a> <em>YouTube</em>, uploaded by Film Courage, Jan 10, 2017.</li>
+
 <li><a name="sanderson2021"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=QZXBKbg9p4E">&ldquo;Let&rsquo;s Talk About Twists.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 4 February 2021.</li>
 
 <li><a name="sanderson2021a"></a>Sanderson, Brandon. <a href="https://www.youtube.com/watch?v=nJfraWAvYkc">&ldquo;Chef Writer VS Cook Writer.&rdquo;</a> <em>YouTube</em>, uploaded by Brandon Sanderson, 2 February 2021.</li>
