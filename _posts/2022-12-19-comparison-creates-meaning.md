@@ -70,7 +70,7 @@ As the colossal predator inspects the two vehicles, Dr. Grant instructs Dr. Malc
 
 Then comes the second beat. To their horror, the scientists watch as the children in the other car try to scare off the dinosaur by vigorously moving their flashlight around. Sure enough, the T-Rex notices the movement and snaps its attention to the children's car. 
 
-The kids are now in mortal peril. The scene, already boiling with tension, reaches fever pitch.
+The kids are now in mortal peril. The rising tension, already simmering, now reaches boiling point.
 
 Spielberg and his writers masterfully employ these two beats to juxtapose the relative situations of the scientists and the children. Both sets of characters face the imminent threat of being eaten, but the similarity ends there.
 
