@@ -121,6 +121,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="tangcay2019"></a>Tangcay, Jazz. <a href="https://www.awardsdaily.com/2019/01/29/inteview-ken-duncan-on-building-the-animation-for-mary-poppins-returns/">&ldquo;Interview: Ken Duncan On Building The Animation For Mary Poppins Returns.&rdquo;</a> <em>Awards Daily.</em> Jan 30, 2019.</li>
 
+<li><a name="vaughan2025"></a>Vaughan, Tom. <a href="https://theweeklyemail.storyandplot.com/the-habit-of-making-choices/">&ldquo;The Habit of Making Choices&rdquo;</a> <em>Story and Plot Weekly Email.</em> Apr 15, 2025.</li>
+
 <li><a name="weiland2020"></a>Weiland, K. M. <a href="http://www.helpingwritersbecomeauthors.com/inciting-event-and-climactic-moment">&ldquo;The Crucial Link Between Your Story's Inciting Event and Climactic Moment.&rdquo;</a> <em>Helping Writers Become Authors</em>, published by K. M. Weiland, 14 September 2020.</li>
 </ul>
 
@@ -166,4 +168,5 @@ image:  /assets/img/natelistrom-logo-144.png
 ## Screenplays
 <ul>
 <li><a name="koepp1992"></a>Koepp, David. <em>Jurassic Park.</em> Final Shooting 11.10.92 ed. Amblin Entertainment. 1992. Screenplay. (Available from <a href="https://davidkoepp.com/script-archive/jurassic-park/">davidkoepp.com</a>.)</li>
+<li><a name="lucas1976"></a>Lucas, George. <em>Star Wars Episode IV: A New Hope.</em> Revised Fourth Draft. 1976. Screenplay. (Available from <a href="https://www.scriptslug.com/script/star-wars-episode-iv-a-new-hope-1977">scriptslug.com</a>.)</li>
 </ul>

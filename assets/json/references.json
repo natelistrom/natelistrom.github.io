@@ -444,6 +444,18 @@
         "img":null
     },
     {
+        "id":"lucas1976",
+        "author":"Lucas, George.",
+        "authorShort":"Lucas",
+        "date":"1976",
+        "title":"Star Wars IV: A New Hope.",
+        "titleShort":"A New Hope",
+        "titleLink":null,
+        "body":"Revised Fourth Draft. 1976. Screenplay. (Available from <a href='https://www.scriptslug.com/script/star-wars-episode-iv-a-new-hope-1977'>scriptslug.com</a>.)",
+        "type":"screenplay",
+        "img":null
+    },
+    {
         "id":"pelowski2015",
         "author":"Pelowski, Matthew.",
         "authorShort":"Pelowski",
@@ -609,6 +621,18 @@
         "titleLink":null,
         "body":"Farrar, Straus and Giroux, 2011. Kindle Edition.",
         "type":"book",
+        "img":null
+    },
+    {
+        "id":"vaughan2025",
+        "author":"Vaughan, Tom.",
+        "authorShort":"Vaughan",
+        "date":"2025",
+        "title":"The Habit of Making Choices.",
+        "titleShort":"Choices",
+        "titleLink":"https://theweeklyemail.storyandplot.com/the-habit-of-making-choices/",
+        "body":"<em>Story and Plot Weekly Email.</em> Apr 15, 2025.",
+        "type":"website",
         "img":null
     },
     {
