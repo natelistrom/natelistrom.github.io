@@ -30,7 +30,7 @@ Join the space wizard on an epic quest of course!
 
 Okay, dialing down the sarcasm for a moment . . .
 
-Buried under all the Saturday serial format, we've just witnessed a subtle and deft application of storytelling technique. Lucas deploys a perfect and powerful example of what author Dwight Swain called "scene and sequel."
+Buried under all the Saturday serial melodrama, we've just witnessed a subtle and deft application of storytelling technique. Lucas deploys a perfect and powerful example of what author Dwight Swain called "scene and sequel."
 
 ## What are scenes and sequels?
 
