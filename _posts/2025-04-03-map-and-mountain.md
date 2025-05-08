@@ -7,6 +7,7 @@ image:  /assets/img/natelistrom-character-event-social.png
 tags: [Story map, Structure, Story structure, Story, Craft]
 maturity: note
 reading_time: 7 min
+read_next: "Use one scene-sequel cycle each act"
 ---
 
 ![An illustration of a map](/assets/img/natelistrom-map.png)

@@ -7,6 +7,7 @@ image:  /assets/img/tantalus-book-cover.png
 tags: [The Mirror of Tantalus, Making of, Story]
 maturity: scribble
 reading_time: 5 min
+read_next: "Naming is hard: The making of 'The Mirror of Tantalus' (part five)"
 ---
 
 <img src="/assets/img/tantalus-book-cover.png" alt="a book cover with a background of stars and a shining, geometric figure in the foreground" style="max-width:240px;">
