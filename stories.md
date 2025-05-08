@@ -10,4 +10,6 @@ image:  /assets/img/natelistrom-logo-144.png
 
 {%- include __blurbTantalus.html -%}
 
+{%- include __blurbMaintenance.html -%}
+
 {%- include __blurbBeautifulTeeth.html -%}
