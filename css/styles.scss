@@ -217,6 +217,9 @@ th {
     line-height: 1.4rem;
     margin: 1.2rem 0;
   }
+  ul li ul, ul li ol, ol li ol, ol li ul {
+    margin: 0;
+  }
   .meta, aside, aside p, figcaption, .summary, small {
     font-size: 0.7rem;
     line-height: 1.2rem;
