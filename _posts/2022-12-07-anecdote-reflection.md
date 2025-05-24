@@ -19,7 +19,7 @@ In a [2009 interview](https://www.thisamericanlife.org/extras/ira-glass-on-story
 - An **anecdote** is a series of events. Glass defines it as a "sequence of actions. This happened, and that led to this next thing, and that led to this next thing . . ." <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite>
 - A **moment of reflection** is the "bigger something" that the narrative is all about. <cite>(<a href="/bibliography#glass2009">Glass</a>)</cite> 
 
-Glass developed his formula in nonfiction radio storytelling, but it can apply to fiction just as well. In fact, the form is nearly identical to what fiction author Dwight Swain called a “double-barreled attack” of “pleasurable tension plus ultimate satisfaction.” <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 130</sup>
+Glass developed his formula in nonfiction radio storytelling, but it can apply to fiction just as well. In fact, the form is nearly identical to what fiction author Dwight Swain called a “double-barreled attack” of “pleasurable tension plus ultimate satisfaction.” <cite>(<a href="/bibliography#swain1981">Swain</a>, Page 130)</cite>
 
 The anecdote creates a pleasurable tension as the series of events play out. The moment of reflection pays it off with satisfaction in some kind of resolution.
 
