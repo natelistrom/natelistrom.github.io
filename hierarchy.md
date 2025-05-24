@@ -94,7 +94,7 @@ To be engaging means that your audience wants to find out what happens. This rel
 **Notes for further reading:**
 
 - **How narrative drive works in the brain:**
-  - [Storytelling and the rule of three: trajectory and payoff]({ post_url 2023-07-04-rule-of-three })
+  - [Storytelling and the rule of three: trajectory and payoff]({% post_url 2023-07-04-rule-of-three %})
   - [Storytelling, neuroscience, and the rule of three: prediction and reward]({% post_url 2023-07-23-rule-of-three-prediction %})
 - **Types of narrative drive:**
   - [How Orson Scott Card’s MICE quotient maps to internal and external genres of narrative drive]({% post_url 2022-11-13-mice-internal-external %})
@@ -121,7 +121,7 @@ To be affecting means that your audience responds to your story with emotion, an
 
 Maya Angelou famously said, “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” 
 
-Storytelling is no different. People will forget if your story made sense or if they believed you or even if they were intesely interested. But they will never forget if your story made them truly, deeply feel.
+Storytelling is no different. People will forget if your story made sense or if they believed you or even if they were intensely interested. But they will never forget if your story made them truly, deeply feel.
 
 **Tips:**
 
@@ -187,7 +187,7 @@ The great classics, ancient and modern, work because they give people feelings a
   - [Story structure and theme in Ira Glass’ anecdote and reflection]({% post_url 2022-12-07-anecdote-reflection %})
   - [Creating story arcs with three-unit brackets]({% post_url 2023-01-12-bracketing %})
   - [Storytelling with large-scale, complex bracketing structures]({% post_url 2023-01-16-bracketing2 %})
-  - [Thesis, antithesis, and synthesis]({% post_url 2024-08-06-analysis-synthesis %})
+  - [Thesis, antithesis, and synthesis]({% post_url 2023-09-16-thesis-antithesis-synthesis %})
   - [7-part series on beginning, middle, and end](/tag/beginning+middle+end.html)
 
 **Resources I recommend:**
