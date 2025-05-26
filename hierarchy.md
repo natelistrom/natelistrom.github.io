@@ -150,7 +150,7 @@ Storytelling is no different. People will forget if your story made sense or if 
 
 ## Meaningful
 
-Meaning is about consequence. 
+Meaning is about significance. 
 
 At its most basic, meaning is about [transferring concepts to your audience's mind]({% post_url 2024-09-01-castles-and-concreteness %}). This is a return to the idea of clarity — of creating understanding — but on a deeper level. While clarity is about removing obstacles to comprehension, meaning is about imbuing your story with substance.
 
