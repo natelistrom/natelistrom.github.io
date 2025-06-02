@@ -312,6 +312,18 @@
         "img":null
     },
     {
+        "id":"kiyohito2016",
+        "author":"Kiyohito, Iigaya et al.",
+        "authorShort":"Kiyohito",
+        "date":"2016",
+        "title":"The modulation of savouring by prediction error and its effects on choice.",
+        "titleShort":"Savouring",
+        "titleLink":"https://doi.org/10.7554/eLife.13747",
+        "body":"<em>eLife</em>, 5:e13747. 2016.",
+        "type":"journal",
+        "img":null
+    },
+    {
         "id":"koepp1992",
         "author":"Koepp, David.",
         "authorShort":"Koepp",
@@ -356,6 +368,30 @@
         "titleShort":"MICE Conflict",
         "titleLink":"https://writingexcuses.com/15-25-using-the-mice-quotient-for-conflict/",
         "body":"<em>Writing Excuses</em>, published 25 June 2020. (<a href='https://wetranscripts.dreamwidth.org/172123.html'>Transcript.</a>)",
+        "type":"podcast",
+        "img":null
+    },
+    {
+        "id":"kowal2015",
+        "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells.",
+        "authorShort":"Kowal et al.",
+        "date":"2015",
+        "title":"10.36: How Does Context Shape Plot Twists?",
+        "titleShort":"Context and plot twists",
+        "titleLink":"https://writingexcuses.com/writing-excuses-10-36-how-does-context-shape-plot-twists/",
+        "body":"<em>Writing Excuses.</em> Published September 6, 2015. (<a href='https://wetranscripts.livejournal.com/106519.html'>Transcript.</a>)",
+        "type":"podcast",
+        "img":null
+    },
+    {
+        "id":"kowal2015a",
+        "author":"Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells with guest Kevin J. Anderson.",
+        "authorShort":"Kowal et al.",
+        "date":"2015",
+        "title":"10.39: Q&A on Plot Twists with Kevin J. Anderson",
+        "titleShort":"Plot twists Q&A",
+        "titleLink":"https://writingexcuses.com/writing-excuses-10-39-qa-on-plot-twists-with-kevin-j-anderson/",
+        "body":"<em>Writing Excuses.</em> Published September 27, 2015. (<a href='https://wetranscripts.livejournal.com/107299.html'>Transcript.</a>)",
         "type":"podcast",
         "img":null
     },

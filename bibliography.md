@@ -87,6 +87,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="kidd2015"></a>Kidd, Celeste, and Benjamin Y Hayden. <a href="https://doi.org/10.1016%2Fj.neuron.2015.09.010">&ldquo;The Psychology and Neuroscience of Curiosity.&rdquo;</a> <em>Neuron</em>, Vol 88, Issue 3. 04 November 2015.</li>
 
+<li><a name="kiyohito2016"></a>Kiyohito, Iigaya et al. <a href="https://doi.org/10.7554/eLife.13747">&ldquo;The modulation of savouring by prediction error and its effects on choice.&rdquo;</a> <em>eLife</em> 5:e13747, 2016.</li>
+
 <li><a name="lehne2015"></a>Lehne, Moritz and Stefan Koelsch. <a href="https://doi.org/10.3389/fpsyg.2015.00079">&ldquo;Toward a general psychological model of tension and suspense.&rdquo;</a> <em>Frontiers in Psychology.</em>, Vol 6. 11 February 2015.</li>
 
 <li><a name="menninghaus2015"></a>Menninghaus, Winfried, et al. <a href="https://doi.org/10.1371/journal.pone.0128451">&ldquo;Towards a Psychological Construct of Being Moved.&rdquo;</a> <em>PLOS ONE</em>, 4 June 2015.</li>
@@ -101,7 +103,7 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="vanlieshout2021"></a>van Lieshout, Lieke L F et al. <a href="https://doi.org/10.1371%2Fjournal.pone.0257011">&ldquo;Curiosity or savouring? Information seeking is modulated by both uncertainty and valence.&rdquo;</a> <em>PloS one</em>, vol. 16,9 e0257011. 24 September 2021.</li>
 
-<li><a name="wassiliwizky2017"></a>Wassiliwizky, Eugen et al. <a href="https://doi.org/10.3389/fpsyg.2017.00041">&ldquo;Tears Falling on Goosebumps: Co-occurrence of Emotional Lacrimation and Emotional Piloerection Indicates a Psychophysiological Climax in Emotional Arousal.&rdquo;</a> <em>Frontiers in Psychology</em>, 7 February 2017.</li>
+<li><a name="wassiliwizky2017"></a>Wassiliwizky, Eugen et al. <a href="https://doi.org/10.3389/fpsyg.2017.00041">&ldquo;Tears Falling on Goosebumps: Co-occurrence of Emotional Lacrimation and Emotional Piloerection Indicates a Psychophysiological Climax in Emotional Arousal.&rdquo;</a> <em>Frontiers in Psychology</em>, 7 February 2017.</li> 
 </ul>
 
 
@@ -140,6 +142,10 @@ image:  /assets/img/natelistrom-logo-144.png
 <li><a name="kowal2011a"></a>Kowal, Mary Robinnette, Dan Wells, and Howard Tayler with Lou Anders. <a href="https://writingexcuses.com/2011/10/02/writing-excuses-6-18-hollywood-formula">&ldquo;6.18: The Hollywood Formula, with Lou Anders&rdquo;</a> Interview with Lou Anders. <em>Writing Excuses.</em> Podcast audio. Oct 2, 2011. (<a href='https://wetranscripts.livejournal.com/49969.html'>Transcript</a>).</li>
 
 <li><a name="kowal2014"></a>Kowal, Mary Robinnette, Dan Wells, and Howard Tayler with Lou Anders. <a href="https://writingexcuses.com/writing-excuses-9-32-adjusting-character-proactivity/">&ldquo;9.32: Adjusting Character Proactivity.&rdquo;</a> <em>Writing Excuses.</em> Podcast audio. Aug 5, 2014. (<a href='https://wetranscripts.livejournal.com/91225.html'>Transcript</a>).</li>
+
+<li><a name="kowal2015"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-10-36-how-does-context-shape-plot-twists/">&ldquo;10.36: How Does Context Shape Plot Twists?&rdquo;</a> <em>Writing Excuses.</em> Sep 6, 2015. (<a href='https://wetranscripts.livejournal.com/106519.html'>Transcript.</a>)</li>
+
+<li><a name="kowal2015a"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/writing-excuses-10-39-qa-on-plot-twists-with-kevin-j-anderson/">&ldquo;10.39: Q&A on Plot Twists with Kevin J. Anderson&rdquo;</a> <em>Writing Excuses.</em> Sep 27, 2015. (<a href='https://wetranscripts.livejournal.com/107299.html'>Transcript.</a>)</li>
 
 <li><a name="kowal2016a"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/11-14-the-element-of-adventure/">&ldquo;11.14: The Element of Adventure.&rdquo;</a> <em>Writing Excuses.</em> Apr 11, 2016. (<a href='https://wetranscripts.livejournal.com/114311.html'>Transcript.</a>)</li>
 
