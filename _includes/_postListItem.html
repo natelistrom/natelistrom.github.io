@@ -1,0 +1,21 @@
+<li>
+  <strong class="post-date">{{ post.date | date: "%b %-d" }}</strong> 
+  <div>
+    <strong class="post-title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | smartify }}</a></strong>
+    {% if post.description %}
+      <small class="post-description">{{ post.description | smartify }}</small>
+    {% endif %}
+    {% if post.reading_time %}
+      {% assign string = post.reading_time | split: " " %}
+      {% assign readingTimeNumber = string[0] %}
+      <div class="post-reading-time">
+        <small class="meta">{{ post.reading_time }}</small>
+        <div class="readingTimeVisual">
+          {% for i in (1..readingTimeNumber) %}
+            <span></span>
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</li>

@@ -18,7 +18,7 @@ layout: default
       <h2>Featured</h2>
       <ul class="post-list">
         {% for post in tag[1] %}
-          {% include _postList.html %}
+          {% include _postListItemFeatured.html %}
         {% endfor %}
       </ul>
     {%- endif -%}
@@ -36,7 +36,7 @@ layout: default
 
       <ul class="post-list">
         {%- for post in posts limit:5 -%}
-          {% include _postList.html %}
+          {% include _postListItem.html %}
         {%- endfor -%}
       </ul>
     </div>

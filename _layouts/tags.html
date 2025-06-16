@@ -4,13 +4,10 @@ layout: default
 <div class="post">
 <h1>Notes tagged &ldquo;{{ page.tag }}&rdquo;</h1>
 
-<hr />
+{% for post in site.tags[page.tag] %}
+  {% include _postList.html %}
+{% endfor %}
 
-<ul class="post-list">
-  {% for post in site.tags[page.tag] %}
-    {% include _postList.html %}
-  {% endfor %}
-</ul>
 </div>
 
 <p><a class="font-sans font-bold" href="/notes.html">Browse all notes &rarr;</a></p>

@@ -576,6 +576,82 @@ figcaption {
   }
 }
 
+.multicolumn {
+  display: flex;
+  width: 960px;
+  gap: 2rem;
+  .sidebar {
+    flex: 1 1 auto;
+    order: 2;
+    min-width: 24rem;
+  }
+  .main {
+    flex: 3 1 auto; 
+    width: 60%;
+  }
+}
+
+.post-list {
+  li {
+    margin: 0; 
+    padding: 0 0 20px 0; 
+    overflow: hidden;
+  }
+  .post-date {
+    width: 72px; 
+    float: left;
+    display: block;
+  }
+  li > div {
+    width: calc(100% - 72px); 
+    float: left;
+  }
+  .post-title, .post-description {
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
+    display: block;
+  }
+  .post-reading-time {
+    display: flex; 
+    align-items: center;
+    .meta {
+      display: block; 
+      margin-right: 8px;
+    }
+    .readingTimeVisual {
+      display: flex; 
+      flex-wrap: wrap; 
+      flex-direction: column; 
+      max-height: 8px; 
+      margin-top: 2px;
+      > span { // dots
+        display: inline-block; 
+        padding: 1px; 
+        background-color: #069; 
+        margin: 1px 2px 1px 0px; 
+        border-radius: 2px; 
+        width: 0px;
+      }
+    }
+  }
+}
+
+// Move later
+
+.sidebar .categories ul {
+  margin: 0;
+  padding: 0;
+  li {
+    list-style: none;
+  }
+  a .count {
+    margin-left: 4px; 
+    padding-left: 6px; 
+    border-left: 1px solid $colorBorderLight;
+  }
+}
+
 /* --- Utilities --- */
 
 .hidden {
@@ -654,7 +730,6 @@ svg.center {
 
   li {
     list-style: none;
-    margin-bottom: 1rem;
   }
 
   h3 {
@@ -676,6 +751,7 @@ svg.center {
   border-radius: $borderRadius * 8;
   display: inline-block;
   font-size: 85%;
+  line-height: 1.2rem;
   text-decoration: none;
   padding: 0 0.4rem;
 }
@@ -896,6 +972,26 @@ a.category:hover {
 
 @media screen and (max-width: 560px) {
   #content .book-blurb { flex-direction: column; }
+}
+
+@media screen and (max-width: 720px) {
+  .multicolumn {
+    flex-direction: column;
+    width: 100%;
+    .sidebar {
+      flex: 1 1 auto;
+      order: 1;
+      min-width: 100%
+    }
+    .main {
+      flex: 1 1 auto;
+      order: 2;
+      width: 100%;
+    }
+  }
+  .categories > ul > li {
+    display: inline-block;
+  }
 }
 
 #content a.button {

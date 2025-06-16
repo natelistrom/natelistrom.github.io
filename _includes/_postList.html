@@ -1,12 +1,9 @@
-<li>
-    <div>
-        <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | smartify }}
-            </a>
-        </h3>
-        <small>
-            {%- include _postMeta.html -%}
-        </small>
-    </div>
-</li>
+{% assign currentdate = post.date | date: "%Y" %}
+{% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 id="{{post.date | date: '%Y'}}">{{ currentdate }}</h2>
+    <ul class="post-list">
+    {% assign date = currentdate %}
+{% endif %}
+    {% include _postListItem.html %}
+{% if forloop.last %}</ul>{% endif %}
