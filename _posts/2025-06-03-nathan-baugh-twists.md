@@ -10,7 +10,7 @@ reading_time: 6 min
 
 ---
 
-I’m a big fan of [Nathan Baugh](https://nathanbaugh.substack.com). He's a writer and entrepreneur with an interest in storytelling similar to mine. He [posts occasionally on X](https://x.com/nathanbaugh27), has a [Substack newsletter](https://nathanbaugh.substack.com), co-hosts a [podcast with Nat Eliason](https://www.betweendraftspod.com), and runs an [online course for nonfiction storytelling](https://storytelling0to1.com).
+I’m a big fan of [Nathan Baugh](https://nathanbaugh.substack.com?r=25f7wd). He's a writer and entrepreneur with an interest in storytelling similar to mine. He [posts occasionally on X](https://x.com/nathanbaugh27), has a [Substack newsletter](https://nathanbaugh.substack.com?r=25f7wd), co-hosts a [podcast with Nat Eliason](https://www.betweendraftspod.com), and runs an [online course for nonfiction storytelling](https://storytelling0to1.com).
 
 He’s worth a follow if you’re into storytelling.
 
