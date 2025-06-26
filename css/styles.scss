@@ -637,6 +637,16 @@ figcaption {
   }
 }
 
+@media screen and (max-width: 480px) {
+  .post-list {
+    .post-date,
+    li > div {
+      float: none;
+      width: 100%;
+    }
+  }
+}
+
 // Move later
 
 .sidebar .categories ul {
