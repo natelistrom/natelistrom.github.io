@@ -3,7 +3,7 @@ layout: post
 title:  "Turning points are disasters and decisions"
 description: "A look at the 1998 romcom 'You've Got Mail' shows us that Dwight Swain's scenes and sequels are an ideal tool for crafting compelling turning points."
 date:   2025-07-01 12:00:00 -0400
-tags: [Story map, Turning points, Scene-sequel, You've Got Mail, Structure, Story structure, Story, Craft]
+tags: [Story map, Turning points, Scene-sequel, Youve Got Mail, Structure, Story structure, Story, Craft]
 maturity: note
 reading_time: 6 min
 ---
