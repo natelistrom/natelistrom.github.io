@@ -3,7 +3,7 @@ layout: post
 title:  "Storytelling with large-scale, complex bracketing structures"
 description: "Story structures like the Hero's Journey and seven-point plot structure can use bracketing to enhance their emotional and thematic resonance."
 date:   2023-01-20 12:00:00 -0400
-tags: [Story structure, Bracketing, MICE quotient, Story, Craft]
+tags: [Repetition, Story structure, Bracketing, MICE quotient, Story, Craft]
 maturity: note
 reading_time: 7 min
 read_next: "Creating story arcs with three-unit brackets"

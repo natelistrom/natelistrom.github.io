@@ -4,7 +4,7 @@ title:  "The map and the mountain: Fifteen core beats of story structure"
 description: "Story structure frameworks are like maps. They need interpretation. In this note, I briefly cover the framework I use and introduce a series on how it works."
 date:   2025-04-03 12:00:00 -0400
 image:  /assets/img/natelistrom-character-event-social.png
-tags: [Story map, Structure, Story structure, Story, Craft]
+tags: [Story map, Structure, Story structure, Story, Craft, Featured]
 maturity: note
 reading_time: 7 min
 read_next: "Use one scene-sequel cycle each act"

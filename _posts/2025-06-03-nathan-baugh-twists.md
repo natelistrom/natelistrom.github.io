@@ -6,6 +6,7 @@ date:   2025-06-03 12:00:00 -0400
 tags: [Payoff, Story structure, Story, Craft]
 maturity: scribble
 reading_time: 6 min
+read_next: "Red herring plotlines and satisfying plot twists"
 ---
 
 ---

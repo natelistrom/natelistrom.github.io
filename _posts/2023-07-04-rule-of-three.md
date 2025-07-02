@@ -3,7 +3,7 @@ layout: post
 title:  "Storytelling and the rule of three: trajectory and payoff"
 description: "The rule of three is a powerful storytelling mechanic that leverages human psychology to set up and pay off audience expectation in a satisfying way."
 date:   2023-07-04 12:00:00 -0400
-tags: [Story structure, Primitives, Story, Craft, Rule of three]
+tags: [Repetition, Story structure, Primitives, Story, Craft, Rule of three]
 maturity: note
 reading_time: 11 min
 read_next: "Creating meaning with two consecutive story units"

@@ -3,7 +3,7 @@ layout: post
 title:  "Thesis, antithesis, and synthesis"
 description: "Storytellers can use a thesis-antithesis-synthesis story structure to illustrate change and convey a story's thematic argument."
 date:   2023-09-21 12:00:00 -0400
-tags: [Story structure, Primitives, Theme, Story, Craft]
+tags: [Meaning, Story structure, Primitives, Theme, Story, Craft]
 maturity: note
 reading_time: 11 min
 read_next: "Storytelling and the rule of three: trajectory and payoff"

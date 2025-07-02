@@ -3,7 +3,7 @@ layout: post
 title:  "Storytelling, neuroscience, and the rule of three: prediction and reward"
 description: "The most satisfying execution of the rule of three hooks into your audience's brains' reward systems by perfectly fulfilling the promise of the setup, but doing it in a way that subverts their expectations."
 date:   2023-07-23 12:00:00 -0400
-tags: [Story structure, Primitives, Story, Craft, Neuroscience, Rule of three, Payoff]
+tags: [Repetition, Story structure, Primitives, Story, Craft, Neuroscience, Rule of three, Payoff]
 maturity: note
 reading_time: 9 min
 read_next: "Creating story arcs with three-unit brackets"

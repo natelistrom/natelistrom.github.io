@@ -3,7 +3,7 @@ layout: post
 title:  "Symbolism and irony in Mary Poppins"
 description: "The bank run sequence in Disney's Mary Poppins does a delighful job of illustrating how storytellers can use symbolism and irony to powerfully underscore theme."
 date:   2023-09-04 12:00:00 -0400
-tags: [Symbolism, Irony, Theme, Story, Craft]
+tags: [Symbolism, Irony, Theme, Story, Craft, Mary Poppins]
 maturity: scribble
 reading_time: 4 min
 read_next: "Sky lanterns and irony: How Disney's 'Tangled' amplifies impact"

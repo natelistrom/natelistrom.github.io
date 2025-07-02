@@ -6,6 +6,7 @@ date:   2025-05-06 12:00:00 -0400
 tags: [Scene-sequel, Story map, Structure, Story structure, Story, Craft, Star Wars]
 maturity: note
 reading_time: 10 min
+read_next: "Applying scene sequel format to story structure"
 ---
 
 ---
