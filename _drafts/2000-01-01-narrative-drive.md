@@ -2,7 +2,7 @@
 layout: post
 title:  "[DRAFT] Narrative drive is uncertainty that demands a resolution"
 description: "Words."
-date:   2055-01-01 12:00:00 -0400
+date:   2000-01-01 12:00:00 -0400
 tags: [Story, Craft, Neuroscience, Narrative drive]
 maturity: note
 reading_time: 3 min

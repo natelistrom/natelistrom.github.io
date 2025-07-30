@@ -2,7 +2,7 @@
 layout: post
 title:  "[DRAFT] Narrative drive runs on the brain's reward system"
 description: "Words."
-date:   2055-01-01 12:00:00 -0400
+date:   2000-01-01 12:00:00 -0400
 tags: [Narrative drive, Story, Craft, Neuroscience]
 maturity: note
 reading_time: 3 min

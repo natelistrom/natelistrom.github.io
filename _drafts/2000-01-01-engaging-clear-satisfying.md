@@ -2,7 +2,7 @@
 layout: post
 title:  "Clear, engaging, affecting, meaningful"
 description: "To satisfy a reader, a story must be 'ergonomic,' fitted to humans. You achieve this through various tools, which create understanding, interest, and emotion."
-date:   2055-01-01 12:00:00 -0400
+date:   2000-01-01 12:00:00 -0400
 tags: [Story, Craft]
 maturity: note
 reading_time: 8 min

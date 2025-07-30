@@ -2,7 +2,7 @@
 layout: post
 title:  "[DRAFT] McKee's gap, story hooks, and narrative drive"
 description: "The 'gap' between protagonist expectation vs. reality creates powerful and engaging narrative drive."
-date:   2055-01-01 12:00:00 -0400
+date:   2000-01-01 12:00:00 -0400
 tags: [Story structure, Primitives, Story, Craft, Neuroscience, Narrative drive]
 maturity: note
 reading_time: 3 min

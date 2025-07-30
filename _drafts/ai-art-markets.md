@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[DRAFT] AI art and the future of art jobs: what historical analogies from print, design, and ceramics can teach us"
-date:   2055-01-01 12:00:00 -0400
+date:   2000-01-01 12:00:00 -0400
 tags: [Technology, Marketplaces, AI]
 maturity: scribble
 reading_time: 5 min
