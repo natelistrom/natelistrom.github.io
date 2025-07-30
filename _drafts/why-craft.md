@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why study craft?"
+title:  "[DRAFT] Why study craft?"
 date:   2055-01-01 12:00:00 -0400
 tags: [Story, Craft]
 maturity: scribble

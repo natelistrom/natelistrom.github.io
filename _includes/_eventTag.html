@@ -1,0 +1,17 @@
+<script type="text/javascript">
+    const options = {
+        root: window,
+        rootMargin: "0px",
+        threshold: 1.0,
+    };
+
+    console.log(window.innerHeight);
+    const intersectionObserver = new IntersectionObserver((test, options) => {
+        // If intersectionRatio is 0, the target is out of view
+        // and we do not need to do anything.
+        if (test.intersectionRatio <= 0) return;
+        console.log("Here");
+    });
+    // start observing
+    intersectionObserver.observe(document.getElementById("test"), options);
+</script>
