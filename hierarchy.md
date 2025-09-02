@@ -43,10 +43,6 @@ To write with clarity means that your audience gets what you're trying to say. O
 
 ---
 
-{% include _subscribeMore.html %}
-
----
-
 ## Believable
 
 Believability is about trust. 
@@ -68,10 +64,6 @@ The key to believability is causality. Every event and character action should h
 
 ---
 
-{% include _subscribeMore.html %}
-
----
-
 ## Engaging
 
 Engagement is about attention. 
@@ -81,7 +73,7 @@ To be engaging means that your audience wants to find out what happens. This rel
 **Tips:**
 
 - Create "open loops," ask questions that your audience can't get out of the backs of their minds, make irresistible promises of things to come. 
-- Prove you can deliver. Close your loops and answer your questions in satisfying ways. This will tickle your audience's brains' reward circuits, making them eager for more. It's how hooks and zinger first lines work. (For examples, see [Bonus 3](#bonus-3-some-zinger-first-lines) below.) Strong hooks demonstrate, right from the start, that you can make good on your promises. (The reverse can also happen. If your early payoffs fizzle, your audience can become skeptical of your ability and lose interest.)
+- Prove you can deliver. Close your loops and answer your questions in satisfying ways. This will tickle your audience's brains' reward circuits, making them eager for more. It's how hooks and zinger first lines work. Strong hooks demonstrate, right from the start, that you can make good on your promises. (The reverse can also happen. If your early payoffs fizzle, your audience can become skeptical of your ability and lose interest.)
 - "Braid" your loops such that you open new loops before you close old ones. This keeps the momentum going.
 - Create a character who has a goal and faces direct, overwhelming opposition to that goal. 
 - The more concrete the goal and the more tangible the opposition, the better. Your geeky, ninety-five pound mathlete protagonist doesn't want love; he wants to pry the star cheerleader away from her chiseled, six-foot-ten quarterback boyfriend and take her to the prom. Let us know what success and failure look like.
@@ -106,10 +98,6 @@ To be engaging means that your audience wants to find out what happens. This rel
   Swain's progression of "goal, conflict, disaster, reaction, dilemma, decision" has been foundational to my thinking on structure and narrative drive.
 - [_Save the Cat_](https://www.goodreads.com/book/show/49464.Save_the_Cat), Blake Snyder  
   One of the easiest craft books to pick up and read. It's a great intro, though a bit overly prescriptive. The titular idea is a fantastic articulation of the need for (and one method of) getting your audience on your protagonist's side.
-
----
-
-{% include _subscribeMore.html %}
 
 ---
 
@@ -141,10 +129,6 @@ Storytelling is no different. People will forget if your story made sense or if 
 
 **Resources I recommend:**
 - [_The Emotional Craft of Fiction_](https://www.goodreads.com/book/show/28915986-the-emotional-craft-of-fiction?from_search=true&from_srp=true&qid=qpDa54ETUT&rank=1), Donald Maass
-
----
-
-{% include _subscribeMore.html %}
 
 ---
 
@@ -200,7 +184,7 @@ The great classics, ancient and modern, work because they give people feelings a
 
 ---
 
-{% include _subscribeMore.html %}
+{% include _subscribe.html %}
 
 ---
 
@@ -225,18 +209,3 @@ These are some of the resources I've found to be especially helpful, which aren'
   It takes different skills to create good stories vs. do good analysis of them. Both have their place.
 - [The right 15%]({% post_url 2024-03-02-the-right-15 %})  
   Find your purpose, then pursue it.
-
-## Bonus 3: some 'zinger' first lines
-
-> "It was a bright cold day in April, and the clocks were striking thirteen."  
-> — George Orwell, _1984_
-
-> "There once was a boy named Eustace Clarence Scrubb, and he almost deserved it."  
-> — C. S. Lewis, _The Voyage of the Dawn Treader_
-
-> "Kell wore a very peculiar coat.  
-> "It had neither one side, which would be conventional, nor two, which would be unexpected, but _several_, which was, of course, impossible."  
-> — V. E. Schwab, _A Darker Shade of Magic_
-
-> "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife."  
-> — Jane Austen, _Pride and Prejudice_
