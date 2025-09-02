@@ -36,7 +36,7 @@ Distinct turning points help your audience _see_ the story.
 
 If that's true, you and I benefit from making our turning points distinct. But how do we do this, exactly? 
 
-I'm not really sure, but I hypothesize there are three steps:
+I'm not confident in this claim, but I hypothesize there are three steps:
 
 1. **Identify the specific thing that changes (what)**  
   If you were in Professor Graham's class, this would be the moment when you decided which fruit to draw first in the still life. Maybe you pick the apple or the bunch of green grapes.  
@@ -49,7 +49,7 @@ I'm not really sure, but I hypothesize there are three steps:
 
 ## Step 1: identify the specific thing that changes
 
-The [Story Grid](https://storygrid.com) methodology is big on turning points. Shawn Coyne, author of _Story Grid_ claims that every scene should change in some way. <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Pages 203-204)</cite> The key moment at which things shift is the turning point.
+The [Story Grid](https://storygrid.com) methodology is big on turning points. Shawn Coyne, author of _Story Grid_ claims that every scene should make a change in some way. <cite>(<a href="/bibliography#coyne2015">Coyne</a>, Pages 203-204)</cite> The key moment at which things shift is the turning point.
 
 I believe that's true. And I believe it applies to larger units of story structure just as well as it does to indiviudal scenes.
 
