@@ -8,9 +8,13 @@ image:  /assets/img/natelistrom-logo-144.png
 
 ## Career
 
-Nate Listrom spent almost ten years as a [user experience designer at Microsoft](https://www.linkedin.com/in/natelistrom/). 
+Nate Listrom is a designer.
 
-Over the course of his time there, he's focused on building enterprise tools for developer teams. He's contributed to tooling for version control, compliance, and, most recently, software security. He enjoys learning about new, complex spaces and applying knowledge about how humans perceive and interact with objects and systems to help Microsoft's customers and users achieve their goals.
+He spent almost ten years [at Microsoft creating user experiences](https://www.linkedin.com/in/natelistrom/). 
+
+Over the course of his time there, he focused on building enterprise tools for developer teams. He contributed to tooling for version control, compliance, and, most recently, software security. 
+
+He enjoyed learning about new, complex spaces and applying knowledge about how humans perceive and interact with objects and systems to help Microsoft's customers achieve their goals.
 
 Before Microsoft, Nate worked in the nonprofit space doing print and web design, email marketing, and little bit of video.
 
