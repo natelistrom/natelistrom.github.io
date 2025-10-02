@@ -789,6 +789,71 @@ a.category:hover {
   position: absolute;
 }
 
+#subscribeForm {
+  label {
+    display: block;
+    margin-bottom: 0.25rem;
+    margin-top: 1rem;
+    color: $colorTextSecondary;
+  }
+  form div {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  input {
+    @include font-sans;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 1px solid $colorBorderLight;
+    border-radius: $borderRadius;
+    padding: 0.325rem 0.75rem;
+    @media screen and (max-width: 439px) {
+      margin-bottom: 0.5rem;
+    }
+    &:first-child {
+      @media screen and (min-width: 440px) {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+      }
+      flex-grow: 1;
+    }
+    &[type=submit] {
+      background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.75), rgba($colorPrimary, 1));
+      border: none;
+      @media screen and (min-width: 440px) {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+      }
+      color: $colorWhite;
+      font-weight: 600;
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      cursor: pointer;
+      &:hover {
+        background-color: rgba($colorPrimary, 0.9);
+      }
+    }
+  }
+}
+
+#subscribeBanner {
+  background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.075), rgba($colorPrimary, 0.15));
+  display: block;
+  padding: 1.75rem 1.5rem 2rem;
+  margin-bottom: 1.25rem;
+  form, h2, h4, p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 24rem;
+  }
+  h2, h4 {margin-top: 0; margin-bottom: 0;}
+  p {margin-top: 0; margin-bottom: 0.8rem;}
+}
+
+/* 
+
 #subscribe {
   background-image: linear-gradient(to bottom left, rgba($colorPrimary, 0.075), rgba($colorPrimary, 0.15));
   display: block;
@@ -848,6 +913,8 @@ a.category:hover {
     }
   }
 }
+
+*/
 
 /* --- Flyout --- */
 
