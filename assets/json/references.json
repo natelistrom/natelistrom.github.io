@@ -264,6 +264,18 @@
         "img":null
     },
     {
+        "id":"grahl2025",
+        "author":"Grahl, Tim",
+        "authorShort":"Grahl",
+        "date":"2025",
+        "title":"If you want the reader to care . . .",
+        "titleShort":"If you want . . .",
+        "titleLink":"https://x.com/storygrid/status/1958193308536115400",
+        "body":"&ldquo;If you want the reader to care, map your own life onto the writing. Here&rsquo;s how I do it: 1. Pick the <em>one</em> emotion I want the reader to feel. 2. Remember when I felt it. 3. Write until the reader feels it too. It&rsquo;s terrifying sometimes — but that&rsquo;s when the writing works.&rdquo; x.com, 20 August 2025, <a href='https://x.com/storygrid/status/1958193308536115400'>https://x.com/storygrid/status/1958193308536115400</a>",
+        "type":"web",
+        "img":null
+    },
+    {
         "id":"guyot2023",
         "author":"Guyot, Paul.",
         "authorShort":"Guyot",
@@ -285,6 +297,18 @@
         "titleLink":"https://youtu.be/besI6G4p4nw",
         "body":"<em>YouTube</em>, uploaded by Film Courage, Jan 10, 2017.",
         "type":"video",
+        "img":null
+    },
+    {
+        "id":"hall2019",
+        "author":"Hall, Kindra.",
+        "authorShort":"Hall",
+        "date":"2019",
+        "title":"Stories That Stick: How Storytelling Can Captivate Customers, Influence Audiences, and Transform Your Business.",
+        "titleShort":"Stories That Stick",
+        "titleLink":null,
+        "body":"Harper Collins. 2019. Kindle Edition.",
+        "type":"book",
         "img":null
     },
     {
@@ -609,6 +633,18 @@
         "titleLink":"https://doi.org/10.1152/physrev.00023.2014",
         "body":"<em>Psychological Reviews.</em>, Vol 95, Issue 3. 01 July 2015.",
         "type":"journal",
+        "img":null
+    },
+        {
+        "id":"segers2012",
+        "author":"Segers, Karel",
+        "authorShort":"Segers",
+        "date":"2012",
+        "title":"When a character asks a question . . .",
+        "titleShort":"When a character asks a question. . .",
+        "titleLink":"https://x.com/storygrid/status/1958193308536115400",
+        "body":"&ldquo;When a character asks a question, the worst next step is to answer it. #scriptchat #amwriting #screenwriting #tip&rdquo; x.com, 18 October 2012, <a href='https://x.com/ozzywood/status/258707095568908289'>https://x.com/ozzywood/status/258707095568908289</a>",
+        "type":"web",
         "img":null
     },
     {

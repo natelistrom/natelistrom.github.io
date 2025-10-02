@@ -47,6 +47,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="guyot2023"></a>Guyot, Paul. <em>Kill the Dog: The First Book on Screenwriting to Tell You the Truth.</em> Domestique, Inc. Los Angeles, CA, 2023. Kindle Edition.</li>
 
+<li><a name="hall2019"></a>Hall, Kindra. <em>Stories That Stick: How Storytelling Can Captivate Customers, Influence Audiences, and Transform Your Business.</em> Harper Collins. 2019. Kindle Edition.</li>
+
 <li><a name="mamet1998"></a>Mamet, David. <em>Three Uses of the Knife.</em> First Vintage Books Edition, 2000. Knopf Doubleday Publishing Group, 1998. Kindle Edition.</li>
 
 <li><a name="mckee2014"></a>McKee, Robert. <em>Story: Substance, Structure, Style, and the Principles of Screenwriting.</em> Meuthen, 2014.</li>
@@ -117,9 +119,15 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="coyneb"></a>Coyne, Shawn. <a href="https://storygrid.com/stories-are-about-change/">&ldquo;Stories Are About Change.&rdquo;</a> <em>The Story Grid</em>, published by Shawn Coyne.</li>
 
+<li><a name="grahl2025"></a>Grahl, Tim [@StoryGrid]. “If you want the reader to care, map your own life onto the writing. Here's how I do it: 1. Pick the <em>one</em> emotion I want the reader to feel. 2. Remember when I felt it. 3. Write until the reader feels it too. It's terrifying sometimes — but that's when the writing works.” x.com, 20 August 2025, <a href="https://x.com/storygrid/status/1958193308536115400">https://x.com/storygrid/status/1958193308536115400</a>
+</li>
+
 <li><a name="harmon2009"></a>Harmon, Dan. <a href="https://channel101.fandom.com/wiki/Story_Structure_104:_The_Juicy_Details">&ldquo;Story Structure 104: The Juicy Details.&rdquo;</a> <em>Channel 101 Wiki</em>, Fandom.com. 2009.</li>
 
 <li><a name="price2011"></a>Price, David A. <a href="https://www.davidaprice.com/pixar-story-rules">&ldquo;&lsquo;Pixar Story Rules&rsquo; (2011).&rdquo;</a> davidaprice.com published by David A. Price.</li>
+
+<li><a name="segers2012"></a>Segers, Karel [@ozzywood]. “When a character asks a question, the worst next step is to answer it. #scriptchat #amwriting #screenwriting #tip” x.com, 18 October 2012, <a href="https://x.com/ozzywood/status/258707095568908289">https://x.com/ozzywood/status/258707095568908289</a>
+</li>
 
 <li><a name="tangcay2019"></a>Tangcay, Jazz. <a href="https://www.awardsdaily.com/2019/01/29/inteview-ken-duncan-on-building-the-animation-for-mary-poppins-returns/">&ldquo;Interview: Ken Duncan On Building The Animation For Mary Poppins Returns.&rdquo;</a> <em>Awards Daily.</em> Jan 30, 2019.</li>
 
