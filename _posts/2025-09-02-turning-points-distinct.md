@@ -3,7 +3,7 @@ layout: post
 title:  "Good turning points are distinct"
 description: "To create good turning points, first identify specifically what changes and precisely when the change happens. Then write the turn in order to emphasise its distinctiveness."
 date:   2025-09-02 12:00:00 -0400
-tags: [Turning points, Structure, Story structure, Story, Craft]
+tags: [Story map, Turning points, Structure, Story structure, Story, Craft]
 maturity: scribble
 reading_time: 8 min
 ---
