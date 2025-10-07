@@ -6,6 +6,7 @@ date:   2025-10-07 12:00:00 -0400
 tags: [Story map, Turning points, Structure, Story structure, Story, Craft, Jurassic Park]
 maturity: note
 reading_time: 8 min
+read_next: "Turning points are disasters and decisions"
 ---
 
 ---
@@ -165,7 +166,7 @@ But once you have a chance to step back, look at your story, and really see what
 
 - What is the function of the turning point in the overall story?
 - How are you achieving that through the events, revelations, and decisions in those moments?
-- What level of external and internal intensity is appropriate? (For example, you'll generally want less external intensity at the Call to Adventure than at the Defining Moment.)
+- What level of external and internal intensity is appropriate? (For example, you'll generally want more external intensity at the Defining Moment than at the Call to Adventure.)
 - What setting, characters, dialogue, and other external and internal elements can you bring forward to support the turning point?
 - What opportunities could there be for symbolism, irony, and thematic resonance? Is there a callback that would make sense without being too "on the nose"? 
 
