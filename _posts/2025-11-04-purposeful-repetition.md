@@ -15,7 +15,7 @@ reading_time: 5 min
 
 <p class="dropCap">A few years ago, I was on a business trip. I worked in a building whose east side and west side were mirrors of each other. However, there was one rather significant difference: the men&rsquo;s restroom was on the left and and women&rsquo;s on the right on one side of the building, but on the other side, their locations were were reversed. You can probably see where this is going. More than once, I nearly walked into the wrong restroom.</p> 
 
-I have no idea what motivated the building's architecture. Perhaps the restrooms were mapped that way to make it easier to do the building's plumming. Repetition for engineering reasons like that (or even aesthetic considerations) can be good. 
+I have no idea what motivated the building's architecture. Perhaps the restrooms were mapped that way to make it easier to do the building's plumbing. Repetition for engineering reasons like that (or even aesthetic considerations) can be good. 
 
 However, that shouldn't come at the expense of functionality or comprehensibility. As a designer, I'm always concerned with how people will use objects, not just how to build them or how they look. We must craft experiences to <a href="{% post_url 2022-12-01-human-factors %}">fit the way human brains work</a>.
 
