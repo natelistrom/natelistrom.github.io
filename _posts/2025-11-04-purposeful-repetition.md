@@ -13,7 +13,11 @@ reading_time: 5 min
 
 ---
 
-<p class="dropCap">A few years ago, I was on a business trip. I worked in a building whose two sides were identical except for one important detail: the location of the men&rsquo;s and women&rsquo;s restrooms were reversed on one side of the building. More than once, I almost walked into the wrong restroom. Repetition for aesthetic reasons or engineering constraints can be good, but not at the expense of functionality or comprehensibility. Things should be designed to <a href="{% post_url 2022-12-01-human-factors %}">fit the way human brains work</a>.</p>
+<p class="dropCap">A few years ago, I was on a business trip. I worked in a building whose east side and west side were mirrors of each other. However, there was one rather significant difference: the men&rsquo;s restroom was on the left and and women&rsquo;s on the right on one side of the building, but on the other side, their locations were were reversed. You can probably see where this is going. More than once, I nearly walked into the wrong restroom.</p> 
+
+I have no idea what motivated the building's architecture. Perhaps the restrooms were mapped that way to make it easier to do the building's plumming. Repetition for engineering reasons like that (or even aesthetic considerations) can be good. 
+
+However, that shouldn't come at the expense of functionality or comprehensibility. As a designer, I'm always concerned with how people will use objects, not just how to build them or how they look. We must craft experiences to <a href="{% post_url 2022-12-01-human-factors %}">fit the way human brains work</a>.
 
 In the [previous note]({% post_url 2025-10-07-turning-points-variety %}), I argued that you should make your turning points distinct. If they look too much like each other, it can feel to your audience like they're wandering lost in a forest and keep coming across a suspiciously familiar-looking oak tree. "Are we going in circles?"
 
@@ -21,7 +25,7 @@ Your audience members need a way to orient themselves in your story, to have a s
 
 But there's an obvious counterargument to this claim: What about Harold Ramis' 1993 film, _Groundhog Day_, and other stories that hinge on repetition? Do these stories invalidate the hypothesis?
 
-I don't think so. And the answer for why not gives us some useful insight.
+I don't think so. And the answer for "Why not?" gives us some useful insight.
 
 ## It's all about meaning
 
