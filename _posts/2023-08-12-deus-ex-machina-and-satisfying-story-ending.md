@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deus ex machina and the soul of a satisfying story ending"
-description: "To be most satisfying, payoffs in stories should be set up physically, morally, and thematically."
+description: "To be most satisfying, payoffs in stories should be set up logically, morally, and thematically."
 date:   2023-08-12 12:00:00 -0400
 tags: [Story, Craft, Theme, Deus ex machina, Payoff]
 maturity: note
@@ -28,13 +28,13 @@ At its core, the problem with _deus ex machina_ is that the payoff isn't _earned
 
 I believe there are at least three different ways storytellers can earn a payoff that satisfies: 
 
-- physical motivation
+- logical motivation
 - moral motivation
 - thematic motivation
 
-## Physical motivation
+## Logical motivation
 
-Conventional wisdom states that cause and effect must be established _physically_ by the story events and decisions. 
+Conventional wisdom states that cause and effect must be established _logically_ by the story events and decisions. 
 
 For example, in Aesop's tale of [_The Boy Who Cried Wolf_](https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf), the boy lies repeatedly to his fellow townspeople, telling them that there is a wolf attacking the sheep when there is none. By the time the real wolf attack comes, the townspeople are so jaded and skeptical that they refuse to come to his aid. 
 
@@ -63,11 +63,11 @@ The story concludes with the couple having traded _social_ respect for something
 
 Although more complex than _The Boy Who Cried Wolf_, the cause-and-effect chain in _Pride and Prejudice_ is no less solid. The events in the payoff flow logically from what came before.
 
-This "physically motivated" cause and effect is the _safest_ form of setup. While it won't guarantee that your audience will be satisfied, it at least guarantees that your audience won't be <em>uns</em>atisfied by a failure to properly set up the payoff.
+This "logically motivated" cause and effect is the _safest_ form of setup. While it won't guarantee that your audience will be satisfied, it at least guarantees that your audience won't be <em>uns</em>atisfied by a failure to properly set up the payoff.
 
 ## Moral motivation
 
-Every once in a while, a story comes along where the payoff _isn't_ motivated by the story's physical setup and yet still feels satisfying. 
+Every once in a while, a story comes along where the payoff _isn't_ motivated by the story's logical setup and yet still feels satisfying. 
 
 In his landmark work _The Hero with a Thousand Faces_, writer and professor Joseph Campbell makes note of these seemingly serendipitous resolutions as they existed in myth and folktale:
 
@@ -79,7 +79,7 @@ Writer and producer Dan Harmon, when talking about story structure in the 1988 f
 
 #### Why it works
 
-I have a hypothesis about why these payoffs work. In many cases, these payoffs don't really "come out of nowhere." They _have_ been set up; but they've been set up _morally_, not physically. 
+I have a hypothesis about why these payoffs work. In many cases, these payoffs don't really "come out of nowhere." They _have_ been set up; but they've been set up _morally_, not logically. 
 
 Here's what I mean: Stories that resonate with deepest-held values tend to [elicit strong emotion]({% post_url 2022-04-05-pae-investment %}#a-theory-of-cognitive-hierarchy). We all have a sense of what _ought_ to happen, given the rules of the story world. When characters act in accordance with our values — Darcy's self-sacrificial choice to surrender his respectability, for example — we feel an innate desire to see those actions vindicated. When the payoff comes, it's satisfying because it validates that desire.
 
@@ -89,13 +89,13 @@ In the story of _The Boy Who Cried Wolf_, for example, even though the events of
 
 #### Example: tyrranousaurus rescue
 
-While there's a moral throughline in _The Boy Who Cried Wolf_, the story does also have a strong physical setup. To better illustrate how moral setup and payoff works, let's look at an example of a popular story that relies much more heavily on moral setup than physical: Director Steven Spielberg's 1993 film, _Jurassic Park_.
+While there's a moral throughline in _The Boy Who Cried Wolf_, the story does also have a strong logical setup. To better illustrate how moral setup and payoff works, let's look at an example of a popular story that relies much more heavily on moral setup than logical: Director Steven Spielberg's 1993 film, _Jurassic Park_.
 
 In the climax of the movie, Dr. Grant and Dr. Sattler and the kids are cornered by a couple of ferocious velociraptors. There is no way out, and they are defenseless. Dr. Grant steps forward, placing himself bodily between the raptors and the kids. 
 
 Then suddenly, a tyrranosaurus rex appears from off screen. It lunges forward, attacking the velociraptors. While the dinosaurs are distracted fighting one another, Grant, Sattler, and the kids escape. 
 
-The appearance of the tyrranosaurus rex is surprising. It's only very tenuously motivated by the physical story logic. The last time anyone saw the tyrranosaurus, it was running across the plains on the _other_ side of the electric barrier (which was off at that moment but was turned on soon after). The tyrranosaurus would have little opportunity and even less reason to go to the park center where the final showdown takes place.
+The appearance of the tyrranosaurus rex is surprising. It's only very tenuously motivated by the story logic. The last time anyone saw the tyrranosaurus, it was running across the plains on the _other_ side of the electric barrier (which was off at that moment but was turned on soon after). The tyrranosaurus would have little opportunity and even less reason to go to the park center where the final showdown takes place.
 
 Yet, in the moment, the ending feels satisfying. <sup class="aside">A</sup>
 
@@ -105,15 +105,15 @@ A. Part of this could be due to the fact that, beyond the movie, the tyrranosaur
 
 Dr. Grant merited the ending. Over the course of the movie, he demonstrated self-sacrifice, stepping in to save the children and guide them back to safety. In the climactic moment, placing himself between the kids and danger, his actions underscore this. He has earned the rescue, and the story world obliges.
 
-This isn't sheer coincidence. The payoff _is_ motivated, but it's earned morally, rather than by physical setup.
+This isn't sheer coincidence. The payoff _is_ motivated, but it's earned morally, rather than by logical setup.
 
 #### Strong in the moment but weaker on reflection
 
 Morally motivated payoffs can be extremely satisfying in the moment — especially if they hook into deeply held, universal values like the vindication of self sacrifice. 
 
-However, as audiences have the chance to think about it later and consider the physical story logic, payoffs that are only supported by a moral throughline may become less satisfying. This is, perhaps, a weakness of _Jurassic Park_. 
+However, as audiences have the chance to think about it later and consider the story logic, payoffs that are only supported by a moral throughline may become less satisfying. This is, perhaps, a weakness of _Jurassic Park_. 
 
-Depending on your audience's tastes, a morally-motivated payoff might need to be supported by additional setup, like physical story logic.
+Depending on your audience's tastes, a morally-motivated payoff might need to be supported by additional setup.
 
 ## Thematic motivation
 
@@ -121,7 +121,7 @@ Lastly, thematic resonance can make a payoff satisfying.
 
 Like moral setup, thematic setup can result in a payoff that seems coincidental but feels satisfying. Also like moral setup, if the payoff is too coincidental, it can leave audiences unsatisfied later, once they've had a chance to think about it.
 
-But, when properly supported by physical or moral setup, thematic setup and payoff can elevate a story and deepen the sense of satisfaction an audience feels.
+But, when properly supported by logical or moral setup, thematic setup and payoff can elevate a story and deepen the sense of satisfaction an audience feels.
 
 In the story of _The Boy Who Cried Wolf_, there's a quite obvious theme at play: If you come to be known as a liar, people will disbelieve you even when you tell the truth. Since the fable is meant to teach children, it's appropriate that the "moral of the story" be so plain and straightforward. Also because of the story's simplicity, the same story events support both the thematic and moral throughlines.
 
@@ -145,6 +145,6 @@ Stories like _The Boy Who Cried Wolf_ and _Pride and Prejudice_ serve as great e
 
 In scene-level work, small stories, and small setup and payoff arcs within larger stories, it may not be possible to establish all three layers. There may not be enough story material to support them. 
 
-But for larger stories and larger arcs within stories, audiences can benefit from the work storytellers do to motivate their payoffs with all three: the physical pieces they set in play, the moral choices their characters make (and the attendant consequences), and the thematic motifs and elements that undergird them.
+But for larger stories and larger arcs within stories, audiences can benefit from the work storytellers do to motivate their payoffs with all three: the logical elements they set in play, the moral choices their characters make (and the attendant consequences), and the thematic motifs and elements that undergird them.
 
 The very opposite of _deus ex machina_, using these elements to set up and pay off your story arcs will help make your story rich and satisfying.
