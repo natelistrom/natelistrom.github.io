@@ -6,6 +6,7 @@ date:   2026-01-06 12:00:00 -0400
 tags: [Material, Story, Craft]
 maturity: Note
 reading_time: 5 min
+read_next: "Put your audience on the hill"
 ---
 
 ![An illustration of hands trimming the foot of a small clay bowl](/assets/img/natelistrom-trim.png)

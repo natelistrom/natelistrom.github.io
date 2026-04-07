@@ -6,6 +6,7 @@ date:   2026-03-03 12:00:00 -0400
 tags: [Material, Story, Craft]
 maturity: Note
 reading_time: 10 min
+read_next: "Work with the grain"
 ---
 
 ![An illustration of a pyramid with five layers](/assets/img/natelistrom-pyramid2.png)

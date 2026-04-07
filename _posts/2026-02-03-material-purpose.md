@@ -6,6 +6,7 @@ date:   2026-02-03 12:00:00 -0400
 tags: [Material, Story, Craft]
 maturity: Note
 reading_time: 10 min
+read_next: "Clear, believable, engaging, affecting, meaningful"
 ---
 
 ![An illustration of a pair of running shoes](/assets/img/natelistrom-shoes.png)
