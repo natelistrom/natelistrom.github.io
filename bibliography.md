@@ -159,6 +159,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="kowal2016"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/11-32-the-element-of-humor/">&ldquo;11.32: The Element of Humor.&rdquo;</a> <em>Writing Excuses.</em> Aug 7, 2016. (<a href='https://wetranscripts.livejournal.com/118930.html'>Transcript.</a>)</li>
 
+<li><a name="drake2017"></a>Drake, Piper J., Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/12-26-qa-on-outlining-and-discovery-writing/">&ldquo;12.26: Q&A on Outlining and Discovery Writing.&rdquo;</a> <em>Writing Excuses</em>, published 26 June, 2017. (<a href='https://writingexcuses.com/12-26-qa-on-outlining-and-discovery-writing/'>Transcript.</a>)</li>
+
 <li><a name="kowal2020"></a>Kowal, Mary Robinnette, Brandon Sanderson, Howard Tayler, and Dan Wells. <a href="https://writingexcuses.com/15-25-using-the-mice-quotient-for-conflict/">&ldquo;15.25: Using the MICE Quotient for Conflict.&rdquo;</a> <em>Writing Excuses.</em> Jun 25, 2020. (<a href='https://wetranscripts.dreamwidth.org/'>Transcript.</a>)</li>
 
 <li><a name="mazin2019"></a>Mazin, Craig. <a href="https://johnaugust.com/2019/how-to-write-a-movie">&ldquo;How to Write a Movie.&rdquo;</a> <em>Scriptnotes</em>, published 4 June 2019. (<a href='https://johnaugust.com/2019/scriptnotes-ep-403-how-to-write-a-movie-transcript'>Transcript.</a>)</li>
