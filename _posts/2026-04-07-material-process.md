@@ -46,7 +46,7 @@ B. I know this sounds contradictory, but I promise it isn&rsquo;t. The differenc
 
 Tools are useful. Some approaches are objectively better, even if they feel unnatural at first. You'd be a fool to stubbornly keep trying to drive in nails with your bare hands after someone offers you a hammer.
 
-When I started working with ceramics, my instructors showed me how to remove air bubbles in the raw clay by kneading it like bread dough. This is a process called "wedging." Wedging is important because, when you fire clay, the heat of the kiln will cause any trapped air to expand. If the air doesn't have a way out, it can shatter a pot violently. That may damage both the offending vessel and also anything else nearby. 
+When I started working with ceramics, my instructors showed me how to remove air bubbles in the raw clay by kneading it like bread dough. This is a process called "wedging." Wedging is important because, when you fire clay, the heat of the kiln will cause any trapped air to expand creating something like a little, molten balloon. If the air doesn't have a proper way out, the balloon can burst violently. That may damage both the offending vessel and also anything else nearby. 
 
 Wedging is the first step in the process, but its effect doesn't become evident until the end. It would be very difficult for a learner to discover this technique purely by trial and error. You benefit from having someone tell you about it.
 
@@ -89,3 +89,9 @@ I hope these ideas have been as enjoyable for you think about as they have been 
 And, if we're both very fortunate indeed, it's hopefully equipped you with one or two things you can use occasionally when you sit down to your craft.
 
 It's to that end that I now say: onward!
+
+---
+
+Change log
+
+April 11, 2026 - Updated clay wedging section to use the metaphor of a molten balloon.
