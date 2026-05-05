@@ -18,7 +18,9 @@ In giving his video a splashy, attention-grabbing title, Tim has extended an inv
 
 So here's the plan: In the series of notes that follow, I'll use the ["audience hierarchy of needs"]({% post_url 2024-10-01-five-bucket-theory %}) to analyze Tim's story and answer his question. We'll look at what works and what could be better. And, we'll talk about how analyzing the story around those five key layers of perception helps us understand _why_ things work or don't and suggests ideas for what to do next.
 
-If all turns out well, this will be a tool you can use you when you work on your own revisions. It's okay to hand someone a screwdriver and tell them to drive in some screws. It's even better if you demonstrate how to do it. This is my attempt to do that.
+If all turns out well, this will be a tool you can use you when you work on your own revisions. 
+
+It's okay to hand someone a screwdriver and tell them to drive in some screws. It's even better if you demonstrate how to do it. This is my attempt to do that.
 
 ## Giving credit and showing receipts
 
@@ -28,7 +30,7 @@ Writing takes effort. Writing well takes, at the very least, consistent effort. 
 
 I also think it’s important that those who teach a craft take time to demonstrate how they apply their ideas themselves. 
 
-This isn’t about being perfect. The few stories of my own, which I've [shared on my site]({% link stories.md %}), are far from exceptional. (And even with objectively good stories, individual audience member tastes vary quite a bit.) Furthermore, [the skills to write a great story and teach storytelling craft are different]({% post_url 2024-08-06-analysis-synthesis %}). An excellent teacher may not be a particularly excellent storyteller and _vice versa_.
+This isn’t about being perfect. The few stories of my own, which I've [shared on my site]({% link stories.md %}), are far from exceptional. [It takes different skills]({% post_url 2024-08-06-analysis-synthesis %}) to write a great story versus teach storytelling craft. (An excellent teacher may not be a particularly excellent storyteller and _vice versa_.) And even with objectively good stories, individual audience member tastes vary quite a bit.
 
 But, when a teacher shares their work, it gives you a frame of reference. It helps you put their insights in perspective. You can start to see, for example, which of their recommendations come from their own tastes and preferences. And that can help you decide which tips to follow and which ones to leave to the side.
 
