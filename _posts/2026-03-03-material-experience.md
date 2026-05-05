@@ -3,7 +3,7 @@ layout: post
 title:  "Clear, believable, engaging, affecting, meaningful"
 description: "Stories communicate through experience, and the quality of that experience depends on five key factors."
 date:   2026-03-03 12:00:00 -0400
-tags: [Material, Story, Craft]
+tags: [Material, Hierarchy, Story, Craft]
 maturity: Note
 reading_time: 10 min
 read_next: "Work with the grain"

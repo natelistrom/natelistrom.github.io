@@ -4,7 +4,7 @@ title:  "A five-bucket theory of story"
 description: "Stories that 'work' are clear, believable, engaging, affecting, and meaningful."
 date:   2024-10-01 12:00:00 -0400
 image:  /assets/img/five-buckets-puzzle.png
-tags: [Story, Craft, System]
+tags: [Hierarchy, Story, Craft, System]
 maturity: scribble
 reading_time: 7 min
 read_next: "Design your story to fit humans"

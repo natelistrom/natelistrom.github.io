@@ -3,7 +3,7 @@ layout: post
 title:  "Critiquing Tim Grahl's 'No Doubt' (Part 1)"
 description: "Tim's invited feedback. Let's take him up on it."
 date:   2026-05-05 12:00:00 -0400
-tags: [No Doubt, Critique, Story, Craft]
+tags: [No Doubt, Critique, Hierarchy, Story, Craft,]
 maturity: Scribble
 reading_time: 4 min
 --- 
