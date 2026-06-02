@@ -6,6 +6,7 @@ date:   2026-05-05 12:00:00 -0400
 tags: [No Doubt, Critique, Hierarchy, Story, Craft,]
 maturity: Scribble
 reading_time: 4 min
+read_next: "Orient your audience: Critiquing Tim Grahl's 'No Doubt' (Part 2)"
 --- 
 
 ---
