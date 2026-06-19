@@ -12,7 +12,7 @@ reading_time: 9 min
 
 <p class="dropCap">I must have been seven or, perhaps, eight years old. We were shopping in a department store, and my parents were looking at clothes on a rack. At the end of the rack, against the wall, stood one of those three-panel, wrap around mirrors. I&rsquo;d never seen one before. Like a moth first discovering the irresistibility of fluorescent lights at night, I became entranced.</p> 
 
-I stepped up into the booth, taken by the novelty of viewing myself from multiple angles. I probably made faces and silly poses. This went on for a few minutes.
+I stepped up into the booth, taken by the novelty of viewing myself from multiple angles. I probably made faces and silly poses. This nonsense went on for a few minutes.
 
 Eventually, the excitement wore off. I turned around, expecting to see my family. 
 
