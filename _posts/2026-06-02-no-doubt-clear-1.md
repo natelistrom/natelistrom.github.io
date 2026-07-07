@@ -40,6 +40,13 @@ In the [first note]({% post_url 2026-05-05-no-doubt-intro %}), we established ou
 
 In this note, we'll begin to dive into the weeds on clarity. What does Tim's story do well and poorly when it comes to making it easy to understand what's happening and why?
 
+<aside>
+<strong>NOTE</strong><br>
+For clarity, I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
+</aside>
+
+Here's the series so far:
+
 1. [Intro]({% post_url 2026-05-05-no-doubt-intro %})
 2. **Clear** &larr; _Where we are currently_
 3. Believable

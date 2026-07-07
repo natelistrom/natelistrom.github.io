@@ -13,7 +13,12 @@ read_next: "Orient your audience: Critiquing Tim Grahl's 'No Doubt' (Part 2)"
 
 <p class="dropCap">December 2024, <a href="https://www.goodreads.com/author/list/7159636.Tim_Grahl">writer</a> and <a href="https://www.storygrid.com">Story Grid</a> CEO Tim Grahl published a YouTube video titled, <a href="https://www.youtube.com/watch?v=C1LQEplYNVU">&rdquo;I wrote a short story... does it SUCK?&ldquo;</a> He also published the <a href="https://notion.storygrid.com/No-Doubt-1519fc6fa4d18031988dd6a9ff2c3910">short story itself</a> and a companion <a href="https://notion.storygrid.com/No-Doubt-ANNOTATED-1529fc6fa4d1800ca1c3dbbf5c7b2e99">annotated analysis piece</a>.</p>
 
-Now, these are marketing. Tim's using them to promote his [mentorship program](https://wm.storygrid.com/?_gl=1*14qu77a*_gcl_au*Mzk2MjAzOTg3LjE3NzcwMjU1MDU.), which helps writers improve their craft. But they're also a very useful set of resources for people like you and me who are learning to tell stories. (Thank you, Tim.)
+Now, these are marketing. Tim's using them to promote his mentorship program, which aims to help writers improve their craft. But they're also a very useful set of resources for people like you and me who are learning to tell stories. (Thank you, Tim.)
+
+<aside>
+<strong>NOTE</strong><br>
+For clarity, I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
+</aside>
 
 In giving his video a splashy, attention-grabbing title, Tim has extended an invitation. And, as an exercise for you and me to learn something, I figure I'll take him up on it.
 
