@@ -6,6 +6,7 @@ date:   2026-06-02 12:00:00 -0400
 tags: [No Doubt, Clear, Critique, Hierarchy, Story, Craft]
 maturity: Scribble
 reading_time: 9 min
+read_next:  "Don't pull your punches: Critiquing Tim Grahl's 'No Doubt' (Part 3)"
 --- 
 
 ---
