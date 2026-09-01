@@ -49,6 +49,8 @@ image:  /assets/img/natelistrom-logo-144.png
 
 <li><a name="hall2019"></a>Hall, Kindra. <em>Stories That Stick: How Storytelling Can Captivate Customers, Influence Audiences, and Transform Your Business.</em> Harper Collins. 2019. Kindle Edition.</li>
 
+<li><a name="maeda2006"></a>Maeda, John. <em>The Laws of Simplicity.</em> MIT Press Cambridge, Massachusetts, 2006. Kindle Edition.</li>
+
 <li><a name="mamet1998"></a>Mamet, David. <em>Three Uses of the Knife.</em> First Vintage Books Edition, 2000. Knopf Doubleday Publishing Group, 1998. Kindle Edition.</li>
 
 <li><a name="mckee2014"></a>McKee, Robert. <em>Story: Substance, Structure, Style, and the Principles of Screenwriting.</em> Meuthen, 2014.</li>
@@ -171,6 +173,8 @@ image:  /assets/img/natelistrom-logo-144.png
 ## Videos
 <ul>
 <li><a name="glass2009"></a>Glass, Ira. <a href="https://www.thisamericanlife.org/extras/ira-glass-on-storytelling">&ldquo;Ira Glass on Storytelling 1.&rdquo;</a> July 2, 2009. Interview with Current TV.</li>
+
+<li><a name="grahl2024"></a>Grahl, Tim. <a href="https://www.youtube.com/watch?v=C1LQEplYNVU">&ldquo;I wrote a short story . . . does it SUCK?&rdquo;</a> <em>YouTube</em>, uploaded by StoryGrid, 6 December 2024.</li>
 
 <li><a name="hague2017"></a>Hague, Michael. <a href="https://youtu.be/besI6G4p4nw">&ldquo;Screenwriting Plot Structure Masterclass.&rdquo;</a> <em>YouTube</em>, uploaded by Film Courage, Jan 10, 2017.</li>
 

@@ -276,6 +276,18 @@
         "img":null
     },
     {
+        "id":"grahl2024",
+        "author":"Grahl, Tim",
+        "authorShort":"Grahl",
+        "date":"2024",
+        "title":"I wrote a short story . . . does it SUCK?",
+        "titleShort":"I wrote a short story",
+        "titleLink":"https://www.youtube.com/watch?v=C1LQEplYNVU",
+        "body":"<em>YouTube</em>, uploaded by StoryGrid, 6 December 2024.",
+        "type":"video",
+        "img":null
+    },
+    {
         "id":"grahl2025",
         "author":"Grahl, Tim",
         "authorShort":"Grahl",
@@ -429,6 +441,18 @@
         "titleLink":"https://writingexcuses.com/writing-excuses-10-39-qa-on-plot-twists-with-kevin-j-anderson/",
         "body":"<em>Writing Excuses.</em> Published September 27, 2015. (<a href='https://wetranscripts.livejournal.com/107299.html'>Transcript.</a>)",
         "type":"podcast",
+        "img":null
+    },
+    {
+        "id":"maeda2006",
+        "author":"Maeda, John.",
+        "authorShort":"Maeda",
+        "date":"2006",
+        "title":"The Laws of Simplicity.",
+        "titleShort":"Simplicity",
+        "titleLink":null,
+        "body":"MIT Press Cambridge, Massachusetts, 2006. Kindle Edition.",
+        "type":"book",
         "img":null
     },
     {
