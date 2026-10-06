@@ -43,7 +43,7 @@ In this note, we'll begin to dive into the weeds on clarity. What does Tim's sto
 
 <aside>
 <strong>NOTE</strong><br>
-For clarity, I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
+I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
 </aside>
 
 Here's the series so far:

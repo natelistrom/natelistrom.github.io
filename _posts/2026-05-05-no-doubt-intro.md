@@ -17,7 +17,7 @@ Now, these are marketing. Tim's using them to promote his mentorship program, wh
 
 <aside>
 <strong>NOTE</strong><br>
-For clarity, I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
+I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
 </aside>
 
 In giving his video a splashy, attention-grabbing title, Tim has extended an invitation. And, as an exercise for you and me to learn something, I figure I'll take him up on it.

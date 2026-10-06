@@ -56,13 +56,13 @@ Now, we're exploring clarity. What does Tim's story do well and poorly when it c
 
 <aside>
 <strong>NOTE</strong><br>
-For clarity, I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
+I don&rsquo;t have any relationship with Tim or Story Grid. With this series, my purpose is solely to use Tim&rsquo;s short story as a tool for talking about storytelling craft concepts. As a consumer, you should always be wise with where you invest your time and money.
 </aside>
 
 1. [Intro]({% post_url 2026-05-05-no-doubt-intro %})
-2. [Clear: orient your audience]({% post_url 2026-06-02-no-doubt-clear-1 %})
-3. [Clear: don't pull your punches]({% post_url 2026-07-07-no-doubt-clear-2 %})
-2. **Clear: it's gotta be on the page** &larr; _Where we are currently_
+2. [Clear: Orient your audience]({% post_url 2026-06-02-no-doubt-clear-1 %})
+3. [Clear: Don't pull your punches]({% post_url 2026-07-07-no-doubt-clear-2 %})
+2. **Clear: It's gotta be on the page** &larr; _Where we are currently_
 3. Believable
 4. Engaging
 5. Affecting
