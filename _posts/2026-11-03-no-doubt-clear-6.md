@@ -99,7 +99,7 @@ It just takes a lot of skill and effort to manage that complexity well.
 
 In the end, the question is always the same. What is the story you're trying to tell? What is its heart, its essence? That must be your guide.
 
-After discovering what's essential (which is, of course, no small feat), what you must do is discover out how to most clearly deliver that intention.
+After discovering what's essential (which is, of course, no small feat), what you must do is seek out how to most clearly deliver that intention.
 
 To do a minor disservice to the words of the estimable Sir Arthur Conan Doyle: when you have eliminated every other possibility, whatever remains — however simple or complex — must be the answer.
 
@@ -107,3 +107,9 @@ I leave you with this final observation from designer John Maeda, one which has 
 
 > "Simplicity is about subtracting the obvious, and adding the meaningful."  
 > — John Maeda <cite>(<a href="/bibliography#maeda2006">Maeda</a>, Page 89)</cite> 
+
+---
+
+Change log
+
+Nov 5, 2026 - Fix typo
